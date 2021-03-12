@@ -32,15 +32,15 @@ and its processes of thought and feeling are tethered to reality by the body. Th
 mechanisms that are at the root of these processes are the lens through which humanity experiences reality.
 Human nature, therefore, is a reflection of the echo. 
 
-Human nature is a duality and balance is the ideal.
-*Understand/Communicate
-  -To understand oneself, others, or to be understood is a fundamental need. Communication is the means for understanding.
--Know/feel
-  -To know is to have experienced something real. To feel is to believe when knowing is not possible.
--Order/harmony
-  -Order is the need to organize and solve. Harmony is order with good intent.
--Love/Desire
-  -Love is trust when understanding is not possible, because the need to understand and be understood is undeniable.
+**Human nature is a duality and balance is the ideal.**
+* Understand/Communicate
+  * To understand oneself, others, or to be understood is a fundamental need. Communication is the means for understanding.
+* Know/feel
+  * To know is to have experienced something real. To feel is to believe when knowing is not possible.
+* Order/harmony
+  * Order is the need to organize and solve. Harmony is order with good intent.
+* Love/Desire
+  * Love is trust when understanding is not possible, because the need to understand and be understood is undeniable.
 
 # AN EXTERNAL FOUNDATION FOR KNOWLEDGE, OR "I"
 
