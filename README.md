@@ -33,7 +33,7 @@ mechanisms that are at the root of these processes are the lens through which hu
 Human nature, therefore, is a reflection of the echo. 
 
 Human nature is a duality and balance is the ideal.
--Understand/Communicate
+*Understand/Communicate
   -To understand oneself, others, or to be understood is a fundamental need. Communication is the means for understanding.
 -Know/feel
   -To know is to have experienced something real. To feel is to believe when knowing is not possible.
