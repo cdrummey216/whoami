@@ -50,3 +50,10 @@ By asking "who am I?", one has simultaneously taken an action that defines "I" a
 defined as "I am the one who asked" and "I" must exist because it can be defined.
 
 Asking "who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (external identity) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
+
+# VARIABLE ANSWER
+A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existance of "I" (*you*). In effect, this means that any answer to the question "Who are you?" is acceptable because the choice in response is dependent upon the responder.
+
+"Who am I?" and "Who are you?" are self-similiar in that the former looks inward while the latter looks outward. Both questions expect a variable answer.
+
+
