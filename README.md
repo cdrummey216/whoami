@@ -56,7 +56,10 @@ to this question is "I am," when "I" is understood to be the entirety of the ide
 
 Variable answers occur in pairs. For example, "I am a man" shares equal value, in context, to "I am not a man."
 
-
+Variable answers are self-similar. At any scale, a variable answer is a representation of the identity. The initiator and
+generator concept from fractals is useful to describe variable answers. The initiator, or starting shape, is "I am" which
+represents the entirety of the identity. The generator, or scaled copy of the initiator, is the following descriptors or 
+definitions that are appropriate given the context of the question.
 
 
 
