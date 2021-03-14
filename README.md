@@ -54,6 +54,13 @@ Asking "who am I?" is a action that can be observed. Due to this fact, I can sig
 # VARIABLE ANSWER
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existance of "I" (*you*). In effect, this means that any answer to the question "Who are you?" is acceptable because the choice in response is dependent upon the responder.
 
-"Who am I?" and "Who are you?" are self-similiar in that the former looks inward while the latter looks outward. Both questions expect a variable answer.
+"Who are you?" is a question that acknowledges the existance of another "I". A universal response to this question is 
+"I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response 
+to this question is "I am," when "I" is understood to be the entirety of the identity.
+
+Variable answers occur in pairs. For example, "I am a man" shares equal value, in context, to "I am not a man."
+
+
+
 
 
