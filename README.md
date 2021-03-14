@@ -10,7 +10,7 @@ over time.
 Identifying as ***the one who asked*** positions the "asker" as an active participant in the curation of their identity. From this perspective,
 the individual has the ability to accept or reject a given answer at any time. If a routine of asking and answering "who am i?" is 
 established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities.
-When combined with a free will, this ability allows the "asker" to decide who they are, in thoughts and actions.
+When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
 # AN ENGINE FOR IDENTITY 
 This question, as a routine, is the engine for identity. ***The one who asks*** is seeking an answer and therefore possesses the power to accept or reject an answer. The routine becomes a reference point on which one can build their active identification, or, accummulate the things that they identify with.
@@ -34,13 +34,9 @@ Human nature, therefore, is a reflection of the echo.
 
 **Human nature is a duality and balance is the ideal.**
 * Understand/Communicate
-  * To understand oneself, others, or to be understood is a fundamental need. Communication is the means for understanding.
 * Know/feel
-  * To know is to have experienced something real. To feel is to believe when knowing is not possible.
 * Order/harmony
-  * Order is the need to organize and solve. Harmony is order with good intent.
 * Love/Desire
-  * Love is trust when understanding is not possible, because the need to understand and be understood is undeniable.
 
 # AN EXTERNAL FOUNDATION FOR KNOWLEDGE, OR "I"
 
