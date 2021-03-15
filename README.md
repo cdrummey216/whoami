@@ -61,14 +61,12 @@ Each identity can be regarded as a fractal set, or a never ending pattern of var
 
 # GOLDEN RATIO OF IDENTIFICATION
 The Golden Ratio (ϕ): 
--a+b/a = a/b = ϕ
--a+b is to a as a is to b.
+* a+b/a = a/b = ϕ
+* a+b is to a as a is to b.
 
-a = I am (existence)
-b = I am *x* (variable answer to define a)
-a+b = Identity (existence AND definition)
+* a = I am (existence)
+* b = I am *x* (variable answer to define a)
+* a+b = Identity (existence AND definition)
 
-Identity is to existence as existence is to it's given definition.
+* Identity is to existence as existence is to it's given definition.
 
-# IDENTIFICATION AS A JULIA SET
- //c = 1 - ϕ
