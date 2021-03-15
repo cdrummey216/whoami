@@ -52,7 +52,7 @@ A variable answer is used to represent a response to a question that is infinite
 
 "Who are you?" is also a question that acknowledges the existance of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
 
-Variable answers occur in pairs. For example, "I am a man" shares equal value, in context, to "I am not a man."
+Variable answers occur in inverse pairs. For example, "I am a man" shares equal value, in context, to "I am not a man."
 
 A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity. The initiator and generator concept from fractals is useful to describe variable answers. The initiator, or starting shape, is "I am" which represents the entirety of the identity. The generator, or scaled copy of the initiator, is the following descriptors or definitions that are appropriate given the context of the question.
 
