@@ -48,18 +48,13 @@ defined as "I am the one who asked" and "I" must exist because it can be defined
 Asking "who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (external identity) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
 # VARIABLE ANSWER
-A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existance of "I" (*you*). In effect, this means that any answer to the question "Who are you?" is acceptable because the choice in response is dependent upon the responder.
+A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existance of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder.
 
-"Who are you?" is a question that acknowledges the existance of another "I". A universal response to this question is 
-"I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response 
-to this question is "I am," when "I" is understood to be the entirety of the identity.
+"Who are you?" is also a question that acknowledges the existance of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
 
 Variable answers occur in pairs. For example, "I am a man" shares equal value, in context, to "I am not a man."
 
-Variable answers are self-similar. At any scale, a variable answer is a representation of the identity. The initiator and
-generator concept from fractals is useful to describe variable answers. The initiator, or starting shape, is "I am" which
-represents the entirety of the identity. The generator, or scaled copy of the initiator, is the following descriptors or 
-definitions that are appropriate given the context of the question.
+A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity. The initiator and generator concept from fractals is useful to describe variable answers. The initiator, or starting shape, is "I am" which represents the entirety of the identity. The generator, or scaled copy of the initiator, is the following descriptors or definitions that are appropriate given the context of the question.
 
-
-
+# IDENTITY AS A FRACTAL SET
+Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
