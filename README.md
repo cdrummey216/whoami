@@ -86,11 +86,17 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 
 Julia Set
 * c = 1 − ϕ
-* binary states of I am alive/I am not alive
-* a = i am not alive //not exist
-* b = i am not alive //no context
+* binary states of I am not alive
+* a = i am not alive //no "I" exists, the question "Who am I?" would not be asked 
+* b = i am not alive //no context, no "I" (*you*) exists to ask "Who are you?"
 * a+b/a = a/b = ϕ
 * i am not alive/i am not alive = 1 = ϕ
 * When ϕ = 1, c = 0 and identity ends.
 
 I know who I am.
+
+* c = 1 − ϕ
+* binary state of I am alive
+* a = i am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
+* b != i am alive //cannot be equal to I am alive because b must be of a lesser scope than a (a > b > 0)
+
