@@ -84,14 +84,13 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 ...as self-perception (*a*) is to self-definition (*b*).
 * Your self-perception is how you define yourself. Self-perception is defined by self-definition.
 
-
-c = 1 − ϕ
-binary states of I am alive/I am not alive
-a = i am not alive //not exist
-b = i am not alive //no context
-a+b/a = a/b = ϕ
-i am not alive/i am not alive = 1 = ϕ
-
-When ϕ = 1, c = 0 and identity ends.
+Julia Set
+* c = 1 − ϕ
+* binary states of I am alive/I am not alive
+* a = i am not alive //not exist
+* b = i am not alive //no context
+* a+b/a = a/b = ϕ
+* i am not alive/i am not alive = 1 = ϕ
+* When ϕ = 1, c = 0 and identity ends.
 
 I know who I am.
