@@ -69,10 +69,10 @@ The Golden Ratio (ϕ):
 * a+b is to a as a is to b.
 
 EXAMPLE
-a = I am a man. (self-perception) //contextless so any response possible, must be true
-b = I am florist. (self-definition) //limited to context, must be true
-WHERE the scope of a is greater than the scope of b
-a+b = I am a man that is a florist. (Sense of self, or the feeling of identity, uniqueness, and self-direction.)
+* a = I am a man. (self-perception) //contextless so any response possible, must be true
+* b = I am florist. (self-definition) //limited to context, must be true
+* WHERE the scope of a is greater than the scope of b
+* a+b = I am a man that is a florist. (Sense of self, or the feeling of identity, uniqueness, and self-direction.)
 
 Sense of self is to self-perception as self-perception is to self-definition.
 
