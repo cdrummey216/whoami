@@ -72,12 +72,13 @@ EXAMPLE
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
 * b = I am florist. (self-definition) //limited to context, must be true
 * WHERE the scope of a is greater than the scope of b
-* a+b = I am a man that is a florist. (Sense of self, or the feeling of identity, uniqueness, and self-direction.)
+* a+b = I am a man that is a florist. (variable combination for self-concept, must be true as it relates to a and b)
+* a+b/a = a/b = ϕ = Sense of self, or the feeling of identity, uniqueness, and self-direction.
 
-Sense of self is to self-perception as self-perception is to self-definition.
+Self-concept is to self-perception as self-perception is to self-definition.
 
-Sense of self (*a+b*) is to self-perception (*a*) as...
-* Your Sense of self is how you percieve yourself. Sense of self is defined internally based on self-perception.
+Self-concept (*a+b*) is to self-perception (*a*) as...
+* Your self-concept is how you percieve yourself. Self-concept is defined internally based on self-perception.
 
 ...as self-perception (*a*) is to self-definition (*b*).
 * Your self-perception is how you define yourself. Self-perception is defined by self-definition.
