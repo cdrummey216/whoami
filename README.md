@@ -59,31 +59,27 @@ A variable answer that defines an identity is self-similar due to the fact that 
 # IDENTITY AS A FRACTAL SET
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
 
-# GOLDEN RATIO OF IDENTIFICATION
+# GOLDEN RATIO AND SENSE OF SELF
 The Golden Ratio (ϕ): 
 * a+b/a = a/b = ϕ
+* a = A variable answer to "Who am I?"
+* b = A variable answer to "Who are you?"
+* a+b = A combination of a and b, a variable combination
+* a, b must be true in order to be proportional to each other
 * a+b is to a as a is to b.
-* a = I am *x* (variable answer to define a)
-* b = I, I am (existence)
-* a+b = Identity (existence AND definition)
-
-Identity is to it's definition as it's definition is to "I". //freewill?
-
-//rewrite
-An identity as a whole is based upon the premise that it exists ("I am.") and is definable ("I am *x*."). In this way, the defining element of an identity is the acknowledgment that "I am." Variable answers (*b*) are attempts to define the existence of "I" (*a*).
-
-Identity (*a+b*) is to "I" (*a*) as...
-* An identity is defined by its existence in reality, or, an identity is identifiable by the observable actions associated with it. (Who are you?)
-
-..as "I" (*a*) is to it's given definition (*b*).
-* "I" is defined by a variable answer describing a manner in which it exists. Variable answers rely on the existence of "I".
-
 
 EXAMPLE
-a = I am a man.
-b = I am. 
-a+b = Identitifation as a man.
+a = I am a man. (self-perception) //contextless so any response possible, must be true
+b = I am florist. (self-definition) //limited to context, must be true
+WHERE the scope of a is greater than the scope of b
+a+b = I am a man that is a florist. (Sense of self, or the feeling of identity, uniqueness, and self-direction.)
 
-So that, *my identity exists and exists in the manner of man* is true. 
+Sense of self is to self-perception as self-perception is to self-definition.
 
-"I" must exist in order for an Identity to be true and the definition of "I"
+Sense of self (*a+b*) is to self-perception (*a*) as...
+* Your Sense of self is how you percieve yourself. Sense of self is defined internally based on self-perception.
+
+...as self-perception (*a*) is to self-definition (*b*).
+* Your self-perception is how you define yourself. Self-perception is defined by self-definition.
+
+
