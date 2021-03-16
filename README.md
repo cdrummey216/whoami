@@ -87,7 +87,8 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 # IDENTITY AS A JULIA SET
 END
 * c = 1 − ϕ
-* binary states of I am not alive
+* binary state of I am not alive
+* The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
 * a = i am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = i am not alive //missing context, no "I" (*you*) exists to ask "Who are you?"
 * a+b/a = a/b = ϕ
@@ -100,6 +101,6 @@ BEGIN
 * c = 1 − ϕ
 * binary state of I am alive
 * a = i am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
-* b != i am alive //cannot be equal to I am alive because b must be of a lesser scope than a (a > b > 0)
+* b != i am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
 
 I am alive, who am I?
