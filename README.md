@@ -85,7 +85,17 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 * Your self-perception is how you define yourself. Self-perception is defined by self-definition.
 
 # IDENTITY AS A JULIA SET
-END
+
+**BEGIN**
+* c = 1 − ϕ
+* Binary state of identitification of 'I am alive'
+* a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
+* b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
+* ϕ = undefined
+
+I am alive, who am I?
+
+**END**
 * c = 1 − ϕ
 * binary state of I am not alive
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
@@ -97,10 +107,17 @@ END
 
 I know who I am.
 
-BEGIN
-* c = 1 − ϕ
-* binary state of I am alive
-* a = i am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
-* b != i am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
+# Proportional Relationship of True Variable Answers
+* k = y/x = END = 1? //any proportional relationship, END iteration gives a value for ϕ = a/b = 1, death/end of identity is inevitable, always true
+* k = truth = constant of proportionality
 
-I am alive, who am I?
+I will end.
+
+* y = kx = (y/x) * x = yx/2x
+* x = y/k
+* y = a //Who am I?, given y = kx
+* x = b //Who are you?, given x = y/k
+
+So x = y/k = kx/k = x
+
+Truth is how you define yourself.
