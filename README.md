@@ -133,10 +133,10 @@ EXAMPLE
 * Let identity[x] represent an iteration of c = 1 − ϕ 
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
-* The result from sequence[0] is *1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
+* The result from identity[0] is *1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
 
 So for identity[1] 
-* GIVEN: from identity[0] it is known that I am alive and I am the one who asked (who am I?)
+* GIVEN: from identity[0] it is known (datapoints) that I am alive and I am the one who asked (who am I?) 
 * y = kx = a = I am alive. 
 * x = y/k = b = I am the one who asked. //only context for sequence[1] is I am alive and that I asked, "Who am I?"
 * y = a //I am alive.
