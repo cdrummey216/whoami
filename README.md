@@ -116,13 +116,38 @@ I know who I am.
 I will end.
 
 **Truth**
+* y = kx
+* x = y/k
+* y = a //Who am I?, variable answer, given 
+* x = b //Who are you?, variable answer, given 
 * y = kx = (y/x) * x = yx/2x
 * x = y/k
-* y = a //Who am I?, variable answer, given y = kx
-* x = b //Who are you?, variable answer, given x = y/k
 
 x = y/k = kx/k = x
 
 y = kx = k * (y/k) = ky/2k = y
 
-Truth is truth.
+Truth is truth. //truth among truths is proportionless? boolean?
+
+EXAMPLE
+* Let identity[x] represent an iteration of c = 1 − ϕ 
+* identity[0] is the BEGIN iteration.
+* identity[n-1] is the END iteration where n is the total number of iterations
+* The result from sequence[0] is *1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
+
+So for identity[1] 
+* GIVEN: from identity[0] it is known that I am alive and I am the one who asked (who am I?)
+* y = kx = a = I am alive. 
+* x = y/k = b = I am the one who asked. //only context for sequence[1] is I am alive and that I asked, "Who am I?"
+* y = a //I am alive.
+* x = b //I am the one who asked.
+* y = kx OR a = kb
+* //I am alive = I am the one who asked * k //I am = I am?
+* x = y/k OR b = a/k
+* //I am the one who asked = I am alive/k //I am = I am?
+
+//I am.
+
+
+
+
