@@ -119,7 +119,7 @@ I will end.
 * y = kx = (y/x) * x = yx/2x
 * x = y/k
 * y = a //Who am I?, variable answer, given y = kx
-* x = b //Who are you?, given x = y/k
+* x = b //Who are you?, variable answer, given x = y/k
 
 So x = y/k = kx/k = x
 So y = kx = k * (y/k) = ky/2k = y
