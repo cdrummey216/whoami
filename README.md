@@ -108,16 +108,20 @@ I am alive, who am I?
 I know who I am.
 
 # Proportional Relationship of True Variable Answers
+
+**Truth**
 * k = y/x = END = 1? //any proportional relationship, END iteration gives a value for ϕ = a/b = 1, death/end of identity is inevitable, always true
 * k = truth = constant of proportionality
 
 I will end.
 
+**Title**
 * y = kx = (y/x) * x = yx/2x
 * x = y/k
-* y = a //Who am I?, given y = kx
+* y = a //Who am I?, variable answer, given y = kx
 * x = b //Who are you?, given x = y/k
 
 So x = y/k = kx/k = x
+So y = kx = k * (y/k) = ky/2k = y
 
-Truth is how you define yourself.
+Truth is truth.
