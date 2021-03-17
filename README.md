@@ -121,7 +121,8 @@ I will end.
 * y = a //Who am I?, variable answer, given y = kx
 * x = b //Who are you?, variable answer, given x = y/k
 
-So x = y/k = kx/k = x
-So y = kx = k * (y/k) = ky/2k = y
+x = y/k = kx/k = x
+
+y = kx = k * (y/k) = ky/2k = y
 
 Truth is truth.
