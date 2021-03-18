@@ -145,6 +145,6 @@ So for identity[1]
 * I am alive = I am the one who asked * k //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k OR b = a/k
 * I am the one who asked = I am alive/k //~I am = ~I am, both acknowledge that at minimum I am
+* //ϕ = 1 - 1/ϕ
 
-I am.
-1 = ϕ - 1/ϕ
+I am. //1 = ϕ - 1/ϕ
