@@ -94,7 +94,7 @@ Filled Julia Set for fc, c = 1 − ϕ
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
 * b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
-* ϕ = undefined
+* ϕ = a+b/a = a/b = undefined //When b is 0, must ask "Who am I?" again
 
 I am alive, who am I?
 
