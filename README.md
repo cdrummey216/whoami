@@ -87,6 +87,7 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
+
 **BEGIN**
 *
 * Binary state of identitification of 'I am alive'
