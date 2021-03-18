@@ -17,7 +17,7 @@ This question, as a routine, is the engine for identity. ***The one who asks*** 
 
 # FREE WILL AND IDENTITY
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
-or, the things that they choose to identify with. An identity is also an answer to the question "who am i?"
+or, the things that they choose to identify with. An identity is also an answer to the question "Who am I?"
 
 # TRUST AND BELIEF
 In order to believe, one must trust. Trust is an active quality exchanged between identities because it can be given and recieved and it has social value. Trust is a foundational element of an identity. Trust is valuable because it is given and recieved by out of someone's own free will, a willful act. When trust is established, it facilitates social interaction between individuals. For example, an individual can, in a single exchange, grant their trust to and recieve 
@@ -40,12 +40,12 @@ Human nature, therefore, is a reflection of the echo.
 
 # AN EXTERNAL FOUNDATION FOR KNOWLEDGE, OR "I"
 
-I asked "who am I?", therefore I am.
+I asked "Who am I?", therefore I am.
 
-By asking "who am I?", one has simultaneously taken an action that defines "I" and infers the existence of "I". "I" is
+By asking "Who am I?", one has simultaneously taken an action that defines "I" and infers the existence of "I". "I" is
 defined as "I am the one who asked" and "I" must exist because it can be defined.
 
-Asking "who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (external identity) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
+Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (external identity) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
 # VARIABLE ANSWER
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder.
@@ -102,10 +102,10 @@ I am alive, who am I?
 * For fc, c = 1 − ϕ
 * binary state of I am not alive
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
-* a = i am not alive //no "I" exists, the question "Who am I?" would not be asked 
-* b = i am not alive //missing context, no "I" (*you*) exists to ask "Who are you?"
+* a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
+* b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?"
 * a+b/a = a/b = ϕ
-* i am not alive/i am not alive = 1 = ϕ
+* I am not alive/I am not alive = 1 = ϕ
 * When ϕ = 1, c = 0 and identity ends.
 
 I know who I am.
