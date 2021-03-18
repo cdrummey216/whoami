@@ -104,7 +104,7 @@ I am alive, who am I?
 * Binary state of I am not alive
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
-* b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?"
+* b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = a/b = ϕ
 * I am not alive/I am not alive = 1 = ϕ
 * When ϕ = 1, c = 0 and identity ends.
@@ -142,7 +142,7 @@ Truth is truth. //a truth and a truth are proportionless in relation to their ma
 So, for identity[1] 
 * GIVEN: from identity[0] (BEGIN) it is known (as *datapoints*) that (1) I am alive and (2) I am the one who asked (who am I?) and identity[n-1] (END) shows that (3) *k* = 1
 * y = a //I am alive.
-* x = b //I am the one who asked. only context for identity[1] is I am alive and that I asked, "Who am I?"
+* x = b //I am the one who asked. only context for identity[1] is I am alive and that I have already asked, "Who am I?"
 * y or a = kx
 * x or b = y/k
 * y = kx OR a = kb
