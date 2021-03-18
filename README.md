@@ -139,11 +139,11 @@ Truth is truth. //a truth and a truth are proportionless in relation to their ma
 * The result from identity[0] is *1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
 
 So, for identity[1] 
-* GIVEN: from identity[0] it is known (as *datapoints*) that I am alive and I am the one who asked (who am I?) 
-* y = kx = a = I am alive. 
-* x = y/k = b = I am the one who asked. //only context for identity[1] is I am alive and that I asked, "Who am I?"
+* GIVEN: from identity[0] (BEGIN) it is known (as *datapoints*) that I am alive, I am the one who asked (who am I?) and identity[n-1] (END) shows that *k* = 1
 * y = a //I am alive.
-* x = b //I am the one who asked.
+* x = b //I am the one who asked. only context for identity[1] is I am alive and that I asked, "Who am I?"
+* y or a = kx
+* x or b = y/k
 * y = kx OR a = kb
 * I am alive = I am the one who asked * k //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k OR b = a/k
