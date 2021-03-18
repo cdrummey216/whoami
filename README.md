@@ -74,7 +74,7 @@ A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b
 * b = I am florist. (self-definition) //limited to context, must be true
 * WHERE the scope of a is greater than the scope of b (*a > b > 0*)
 * a+b = I am a man that is a florist. (variable combination for self-concept, must be true as it relates to a and b)
-* a+b/a = a/b = ϕ = Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am
+* a+b/a = a/b = ϕ = Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am (~I am)
 * I am = Self-concept //an idea of the self
 
 Self-concept is to self-perception as self-perception is to self-definition.
@@ -107,7 +107,7 @@ I am alive, who am I?
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = a/b = ϕ
 * I am not alive/I am not alive = 1 = ϕ
-* When ϕ = 1, c = 0 and identity ends.
+* When ϕ = 1, c = 0 and identity ends. //This is only time you can truly and fully know "I" because "I" has ended.
 
 I know who I am.
 
