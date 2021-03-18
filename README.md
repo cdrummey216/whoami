@@ -58,7 +58,6 @@ A variable answer that defines an identity is self-similar due to the fact that 
 
 # IDENTITY AS A FRACTAL SET
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
- c = 1 − ϕ
  
 # GOLDEN RATIO AND SENSE OF SELF
 The Golden Ratio (ϕ): 
@@ -87,9 +86,12 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
-
+ 
+ Julia Set
+ c = 1 − ϕ
+ 
 **BEGIN**
-*
+* For fc, c = 1 − ϕ
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
 * b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
@@ -98,7 +100,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 I am alive, who am I?
 
 **END**
-* c = 1 − ϕ
+* For fc, c = 1 − ϕ
 * binary state of I am not alive
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
 * a = i am not alive //no "I" exists, the question "Who am I?" would not be asked 
