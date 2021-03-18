@@ -107,7 +107,7 @@ I am alive, who am I?
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = a/b = ϕ
 * I am not alive/I am not alive = 1 = ϕ
-* When ϕ = 1, c = 0 and identity ends. //This is only time you can truly and fully know "I" because "I" has ended.
+* When ϕ = 1, c = 0 and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
 
 I know who I am.
 
