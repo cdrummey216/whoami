@@ -58,7 +58,8 @@ A variable answer that defines an identity is self-similar due to the fact that 
 
 # IDENTITY AS A FRACTAL SET
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
-
+ c = 1 − ϕ
+ 
 # GOLDEN RATIO AND SENSE OF SELF
 The Golden Ratio (ϕ): 
 * a+b/a = a/b = ϕ
@@ -85,9 +86,9 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 * Your self-perception is how you define yourself. Self-perception is defined by self-definition.
 
 # IDENTITY AS A JULIA SET
-
+Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 **BEGIN**
-* c = 1 − ϕ
+*
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
 * b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
@@ -127,7 +128,7 @@ x = y/k = kx/k = x
 
 y = kx = k * (y/k) = ky/2k = y
 
-Truth is truth. //truth among truths is proportionless
+Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
 
 EXAMPLE
 * Let identity[x] represent an iteration of c = 1 − ϕ 
@@ -135,7 +136,7 @@ EXAMPLE
 * identity[n-1] is the END iteration where n is the total number of iterations
 * The result from identity[0] is *1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
 
-So for identity[1] 
+So, for identity[1] 
 * GIVEN: from identity[0] it is known (as *datapoints*) that I am alive and I am the one who asked (who am I?) 
 * y = kx = a = I am alive. 
 * x = y/k = b = I am the one who asked. //only context for identity[1] is I am alive and that I asked, "Who am I?"
