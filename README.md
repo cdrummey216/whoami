@@ -110,7 +110,7 @@ I know who I am.
 # Proportional Relationship of True Variable Answers
 
 **Always True**
-* k = y/x = END = 1? //any proportional relationship, END iteration gives a value for ϕ = a/b = 1, death/end of identity is inevitable, always true
+* k = y/x = END = 1 //any proportional relationship, END iteration gives a value for ϕ = a/b = 1, death/end of identity is inevitable, always true
 * k = truth = constant of proportionality
 
 I will end.
@@ -127,7 +127,7 @@ x = y/k = kx/k = x
 
 y = kx = k * (y/k) = ky/2k = y
 
-Truth is truth. //truth among truths is proportionless? boolean?
+Truth is truth. //truth among truths is proportionless
 
 EXAMPLE
 * Let identity[x] represent an iteration of c = 1 − ϕ 
@@ -142,12 +142,9 @@ So for identity[1]
 * y = a //I am alive.
 * x = b //I am the one who asked.
 * y = kx OR a = kb
-* //I am alive = I am the one who asked * k //I am = I am?
+* I am alive = I am the one who asked * k //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k OR b = a/k
-* //I am the one who asked = I am alive/k //I am = I am?
-* //ϕ = 1 - 1/ϕ
-//I am.
+* I am the one who asked = I am alive/k //~I am = ~I am, both acknowledge that at minimum I am
 
-
-
-
+I am.
+1 = ϕ - 1/ϕ
