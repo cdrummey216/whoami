@@ -148,9 +148,9 @@ So, for identity[1]
 * y or a = kx
 * x or b = y/k
 * y = kx OR a = kb
-* **I am (alive) = I am (the one who asked) * k** //~I am = ~I am, both acknowledge that at minimum I am
+* **I am (alive) = I am (the one who asked) * 1** //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k OR b = a/k
-* **I am (the one who asked) = I am (alive)/k** //~I am = ~I am, both acknowledge that at minimum I am
+* **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself (arbitership). in relation to identity, ϕ is the sense of self.
 
 I am. //1 = ϕ - 1/ϕ
