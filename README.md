@@ -114,13 +114,14 @@ I know who I am.
 # Proportional Relationship of True Variable Answers
 
 **Always True**
+* y = kx //equation for constant of proportionality
 * k = y/x = END = 1 //any proportional relationship, END iteration gives a value for ϕ = a/b = 1, death/end of identity is inevitable, always true
 * k = truth = constant of proportionality
 
 I will end.
 
 **Truth**
-* y = kx
+* y = kx //equation for constant of proportionality
 * x = y/k
 * y = a //Who am I?, variable answer that acknowledges "I"
 * x = b //Who are you?, variable answer that acknowledges "I"
