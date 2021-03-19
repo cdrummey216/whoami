@@ -87,8 +87,9 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
- 
-Filled Julia Set for fc, c = 1 − ϕ  
+* identity[0] is the BEGIN iteration.
+* identity[n-1] is the END iteration where n is the total number of iterations
+* identity[x] is any iteration of the Filled Julia Set for fc, c = 1 − ϕ, sequential  
 
 **BEGIN**
 * For fc, c = 1 − ϕ
