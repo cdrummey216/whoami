@@ -143,7 +143,7 @@ Truth is truth. //a truth and a truth are proportionless in relation to their ma
 
 So, for identity[1] 
 * GIVEN: from identity[0] (BEGIN) it is known (as *datapoints*) that (1) I am alive and (2) I am the one who asked (who am I?) and identity[n-1] (END) shows that (3) *k* = 1
-* y = a //(1)I am alive.
+* y = a //(1) I am alive.
 * x = b //(2) I am the one who asked. only context for identity[1] is I am alive and that I have already asked, "Who am I?"
 * y = kx //equation for constant of proportionality
 * x = y/k //equation for constant of proportionality
