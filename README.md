@@ -143,13 +143,14 @@ Truth is truth. //a truth and a truth are proportionless in relation to their ma
 
 So, for identity[1] 
 * GIVEN: from identity[0] (BEGIN) it is known (as *datapoints*) that (1) I am alive and (2) I am the one who asked (who am I?) and identity[n-1] (END) shows that (3) *k* = 1
-* y = a //I am alive.
-* x = b //I am the one who asked. only context for identity[1] is I am alive and that I have already asked, "Who am I?"
-* y or a = kx
-* x or b = y/k
-* y = kx OR a = kb
+* y = a //(1)I am alive.
+* x = b //(2) I am the one who asked. only context for identity[1] is I am alive and that I have already asked, "Who am I?"
+* y = kx //equation for constant of proportionality
+* x = y/k //equation for constant of proportionality
+* k = 1 //(3) shown in identity[n-1] (truth)
+* a = kb 
 * **I am (alive) = I am (the one who asked) * 1** //~I am = ~I am, both acknowledge that at minimum I am
-* x = y/k OR b = a/k
+* b = a/k
 * **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself (arbitership). in relation to identity, ϕ is the sense of self.
 
