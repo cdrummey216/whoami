@@ -151,6 +151,6 @@ So, for identity[1]
 * I am alive = I am the one who asked * k //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k OR b = a/k
 * I am the one who asked = I am alive/k //~I am = ~I am, both acknowledge that at minimum I am
-* //ϕ = 1 + 1/ϕ 
+* **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. in relation to identity, ϕ is the sense of self
 
 I am. //1 = ϕ - 1/ϕ
