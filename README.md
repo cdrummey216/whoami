@@ -96,7 +96,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
 * b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
-* ϕ = a+b/a = a/b = undefined //When b is 0, must ask "Who am I?" again
+* a+b/a = a/b = undefined //When b is 0, must ask "Who am I?" again
 
 I am alive, who am I?
 
@@ -107,8 +107,8 @@ I am alive, who am I?
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = a/b = ϕ
-* I am not alive/I am not alive = 1 = ϕ
-* When ϕ = 1, c = 0 and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
+* I am not alive/I am not alive = 1 = ratio //not equal to golden ratio
+* When ratio = 1, c = 0 and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
 
 I know who I am.
 
@@ -116,7 +116,7 @@ I know who I am.
 
 **Always True**
 * y = kx //equation for constant of proportionality
-* k = y/x = END = 1 //any proportional relationship, END iteration gives a value for ϕ = a/b = 1, death/end of identity is inevitable, always true
+* k = y/x = END = 1 //any proportional relationship, END iteration gives a value for a/b = 1, death/end of identity is inevitable, always true
 * k = truth = constant of proportionality
 
 I will end.
