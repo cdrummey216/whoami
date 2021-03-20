@@ -116,7 +116,7 @@ I know who I am.
 
 **Always True**
 * y = kx //equation for constant of proportionality
-* k = y/x = END = 1 //any proportional relationship, END iteration gives a value for a/b = 1, death/end of identity is inevitable, always true
+* k = y/x //any proportional relationship, END iteration gives a value for a/b = 1, death/end of identity is inevitable, always true
 * k = truth = constant of proportionality
 
 I will end.
