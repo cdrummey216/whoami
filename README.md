@@ -62,7 +62,7 @@ Each identity can be regarded as a fractal set, or a never ending pattern of var
 # GOLDEN RATIO AND SENSE OF SELF
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?"
 * a+b/a = a/b = ϕ
-* a = A variable answer to "Who am I?"
+* a = A variable answer to "Who am I?", gives contextual truth for b, or provides the limiting scope for b
 * b = A variable answer to "Who are you?"
 * a > b > 0
 * a+b = A combination of a and b, a variable combination
@@ -155,3 +155,10 @@ So, for identity[1]
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself (arbitership). in relation to identity, ϕ is the sense of self.
 
 I am. //1 = ϕ - 1/ϕ
+
+For each instance of ϕ in fc, c = 1 - ϕ
+* (a+b)/a = ϕ //because each a provides contextual truth to b for each calculation of ϕ, a equals 1
+* (1 + b)/1 = ϕ //substitute for a
+* 1 + b = ϕ //simplify
+* ϕ = 1 + 1/ϕ //arbiter, b must equal 1/ϕ
+
