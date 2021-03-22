@@ -156,11 +156,15 @@ So, for identity[1]
 
 I am. //1 = ϕ - 1/ϕ
 
+# Value of Variable Answers a, b in the Golden Ratio 
+
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
-* ϕ = (a+b)/a //because each a provides contextual truth to each b for a calculation of ϕ, a equals 1
+* ϕ = (a+b)/a //because each a provides contextual truth to each b for any single calculation of ϕ, a is equal to 1 
 * ϕ = (1 + b)/1 //substitute for a
 * ϕ = 1 + b //simplify
 * ϕ = 1 + 1/ϕ //arbiter, b must equal 1/ϕ (see above property of ϕ)
+* a = 1
+* b = 1/ϕ //0.6180
 
 I have a choice. //sense of self can define itself, meaning that "I" define myself.
 
