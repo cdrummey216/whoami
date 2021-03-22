@@ -115,7 +115,8 @@ I know who I am.
 # PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS
 
 **Always True**
-* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality so that k = ϕ (1.618)
+* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality so that k = ϕ
+* //golden ratio as a formula, 1.618 is the ideal value for fc, c = 1 -  ϕ. equation will give other values when a, b not in proportion/true (see END)
 * When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.**
 * So values of a, b from the Golden Ratio can be substituted for the values of y, x in the equation for the constant of proportionality
 * y = kx //equation for constant of proportionality
