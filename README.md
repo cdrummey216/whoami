@@ -77,6 +77,7 @@ Self-concept is to self-perception as self-perception is to self-definition.
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
 * a+b/a = a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
 * ~I am = Self-concept //an idea of the self
+* formula for the Golden Ratio with values a, b acts as the engine for identity, the ideal is fc, c = 1 - ϕ but other values possible in place of ϕ (see END iteration)
 
 Self-concept (*a+b*) is to self-perception (*a*) as...
 * Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
@@ -105,7 +106,7 @@ I am alive, who am I?
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
-* a+b/a = a/b = ϕ
+* a+b/a = a/b = ϕ //important proptery 
 * I am not alive/I am not alive = 1 = ratio //not equal to golden ratio
 * When ratio = 1, c = 0 and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
 
@@ -114,8 +115,13 @@ I know who I am.
 # PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS
 
 **Always True**
+* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality so that k = ϕ (1.618)
+* When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.**
+* So values of a, b from the Golden Ratio can be substituted for the values of y, x in the equation for the constant of proportionality
 * y = kx //equation for constant of proportionality
-* k = y/x //any proportional relationship, END iteration gives a value for a/b = 1, death/end of identity is inevitable, always true
+* k = y/x //any proportional relationship
+* END iteration gives a value for a/b = 1 (y/x = 1)
+* Death/end of identity is inevitable, always true
 * k = truth = constant of proportionality
 
 I will end.
