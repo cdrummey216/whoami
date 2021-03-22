@@ -166,7 +166,7 @@ So, for identity[1]
 * **I am (alive) = I am (the one who asked) * 1** //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k (see next line)
 * **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
-* The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. it is the first time that "I" is percieved and defined within ϕ.
+* The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. it is the first time that "I" is percieved AND defined within ϕ.
 
 I am. //1 = ϕ - 1/ϕ
 
