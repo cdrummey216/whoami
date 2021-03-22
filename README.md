@@ -152,11 +152,14 @@ So, for identity[1]
 * **I am (alive) = I am (the one who asked) * 1** //~I am = ~I am, both acknowledge that at minimum I am
 * x = y/k (see next line)
 * **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
-* The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. First time that "I" is percieved and defined within ϕ.
+* The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. it is the first time that "I" is percieved and defined within ϕ.
 
 I am. //1 = ϕ - 1/ϕ
 
-*note: the self can be used to calculate its own existence. the irrational number ϕ can be used to calculate a real number, 1 
+* the above "I am" equation can be understood in terms of the following:
+* "I am" has the meaning that "I am a singluar entity in reality"
+* Sense of self (ϕ) without (-) self-definition (1/ϕ) is oneness (or the value of the self is 1 when self-definition is removed).  
+* note: the irrational number ϕ can be used to calculate a real number, 1 
 
 # Value of Variable Answers a, b in the Golden Ratio 
 
@@ -166,8 +169,8 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 * ϕ = (1 + b)/1 //substitute for a
 * ϕ = 1 + b //simplify
 * ϕ = 1 + 1/ϕ //b must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
-* a = 1 //value for answer to "Who am I?"
-* b = 1/ϕ //~0.6180, value for answer to "Who are you?"
+* a = 1 //value for answer to "Who am I?", self-perception
+* b = 1/ϕ //~0.6180, value for answer to "Who are you?", self-definition
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
