@@ -148,12 +148,15 @@ So, for identity[1]
 * y = kx //equation for constant of proportionality
 * x = y/k //equation for constant of proportionality
 * k = 1 //(3) shown in identity[n-1] (truth)
-* a = kb 
+* y = kx (see next line)
 * **I am (alive) = I am (the one who asked) * 1** //~I am = ~I am, both acknowledge that at minimum I am
-* b = a/k
+* x = y/k (see next line)
 * **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
+* The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. First time that "I" is percieved and defined within ϕ.
 
 I am. //1 = ϕ - 1/ϕ
+
+*note: the self can be used to calculate its own existence. the irrational number ϕ can be used to calculate a real number, 1 
 
 # Value of Variable Answers a, b in the Golden Ratio 
 
