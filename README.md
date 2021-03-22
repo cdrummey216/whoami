@@ -77,7 +77,7 @@ Self-concept is to self-perception as self-perception is to self-definition.
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
 * a+b/a = a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
 * ~I am = Self-concept //an idea of the self
-* formula for the Golden Ratio with values a, b acts as the engine for identity, the ideal is fc, c = 1 - ϕ but other values possible in place of ϕ (see END iteration)
+
 
 Self-concept (*a+b*) is to self-perception (*a*) as...
 * Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
@@ -104,6 +104,7 @@ I am alive, who am I?
 * For fc, c = 1 − ϕ
 * Binary state of I am not alive
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
+* the formula for the Golden Ratio (a+b/a) has values a and b. when the result of the equation is ϕ, the formula acts as the engine for identity, the ideal is fc, c = 1 - ϕ but other values possible in place of ϕ (shown below)
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = a/b = ϕ //important proptery 
@@ -176,6 +177,7 @@ So, for identity[1]
 
 I am. //1 = ϕ - 1/ϕ
 
+//under construction
 * the above "I am" equation can be understood in terms of the following:
 * "I am" has the meaning that "I am a singluar entity in reality" //"in reality" because reality is implied in the context of either a or b in the equation for ϕ and, therefore, the context of "I am" must be reality also. more specifically, "Who are you?" and "Who am I?" (parts of the equation for ϕ) are observable events.
 * when the value of self-definition (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness
