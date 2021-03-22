@@ -85,11 +85,23 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 ...as self-perception (*a*) is to self-definition (*b*).
 * Your self-perception is how you define yourself. Self-perception is defined by self-definition.
 
+# VALUE OF VARIABLES ANSWERS a, b IN THE GOLDEN RATIO EQUATION 
+For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
+* **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
+* ϕ = (a+b)/a //because each a provides contextual truth to each b for any single calculation of ϕ, a is equal to 1 
+* ϕ = (1 + b)/1 //substitute for a
+* ϕ = 1 + b //simplify
+* ϕ = 1 + 1/ϕ //b must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
+* a = 1 //value for answer to "Who am I?", self-perception
+* b = 1/ϕ //~0.6180, value for answer to "Who are you?", self-definition
+
+I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
+
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
-* identity[x] is any iteration of the Filled Julia Set for fc, c = 1 − ϕ, sequential  
+* identity[x] is any iteration of the Filled Julia Set for fc, c = 1 − ϕ, sequential
 
 **BEGIN**
 * For fc, c = 1 − ϕ
@@ -112,7 +124,7 @@ I am alive, who am I?
 
 I know who I am.
 
-# Proportional Relationship of True Variable Answers
+# PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS
 
 **Always True**
 * y = kx //equation for constant of proportionality
@@ -134,6 +146,8 @@ So when k = 1,
 * x = y/1 --> x = y
 
 Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
+
+# THE "I AM" EQUATION
 
 **EXAMPLE**
 * Let identity[x] represent an iteration of c = 1 − ϕ 
@@ -157,20 +171,8 @@ So, for identity[1]
 I am. //1 = ϕ - 1/ϕ
 
 * the above "I am" equation can be understood in terms of the following:
-* "I am" has the meaning that "I am a singluar entity in reality"
-* Sense of self (ϕ) without (-) self-definition (1/ϕ) is oneness (or the value of the self is 1 when self-definition is removed).  
+* "I am" has the meaning that "I am a singluar entity in reality" //"in reality" because reality is implied in the context of either a or b in the equation for ϕ and, therefore, the context of "I am" must be reality also. more specifically, "Who are you?" and "Who am I?" are observable events.
+* when the value of self-definition (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness
+* oneness is a way to understand oneself. when the self is understood as the product of an equation, the value of self-definition is different from the value of self-perception because it requires an external cause, consider being asked "Who are you?" as an external cause. So subtracting the value of self-definition from the value of the self is an exercise in freeing oneself from external influence and being whole (1).
+* So, oneness is simply the self without external cause ("Who are you?"). self-government follows.
 * note: the irrational number ϕ can be used to calculate a real number, 1 
-
-# Value of Variable Answers a, b in the Golden Ratio 
-
-For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
-* **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
-* ϕ = (a+b)/a //because each a provides contextual truth to each b for any single calculation of ϕ, a is equal to 1 
-* ϕ = (1 + b)/1 //substitute for a
-* ϕ = 1 + b //simplify
-* ϕ = 1 + 1/ϕ //b must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
-* a = 1 //value for answer to "Who am I?", self-perception
-* b = 1/ϕ //~0.6180, value for answer to "Who are you?", self-definition
-
-I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
-
