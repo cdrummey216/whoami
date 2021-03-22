@@ -142,7 +142,7 @@ Truth is truth. //a truth and a truth are proportionless in relation to their ma
 * The result from identity[0] is *c = 1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
 
 So, for identity[1] 
-* GIVEN: from identity[0] (BEGIN) it is known (as *datapoints*) that (1) I am alive and (2) I am the one who asked (who am I?) and identity[n-1] (END) shows that (3) *k* = 1
+* GIVEN: from identity[0] (BEGIN) it is known (as *datapoints*) that (1) I am alive and (2) I am the one who asked (who am I?) and identity[n-1] (END) shows that (3) *k* = 1 //k = 1 because truth is assumed.
 * y = a //(1) I am alive.
 * x = b //(2) I am the one who asked. only context for identity[1] is I am alive and that I have already asked, "Who am I?"
 * y = kx //equation for constant of proportionality
@@ -156,9 +156,11 @@ So, for identity[1]
 
 I am. //1 = ϕ - 1/ϕ
 
-For each instance of ϕ in fc, c = 1 - ϕ
-* (a+b)/a = ϕ //because each a provides contextual truth to b for each calculation of ϕ, a equals 1
-* (1 + b)/1 = ϕ //substitute for a
-* 1 + b = ϕ //simplify
-* ϕ = 1 + 1/ϕ //arbiter, b must equal 1/ϕ
+For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
+* ϕ = (a+b)/a //because each a provides contextual truth to each b for a calculation of ϕ, a equals 1
+* ϕ = (1 + b)/1 //substitute for a
+* ϕ = 1 + b //simplify
+* ϕ = 1 + 1/ϕ //arbiter, b must equal 1/ϕ (see above property of ϕ)
+
+I have a choice. //sense of self can define itself, meaning that "I" define myself.
 
