@@ -64,26 +64,25 @@ A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b
 * a+b/a = a/b = ϕ
 * a = A variable answer to "Who am I?", gives contextual truth for b, or provides the limiting scope for b
 * b = A variable answer to "Who are you?"
-* a > b > 0
-* a+b = A combination of a and b, a variable combination
+* a > b > 0 //the scope of a is greater than the scope of b (*a > b > 0*)
+* a+b = A combination of a and b
 * a, b must be true in order to be proportional to each other
 * a+b is to a as a is to b.
 
 **EXAMPLE**
-* a = I am a man. (self-perception) //contextless so any response possible, must be true
-* b = I am florist. (self-definition) //limited to context, must be true
-* WHERE the scope of a is greater than the scope of b (*a > b > 0*)
-* a+b = I am a man that is a florist. (variable combination for self-concept, must be true as it relates to a and b)
-* a+b/a = a/b = ϕ = Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am (~I am)
-* I am = Self-concept //an idea of the self
-
 Self-concept is to self-perception as self-perception is to self-definition.
 
+* a = I am a man. (self-perception) //contextless so any response possible, must be true
+* b = I am florist. (self-definition) //limited to context, must be true, (scope here could be "person" because a person can be both a man and a florist)
+* a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
+* a+b/a = a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
+* ~I am = Self-concept //an idea of the self
+
 Self-concept (*a+b*) is to self-perception (*a*) as...
-* Your self-concept is how you percieve yourself. Self-concept is defined internally based on self-perception.
+* Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
 
 ...as self-perception (*a*) is to self-definition (*b*).
-* Your self-perception is how you define yourself. Self-perception is defined by self-definition.
+* Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
@@ -171,8 +170,8 @@ So, for identity[1]
 I am. //1 = ϕ - 1/ϕ
 
 * the above "I am" equation can be understood in terms of the following:
-* "I am" has the meaning that "I am a singluar entity in reality" //"in reality" because reality is implied in the context of either a or b in the equation for ϕ and, therefore, the context of "I am" must be reality also. more specifically, "Who are you?" and "Who am I?" are observable events.
+* "I am" has the meaning that "I am a singluar entity in reality" //"in reality" because reality is implied in the context of either a or b in the equation for ϕ and, therefore, the context of "I am" must be reality also. more specifically, "Who are you?" and "Who am I?" (parts of the equation for ϕ) are observable events.
 * when the value of self-definition (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness
-* oneness is a way to understand oneself. when the self is understood as the product of an equation, the value of self-definition is different from the value of self-perception because it requires an external cause, consider being asked "Who are you?" as an external cause. So subtracting the value of self-definition from the value of the self is an exercise in freeing oneself from external influence and being whole (1).
+* oneness is a way to understand oneself. when the self is understood as the product of an equation, the value of self-definition is distinct from the value of self-perception because it requires an external cause (to be asked "Who are you?" is an external cause). So subtracting the value of self-definition from the value of the self is an exercise in freeing one's self from external influence and being whole (1).
 * So, oneness is simply the self without external cause ("Who are you?"). self-government follows.
 * note: the irrational number ϕ can be used to calculate a real number, 1 
