@@ -61,22 +61,22 @@ Each identity can be regarded as a fractal set, or a never ending pattern of var
  
 # GOLDEN RATIO AND SENSE OF SELF
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?"
-* a+b/a = a/b = ϕ
-* a = A variable answer to "Who am I?", gives contextual truth for b, or provides the limiting scope for b
+* a+b/a = ϕ AND a/b = ϕ //property of ϕ
+* a > b > 0 //property of ϕ, the scope of a is greater than the scope of b (*a > b > 0*)
+* a+b is to a as a is to b. //property of ϕ
+* a = A variable answer to "Who am I?", gives contextual truth for b, provides the limiting scope for b
 * b = A variable answer to "Who are you?"
-* a > b > 0 //the scope of a is greater than the scope of b (*a > b > 0*)
 * a+b = A combination of a and b
-* a, b must be true in order to be proportional to each other
-* a+b is to a as a is to b.
+* a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0
 
-**EXAMPLE**
-
+# PROPERTIES OF ϕ: 1) a+b is to a as a is to b AND 2) a+b/a = ϕ AND a/b = ϕ
 Self-concept is to self-perception as self-perception is to self-definition.
 
+**EXAMPLE**
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
 * b = I am florist. (self-definition) //limited to context, must be true
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
-* a+b/a = a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
+* a+b/a = ϕ AND a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
 * ~I am = Self-concept //an idea of the self
 
 Self-concept (*a+b*) is to self-perception (*a*) as...
@@ -88,13 +88,13 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 * the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
-* so using an example array of [apple, pear, orange], the value of array[0] is 'apple', the value of array[1] is 'pear', the value of array[2] is 'orange'
-* identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ**
+* so using an example array of [apple, pear, orange] named 'example', the value of example[0] is 'apple', the value of example[1] is 'pear', the value of example[2] is 'orange'
+* identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the formula a+b/a //how to denote formula vs value of ϕ?
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
 * identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 
-**BEGIN** //first iteration of identity
+**BEGIN** //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
@@ -103,7 +103,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 I am alive, who am I?
 
-**END** //last iteration of identity
+**END** //last iteration of identity or identity[n-1]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am not alive'
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
