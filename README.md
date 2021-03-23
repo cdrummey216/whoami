@@ -111,9 +111,9 @@ I am alive, who am I?
 * the formula for the Golden Ratio (a+b/a) has values a and b. when the result of the equation is ϕ, the formula acts as the engine for identity, the ideal is fc, c = 1 - ϕ (1.618) but other values possible in place of ϕ (shown below) //TODO
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
-* a+b/a = ϕ AND a/b = ϕ //important proptery 
-* I am not alive/I am not alive = 1 = ratio //not equal to golden ratio
-* When ratio = 1, c = 0 and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
+* a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
+* a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
+* When ratio equals 1, c equals 0 (c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
 
 I know who I am.
 
