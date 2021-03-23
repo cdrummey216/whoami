@@ -89,7 +89,7 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 * the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
 * so using an example array of [apple, pear, orange] named 'example', the value of example[0] is 'apple', the value of example[1] is 'pear', the value of example[2] is 'orange'
-* identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the formula a+b/a //how to denote formula vs value of ϕ?
+* identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the formula a+b/a //TODO how to denote formula vs value of ϕ?
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
 * identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
@@ -99,7 +99,8 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
 * b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
-* a+b/a = a/b = undefined //When b is null (no data), must ask "Who am I?" again
+* a+b/a AND a/b = undefined //When b is null (no data, empty), must ask "Who am I?" again.
+* The result from identity[0] is *c = 1 - undefined* //although undefined, I know I am alive and that I am the one who asked "Who am I?"
 
 I am alive, who am I?
 
@@ -180,7 +181,7 @@ So, for identity[1]
 
 I am. //1 = ϕ - 1/ϕ
 
-//under construction
+//TODO under construction
 * the above "I am" equation can be understood in terms of the following:
 * "I am" has the meaning that "I am a singluar entity in reality" //"in reality" because reality is implied in the context of either a or b in the equation for ϕ and, therefore, the context of "I am" must be reality also. more specifically, "Who are you?" and "Who am I?" (parts of the equation for ϕ) are observable events.
 * when the value of self-definition (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness
