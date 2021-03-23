@@ -94,7 +94,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 * identity[n-1] is the END iteration where n is the total number of iterations
 * identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 
-**BEGIN**
+**BEGIN** //first iteration of identity
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
@@ -103,7 +103,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 I am alive, who am I?
 
-**END**
+**END** //last iteration of identity
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am not alive'
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
