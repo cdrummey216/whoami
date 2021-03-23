@@ -70,14 +70,14 @@ A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b
 * a+b is to a as a is to b.
 
 **EXAMPLE**
+
 Self-concept is to self-perception as self-perception is to self-definition.
 
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
-* b = I am florist. (self-definition) //limited to context, must be true, (scope here could be "person" because a person can be both a man and a florist)
+* b = I am florist. (self-definition) //limited to context, must be true
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
-* a+b/a = a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. //both variable answers acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
+* a+b/a = a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
 * ~I am = Self-concept //an idea of the self
-
 
 Self-concept (*a+b*) is to self-perception (*a*) as...
 * Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
@@ -87,12 +87,15 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 
 # IDENTITY AS A JULIA SET
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
+* the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
+* so using an example array of [apple, pear, orange], the value of array[0] is 'apple', the value of array[1] is 'pear', the value of array[2] is 'orange'
+* identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ**
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
-* identity[x] is any iteration of the Filled Julia Set for fc, c = 1 − ϕ, sequential
+* identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 
 **BEGIN**
-* For fc, c = 1 − ϕ
+* For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
 * b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
@@ -101,10 +104,10 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 I am alive, who am I?
 
 **END**
-* For fc, c = 1 − ϕ
-* Binary state of I am not alive
+* For **fc, c = 1 − ϕ**
+* Binary state of identitification of 'I am not alive'
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
-* the formula for the Golden Ratio (a+b/a) has values a and b. when the result of the equation is ϕ, the formula acts as the engine for identity, the ideal is fc, c = 1 - ϕ but other values possible in place of ϕ (shown below)
+* the formula for the Golden Ratio (a+b/a) has values a and b. when the result of the equation is ϕ, the formula acts as the engine for identity, the ideal is fc, c = 1 - ϕ (1.618) but other values possible in place of ϕ (shown below) //TODO
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = a/b = ϕ //important proptery 
@@ -116,8 +119,8 @@ I know who I am.
 # PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS
 
 **Always True**
-* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality so that k = ϕ
-* //golden ratio as a formula, 1.618 is the ideal value for fc, c = 1 -  ϕ. equation will give other values when a, b not in proportion/true (see END)
+* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality
+* //golden ratio as a formula, 1.618 is the ideal value for fc, c = 1 -  ϕ. equation will give other values when a, b not in proportion/true (see END) //TODO
 * When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.**
 * So values of a, b from the Golden Ratio can be substituted for the values of y, x in the equation for the constant of proportionality
 * y = kx //equation for constant of proportionality
