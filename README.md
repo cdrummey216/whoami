@@ -60,14 +60,18 @@ A variable answer that defines an identity is self-similar due to the fact that 
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
  
 # GOLDEN RATIO AND SENSE OF SELF
-A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?"
-* a+b/a = ϕ AND a/b = ϕ //property of ϕ
-* a > b > 0 //property of ϕ, the scope of a is greater than the scope of b (*a > b > 0*)
-* a+b is to a as a is to b. //property of ϕ
+A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
+
+The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional quantities.
+
+* a+b/a = ϕ AND a/b = ϕ //(1) property of ϕ
+* a > b > 0 //(3) property of ϕ, the scope of *a* is greater than the scope of *b* (*a > b > 0*)
+* a+b is to a as a is to b. //(2) property of ϕ
+* **ϕ = 1 + 1/ϕ** //(4) property of ϕ,  ϕ can be used to define itself.
 * a = A variable answer to "Who am I?", gives contextual truth for b, provides the limiting scope for b
 * b = A variable answer to "Who are you?"
 * a+b = A combination of a and b
-* a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0
+* a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0 (zero or nothing)
 
 # PROPERTIES OF ϕ: 1) a+b is to a as a is to b AND 2) a+b/a = ϕ AND a/b = ϕ
 Self-concept is to self-perception as self-perception is to self-definition.
@@ -108,26 +112,25 @@ I am alive, who am I?
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am not alive'
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
-* the formula for the Golden Ratio (a+b/a) has values a and b. when the result of the equation is ϕ, the formula acts as the engine for identity, the ideal is fc, c = 1 - ϕ (1.618) but other values possible in place of ϕ (shown below) //TODO
 * a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
 * b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
 * a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
-* When ratio equals 1, c equals 0 (c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
+* When ratio equals 1, c equals 0 (fc, c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
 
 I know who I am.
 
 # PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS
 
 **Always True**
-* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality
-* //golden ratio as a formula, 1.618 is the ideal value for fc, c = 1 -  ϕ. equation will give other values when a, b not in proportion/true (see END) //TODO
+* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
+* //Golden ratio as a formula, 1.618 is the ideal value for fc, c = 1 -  ϕ. equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a
 * When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.**
-* So values of a, b from the Golden Ratio can be substituted for the values of y, x in the equation for the constant of proportionality
+* So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality
 * y = kx //equation for constant of proportionality
 * k = y/x //any proportional relationship
 * END iteration gives a value for a/b = 1 (y/x = 1)
-* Death/end of identity is inevitable, always true
+* Death and end of identity is inevitable, always true for anyone
 * k = truth = constant of proportionality
 
 I will end.
@@ -149,19 +152,19 @@ Truth is truth. //a truth and a truth are proportionless in relation to their ma
 # VALUE OF VARIABLES ANSWERS a, b IN THE GOLDEN RATIO EQUATION 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
-* ϕ = (a+b)/a //because each a provides contextual truth to each b for any single calculation of ϕ, a is equal to 1 (see value for truth, k = 1 in END iteration)
-* ϕ = (1 + b)/1 //substitute for a
+* ϕ = (a+b)/a //because each *a* provides contextual truth to each *b* for any single calculation of ϕ, a is equal to 1 (see value for truth, k = 1 in END iteration)
+* ϕ = (1 + b)/1 //substitute for *a*
 * ϕ = 1 + b //simplify
-* ϕ = 1 + 1/ϕ //b must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
-* a = 1 //value for answer to "Who am I?", self-perception
-* b = 1/ϕ //~0.6180, value for answer to "Who are you?", self-definition
+* ϕ = 1 + 1/ϕ //*b* must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
+* **a = 1** //value for answer to "Who am I?", self-perception
+* **b = 1/ϕ** //~0.6180, value for answer to "Who are you?", self-definition
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
 # THE "I AM" EQUATION
 
 **EXAMPLE**
-* Let identity[x] represent an iteration of c = 1 − ϕ 
+* Let identity[x] represent an iteration of **fc, c = 1 − ϕ** 
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
 * The result from identity[0] is *c = 1 - undefined*, see BEGIN //although undefined, I know I am alive and that I am the one who asked "Who am I?"
