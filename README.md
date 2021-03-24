@@ -54,7 +54,7 @@ A variable answer is used to represent a response to a question that is infinite
 
 Variable answers occur in inverse pairs. For example, "I am a man" shares equal value, in context, to "I am not a man." The value of a vairable answer is determined by the identity it describes. For example, the value of the variable answer of "I am a student" differs between the PHD candidate and a child waiting for the recess bell. In this way, *the value of any variable answer is only relevant to the other variable answers describing the same identity.* In effect, this means that the "I" is the arbiter of their identity because values are assigned to variable answers by that arbiter.
 
-A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity. The initiator and generator concept from fractals is useful to describe variable answers. The initiator, or starting shape, is "I am" which represents the entirety of the identity. The generator, or scaled copy of the initiator, is the following descriptors or definitions that are appropriate given the context of the question.
+A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity.
 
 # IDENTITY AS A FRACTAL SET
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
