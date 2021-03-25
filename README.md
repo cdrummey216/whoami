@@ -52,7 +52,7 @@ A variable answer is used to represent a response to a question that is infinite
 
 "Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
 
-Variable answers occur in inverse pairs. For example, "I am a man" shares equal value, in context, to "I am not a man." The value of a vairable answer is determined by the identity it describes. For example, the value of the variable answer of "I am a student" differs between the PHD candidate and a child waiting for the recess bell. In this way, *the value of any variable answer is only relevant to the other variable answers describing the same identity.* In effect, this means that the "I" is the arbiter of their identity because values are assigned to variable answers by that arbiter.
+Variable answers occur in inverse pairs. For example, "I am a man" shares equal value, in context, to "I am not a man." The value of a variable answer is determined by the identity it describes. For example, the value of the variable answer of "I am a student" differs between the PHD candidate and a child waiting for the recess bell. In this way, *the value of any variable answer is only relevant to the other variable answers describing the same identity.* In effect, this means that the "I" is the arbiter of their identity because values are assigned to variable answers by that arbiter.
 
 A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity.
 
@@ -65,15 +65,15 @@ A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional quantities.
 
 * a+b/a = ϕ AND a/b = ϕ //(1) property of ϕ
-* a > b > 0 //(3) property of ϕ, the scope of *a* is greater than the scope of *b* (*a > b > 0*)
-* a+b is to a as a is to b. //(2) property of ϕ
+* a > b > 0 //(2) property of ϕ, the scope of *a* is greater than the scope of *b* (*a > b > 0*)
+* a+b is to a as a is to b. //(3) property of ϕ
 * **ϕ = 1 + 1/ϕ** //(4) property of ϕ,  ϕ can be used to define itself.
 * a = A variable answer to "Who am I?", gives contextual truth for b, provides the limiting scope for b
 * b = A variable answer to "Who are you?"
 * a+b = A combination of a and b
 * a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0 (zero or nothing)
 
-# PROPERTIES OF ϕ: 1) a+b is to a as a is to b AND 2) a+b/a = ϕ AND a/b = ϕ
+# PROPERTIES OF ϕ: 3) a+b is to a as a is to b AND 1) a+b/a = ϕ AND a/b = ϕ
 Self-concept is to self-perception as self-perception is to self-definition.
 
 **EXAMPLE**
