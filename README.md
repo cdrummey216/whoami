@@ -99,6 +99,8 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 * identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 * ϕ in the above equation is understood to be the sense of self //sense of self is the engine for identity because it can be used to define itself (property #4 of the golden ratio, or **ϕ = 1 + 1/ϕ**)
 
+![](image.png)
+
 **BEGIN** //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
