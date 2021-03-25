@@ -80,7 +80,7 @@ Self-concept is to self-perception as self-perception is to self-definition.
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
 * b = I am florist. (self-definition) //limited to context, must be true
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
-* a+b/a = ϕ AND a/b = ϕ //Sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
+* a+b/a = ϕ AND a/b = ϕ //"ϕ" is understood as sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
 * ~I am = Self-concept //an idea of the self
 
 Self-concept (*a+b*) is to self-perception (*a*) as...
