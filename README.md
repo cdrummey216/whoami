@@ -97,7 +97,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
 * identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
-* ϕ in the above equation is understood to be the sense of self //sense of self is the engine for identity because it can be used to define itself (property #4 of the golden ratio, or **ϕ = 1 + 1/ϕ**)
+* ϕ in the above equation is understood to be the sense of self //sense of self is the engine for identity because it can be used to define itself (recursion, property #4 of the golden ratio, or **ϕ = 1 + 1/ϕ**)
 
 ![](image.png)
 
