@@ -97,7 +97,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 * identity[0] is the BEGIN iteration.
 * identity[n-1] is the END iteration where n is the total number of iterations
 * identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
-* ϕ in the above equation is understood to be the sense of self //sense of self is the engine for identity because it can be used to define itself (**ϕ = 1 + 1/ϕ**)
+* ϕ in the above equation is understood to be the sense of self //sense of self is the engine for identity because it can be used to define itself (property #4 of the golden ratio, or **ϕ = 1 + 1/ϕ**)
 
 **BEGIN** //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
@@ -113,8 +113,8 @@ I am alive, who am I?
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am not alive'
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
-* a = I am not alive //no "I" exists, the question "Who am I?" would not be asked 
-* b = I am not alive //missing context, no "I" (*you*) exists to ask "Who are you?" about
+* a = I am not alive //no "I" exists so not alive, the question "Who am I?" would not be asked 
+* b = I am not alive //no "I" exists so not alive, no "I" (*you*) exists to ask "Who are you?" about
 * a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
 * a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
 * When ratio equals 1, c equals 0 (fc, c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
@@ -125,14 +125,15 @@ I know who I am.
 
 **Always True**
 * the equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
-* //Golden ratio as a formula, 1.618 is the ideal value for fc, c = 1 -  ϕ. equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a
-* When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.**
-* So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality
+* //Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a or a/b
+* When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.** //see property #1 of golden ratio
+* So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
 * y = kx //equation for constant of proportionality
 * k = y/x //any proportional relationship
-* END iteration gives a value for a/b = 1 (y/x = 1)
-* Death and end of identity is inevitable, always true for anyone
-* k = truth = constant of proportionality
+* END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
+* due to the fact that death and/or end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable. 
+* the proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. as a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value.
+* 1 = truth, or the proportion of two universal, directly proportional, and true variable answers 
 
 I will end.
 
