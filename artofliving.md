@@ -12,7 +12,9 @@ Because life is slow and tributary, each life is a part of and contributes to th
 
 
 # Self Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
-identity is incalcuable in the absence of the self (ϕ). identity is ultimately the greatest expression for the self. the self can also be expressed in words and actions.
+identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined
+
+identity is ultimately the greatest expression for the self. the self can also be expressed in words and actions.
 
 # artofliving
 How? themes. 
