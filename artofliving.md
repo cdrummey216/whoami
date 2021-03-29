@@ -1,6 +1,6 @@
 
 # a foundation for reason
-Life is good.
+Life is good. //existential calm
 
 Why? //abstract idea/a belief that is widely agreed upon. 
 
