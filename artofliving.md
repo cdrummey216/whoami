@@ -10,6 +10,8 @@ Because a life is an opportunity. Life is time and moments are opporunitites.
 
 Because life is slow and tributary, each life is a part of and contributes to the clamorous unison of Life.
 
+**The Lonely Isle**
+imagine yourself, alone on an island seeking the unknown. ultimately, what is knowable is what is observable on the island. the cycle of birth, growth and death is evident.
 
 # Self Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
 identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined
