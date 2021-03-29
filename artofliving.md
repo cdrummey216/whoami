@@ -2,7 +2,8 @@
 # a foundation for reason
 Life is good.
 
-Why?
+Why? //abstract idea/a belief that is widely agreed upon. 
+
 Because the existence of life means that 'this' is not empty, so each life ultimately something from nothing. //simplification
 
 Because a life is an opportunity. Life is time and moments are opporunitites.
