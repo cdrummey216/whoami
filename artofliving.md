@@ -1,6 +1,6 @@
 
 # a foundation for reason
-Life is good. //existential calm
+Life is good. //existential calm, 
 
 Why? //abstract idea/a belief that is widely agreed upon. 
 
@@ -10,7 +10,7 @@ Because a life is an opportunity. Life is time and moments are opporunitites.
 
 Because life is slow and tributary, each life is a part of and contributes to the clamorous unison of Life.
 
-**The Lonely Isle**
+**The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
 
 imagine yourself, alone on an island seeking the unknown. ultimately, what is knowable is what is observable on the island. the cycle of birth, growth and death is evident.
 
