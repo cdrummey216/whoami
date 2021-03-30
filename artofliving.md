@@ -1,6 +1,6 @@
 
-# a foundation for reason
-Why a foundation for reason? //Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is required for how or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for reason because the answer meaningfully connects an identity to reality.
+# a foundation for understanding
+Why a foundation for understanding? //Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is required for how or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for reason because the answer meaningfully connects an identity to reality.
 
 Life is good. //existential calm (i know who and what i am), abstract idea/a belief that is widely agreed upon.
 
