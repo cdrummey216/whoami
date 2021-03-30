@@ -14,7 +14,7 @@ Because life is slow and tributary. each life is a component within the unison o
 
 **The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
 
-Imagine yourself, alone on a desert island seeking the unknown. ultimately, what is knowable is what is observable on the island. its observable that you are alive. so far so good. //the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. (good > bad, alive > not alive)
+Imagine yourself, alone on a desert island seeking the unknown. ultimately, what is knowable is what is observable on the island. its observable that you are alive. so far so good. //the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. (good > bad, alive > not alive). the BEGIN iteration shows that 'i am alive'.
 
 # Self Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
 identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined
