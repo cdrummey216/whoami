@@ -37,40 +37,40 @@ by what thoughts and devices do you live your life? how do the themes you chose 
 *Act in good faith, speak with good will* //external, internal
 	Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
   
-Notes on values
+**Notes on values**
 
-Patience //waiting for opportunities
-Trust //trust facilitates
-Freedom //freedom is essential to knowing and discovering oneself because the desire to know onself is a choice. universal scope
+* Patience //waiting for opportunities
+* Trust //trust facilitates
+* Freedom //freedom is essential to knowing and discovering oneself because the desire to know onself is a choice. universal scope
 
 
-Self-Awareness, 
-Self-development, 
-Skilfulness, 
-Open-mindedness, 
-Mindfulness, 
-Responsibility, 
-Flexibility, 
-Challenge, 
-Curiosity
+* Self-Awareness, 
+* Self-development, 
+* Skilfulness, 
+* Open-mindedness, 
+* Mindfulness, 
+* Responsibility, 
+* Flexibility, 
+* Challenge, 
+* Curiosity
 
-Self-control, 
-Authenticity, 
-Independence, 
-Persistence, 
-Contribution, 
-Courage, 
-Equality
+* Self-control, 
+* Authenticity, 
+* Independence, 
+* Persistence, 
+* Contribution, 
+* Courage, 
+* Equality
 
-Self-care, 
-Honesty, 
-Gratitude, 
-Generosity, 
-Respect, 
-Encouragement,
-Acceptance, 
-Compassion, 
-Beauty, 
-Humor, 
-Spirituality, 
-Supportiveness
+* Self-care, 
+* Honesty, 
+* Gratitude, 
+* Generosity, 
+* Respect, 
+* Encouragement,
+* Acceptance, 
+* Compassion, 
+* Beauty, 
+* Humor, 
+* Spirituality, 
+* Supportiveness
