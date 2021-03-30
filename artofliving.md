@@ -1,3 +1,5 @@
+# a foundation for reason
+every cause is an effect and every effect is a cause.
 
 # a foundation for understanding
 Why a foundation for understanding? //Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is required for how or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. What am I? --> 'I am a living being.' --> Life -at minimum- is good.
