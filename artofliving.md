@@ -22,6 +22,8 @@ identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, 
 identity is ultimately the greatest expression for the self. the self can also be expressed in words and actions.
 
 # artofliving
+Why 'art of living'? //because art is self expression and living is expressing oneself over a lifetime.
+
 How? themes. Life is good. //existential calm
 
 by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
