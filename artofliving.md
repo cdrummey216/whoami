@@ -1,6 +1,6 @@
 
 # a foundation for understanding
-Why a foundation for understanding? //Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is required for how or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality.
+Why a foundation for understanding? //Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is required for how or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. What am I? --> 'I am a living being.' --> Life -at minimum- is good.
 
 Life is good. //existential calm, or i know who and what i am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment about the binary state of existence of 'i am alive'. the judgement is universal because the only alternative is 'i am not alive' which any reasonable person would percieve as 'not good' or 'bad'. abstract idea/a belief that is widely agreed upon.
 
