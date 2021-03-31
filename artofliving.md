@@ -41,6 +41,9 @@ by what thoughts and devices do you live your life? how do the themes you chose 
 *Act in good faith, speak with good will* //external, internal
 * Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
   
+ *Echoboxing* //external, internal
+ * words or actions taken in order to *further* or *diminish* the echo. //responding to the progression of time, to plow and to sow, shadowboxing + chessboxing
+ 
 **Notes on values**
 
 * Patience //life is time, so patience is necessary when living. understanding that all things evolve with time, waiting for opportunities
