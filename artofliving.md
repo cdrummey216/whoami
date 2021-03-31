@@ -34,7 +34,7 @@ by what thoughts and devices do you live your life? how do the themes you chose 
 **List of themes and associated values**
 * *Overthemes*: Patience, Trust, Freedom //essential to all themes
 
-*Skill in hand, subtlety in mind* //external, internal
+*Skilled in hand, subtle in mind* //external, internal
 * Self-Awareness, Self-development, Skilfulness, Open-mindedness, Mindfulness, Responsibility, Flexibility, Challenge, Curiosity
 
 *Steadfast in attitude, force of meaning* //external, internal
