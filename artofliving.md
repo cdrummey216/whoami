@@ -17,9 +17,18 @@ Imagine yourself, alone on a desert island seeking the unknown. ultimately, what
 * Because life is slow and tributary. each life is a component within the unison of Life. //life has universal scope
 
 # Self Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
-identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined
+identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
 
-identity is ultimately the greatest expression for the self. the self can also be expressed in words and actions.
+in this way, identity becomes an expression of the self due to the fact that the self is necessary in order for an identity exist.
+
+so self expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
+
+What does it mean that c = -1/ϕ?
+at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
+
+in the Golden Ratio calculations, it is shown that variable answers (self-definitions) to the question "Who are you?" have the value of 1/ϕ and are contextual. //positive to negative, internal to external, self concept limited to context
+
+what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived. So the value 
 
 # artofliving
 Why 'art of living'? //because art is self expression and living is expressing oneself over a lifetime.
