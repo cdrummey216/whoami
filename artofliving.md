@@ -2,13 +2,14 @@
 every cause is an effect and every effect is a cause. //in development
 
 # a foundation for understanding
-Why a foundation for understanding? //Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. What am I? --> 'I am a living being.' --> Life -at minimum- is good.
+**Why a foundation for understanding?** 
 
-Life is good. //existential calm, or i know who and what i am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment about the binary state of existence of 'i am alive'. the judgement is universal because the only alternative is 'i am not alive' which any reasonable person would percieve as 'not good' or 'bad'.
+* Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. What am I? --> 'I am a living being.' --> Life -at minimum- is good.
+* Life is good. //existential calm, or i know who and what i am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment about the binary state of existence of 'i am alive'. the judgement is universal because the only alternative is 'i am not alive' which any reasonable person would percieve as 'not good' or 'bad'.
 
 **The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
 
-Imagine yourself, alone on a desert island seeking the unknown. ultimately, what is knowable is what is observable on the island. its observable that you are alive, a living being. with the judgement that 'life is good', existential angst converts to existential calm and reason/rationalization is clear. //the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. (good > bad, alive > not alive). the BEGIN iteration shows that 'i am alive'.
+* Imagine yourself, alone on a desert island seeking the unknown. ultimately, what is knowable is what is observable on the island. its observable that you are alive, a living being. with the judgement that 'life is good', existential angst converts to existential calm and reason/rationalization is clear. //the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. (good > bad, alive > not alive). the BEGIN iteration shows that 'i am alive'.
 
 **Why is it good?** //simplificiation, 'good' refers to anything not negative/bad
 
@@ -17,40 +18,45 @@ Imagine yourself, alone on a desert island seeking the unknown. ultimately, what
 * Because life is slow and tributary. each life is a component within the unison of Life. //life has universal scope
 
 # Self Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
-identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
+**main points**
+* identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
+* in this way, identity becomes an expression of the self due to the fact that the self is necessary in order for an identity exist.
+* so self expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
 
-in this way, identity becomes an expression of the self due to the fact that the self is necessary in order for an identity exist.
+**What does it mean that c = -1/ϕ?**
+* at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
+* in the Golden Ratio calculations, it is shown that variable answers to the question "Who are you?" (*self-definitions*) have the value of 1/ϕ and are contextual. it may be that the value of -1/ϕ is the contextual value of the answer to "Who am I?" (*self-perception*).  identity (-1/ϕ), and by extension all self expression, is the contextual externalization of self-perception. //explanation for |-1/ϕ|, context reduces the value of self-percpetion due to limitation inherent to the means of externalization.
 
-so self expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
-
-What does it mean that c = -1/ϕ?
-at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
-
-in the Golden Ratio calculations, it is shown that variable answers (self-definitions) to the question "Who are you?" have the value of 1/ϕ and are contextual. //positive to negative, internal to external, self concept limited to context
-
-what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived. So the value 
+**Why is it negative?**
+* Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
+* what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
 # artofliving
-Why 'art of living'? //because art is self expression and living is expressing oneself over a lifetime.
 
-How? themes. Life is good. //existential calm
+**Topics**
+* Why 'art of living'? //because art is self expression and living is expressing one's self over a lifetime.
+* How? Themes. Life is good. //existential calm
+* by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
 
-by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
 
+**List of themes and associated values** //'values' here is different from 'values' when referring to identity equations.
 
-**List of themes and associated values**
 *Overthemes*: Patience, Trust, Freedom //essential to all themes
 
 *Skilled in hand, subtle in mind* //external, internal
+* the ability to change
 * Self-Awareness, Self-development, Skilfulness, Open-mindedness, Mindfulness, Responsibility, Flexibility, Challenge, Curiosity
 
 *Steadfast in attitude, force of meaning* //external, internal
-* Self-control, Authenticity, Independence, Persistence, Contribution, Courage, Equality, Resilience
+* the resilience of truth
+* Self-control, Authenticity, Independence, Persistence, Contribution, Courage, Equality
 
 *Act in good faith, speak with good will* //external, internal
+* the power of intention
 * Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
   
  *Echoboxing* //external, internal
+ * means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //responding to the progression of time, to plow and to sow, shadowboxing + chessboxing
  
 **Notes on values**
