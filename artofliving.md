@@ -57,7 +57,7 @@ every cause is an effect and every effect is a cause. //in development
   
  *Echoboxing* //external, internal
  * means of externalization
- * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river, to plow and to sow, shadowboxing + chessboxing
+ * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
 **Notes on values**
 
