@@ -34,7 +34,7 @@ every cause is an effect and every effect is a cause. //in development
 # artofliving
 
 **Topics**
-* Why 'art of living'? //because art is self expression and living is expressing one's self over a lifetime.
+* Why 'art of living'? //'living' as 'art', because art is self expression and living is expressing one's self over a lifetime.
 * How? Themes. Life is good. //existential calm
 * by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
 
@@ -44,19 +44,20 @@ every cause is an effect and every effect is a cause. //in development
 *Overthemes*: Patience, Trust, Freedom //essential to all themes
 
 *Skilled in hand, subtle in mind* //external, internal
-* the ability to change
+* the ability to change //changeable
 * Self-Awareness, Self-development, Skilfulness, Open-mindedness, Mindfulness, Responsibility, Flexibility, Challenge, Curiosity
 
 *Steadfast in attitude, force of meaning* //external, internal
-* the resilience of truth
+* the resilience of truth //truth endures
 * Self-control, Authenticity, Independence, Persistence, Contribution, Courage, Equality
 
 *Act in good faith, speak with good will* //external, internal
-* the power of intention
+* the power of intention //intent empowers
 * Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
   
  *Echoboxing* //external, internal
- * means of externalization
+ * softness //soft technique uses momentum to create opportunity
+ * a means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
 **Notes on values**
@@ -96,3 +97,9 @@ every cause is an effect and every effect is a cause. //in development
 * Humor //connection to Life
 * Spirituality //knowing that some things are unknowable and so belief is required
 * Supportiveness //related to responsibility, to give support when support can be given
+
+Who am I?  //the core values and traits to define an idenity
+Why am I here? //struggle to make meaning without direction
+What do I do with my life?  //start with, what does the end of my life look like? and work backwards
+Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
+What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between.
