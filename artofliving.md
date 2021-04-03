@@ -98,8 +98,9 @@ every cause is an effect and every effect is a cause. //in development
 * Spirituality //knowing that some things are unknowable and so belief is required
 * Supportiveness //related to responsibility, to give support when support can be given
 
-Who am I?  //the core values and traits to define an idenity
-Why am I here? //struggle to make meaning without direction
-What do I do with my life?  //start with, what does the end of my life look like? and work backwards
-Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
-What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between.
+# Additional Topics
+* Who am I?  //the core values and traits to define an idenity
+* Why am I here? //struggle to make meaning without direction
+* What do I do with my life?  //start with, what does the end of my life look like? and work backwards
+* Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
+* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between.
