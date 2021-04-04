@@ -77,7 +77,7 @@ every cause is an effect and every effect is a cause. //in development
 * Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
   
  *Echoboxing* //external, internal
- * softness //soft technique uses momentum to create opportunity
+ * softness //soft technique (martial arts) uses momentum to create opportunity
  * a means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
