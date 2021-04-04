@@ -17,11 +17,11 @@ every cause is an effect and every effect is a cause. //in development
 * Because a life is an opportunity. Life is time and moments are opporunitites. //time has value
 * Because life is slow and tributary. each life is a component within the unison of Life. //life has universal scope
 
-# Self Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
+# Self-Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
 **main points**
 * identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
-* in this way, identity becomes an expression of the self due to the fact that the self is necessary in order for an identity exist.
-* so self expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
+* in this way, identity becomes an expression of the self due to the fact that the self is necessary to produce an identity. //'identity' as a product of an equation for the self. 'identity' as a snapshot of the self. 
+* so self-expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
 
 **What does it mean that c = -1/ϕ?**
 * at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
@@ -30,6 +30,13 @@ every cause is an effect and every effect is a cause. //in development
 **Why is it negative?**
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
 * what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
+
+# Topics
+* Who am I?  //the core values and traits to define an idenity
+* Why am I here? //struggle to make meaning without direction
+* What do I do with my life?  //start with, what does the end of my life look like? and work backwards
+* Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
+* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between.
 
 # artofliving
 
@@ -98,9 +105,4 @@ every cause is an effect and every effect is a cause. //in development
 * Spirituality //knowing that some things are unknowable and so belief is required
 * Supportiveness //related to responsibility, to give support when support can be given
 
-# Additional Topics
-* Who am I?  //the core values and traits to define an idenity
-* Why am I here? //struggle to make meaning without direction
-* What do I do with my life?  //start with, what does the end of my life look like? and work backwards
-* Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
-* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between.
+
