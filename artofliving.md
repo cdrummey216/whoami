@@ -31,12 +31,27 @@ every cause is an effect and every effect is a cause. //in development
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
 * what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
+# A Conversation with Death 
+
+* when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
+* a 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
+* a 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
+* a 'no' signals fear of death //"are you ready?"
+
+**Are you ready?**
+
+* if yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
+* if no, wait. //to wait is to dread
+
+**Are you willing?**
+* while the clear answer is 'no', the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth)
+
 # Topics
-* Who am I?  //the core values and traits to define an idenity
-* Why am I here? //struggle to make meaning without direction
+* Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
+* Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose
 * What do I do with my life?  //start with, what does the end of my life look like? and work backwards
 * Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
-* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between.
+* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between. birth and death are like two book ends and each life is composed of the stories in between.
 
 # artofliving
 
@@ -44,7 +59,6 @@ every cause is an effect and every effect is a cause. //in development
 * Why 'art of living'? //'living' as 'art', because art is self expression and living is expressing one's self over a lifetime.
 * How? Themes. Life is good. //existential calm
 * by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
-
 
 **List of themes and associated values** //'values' here is different from 'values' when referring to identity equations.
 
@@ -77,7 +91,7 @@ every cause is an effect and every effect is a cause. //in development
 * Self-Awareness //What is the relationship between my concept of self and my expression of self?
 * Self-development //from self-awareness, what can be modified for a better result?
 * Skilfulness //knowledge AND making/doing
-* Open-mindedness //knowing that my self is separate from another's self
+* Open-mindedness //knowing that my self is separate from another's self and seeking understanding
 * Mindfulness //when a disconnection between self concept and self expression/externalization, ability to forgive oneself.
 * Responsibility //although i am separate from others, i have committments to my self and to others that must be upheld
 * Flexibility //patience requires flexibility, or flexibility is a method for existing in a changing environment
@@ -104,5 +118,3 @@ every cause is an effect and every effect is a cause. //in development
 * Humor //connection to Life
 * Spirituality //knowing that some things are unknowable and so belief is required
 * Supportiveness //related to responsibility, to give support when support can be given
-
-
