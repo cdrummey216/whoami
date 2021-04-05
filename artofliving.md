@@ -1,9 +1,9 @@
 # a foundation for reason
 every cause is an effect and every effect is a cause. //in development
 
-# a foundation for understanding
-**Why a foundation for understanding?** 
-
+# universal truth, or a common good
+**Why is a common good necessary?**
+* a shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness.
 * Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. What am I? --> 'I am a living being.' --> Life -at minimum- is good.
 * Life is good. //existential calm, or i know who and what i am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment about the binary state of existence of 'i am alive'. the judgement is universal because the only alternative is 'i am not alive' which any reasonable person would percieve as 'not good' or 'bad'.
 
@@ -32,7 +32,7 @@ every cause is an effect and every effect is a cause. //in development
 * what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
 # A Conversation with Death 
-
+* Why? //cannot know life without first understanding death
 * when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
 * a 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
 * a 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
@@ -45,6 +45,12 @@ every cause is an effect and every effect is a cause. //in development
 
 **Are you willing?**
 * while the clear answer is 'no', the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
+* ability without intent //truth, the ability to end exists for the self, but the self must have intent in order to end
+
+# Identity as oneness or Identity as a multiple
+* the 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
+* split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
+* split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //the abyss, the void, the empty spaces between perception and untrue definitions for the self
 
 # Topics
 * Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
