@@ -67,6 +67,7 @@ every cause is an effect and every effect is a cause. //in development
 * Why 'art of living'? //'living' as 'art', because art is self expression and living is expressing one's self over a lifetime.
 * How? Themes. Life is good. //existential calm
 * by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
+* convert to framework //framework must work with the duality of internal/external
 
 **List of themes and associated values** //'values' here is different from 'values' when referring to identity equations.
 
