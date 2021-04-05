@@ -44,8 +44,9 @@ every cause is an effect and every effect is a cause. //in development
 * if no, wait. //to wait is to dread
 
 **Are you willing?**
-* while the clear answer is 'no', the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
-* ability without intent //truth, the ability to end exists for the self, but the self must have intent in order to end
+* for most, the answer is 'no' //there are only a few things someone may be will to die for
+* the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
+* this question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end. 
 
 # Identity as oneness or Identity as a multiple
 * the 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
