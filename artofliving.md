@@ -50,7 +50,7 @@ every cause is an effect and every effect is a cause. //in development
 # Identity as oneness or Identity as a multiple
 * the 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
 * split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
-* split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //the abyss, the void, the empty spaces between perception and untrue definitions for the self
+* split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
 
 # Topics
 * Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
@@ -84,6 +84,7 @@ every cause is an effect and every effect is a cause. //in development
   
  *Echoboxing* //external, internal
  * softness //soft technique (martial arts) uses momentum to create opportunity
+ * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms contributing to a single piece of music, tributary
  * a means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
