@@ -55,10 +55,10 @@ every cause is an effect and every effect is a cause. //in development
 
 # Topics
 * Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
-* Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose, any answer will not change the fact that you are here and you *need* to do something.
-* What do I do with my life?  //start with, what does the end of my life look like? and work backwards
+* Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose, any answer will not change the fact that you are here and you *need* to do something so "What *can* I *do*?" becomes more relevant.
+* What do I do with my life?  //start with: what does the end of my life look like? and work backwards. How do you get there and what can you do now to get there? (direction)
 * Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
-* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between. birth and death are like two book ends and each life is composed of the stories in between.
+* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. birth and death are like two book ends and each life is composed of the stories in between.
 
 # artofliving
 
@@ -85,7 +85,7 @@ every cause is an effect and every effect is a cause. //in development
   
  *Echoboxing* //external, internal
  * softness //soft technique (martial arts) uses momentum to create opportunity
- * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms contributing to a single piece of music, tributary
+ * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms contributing to a single piece of music, tributary to the end state
  * a means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
