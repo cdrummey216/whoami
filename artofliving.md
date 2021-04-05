@@ -44,11 +44,11 @@ every cause is an effect and every effect is a cause. //in development
 * if no, wait. //to wait is to dread
 
 **Are you willing?**
-* while the clear answer is 'no', the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth)
+* while the clear answer is 'no', the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
 
 # Topics
 * Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
-* Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose
+* Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose, any answer will not change the fact that you are here and you *need* to do something.
 * What do I do with my life?  //start with, what does the end of my life look like? and work backwards
 * Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
 * What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. the vision lies between. birth and death are like two book ends and each life is composed of the stories in between.
