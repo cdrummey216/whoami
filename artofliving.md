@@ -12,7 +12,14 @@ every cause is an effect and every effect is a cause. //in development
 * Imagine yourself, alone on a desert island seeking the unknown. 
 * ultimately, what is knowable is what is observable on the island. 
 * its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > bad, alive > not alive)
-* with the judgement that 'life is good', existential angst converts to existential calm. //the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. the BEGIN iteration shows that 'i am alive'.
+* with the judgement that 'life is good', existential angst converts to existential calm. //I am because I live. the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. the BEGIN iteration shows that 'i am alive'. 
+
+**Existenial Calm**
+
+* as a state of 'readiness', existential calm parries for the mind and for the body. the combination of the knowledge that 1) 'i am alive' and 2) 'i will end' equips an identity to understand their position in the depth of time (long time) and the shortness of life //life always good because at minimum, its good to be alive.
+* i know who and what i am. //i am a living being and life is a binary state
+* I am because I live.  //life is good because i am alive (judgement)
+
 
 **Why is it good?** //simplificiation, 'good' refers to anything not negative/bad
 
