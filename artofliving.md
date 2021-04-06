@@ -4,11 +4,11 @@ The following are the conclusions and judgements that can be made based on the [
 a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to an externalization of self.
 
 other opuses: //an externalization that exhibits a value
-work of kindness //
-work of gratitude
-work of love
-work of skill
-work of...
+* work of kindness //
+* work of gratitude
+* work of love
+* work of skill
+* work of...
 
 # a foundation for reason
 every cause is an effect and every effect is a cause. //in development
