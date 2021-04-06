@@ -1,3 +1,6 @@
+# Overview & Purpose
+The following are the conclusions and judgements that can be made based on the [identity equations](whoiam.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. Self-expression is means by which the internal processes for perceiving and defining one's self are externalized, or made real in the world. Living is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the self**, *by the self*, <ins>for the self</ins>. Therefore, living is art, or an application of human creative skill and imagination.
+
 # a foundation for reason
 every cause is an effect and every effect is a cause. //in development
 
@@ -14,7 +17,7 @@ every cause is an effect and every effect is a cause. //in development
 * its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > bad, alive > not alive)
 * with the judgement that 'life is good', existential angst converts to existential calm. //I am because I live. the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. the BEGIN iteration shows that 'i am alive'. 
 
-**Existenial Calm**
+**Existential Calm**
 
 * as a state of 'readiness', existential calm parries for the mind and for the body. the combination of the knowledge that 1) 'i am alive' and 2) 'i will end' equips an identity to understand their position in the depth of time (long time) and the shortness of life //life always good because at minimum, its good to be alive.
 * i know who and what i am. //i am a living being and life is a binary state
