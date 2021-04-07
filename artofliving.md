@@ -4,7 +4,7 @@ The following are the conclusions and judgements that can be made based on the [
 a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to an externalization of self.
 
 other opuses: //an externalization that exhibits a value
-* work of kindness //
+* work of kindness
 * work of gratitude
 * work of love
 * work of skill
@@ -21,15 +21,15 @@ every cause is an effect and every effect is a cause. //in development
 
 **The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
 
-* Imagine yourself, alone on a desert island seeking the unknown. 
-* ultimately, what is knowable is what is observable on the island. 
-* its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > bad, alive > not alive)
-* with the judgement that 'life is good', existential angst converts to existential calm. //I am because I live. the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. the BEGIN iteration shows that 'i am alive'. 
+* Imagine yourself, alone on a desert island, seeking the unknown. 
+* Ultimately, what is knowable is what is observable on the island. //no other on island, alone with self and knowledge of identity equations. the BEGIN iteration shows that 'i am alive'. 
+* Its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > bad, alive > not alive)
+* with the judgement that 'life is good', existential angst converts to existential calm. //I am because I live. the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. 
 
 **Existential Calm**
 
-* as a state of 'readiness', existential calm parries for the mind and for the body. the combination of the knowledge that 1) 'i am alive' and 2) 'i will end' equips an identity to understand their position in the depth of time (long time) and the shortness of life //life always good because at minimum, its good to be alive.
-* i know who and what i am. //i am a living being and life is a binary state
+* As a state of 'readiness', existential calm parries for the mind and for the body. the combination of the knowledge that 1) 'i am alive' and 2) 'i will end' equips an identity to understand their position in the depth of time (long time) and the shortness of life //life always good because at minimum, its good to be alive.
+* I know who and what I am. //i am a living being and life is a binary state
 * I am because I live.  //life is good because i am alive (judgement)
 
 
