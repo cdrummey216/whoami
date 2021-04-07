@@ -127,7 +127,7 @@ every cause is an effect and every effect is a cause. //in development
 * Self-development //from self-awareness, what can be modified for a better result?
 * Skilfulness //knowledge AND making/doing
 * Open-mindedness //knowing that my self is separate from another's self and seeking understanding
-* Mindfulness //when a disconnection between self concept and self expression/externalization, ability to forgive oneself.
+* Mindfulness //ability to aware and seek balance
 * Responsibility //although i am separate from others, i have committments to my self and to others that must be upheld
 * Flexibility //patience requires flexibility, or flexibility is a method for existing in a changing environment
 * Challenge //challenging onself in new ways is a method for self-development and skilfulness
@@ -135,13 +135,13 @@ every cause is an effect and every effect is a cause. //in development
 
 * Self-control //How do i manage myself so as to not negatively affect others, or how to prevent undesirable thoughts from turning into undesriable actions?
 * Authenticity //the calculation for identity is disrupted when variable answers are untrue or unauthentic to the self
-* Independence //freedom from external influence so as to truly know one self.
-* Persistence //conviction in both meaning and attitude in pursuit of a goal
+* Independence //freedom from external influence so as to truly know one's self.
+* Persistence //endurance in both meaning and attitude in pursuit of a goal
 * Contribution //knowing the value of the self in different contexts
 * Courage //necessary for persistence, the conviction that something is true
 * Equality //treat others the way you want to be treated, treat yourself the way you want others to treat you
 
-* Self-care //respect for one's life as it relates to the body
+* Self-care //respect for one's life as it relates to the body and mind
 * Honesty //honesty as a rule for acting in good faith
 * Gratitude //recognizing good faith in others' actions
 * Generosity //give freely the things that you create or control so that you are free from care, passing ever on to some new work
