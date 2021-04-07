@@ -1,7 +1,7 @@
 # Overview & Purpose
 The following are the conclusions and judgements that can be made based on the [identity equations](whoiam.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. Self-expression is the means by which *the internal processes for perceiving and defining one's self* are externalized, or made real in the world. Living is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the self**, *by the self*, <ins>for the self</ins>. Therefore, living is art, or an application of human creative skill and imagination. 
 
-a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to an externalization of self.
+a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to an externalization of self, or an opus.
 
 other opuses: //an externalization that exhibits a value
 * work of kindness
@@ -15,14 +15,17 @@ every cause is an effect and every effect is a cause. //in development
 
 # universal truth, or a common good
 **Why is a common good necessary?**
-* Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality. The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. What am I? --> 'I am a living being.' --> Life -at minimum- is good.
-* Life is good. //existential calm, or i know who and what i am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment about the binary state of existence of 'i am alive'. the judgement is universal because the only alternative is 'i am not alive' which any reasonable person would percieve as 'not good' or 'bad'.
-* a shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness.
+* Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality (I am but how?).  The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. 
+* What am I? //'I am a living being.' 
+* In order to be considered 'living', an identity (self) must be 'alive'. //I know I am alive because the BEGIN iteration demonstrates that self is alive utilizing the binary state of alive/not alive
+* Living (to be alive) is a binary state, so only one alternative exists. any reasonable person would agree that being alive is better than being not alive. (good > bad, alive > not alive)
+* Life is good. //existential calm, or i know who and what i am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment made about what the binary state ('alive'/'not alive') *represents*, or 'Life'. The judgement that *Life is good* is universal because the only alternative ('I am not alive') represents death, which any reasonable person would percieve as 'not good'/'bad'. Death is 'bad' from the perspective of the self because it reresents the end of self. //END iteration, c = 0
+* A shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness (ie every individual agrees that 'Life is good').
 
 **The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
 
 * Imagine yourself, alone on a desert island, seeking the unknown. 
-* Ultimately, what is knowable is what is observable on the island. //no other on island, alone with self and knowledge of identity equations. the BEGIN iteration shows that 'i am alive'. 
+* Ultimately, what is knowable is what is observable on the island. //no other on island, alone with self and knowledge of identity equations. the BEGIN iteration shows that 'i am alive'. knowable = observable
 * Its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > bad, alive > not alive)
 * with the judgement that 'life is good', existential angst converts to existential calm. //I am because I live. the END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'i will end'. 
 
