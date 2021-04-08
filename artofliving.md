@@ -112,7 +112,7 @@ every cause is an effect and every effect is a cause. //in development
   
  *Echoboxing* //external, internal
  * softness //soft technique (martial arts) uses momentum to create opportunity
- * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms contributing to a single piece of music, tributary to the end state
+ * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms (or themes) contributing to a single piece of music (or a life), tributary to the end state
  * a means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
