@@ -32,7 +32,7 @@ every cause is an effect and every effect is a cause. //in development
 
 **Existential Calm**
 
-* As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand their position in the depth of time (long time) and the shortness of life //life always good because at minimum, its good to be alive.
+* As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
 * I know who and what I am. //I am a living being and life is a binary state
 * I am because I live.  //Life is good because i am alive (judgement)
 
@@ -110,7 +110,7 @@ every cause is an effect and every effect is a cause. //in development
 * the power of intention //intent empowers
 * Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
   
- *Echoboxing* //external, internal
+ *Echoboxing* //externalization of mindfulness
  * softness //soft technique (martial arts) uses momentum to create opportunity
  * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms (or themes) contributing to a single piece of music (or a life), tributary to the end state
  * a means of externalization
