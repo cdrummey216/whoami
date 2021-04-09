@@ -15,6 +15,7 @@ Other opuses: //an externalization that exhibits a value
 every cause is an effect and every effect is a cause. //in development
 
 # universal truth, or a common good
+
 **Key Topics**
 * a
 * b
@@ -29,23 +30,22 @@ every cause is an effect and every effect is a cause. //in development
 * A shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness (ie every individual agrees that 'Life is good').
 
 **The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
-**Key Topics**
-* a
-* b
-* c
 
+**Key Topics**
 * Imagine yourself, alone on a desert island, seeking the unknown. 
 * Ultimately, what is knowable is what is observable on the island. //no other person on island, alone with self and knowledge of identity equations. the BEGIN iteration shows that 'I am alive'. knowable = observable
 * Its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > not good (bad), alive > not alive)
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 
 **Existential Calm**
+
 **Key Topics**
 * As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
 * I know who and what I am. //I am a living being and life is a binary state
 * I am because I live.  //Life is good because i am alive (judgement)
 
 **Why is it good?**
+
 **Key Topics**
 * a
 * b
@@ -56,6 +56,7 @@ every cause is an effect and every effect is a cause. //in development
 * Because life is slow and tributary. each life is a component within the unison of Life. //life has universal scope
 
 # Self-Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
+
 **main points**
 * identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
 * in this way, identity becomes an expression of the self due to the fact that the self is necessary to produce an identity. //'identity' as a product of an equation for the self. 'identity' as a snapshot of the self. 
@@ -75,6 +76,7 @@ every cause is an effect and every effect is a cause. //in development
 * what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
 # A Conversation with Death
+
 **Key Topics**
 * Why? //cannot know life without first understanding death
 * when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
@@ -99,6 +101,7 @@ every cause is an effect and every effect is a cause. //in development
 * split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
 
 # Questions for Self
+
 **Key Topics**
 * Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
 * Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose, any answer will not change the fact that you are here and you *need* to do something so "What *can* I *do*?" becomes more relevant.
