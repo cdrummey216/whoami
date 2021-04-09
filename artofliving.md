@@ -181,3 +181,6 @@ every cause is an effect and every effect is a cause. //in development
 * Humor //connection to Life
 * Spirituality //knowing that some things are unknowable and so belief is required
 * Supportiveness //related to responsibility, to give support when support can be given
+
+
+# Narrative
