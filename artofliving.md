@@ -15,6 +15,11 @@ Other opuses: //an externalization that exhibits a value
 every cause is an effect and every effect is a cause. //in development
 
 # universal truth, or a common good
+**Key Topics**
+* a
+* b
+* c
+
 **Why is a common good necessary?**
 * Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality (I am but how?).  The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. 
 * What am I? //'I am a living being.' 
@@ -24,6 +29,10 @@ every cause is an effect and every effect is a cause. //in development
 * A shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness (ie every individual agrees that 'Life is good').
 
 **The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
+**Key Topics**
+* a
+* b
+* c
 
 * Imagine yourself, alone on a desert island, seeking the unknown. 
 * Ultimately, what is knowable is what is observable on the island. //no other person on island, alone with self and knowledge of identity equations. the BEGIN iteration shows that 'I am alive'. knowable = observable
@@ -31,12 +40,16 @@ every cause is an effect and every effect is a cause. //in development
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 
 **Existential Calm**
-
+**Key Topics**
 * As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
 * I know who and what I am. //I am a living being and life is a binary state
 * I am because I live.  //Life is good because i am alive (judgement)
 
 **Why is it good?**
+**Key Topics**
+* a
+* b
+* c
 
 * Because the existence of life means that 'this' is not empty. //each life ultimately 'something from nothing.' simplification for universal causation
 * Because a life is an opportunity. Life is time and moments are opporunitites. //time has value
@@ -48,6 +61,11 @@ every cause is an effect and every effect is a cause. //in development
 * in this way, identity becomes an expression of the self due to the fact that the self is necessary to produce an identity. //'identity' as a product of an equation for the self. 'identity' as a snapshot of the self. 
 * so self-expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
 
+**Key Topics**
+* The relationship between 'self' and 'identity'
+* b
+* c
+
 **What does it mean that c = -1/ϕ?**
 * at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
 * in the Golden Ratio calculations, it is shown that variable answers to the question "Who are you?" (*self-definitions*) have the value of 1/ϕ and are contextual. it may be that the value of -1/ϕ is the contextual value of the self (*self-concept*).  identity (-1/ϕ), and by extension all self expression, is the contextual externalization of self-concept. //explanation for |-1/ϕ|, context reduces the value of self-percpetion due to limitations inherent to the means of externalization. //needs clarification
@@ -56,7 +74,8 @@ every cause is an effect and every effect is a cause. //in development
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
 * what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
-# A Conversation with Death 
+# A Conversation with Death
+**Key Topics**
 * Why? //cannot know life without first understanding death
 * when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
 * a 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
@@ -79,7 +98,8 @@ every cause is an effect and every effect is a cause. //in development
 * split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
 * split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
 
-# Topics
+# Questions for Self
+**Key Topics**
 * Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
 * Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose, any answer will not change the fact that you are here and you *need* to do something so "What *can* I *do*?" becomes more relevant.
 * What do I do with my life?  //start with: what does the end of my life look like? and work backwards. How do you get there and what can you do now to get there? (direction)
@@ -93,6 +113,11 @@ every cause is an effect and every effect is a cause. //in development
 * How? Themes. Life is good. //existential calm
 * by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
 * convert to framework //framework must work with the duality of internal/external
+
+**Key Topics**
+* a
+* b
+* c
 
 **List of themes and associated values** //'values' here is different from 'values' when referring to identity equations.
 
