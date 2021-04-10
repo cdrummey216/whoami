@@ -37,6 +37,12 @@ every cause is an effect and every effect is a cause. //in development
 * Its observable that you are alive, a living being. //because living is a binary state, only one alternative exists. any reasonable person would agree that being alive is better than being dead. (good > not good (bad), alive > not alive)
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 
+**Why am I here (on the Lonely Isle)?**
+* You are equipped with the judgement that 'Life is good', the knowledge that you will die, and the observation that you are alive. 
+* While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that you *will* continue to live on with or without assurance.
+* the simplest explanation for "Why am I here?"  is that 'you have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
+* Occam's razor is a scientific and philosophical rule that the simplest of competing theories be preferred to the more complex or that explanations of unknown phenomena be sought first in terms of known quantities.
+
 **Existential Calm**
 
 **Key Topics**
@@ -184,13 +190,11 @@ every cause is an effect and every effect is a cause. //in development
 
 
 # Narrative
-My name is Cullen Drummey and my engine was rebuilt.
+My name is Cullen Drummey and I believe life is good. One of my favorite things in my life is a gallon pitcher of water I keep inside the door of our refridgerator. What makes the water special is that I put a single bad of jasmine green tea in each pitcher (daily). The water takes on the slightest essence of jasmine in flavor and aroma, and it is very pleasant. I also love my wife and my two sons very much. She is a beautiful and brilliant woman with so much love in her heart. My first, Ronan is a great kid. He is two years old and loves tractors and wants a blue truck. My second, is due in 5 weeks, can't wait to meet him. I also built a chair last fall (~October 2020) that I really enjoy relaxing in. I keep the chair in my workshop in a corner set aside on a rug with a boombox, cabinet, and a slice of an oak tree stump.
 
-At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Lonely Isle. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
+However, there was a time in my life when in consultation with my self, I went by other names.
 
-//to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
-
-names[]
+**names[]**
 r00k/root //May/June 2020, strategy/primary
 ready/raz0r // summer 2020, check/execute
 weilder/scribe //late summer 2020, echoboxing/skill
@@ -198,3 +202,21 @@ warrior-poet/king //fall 2020, heart/mind
 counselor/ghost //winter 2020, self/calm
 one //spring 2021
 
+At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Lonely Isle. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
+
+//to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
+
+# r00k/root //May/June 2020, strategy/primary
+* Opening Hour Sunday May 31, 2020 00:00:00
+* Who Am I?
+# ready/raz0r // summer 2020, check/execute
+* life is good
+* Occam's razor
+# wielder/scribe //late summer 2020, hand/mind or skill
+* knowledge (skill & memory)
+# warrior-poet/king //fall 2020, heart/mind
+* technique (result of knowledge), via repetition
+# counselor/ghost //winter 2020, self/calm
+* guidance/non-interference
+# one //spring 2021
+* self
