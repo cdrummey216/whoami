@@ -41,7 +41,7 @@ every cause is an effect and every effect is a cause. //in development
 * You are equipped with the judgement that 'Life is good', the knowledge that you will die, and the observation that you are alive. 
 * While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that you *will* continue to live on with or without assurance.
 * the simplest explanation for "Why am I here?"  is that 'you have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
-* Occam's razor is a scientific and philosophical rule that the simplest of competing theories be preferred to the more complex or that explanations of unknown phenomena be sought first in terms of known quantities.
+* Occam's razor is a scientific and philosophical rule that the simplest of competing theories be preferred to the more complex or that explanations of unknown phenomena be sought first in terms of known quantities. //a, b
 
 # Existential Calm
 
