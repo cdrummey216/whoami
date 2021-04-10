@@ -29,7 +29,7 @@ every cause is an effect and every effect is a cause. //in development
 * Life is good. //existential calm, or I know who and what I am. i conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment made about what the binary state ('alive'/'not alive') *represents*, or 'Life'. The judgement that *Life is good* is universal because the only alternative ('I am not alive') represents death, which any reasonable person would percieve as 'not good'. Death is 'not good' from the perspective of the self because it reresents the end of self. Death is also good as a part of Life. See also END iteration, c = 0
 * A shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness (ie every individual agrees that 'Life is good').
 
-**The Lonely Isle** //existential angst, what can be known/believed in the absence of another?
+# The Lonely Isle //existential angst, what can be known/believed in the absence of another?
 
 **Key Topics**
 * Imagine yourself, alone on a desert island, seeking the unknown. 
@@ -43,7 +43,7 @@ every cause is an effect and every effect is a cause. //in development
 * the simplest explanation for "Why am I here?"  is that 'you have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
 * Occam's razor is a scientific and philosophical rule that the simplest of competing theories be preferred to the more complex or that explanations of unknown phenomena be sought first in terms of known quantities.
 
-**Existential Calm**
+# Existential Calm
 
 **Key Topics**
 * As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
