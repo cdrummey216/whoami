@@ -185,3 +185,16 @@ every cause is an effect and every effect is a cause. //in development
 
 # Narrative
 My name is Cullen Drummey and my engine was rebuilt.
+
+At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Lonely Isle. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
+
+//to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
+
+names[]
+r00k/root //May/June 2020, strategy/primary
+ready/raz0r // summer 2020, check/execute
+weilder/scribe //late summer 2020, echoboxing/skill
+warrior-poet/king //fall 2020, heart/mind
+counselor/ghost //winter 2020, self/calm
+one //spring 2021
+
