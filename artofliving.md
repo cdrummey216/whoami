@@ -13,6 +13,7 @@ Other opuses: //an externalization that exhibits a value
 
 # a foundation for reason
 every cause is an effect and every effect is a cause. //in development
+Occam's razor
 
 # universal truth, or a common good
 
