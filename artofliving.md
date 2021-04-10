@@ -64,7 +64,7 @@ every cause is an effect and every effect is a cause. //in development
 
 **Key Topics**
 * The relationship between 'self' and 'identity'
-* b
+* the 'self' as an engine for identity //the self generates identity (snapshots of the self in time)
 * c
 
 **What does it mean that c = -1/ϕ?**
