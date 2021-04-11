@@ -221,6 +221,7 @@ At any moment within the given timeframe, I represented one of either of the fol
 * Occam's razor
 # wielder/scribe //late summer 2020, hand/mind or skill
 * knowledge (skill & memory)
+* joy is in the deed of making, and in the thing made.
 # warrior-poet/king //fall 2020, heart/mind
 * technique (result of knowledge), via repetition
 # counselor/ghost //winter 2020, self/calm
