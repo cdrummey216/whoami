@@ -52,11 +52,17 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 * An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
 * Life (a + b) is to self (a) as self (a) is to existence (b) //'life' is the perception of the 'self' in existence over time, 'self' is the perception of existence.
 * 'Life' is an event with a beginning and an end. The self perceieves 'time' through its perception of 'life'. //BEGIN and END iterations
-* * ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self* //important, ϕ = (ϕ + 1)/ϕ
-* The perception of time is the result of the golden ratio equation when the value for a is ϕ (self) and the value for b is 1 (existence). The product of these values, a representation of time, is ϕ or 2.618....
+* ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self* //important, ϕ = (ϕ + 1)/ϕ
+* The perception of time is the result of the golden ratio equation when the value for a is ϕ (self) and the value for b is 1 (existence). The product of these values, a representation of time, is ϕ or 1.618....
 * The value of time can only be calculated using the value for self because time is something that is percieved. //ϕ *as time* OR ϕ *as self* share the same value but have distinct meanings
 * Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 * Universal causation, every event has a cause and and an effect
+
+
+# A Value for Time
+* ϕ or 1.618....
+* ϕ = (ϕ + 1)/ϕ
+
 
 # Existential Calm
 
