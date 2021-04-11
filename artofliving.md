@@ -17,11 +17,6 @@ Occam's razor
 
 # universal truth, or a common good
 
-**Key Topics**
-* a
-* b
-* c
-
 **Why is a common good necessary?**
 
 * Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality (I am but how?).  The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. 
@@ -31,7 +26,7 @@ Occam's razor
 * Life is good. //existential calm, or I know who and what I am. I conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment made about what the binary state ('alive'/'not alive') *represents*, or 'Life'. The judgement that *Life is good* is universal because the only alternative ('I am not alive') represents death, which any reasonable person would percieve as 'not good'. Death is 'not good' from the perspective of the self because it reresents the end of self. Death is also good as a part of Life. See also END iteration, c = 0
 * A shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness (ie every individual agrees that 'Life is good').
 
-# The Lonely Isle //existential angst, what can be known/believed in the absence of another?
+# The Lonely Isle
 
 **Key Topics**
 
@@ -41,30 +36,27 @@ Occam's razor
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 * I am on the Lonely Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
-**Why am I here (on the Lonely Isle)?**
-
-* I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I are alive. 
-* While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that I *will* continue to live on with or without assurance.
-* the simplest explanation for "Why am I here?"  is that 'I have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
-* Occam's razor is a scientific and philosophical rule that the simplest of competing theories be preferred to the more complex or that explanations of unknown phenomena be sought first in terms of known quantities. //a, b
-
 **What can also be known?** 
 
 I am on the Lonely Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
-* the time between now and the future (end) is what remains of your life. 'time' is a limited resource of life with scarcity for a given context. *Therefore, time has value.*
+**Initial Conclusions**
+
+* The time between now and the future (end) is what remains of your life. 'time' is a limited resource of life with scarcity for a given context. *Therefore, time has value.*
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
 * it will be observable that life compounds over time, building upon itself. each life (living being) is an event that has begun but not yet ended, or an incomplete event. the binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. the *incomplete* state positions a living being at a point in time before its end (*complete*), which the living being is progressing towards (in time) because it is always true that each life will end. *Therefore, Life is tributary to itself.*
-* 
-* As a fractal set, identity at any time is the product of c = 1 - ϕ, where the value of ϕ represents the self. the value '1' in the equation represents a life, which is meant as the self's temporal manifestaion (here/now). So the value of self is ϕ and the value of the associated life is 1.
+
+**Conclusions from the Identity Equations**
+* As a fractal set, identity at any time is the product of c = 1 - ϕ, where the value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's temporal manifestaion (here/now). So, the value of self is ϕ and the value of the relative life is 1.
 * An equivalency shown in the identity equations is 1 = ϕ - 1/ϕ (see the 'I exist' equation, represents temporal maniestation or reality)
 * An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
-* life (a + b) is to self (a) as self (a) is to existence (b) //'life' is the combination of the self and existence, a *life* = ϕ + 1
-* ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self* // ϕ = (ϕ + 1)/ϕ
-* value of time can only be calculated using the value for self because time is something that is percieved. //ϕ *as time* OR ϕ *as self* share the same value but have distinct meanings
-* the perception of time is the result of the golden ration equation when the value for a is ϕ (self) and the value for b is 1 (existence). The product of these values, a representation of time, is ϕ or 2.618....
-* every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
-* universal causation, every event has a cause and and an effect
+* Life (a + b) is to self (a) as self (a) is to existence (b) //'life' is the perception of the 'self' in existence over time, 'self' is the perception of existence.
+* 'Life' is an event with a beginning and an end. The self perceieves 'time' through its perception of 'life'. //BEGIN and END iterations
+* * ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self* //important, ϕ = (ϕ + 1)/ϕ
+* The perception of time is the result of the golden ratio equation when the value for a is ϕ (self) and the value for b is 1 (existence). The product of these values, a representation of time, is ϕ or 2.618....
+* The value of time can only be calculated using the value for self because time is something that is percieved. //ϕ *as time* OR ϕ *as self* share the same value but have distinct meanings
+* Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
+* Universal causation, every event has a cause and and an effect
 
 # Existential Calm
 
@@ -72,6 +64,12 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 * As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
 * I know who and what I am. //I am a living being and life is a binary state
 * I am because I live.  //Life is good because i am alive (judgement)
+
+**Why am I here (on the Lonely Isle)?**
+
+* I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I are alive. 
+* While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that I *will* continue to live on with or without assurance.
+* the simplest explanation for "Why am I here?"  is that 'I have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
 
 **Why is it good?**
 * Because the existence of life means that 'this' is not empty. //each life ultimately 'something from nothing.' simplification for universal causation
@@ -88,7 +86,6 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 **Key Topics**
 * The relationship between 'self' and 'identity'
 * the 'self' as an engine for identity //the self generates identity (snapshots of the self in time)
-* c
 
 **What does it mean that c = -1/ϕ?**
 * at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
@@ -139,11 +136,6 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 * How? Themes. Life is good. //existential calm
 * by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
 * convert to framework //framework must work with the duality of internal/external
-
-**Key Topics**
-* a
-* b
-* c
 
 **List of themes and associated values** //'values' here is different from 'values' when referring to identity equations.
 
