@@ -54,7 +54,17 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 
 * the time between now and the future (end) is what remains of your life. 'time' is a limited resource of life with scarcity for a given context. *Therefore, time has value.*
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
-* it will be observable that life compounds over time, building upon itself. *Therefore, Life is tributary to itself.*
+* it will be observable that life compounds over time, building upon itself. each life (living being) is an event that has begun but not yet ended, or an incomplete event. the binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. the *incomplete* state positions a living being at a point in time before its end (*complete*), which the living being is progressing towards (in time) because it is always true that each life will end. *Therefore, Life is tributary to itself.*
+* 
+* As a fractal set, identity at any time is the product of c = 1 - ϕ, where the value of ϕ represents the self. the value '1' in the equation represents a life, which is meant as the self's temporal manifestaion (here/now). So the value of self is ϕ and the value of the associated life is 1.
+* An equivalency shown in the identity equations is 1 = ϕ - 1/ϕ (see the 'I exist' equation, represents temporal maniestation or reality)
+* An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
+* life (a + b) is to self (a) as self (a) is to existence (b) //'life' is the combination of the self and existence, a *life* = ϕ + 1
+* ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self* // ϕ = (ϕ + 1)/ϕ
+* value of time can only be calculated using the value for self because time is something that is percieved. //ϕ *as time* OR ϕ *as self* share the same value but have distinct meanings
+* the perception of time is the result of the golden ration equation when the value for a is ϕ (self) and the value for b is 1 (existence). The product of these values, a representation of time, is ϕ or 2.618....
+* every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
+* universal causation, every event has a cause and and an effect
 
 # Existential Calm
 
