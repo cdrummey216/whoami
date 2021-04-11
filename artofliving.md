@@ -67,9 +67,9 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 
 **Why am I here (on the Lonely Isle)?**
 
-* I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I are alive. 
+* I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I am alive. 
 * While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that I *will* continue to live on with or without assurance.
-* the simplest explanation for "Why am I here?"  is that 'I have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
+* The simplest explanation for "Why am I here?"  is that 'I have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
 
 **Why is it good?**
 * Because the existence of life means that 'this' is not empty. //each life ultimately 'something from nothing.' simplification for universal causation
@@ -78,22 +78,22 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 
 # Self-Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
 
-**main points**
-* identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
-* in this way, identity becomes an expression of the self due to the fact that the self is necessary to produce an identity. //'identity' as a product of an equation for the self. 'identity' as a snapshot of the self. 
-* so self-expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
+**Main points**
+* Identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
+* In this way, identity becomes an expression of the self due to the fact that the self is necessary to produce an identity. //'identity' as a product of an equation for the self. 'identity' as a snapshot of the self. 
+* So self-expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
 
 **Key Topics**
 * The relationship between 'self' and 'identity'
-* the 'self' as an engine for identity //the self generates identity (snapshots of the self in time)
+* The 'self' as an engine for identity //the self generates identity (snapshots of the self in time)
 
 **What does it mean that c = -1/ϕ?**
-* at any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
-* in the Golden Ratio calculations, it is shown that variable answers to the question "Who are you?" (*self-definitions*) have the value of 1/ϕ and are contextual. it may be that the value of -1/ϕ is the contextual value of the self (*self-concept*).  identity (-1/ϕ), and by extension all self expression, is the contextual externalization of self-concept. //explanation for |-1/ϕ|, context reduces the value of self-percpetion due to limitations inherent to the means of externalization. //needs clarification
+* At any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
+* In the Golden Ratio calculations, it is shown that variable answers to the question "Who are you?" (*self-definitions*) have the value of 1/ϕ and are contextual. it may be that the value of -1/ϕ is the contextual value of the self (*self-concept*).  identity (-1/ϕ), and by extension all self expression, is the contextual externalization of self-concept. //explanation for |-1/ϕ|, context reduces the value of self-percpetion due to limitations inherent to the means of externalization. //needs clarification
 
 **Why is it negative?**
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
-* what ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
+* What ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
 # A Conversation with Death
 
