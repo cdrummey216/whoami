@@ -64,8 +64,6 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 * I am because I live.  //Life is good because i am alive (judgement)
 
 **Why is it good?**
-
-**Key Topics**
 * Because the existence of life means that 'this' is not empty. //each life ultimately 'something from nothing.' simplification for universal causation
 * Because a life is an opportunity. Life is time and moments are opporunitites. //time has value
 * Because life is slow and tributary. each life is a component within the unison of Life. //life has universal scope
