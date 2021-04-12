@@ -1,11 +1,11 @@
 # Overview & Purpose
 The following are the conclusions and judgements that can be made based on the [identity equations](whoiam.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence). 
 
-# a foundation for reason
+# A foundation for reason
 every cause is an effect and every effect is a cause. //in development
 Occam's razor
 
-# universal truth, or a common good
+# Universal Truth, or a common good
 
 **Why is a common good necessary?**
 
@@ -26,17 +26,17 @@ Occam's razor
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 * I am on the Lonely Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
-**What can also be known?** 
+# Conclusions about Life (on the Lonely Isle)
 
-I am on the Lonely Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
-
-**Conclusions about Life**
+Given: I am on the Lonely Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
 * The time between now and the future (end) is what remains of your life. 'time' is a limited resource of life with scarcity for a given context. *Therefore, time has value.*
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
 * it will be observable that life compounds over time, building upon itself. each life (living being) is an event that has begun but not yet ended, or an incomplete event. the binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. the *incomplete* state positions a living being at a point in time before its end (*complete*), which the living being is progressing towards (in time) because it is always true that each life will end. *Therefore, Life is tributary to itself.*
 
-**Conclusions about Time** //hypothetical
+# Conclusions about Time (on the Lonely Isle) //hypothetical
+
+Given: I am on the Lonely Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
 **Key Points**
 * Life (existence) has a beginning and an end, a duration of time lies between those two points in time.
