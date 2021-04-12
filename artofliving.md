@@ -11,15 +11,15 @@ Other opuses: //an externalization that exhibits a value
 * work of art
 * work of...
 
-# Existential Calm & the [Lonely Isle](lonelyisle.md)
+# Existential Calm & the [Identity Isle](identityisle.md)
 
 **Key Topics**
 * As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
 * I know who and what I am. //I am a living being and life is a binary state (*incomplete* before *complete*), I have (possess) life
 * I am because I live.  //Life is good because i am alive (judgement) //if time has value AND life is measurable by time (duration), then life, at minimum, has one value as a measurement of 'time' as it relates to a life (ie time of BEGIN iteration).
-* This is enough information to start to understand the present, or to leave the lonely isle.
+* This is enough information to start to understand the present, or to leave the Identity Isle.
 
-**Why am I here (on the Lonely Isle)?**
+**Why am I here (on the Identity Isle)?**
 
 * I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I am alive. 
 * While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that I *will* continue to live on with or without assurance.
@@ -140,7 +140,7 @@ However, there was a time in my life when in consultation with my self, I went b
 * counselor/ghost //winter 2020, self/calm
 * one //spring 2021
 
-At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Lonely Isle. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
+At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Identity Isle. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
 
 //to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
 
