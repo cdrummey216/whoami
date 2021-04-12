@@ -49,31 +49,31 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 **Conclusions about Time** //hypothetical
 
 **Key Points**
-* Life (existence) has a beginning and an end, a duration of time lies between those two points
+* Life (existence) has a beginning and an end, a duration of time lies between those two points in time.
 * Time is a product of perception. The self percieves time through memory. Memory is sequential.
-* The self percieves 
+* A constant value for Time can be calculated using the value for self because time is something that is perceived.
+* The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
+* Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 
+**Calculation of Time Constant** //hypothetical
 * As a fractal set, identity at any time is the product of c = 1 - ϕ, where the value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's temporal manifestaion (here/now). So, the value of self is ϕ and the value of the relative life is 1.
 * An equivalency shown in the identity equations is 1 = ϕ - 1/ϕ (see the 'I exist' equation, represents existence)
 * An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
-* Life (a + b) is to self (a) as self (a) is to existence (b) //'life' is the perception of the 'self' in existence over time, 'self' is the perception of existence.
+* Life (a + b) is to self (a) as self (a) is to existence (b) //'Life' is the perception of the 'self' over time, 'self' is the perception of existence.
 * 'Life' is an event with a beginning and an end. The self perceieves 'time' through its perception of 'life'. //BEGIN and END iterations
 * The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence).
 * **ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self*** //important, ϕ = (ϕ + 1)/ϕ
-* The perception of time is the result of the golden ratio equation when the value for a is ϕ (self) and the value for b is 1 (existence). The product of these values, a representation of time, is ϕ or 1.618....
-* The value of time can only be calculated using the value for self because time is something that is percieved. //ϕ *as time* OR ϕ *as self* share the same value but have distinct meanings
-* Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
-* Universal causation, every event has a cause and and an effect
+* The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
 
-# A Value for Time //hypothetical
+# Time Constant //hypothetical
 * ϕ or 1.618....
 * ϕ = (ϕ + 1)/ϕ
 * The Golden Ratio, or Phi, is a constant produced by time //hypothesis
 
 **Quantum Mechanics** //support for ϕ *as time*
-* The g factor of the electron is defined as the ratio of its magnetic moment to its spin angular momentum.  The electron g-factor is due to the stretching of space-time as the electron spins at the speed of light.
-* Electron gfactor = -2 / sin (ϕ)
-* Proton gfactor = 2Ø / sin (1/ϕ)
+* The g-factor of the electron is defined as the ratio of its magnetic moment to its spin angular momentum.  The electron g-factor is due to the stretching of space-time as the electron spins at the speed of light.
+* Electron g-factor = -2/sin(ϕ)
+* Proton g-factor = 2ϕ/sin(1/ϕ)
 * The Golden Ratio, or Phi, is a constant produced by time //hypothesis
 
 # Existential Calm
@@ -118,25 +118,25 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 **Key Topics**
 * Why? //cannot know life without first understanding death
 * when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
-* a 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
-* a 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
-* a 'no' signals fear of death //"are you ready?"
+* A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
+* A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
+* A 'no' signals fear of death //"are you ready?"
 
 **Are you ready?**
 
-* if yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
-* if no, wait. //to wait is to dread
+* If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
+* If no, wait. //to wait is to dread
 
 **Are you willing?**
-* for most, the answer is 'no' //there are only a few things someone may be willing to die for
-* the fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
-* this question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end.
-* intent is a choice and ability is a means
+* For most, the answer is 'no' //there are only a few things someone may be willing to die for
+* The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
+* This question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end.
+* Intent is a choice and ability is a means
 
 # Identity as oneness or Identity as a multiple
-* the 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
-* split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
-* split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
+* The 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
+* Split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
+* Split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
 
 # Questions for Self
 
@@ -236,15 +236,21 @@ At any moment within the given timeframe, I represented one of either of the fol
 # r00k/root //May/June 2020, strategy/primary
 * Opening Hour Sunday May 31, 2020 00:00:00
 * Who Am I?
+* Chess
 # ready/raz0r // summer 2020, check/execute
 * life is good
 * Occam's razor
+* good tests
 # wielder/scribe //late summer 2020, hand/mind or skill
 * knowledge (skill & memory)
 * joy is in the deed of making, and in the thing made.
+* chair, drawings
 # warrior-poet/king //fall 2020, heart/mind
 * technique (result of knowledge), via repetition
+* echoboxing
 # counselor/ghost //winter 2020, self/calm
 * guidance/non-interference
+* religion and death
 # one //spring 2021
-* self
+* self and alive
+* result
