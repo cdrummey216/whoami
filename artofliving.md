@@ -11,12 +11,13 @@ Other opuses: //an externalization that exhibits a value
 * work of art
 * work of...
 
-# Existential Calm
+# Existential Calm & the [Lonely Isle](lonelyisle.md)
 
 **Key Topics**
 * As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
-* I know who and what I am. //I am a living being and life is a binary state
-* I am because I live.  //Life is good because i am alive (judgement)
+* I know who and what I am. //I am a living being and life is a binary state (*incomplete* before *complete*), I have (possess) life
+* I am because I live.  //Life is good because i am alive (judgement) //if time has value AND life is measurable by time (duration), then life, at minimum, has one value as a measurement of 'time' as it relates to a life (ie time of BEGIN iteration).
+* This is enough information to start to understand the present, or to leave the lonely isle.
 
 **Why am I here (on the Lonely Isle)?**
 
