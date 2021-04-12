@@ -53,7 +53,7 @@ Given: I am on the Lonely Isle and I am equipped with the knowledge that I will 
 * 'Life' is an event with a beginning and an end. The self perceieves 'time' through its perception of 'life'. //BEGIN and END iterations
 * The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence, which is perceived by the self through memory (stored memories in a sequence).
 * **ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self*** //important, ϕ = (ϕ + 1)/ϕ
-* The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
+* The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The result (ϕ *as time*) is the output of the self (a) as it perceives existence (b). The self persists through time with the *perception of time*. Therefore, ϕ *as time* (1.618...) can be used as a constant for time.
 
 # Time Constant //hypothetical
 * ϕ or 1.618....
