@@ -59,8 +59,9 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 * As a fractal set, identity at any time is the product of c = 1 - ϕ. The value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's existence (here & now). So, the value of self is ϕ and the value of the relative life is 1.
 * An equivalency shown in the identity equations is 1 = ϕ - 1/ϕ (see the 'I exist' equation, represents existence)
 * An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
+* growth (*a + b*) is to self (*a*) as self (*a*) is to existence (*b*) //because of property a > b > 0, 'existence' represents life (at minimum, lack of self) and *a* and (*a + b*) represent increments of growth (over time)
 * 'Life' is an event with a beginning and an end. The self perceieves 'time' through its perception of 'life'. //BEGIN and END iterations
-* The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence).
+* The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence, which is perceived by the self through memory (stored memories in a sequence).
 * **ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self*** //important, ϕ = (ϕ + 1)/ϕ
 * The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
 
