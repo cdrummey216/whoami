@@ -49,31 +49,6 @@ Other opuses: //an externalization that exhibits a value
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
 * What ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
-# A Conversation with Death
-
-**Key Topics**
-* Why? //cannot know life without first understanding death
-* when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
-* A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
-* A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
-* A 'no' signals fear of death //"are you ready?"
-
-**Are you ready?**
-
-* If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
-* If no, wait. //to wait is to dread
-
-**Are you willing?**
-* For most, the answer is 'no' //there are only a few things someone may be willing to die for
-* The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
-* This question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end.
-* Intent is a choice and ability is a means
-
-# Identity as oneness or Identity as a multiple
-* The 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
-* Split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
-* Split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
-
 # Questions for Self
 
 **Key Topics**
