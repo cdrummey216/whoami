@@ -65,21 +65,3 @@ I am on the Lonely Isle and I am equipped with the knowledge that I will die som
 * Electron g-factor = -2/sin(ϕ)
 * Proton g-factor = 2ϕ/sin(1/ϕ)
 * The Golden Ratio, or Phi, is a constant produced by time //hypothesis
-
-# Existential Calm
-
-**Key Topics**
-* As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
-* I know who and what I am. //I am a living being and life is a binary state
-* I am because I live.  //Life is good because i am alive (judgement)
-
-**Why am I here (on the Lonely Isle)?**
-
-* I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I am alive. 
-* While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that I *will* continue to live on with or without assurance.
-* The simplest explanation for "Why am I here?"  is that 'I have life' and 'Life is good' because life (all life) exists for itself (for *good*), by itself (for *good*).
-
-**Why is it good?**
-* Because the existence of life means that 'this' is not empty. //each life ultimately 'something from nothing.' simplification for universal causation
-* Because a life is an opportunity. Life is time and moments are opporunitites. //time has value
-* Because life is slow and tributary. each life is a component within the unison of Life. //life has universal scope
