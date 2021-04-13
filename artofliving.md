@@ -128,16 +128,16 @@ Other opuses: //an externalization that exhibits a value
 
 
 # Narrative
-My name is Cullen Drummey and I believe life is good. One of my favorite things in my life is a gallon pitcher of water I keep inside the door of our refridgerator. What makes the water special is that I put a single bad of jasmine green tea in each pitcher (daily). The water takes on the slightest essence of jasmine in flavor and aroma, and it is very pleasant. I also love my wife and my two sons very much. She is a beautiful and brilliant woman with so much love in her heart. My first, Ronan is a great kid. He is two years old and loves tractors and wants a blue truck. My second, is due in 5 weeks, can't wait to meet him. I also built a chair last fall (~October 2020) that I really enjoy relaxing in. I keep the chair in my workshop in a corner set aside on a rug with a boombox, cabinet, and a slice of an oak tree stump.
+My name is Cullen Drummey and I believe life is good. One of my favorite things in my life is a gallon pitcher of water I keep on the inside the refridgerator door. What makes the water special is that I put a single bag of jasmine green tea in to each pitcher. Eventually, the water takes on the slightest essence of jasmine in flavor and aroma, and it is very pleasant. I also love my wife and my two sons very much. She is a beautiful and brilliant woman with so much love in her heart. My first, Ronan is a great kid. He is two years old and loves tractors and wants a blue truck. My second son is due in 5 weeks and I can't wait to meet him. I also built a chair last fall (~October 2020) that I really enjoy relaxing and listening to music in. I keep the chair in my workshop in a corner set aside on a rug with a boombox, cabinet, and a slice of an oak tree stump.
 
-However, there was a time in my life when in consultation with my self, I went by other names.
+However, there was a time in my life when I went by other names.
 
 **names[]**
-* r00k/root //May/June 2020, strategy/primary
-* ready/raz0r // summer 2020, check/execute
-* weilder/scribe //late summer 2020, echoboxing/skill
-* warrior-poet/king //fall 2020, heart/mind
-* counselor/ghost //winter 2020, self/calm
+* r00k/root //May/June 2020
+* ready/raz0r // summer 2020
+* weilder/scribe //late summer 2020
+* warrior-poet/king //fall 2020
+* counselor/ghost //winter 2020
 * one //spring 2021
 
 At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Identity[0] Isle. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
@@ -147,7 +147,8 @@ At any moment within the given timeframe, I represented one of either of the fol
 # r00k/root //May/June 2020, strategy/primary
 * Opening Hour Sunday May 31, 2020 00:00:00
 * Who Am I?
-* Chess
+* Chess, game theory and self interest
+* true twice
 # ready/raz0r // summer 2020, check/execute
 * life is good
 * Occam's razor
