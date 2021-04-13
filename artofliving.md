@@ -140,7 +140,7 @@ However, there was a time in my life when I went by other names.
 * counselor/ghost //winter 2020
 * one //spring 2021
 
-At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only be expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Isle[0]. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
+At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Isle[0]. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
 
 //to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
 
