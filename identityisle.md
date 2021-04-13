@@ -31,7 +31,7 @@ Why is it called isle[0]? //isle index of zero
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 * I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
-# Conclusions about Life (on the Isle[0] Isle)
+# Conclusions about Life (on the Isle[0])
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
@@ -39,7 +39,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
 * It will be observable that life compounds over time, building upon itself. Each life (living being) is an event that has begun but not yet ended, or an incomplete event. The binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. The *incomplete* state positions a living being at a point in time before its end (*complete* state) which the living being is progressing towards (in time). It is always true that each life will end. *Therefore, Life is tributary to itself.*
 
-# Conclusions about Time (on the Isle[0] Isle) //hypothetical
+# Conclusions about Time (on the Isle[0]) //hypothetical
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
