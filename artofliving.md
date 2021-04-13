@@ -148,27 +148,29 @@ At any moment within the given timeframe, I represented one of either of the fol
 * May/June 2020
 * Opening Hour Sunday May 31, 2020 00:00:00
 * Who Am I?
-* Chess, game theory and self interest
+* Chessboxing, game theory and self interest
 * true twice
 # ready/raz0r
 * Summer 2020
 * life is good
+* shadowboxing, interaction with reality
 * Occam's razor
 * good tests
 # wielder/scribe 
 * Late Summer 2020
 * knowledge (skill & memory)
 * joy is in the deed of making, and in the thing made.
+* silmarillion as a model for self government (valar), chess as a model for action (you must think first, before you move)
 * chair, drawings
 # warrior-poet/king
 * fall 2020
 * technique (result of knowledge), via repetition
-* echoboxing
+* echoboxing (means of externalizing *self*) //examples
 # counselor/ghost
 * Winter 2020
 * guidance/non-interference
-* religion and death
+* religion, waltz 
+* death, end of song
 # one
 * Spring 2021
-* self and alive
-* result
+* self and alive (exist)
