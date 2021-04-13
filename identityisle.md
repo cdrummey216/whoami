@@ -32,16 +32,17 @@ Given: I am on the Identity[0] Isle and I am equipped with the knowledge that I 
 
 * The time between now and the future (end) is what remains of your life. 'time' is a limited resource of life with scarcity for a given context. *Therefore, time has value.*
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
-* it will be observable that life compounds over time, building upon itself. each life (living being) is an event that has begun but not yet ended, or an incomplete event. the binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. the *incomplete* state positions a living being at a point in time before its end (*complete*), which the living being is progressing towards (in time) because it is always true that each life will end. *Therefore, Life is tributary to itself.*
+* It will be observable that life compounds over time, building upon itself. Each life (living being) is an event that has begun but not yet ended, or an incomplete event. The binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. The *incomplete* state positions a living being at a point in time before its end (*complete* state) which the living being is progressing towards (in time). It is always true that each life will end. *Therefore, Life is tributary to itself.*
 
 # Conclusions about Time (on the Identity[0] Isle) //hypothetical
 
 Given: I am on the Identity[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
 **Key Points**
-* Life (existence) has a beginning and an end, a duration of time lies between those two points in time.
-* Time is a product of perception. The self percieves time through memory. Memory is sequential.
-* A constant value for Time can be calculated using the value for self because time is something that is perceived.
+* Life (existence) has a beginning and an end, a duration that lies between those two points in time is perceived by the self. 
+* Time has value. 'Time' is a limited resource of life with scarcity for a given context.
+* Time is a product of perception. The self percieves time through memory. Memory is sequential. The perception of time (duration) grows over time (between BEGIN and END).
+* A constant value for Time can be calculated using the value for self because 1) time is perceived by the self and 2) the self exists for a duration.
 * The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
 * Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 
