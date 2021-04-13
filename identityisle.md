@@ -21,7 +21,7 @@ The following are the conclusions and judgements that can be made based on the [
 Why is it called isle[0]? //isle index of zero
 * Zero-based array indexing is a way of numbering the items in an array such that the first item of it has an index of 0.
 * Zero-based indexing is a very common way to number items in a sequence in software development
-* The isle[n] is a thought experiment based on the identity equations and with particular attention given to the BEGIN (identity[0]) iteration.
+* The Isle[0] is a thought experiment based on the identity equations and with particular attention given to the BEGIN (identity[0]) iteration.
 
 **Key Topics**
 
