@@ -52,7 +52,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 
 **Calculation of Time Constant** //hypothetical
-* ϕ = (ϕ + 1)/ϕ means that ϕ (a) and 1 (b) are at the golden ratio  //ϕ = ϕ/1, new method to calculate ϕ?
+* ϕ = (ϕ + 1)/ϕ means that ϕ (a) and 1 (b) are at the golden ratio  //also ϕ = ϕ/1 AND ϕ > 1 > 0, new method to calculate ϕ?
 * As a fractal set, identity at any time is the product of c = 1 - ϕ. The value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's existence (here & now). So, the value of self is ϕ and the value of the relative life is 1.
 * An equivalency shown in the identity equations is 1 = ϕ - 1/ϕ (see the 'I exist' equation, represents existence)
 * An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
