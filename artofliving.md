@@ -144,25 +144,31 @@ At any moment within the given timeframe, I represented one of either of the fol
 
 //to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
 
-# r00k/root //May/June 2020, strategy/primary
+# r00k/root
+* May/June 2020
 * Opening Hour Sunday May 31, 2020 00:00:00
 * Who Am I?
 * Chess, game theory and self interest
 * true twice
-# ready/raz0r // summer 2020, check/execute
+# ready/raz0r
+* Summer 2020
 * life is good
 * Occam's razor
 * good tests
-# wielder/scribe //late summer 2020, hand/mind or skill
+# wielder/scribe 
+* Late Summer 2020
 * knowledge (skill & memory)
 * joy is in the deed of making, and in the thing made.
 * chair, drawings
-# warrior-poet/king //fall 2020, heart/mind
+# warrior-poet/king
+* fall 2020
 * technique (result of knowledge), via repetition
 * echoboxing
-# counselor/ghost //winter 2020, self/calm
+# counselor/ghost
+* Winter 2020
 * guidance/non-interference
 * religion and death
-# one //spring 2021
+# one
+* Spring 2021
 * self and alive
 * result
