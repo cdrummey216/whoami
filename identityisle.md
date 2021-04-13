@@ -67,6 +67,11 @@ Given: I am on the Identity[0] Isle and I am equipped with the knowledge that I 
 * Proton g-factor = 2ϕ/sin(1/ϕ)
 * The Golden Ratio, or Phi, is a constant produced by time //hypothesis
 
+**Philosophy**
+* specious present
+* perceived duration
+* time perception and sense of time
+
 # A Conversation with Death
 
 **Key Topics**
