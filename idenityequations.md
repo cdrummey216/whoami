@@ -1,7 +1,7 @@
 ## IDENTITY AS A CONCEPT
 In order to be understood, identity and its components must be defined.
 
-## Who Am I?
+## WHO AM I?
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
 at any time would be able to provide this answer and also satisfy the question.
