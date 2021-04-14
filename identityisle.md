@@ -3,7 +3,7 @@ The following are the conclusions and judgements that can be made based on the [
 
 # A foundation for reason
 * every cause is an effect and every effect is a cause. //in development
-* Occam's razor
+* Occam's razor //intersection of mathematics and philosophy
 
 # Universal Truth, or a common good
 
