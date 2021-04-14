@@ -132,7 +132,7 @@ My name is Cullen Drummey and I believe life is good. One of my favorite things 
 
 However, there was a time in my life when I went by other names.
 
-**self[]** //denominator
+**self[]** //dualities of self
 * r00k + root //May/June 2020, strategy with intent
 * ready + raz0r // summer 2020, good with truth
 * wielder + scribe //late summer 2020, power with understanding
