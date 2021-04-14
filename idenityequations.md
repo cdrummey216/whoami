@@ -1,7 +1,7 @@
 ## IDENTITY AS A CONCEPT
-in order to be understood, identity and its components must be defined. the knowledge of which, in turn, enables an individual to encounter their true self.
+In order to be understood, identity and its components must be defined.
 
-## whoami
+## Who Am I?
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
 at any time would be able to provide this answer and also satisfy the question.
@@ -28,18 +28,6 @@ the trust of another individual. Trust facilitates the exchange of ideas.
 
 A belief is partial or full assurance without positive knowledge or absolute certainty. In order to believe in any one thing, an individual must grant their trust to that which they believe. So, in this way, belief becomes a product of free will through the act of choosing to grant trust. Trust is a foundational element of an
 identity and is the currency of exchange between identities. 
-
-# HUMAN NATURE
-The human body, as a category, is the result the echo's progression through time (ie evolution). The mind 
-and its processes of thought and feeling are tethered to reality by the body. Therefore, the physical 
-mechanisms that are at the root of these processes are the lens through which humanity experiences reality.
-Human nature, therefore, is a reflection of the echo. 
-
-**Human nature is a duality and balance is the ideal.**
-* Understand/Communicate
-* Know/feel
-* Order/harmony
-* Love/Desire
 
 # AN EXTERNAL FOUNDATION FOR KNOWLEDGE, OR "I"
 
