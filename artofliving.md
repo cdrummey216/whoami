@@ -166,11 +166,13 @@ At any moment within the given timeframe, I represented one of either of the fol
 * fall 2020
 * technique (result of knowledge), via repetition
 * echoboxing (means of externalizing *self*) //examples
+* leadership, influence, excellence (the tao of power)
+* guidance/non-interference
 # counselor/ghost
 * Winter 2020
-* guidance/non-interference
-* religion, waltz 
+* belief, waltz 
 * death, end of song
+* master of fate, subject to fate
 # one
 * Spring 2021
 * self and alive (exist)
