@@ -148,7 +148,7 @@ At any moment within the given timeframe, I represented one of either of the fol
 * May/June 2020
 * Opening Hour Sunday May 31, 2020 00:00:00
 * Who Am I?
-* Chessboxing, game theory and self interest
+* Chessboxing, game theory (tit for tat) and self interest
 * true twice
 # ready/raz0r
 * Summer 2020
