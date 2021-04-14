@@ -153,7 +153,7 @@ At any moment within the given timeframe, I represented one of either of the fol
 # ready/raz0r
 * Summer 2020
 * life is good
-* shadowboxing, interaction with reality
+* shadowboxing, interaction with reality/actions as syncopation with echo
 * Occam's razor
 * good tests
 # wielder/scribe 
