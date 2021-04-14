@@ -141,7 +141,9 @@ However, there was a time in my life when I went by other names.
 * one //spring 2021, oneness
 
 **flow a: root -> ready -> scribe -> warrior-poet -> ghost (ϕ)**
+
 **flow b: r00k -> raz0r -> wielder -> king -> counselor (-1/ϕ)**
+
 **one = ϕ + (-1/ϕ) OR one = ϕ - 1/ϕ**
 
 At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Isle[0]. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
