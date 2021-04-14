@@ -155,7 +155,7 @@ At any moment within the given timeframe, I represented one of either of the fol
 * life is good
 * shadowboxing, interaction with reality/actions as syncopation with echo
 * Occam's razor
-* good tests
+* good tests //ready()
 # wielder/scribe 
 * Late Summer 2020
 * knowledge (skill & memory)
@@ -168,6 +168,7 @@ At any moment within the given timeframe, I represented one of either of the fol
 * echoboxing (means of externalizing *self*) //examples
 * leadership, influence, excellence (the tao of power)
 * guidance/non-interference
+* Echoing()
 # counselor/ghost
 * Winter 2020
 * belief, waltz 
