@@ -132,13 +132,17 @@ My name is Cullen Drummey and I believe life is good. One of my favorite things 
 
 However, there was a time in my life when I went by other names.
 
-**names[]**
-* r00k/root //May/June 2020
-* ready/raz0r // summer 2020
-* weilder/scribe //late summer 2020
-* warrior-poet/king //fall 2020
-* counselor/ghost //winter 2020
-* one //spring 2021
+**self[]** //denominator
+* r00k/root //May/June 2020, strategy with intent
+* ready/raz0r // summer 2020, good with truth
+* wielder/scribe //late summer 2020, power with understanding
+* warrior-poet/king //fall 2020, skill with choice
+* counselor/ghost //winter 2020, guidance with knowledge
+* one //spring 2021, oneness
+
+flow a: root -> ready -> scribe -> warrior-poet -> ghost (ϕ)
+flow b: r00k -> raz0r -> wielder -> king -> counselor (-1/ϕ)
+one = ϕ - 1/ϕ
 
 At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Isle[0]. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
 
