@@ -63,6 +63,18 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The result (ϕ *as time*) is the output of the self (a) as it perceives existence (b). The self persists through time with the *perception of time*. Therefore, ϕ *as time* (1.618...) can be used as a constant for time.
 * The self as a denominator in ϕ = (ϕ + 1)/**ϕ** is the self's perception of itself (in existance).
 
+# A BRIDGE BETWEEN PERCEPTION AND REALITY
+
+**ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self***
+
+* "Who are you?" and "Who am I?" (contained in the equation for ϕ *as self*) are observable events. //I exist (external) equation
+* The perception of time is ultimately an internal process *for the self*. The *self* is ultimately the interaction of internal (*self*) processes and external (*reality*) processes.//how the self reacts to external stimuli in real-time. A real-time process is one that happens in defined time steps of maximum duration and fast enough to affect the environment in which it occurs, such as inputs to a computing system.
+* The *perception of time* does not equal *time as it exists in reality*.
+
+**How to quantify perception in reality?**
+* Can the physical manifestations of perception (face, brain measurements?) be quantified? //timing of reaction to stimuli
+* TEST: brain scans during game of chess? //the resulting measurement of 'perception' as an approximation of real-time or **perception of reality**
+
 # Time Constant //hypothetical
 * ϕ or 1.618....
 * ϕ = (ϕ + 1)/ϕ
