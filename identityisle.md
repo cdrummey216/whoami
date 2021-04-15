@@ -68,7 +68,8 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 **ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self***
 
 * "Who are you?" and "Who am I?" (contained in the equation for ϕ *as self*) are observable events. //I exist (external) equation
-* The perception of time is ultimately an internal process *for the self*. The *self* is ultimately the interaction of internal (*self*) processes and external (*reality*) processes.//how the self reacts to external stimuli in real-time. A real-time process is one that happens in defined time steps of maximum duration and fast enough to affect the environment in which it occurs, such as inputs to a computing system.
+* The perception of time is ultimately an internal process *for the self*. 
+* The *self* is ultimately the interaction of internal processes (*self*) and external processes (*reality*). //how the self reacts to external stimuli in real-time. A real-time process is one that happens in defined time steps of maximum duration and fast enough to affect the environment in which it occurs, such as inputs to a computing system.
 * The *perception of time* does not equal *time as it exists in reality*.
 
 **How to quantify perception in reality?**
