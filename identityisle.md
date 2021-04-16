@@ -1,5 +1,5 @@
 # Overview & Purpose
-The following are the conclusions and judgements that can be made based on the [identity equations](whoiam.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence). 
+The following are the conclusions and judgements that can be made based on the [identity equations](idenityequations.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence). 
 
 # A foundation for reason
 * every cause is an effect and every effect is a cause. //in development
