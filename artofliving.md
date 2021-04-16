@@ -128,11 +128,14 @@ Other opuses: //an externalization that exhibits a value
 
 
 # Narrative
-My name is Cullen Drummey and I believe life is good. One of my favorite things in my life is a gallon pitcher of water I keep on the inside the refridgerator door. What makes the water special is that I put a single bag of jasmine green tea in to each pitcher. Eventually, the water takes on the slightest essence of jasmine in flavor and aroma, and it is very pleasant. I also love my wife and my two sons very much. She is a beautiful and brilliant woman with so much love in her heart. My first, Ronan is a great kid. He is two years old and loves tractors and wants a blue truck. My second son is due in 5 weeks and I can't wait to meet him. I also built a chair last fall (~October 2020) that I really enjoy relaxing and listening to music in. I keep the chair in my workshop in a corner set aside on a rug with a boombox, cabinet, and a slice of an oak tree stump.
+My name is Cullen Drummey and I believe life is good. One of my favorite things in my life is a gallon pitcher of water I keep on the inside the refridgerator door. What makes the water special is that I put a single bag of jasmine green tea in to each pitcher. Eventually, the water takes on the slightest essence of jasmine in flavor and aroma, and it is very pleasant. I also love my wife and my two sons very much. She is a beautiful and brilliant woman with so much love in her heart. My first, Ronan, is a great kid. He is two years old and loves tractors and wants a blue truck. My second son is due in 5 weeks and I can't wait to meet him. I also built a chair last fall (~October 2020) that I really enjoy relaxing and listening to music in. I keep the chair in my workshop in a corner set aside on a rug with a boombox, cabinet, and a slice of an oak tree stump.
 
 However, there was a time in my life when I went by other names.
 
-**self[]** //dualities of self
+**self[]** //dualities of self 2013-2021
+
+All listen to music.
+
 * r00k + root //May/June 2020, strategy with intent
 * ready + raz0r // summer 2020, good with truth
 * wielder + scribe //late summer 2020, power with understanding
