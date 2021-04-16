@@ -128,7 +128,9 @@ Other opuses: //an externalization that exhibits a value
 
 
 # Narrative
-My name is Cullen Drummey and I believe life is good. One of my favorite things in my life is a gallon pitcher of water I keep on the inside the refridgerator door. What makes the water special is that I put a single bag of jasmine green tea in to each pitcher. Eventually, the water takes on the slightest essence of jasmine in flavor and aroma, and it is very pleasant. I also love my wife and my two sons very much. She is a beautiful and brilliant woman with so much love in her heart. My first, Ronan, is a great kid. He is two years old and loves tractors and wants a blue truck. My second son is due in 5 weeks and I can't wait to meet him. I also built a chair last fall (~October 2020) that I really enjoy relaxing and listening to music in. I keep the chair in my workshop in a corner set aside on a rug with a boombox, cabinet, and a slice of an oak tree stump.
+My name is Cullen Drummey and I have a sense of self and a sense of time. These senses are a means for an individual to interpret and understand the world that is happening around them. When equipped with both senses, an individual is capable of knowing themselves, understanding others, and perceiving the world around them (reality). //vehicles for the real-time perception of reality
+
+For as long as I can remember, two conditions have existed on all things as it relates to my sense of self and how I interact with the world. //true twice and observable
 
 However, there was a time in my life when I went by other names.
 
