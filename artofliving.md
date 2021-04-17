@@ -189,3 +189,16 @@ At any moment within the given timeframe, I represented one of either of the fol
 * Spring 2021
 * self and alive (exist)
 * oneness
+
+# A CROSS, THREE STARS, AND THE RABBIT 
+
+## 07/16/2020 (Dusk)
+In the receding sunlight on a grassy opening, I was at the end of a particularly difficult stretching session. I had just spoken the words, "Life is good. Now you see that which I see. That which was already there." Nearing exhaustion, I looked up through the sweat and saw a small brown rabbit staring back at me. It was at the edge of the treeline around 10 feet away.
+
+## 03/27/21 ~22:00
+In pale moonlight on in the dunes on the Eastern Shore, I ended another particulary difficult stretching session. It was a clear night, so clear that one could navigate easily only the light of the moons and stars. I had just spoke the words, "Always remember who and what you are." I was facing West and looked up. I saw the lights of three stars in a straight line and spoke their names fom top to bottom. "Pollux. Alhena. Betelgeuse."
+
+## 04/16/2021 21:58
+During a studio session, I was brought to speech with the thought, "the highest outcome for the self is to communicate and to understand." In addition to the literal meaning, this statement also suggests that it is through communication with others that we are able to understand our selfs.
+
+On the walk back from the garage to my office, I glimpsed a large cross on the neighbors porch. I looked at it for a moment and then I spoke the word "Hello" and smiled. I turned West and looked up. "Pollux. Alhena. Betelgeuse." About 20 feet away, I spotted a small brown rabbit on the edge of my driveway. I got down on my knees and lifted my arms to the sky because I knew it was an answer.
