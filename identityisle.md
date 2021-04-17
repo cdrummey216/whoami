@@ -41,7 +41,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 
 # Conclusions about Time (on the Isle[0]) //hypothetical
 
-Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
+Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now). time has value. therefore, time can be measured. therefore, the unit of time must be real (observable). //gravity as a unit and extra solar travel to measure in absence of gravity
 
 **Key Points**
 * Life (existence) has a beginning and an end, a duration that lies between those two points in time is perceived by the self. 
