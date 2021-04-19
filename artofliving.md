@@ -130,6 +130,8 @@ Other opuses: //an externalization that exhibits a value
 # Narrative
 My name is Cullen Drummey and I have a sense of self and a sense of time. These senses are a means for an anyone to interpret and understand the world that is happening around them. When equipped with both senses, someone is capable of knowing themselves, understanding others, and perceiving the world around them (reality). //vehicles for the real-time perception of reality
 
+*I* am because *I* exist.
+
 My sense of self and my sense of time were lost to me due to preventable circumstances. However, I restored these senses by defining an identity for myself and remaining true to my self. I believe that so much of life is about timing and measure when acting or speaking. 
 
 For as long as I can remember, two conditions have existed on all things as it relates to my sense of self and how I interact with the world. //true twice and observable
