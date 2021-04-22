@@ -58,7 +58,8 @@ The value of ϕ (1.618) is the result of an equation using two given values (a, 
 * a+b/a = ϕ AND a/b = ϕ //(1) property of ϕ
 * a > b > 0 //(2) property of ϕ, the scope of *a* is greater than the scope of *b* (*a > b > 0*)
 * a+b is to a as a is to b. //(3) property of ϕ
-* **ϕ = 1 + 1/ϕ** //(4) property of ϕ,  ϕ can be used to define itself.
+* **ϕ = 1 + 1/ϕ** //(4) property of ϕ,  ϕ can be used to define itself (method #1).
+* **ϕ = (ϕ + 1)/ϕ** //(5) property of ϕ,  ϕ can be used to define itself (method #2).
 * a = A variable answer to "Who am I?", gives contextual truth for b, provides the limiting scope for b
 * b = A variable answer to "Who are you?"
 * a+b = A combination of a and b
