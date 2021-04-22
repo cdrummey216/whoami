@@ -116,3 +116,8 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * The 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
 * Split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
 * Split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
+
+# a note on humanity
+
+How did the mind evolve?
+* Looking up at the stars and down at their reflections (in water). A baby will fixate on a light source, moving their heads and eyes to follow it. As the human form evolved, the 'mind' also developed as a means to interact with the world. Naturally, each being would look up at the skies at night with curiousity or stare into a clear pool at the face appearing before them. Each example is an exercise in curiosity that the mind undertakes to percieve *the world* around them or *itself*.
