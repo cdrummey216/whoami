@@ -61,73 +61,61 @@ Other opuses: //an externalization that exhibits a value
 # artofliving
 
 **Topics**
+* framework
 * Why 'art of living'? //'living' as 'art', because art is self expression and living is expressing one's self over a lifetime.
 * How? Themes. Life is good. //existential calm
 * by what thoughts and devices do you live your life? how do the themes you chose for yourself express themselves?
-* convert to framework //framework must work with the duality of internal/external
 
-**List of themes and associated values** //'values' here is different from 'values' when referring to identity equations.
+
+## Framework
+
+**The Variable**
+
+**The Value**
+
+**The Momentum**
+
+**The Method**
+
+
+## My Framework //'values' here is different from 'values' when referring to identity equations.
 
 *Overthemes*: Patience, Trust, Freedom //essential to all themes
 
+**The Variable** //
 *Skilled in hand, subtle in mind* //external, internal
 * the ability to change //changeable
 * Self-Awareness, Self-development, Skilfulness, Open-mindedness, Mindfulness, Responsibility, Flexibility, Challenge, Curiosity
+* Patience, Trust, Freedom
 
+**The Value** //keen, sharp
 *Steadfast in attitude, force of meaning* //external, internal
 * the resilience of truth //truth endures
 * Self-control, Authenticity, Independence, Persistence, Contribution, Courage, Equality
+* Patience, Trust, Freedom
 
+**The Momentum** //forward movement (direction)
 *Act in good faith, speak with good will* //external, internal
 * the power of intention //intent empowers
 * Self-care, Honesty, Gratitude, Generosity, Respect, Encouragement, Acceptance, Compassion, Beauty, Humor, Spirituality, Supportiveness
-  
+* Patience, Trust, Freedom
+ 
+ **The Method** //self-expression
  *Echoboxing* //externalization of mindfulness
  * softness //soft technique (martial arts) uses momentum to create opportunity
  * improvization and syncopation to create a continuous stream of self-expression or 'artofliving' //multiple rhythms (or themes) contributing to a single piece of music (or a life), tributary to the end state
  * a means of externalization
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
-**Notes on values**
-
-* Patience //life is time, so patience is necessary when living. understanding that all things evolve with time, waiting for opportunities
-* Trust //trust facilitates interation with the self and with others.
-* Freedom //How can you be your self when you are not free? necessary to knowing and expressing oneself because living is a choice. universal scope
-
-
-* Self-Awareness //What is the relationship between my concept of self and my expression of self?
-* Self-development //from self-awareness, what can be modified for a better result?
-* Skilfulness //knowledge AND making/doing
-* Open-mindedness //knowing that my self is separate from another's self and seeking understanding
-* Mindfulness //ability to aware and seek balance
-* Responsibility //although i am separate from others, i have committments to my self and to others that must be upheld
-* Flexibility //patience requires flexibility, or flexibility is a method for existing in a changing environment
-* Challenge //challenging onself in new ways is a method for self-development and skilfulness
-* Curiosity //curiosity leads to new knowledge/skilfulness
-
-* Self-control //How do i manage myself so as to not negatively affect others, or how to prevent undesirable thoughts from turning into undesriable actions?
-* Authenticity //the calculation for identity is disrupted when variable answers are untrue or unauthentic to the self
-* Independence //freedom from external influence so as to truly know one's self.
-* Persistence //endurance in both meaning and attitude in pursuit of a goal
-* Contribution //knowing the value of the self in different contexts
-* Courage //necessary for persistence, the conviction that something is true
-* Equality //treat others the way you want to be treated, treat yourself the way you want others to treat you
-
-* Self-care //respect for one's life as it relates to the body and mind
-* Honesty //honesty as a rule for acting in good faith
-* Gratitude //recognizing good faith in others' actions
-* Generosity //give freely the things that you create or control so that you are free from care, passing ever on to some new work
-* Respect //respect for self and the self of others
-* Encouragement //elevating the self of others is a method to elevate the self
-* Acceptance //respect for the freedom of choice for others
-* Compassion //connection to Life
-* Beauty //connection to Life
-* Humor //connection to Life
-* Spirituality //knowing that some things are unknowable and so belief is required
-* Supportiveness //related to responsibility, to give support when support can be given
-
+**Notes on [values](values.md)**
 
 # Narrative
+
+## Topics
+* a
+* b
+* c
+
 My name is Cullen Drummey and I have a sense of self and a sense of time. These senses are a means for an anyone to interpret and understand the world that is happening around them. When equipped with both senses, someone is capable of knowing themselves, understanding others, and perceiving the world around them (reality). //vehicles for the real-time perception of reality
 
 *I* am because *I* exist.
