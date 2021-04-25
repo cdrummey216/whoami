@@ -49,6 +49,14 @@ Other opuses: //an externalization that exhibits a value
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
 * What ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
 
+# Oneness
+
+**The VisionPerception and Reality**
+* EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
+* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
+* Peace is found in the balance of reality and perception (of the self).
+
+
 # Questions for Self
 
 **Key Topics**
@@ -59,6 +67,7 @@ Other opuses: //an externalization that exhibits a value
 * What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. birth and death are like two book ends and each life is composed of the stories in between.
 
 # artofliving
+
 
 **Topics**
 * framework
