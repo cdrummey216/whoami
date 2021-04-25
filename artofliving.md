@@ -51,7 +51,7 @@ Other opuses: //an externalization that exhibits a value
 
 # Oneness
 
-**The VisionPerception and Reality**
+**The Vision** //when perception and reality match (are equal). 1 = 1 or 1 = ϕ - 1/ϕ
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
 * INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
 * Peace is found in the balance of reality and perception (of the self).
