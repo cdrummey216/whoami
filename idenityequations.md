@@ -154,6 +154,7 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 * ϕ = 1 + 1/ϕ //*b* must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
 * **a = 1** //value for answer to "Who am I?", self-perception
 * **b = 1/ϕ** //~0.6180, value for answer to "Who are you?", self-definition
+* When the self is understood as the product of an equation, the value of self-definition is distinct from the value of self-perception because it requires an external cause (to be asked "Who are you?" is an external cause). Subtracting the value of self-definition from the value of the self is an exercise in freeing one's self from external influence.
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
@@ -180,10 +181,9 @@ So, for identity[1]
 
 I am. //1 = ϕ - 1/ϕ
 
-# 1 = ϕ - 1/ϕ
+# 1 = ϕ - 1/ϕ //combination of value of self (ϕ) and value of self-expression (-1/ϕ), or ϕ + (-1/ϕ) --> ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
+* When the value of self-expression (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness, or 1 = ϕ - 1/ϕ
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
-* INTERNAL: When the value of self-definition (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness, or 1 = ϕ - 1/ϕ
-* INTERNAL: Oneness is a way to understand oneself. when the self is understood as the product of an equation, the value of self-definition is distinct from the value of self-perception because it requires an external cause (to be asked "Who are you?" is an external cause). So subtracting the value of self-definition from the value of the self is an exercise in 1) freeing one's self from external influence and 2) being whole (oneness,1).
-* So, oneness is simply the self without external cause. self-government follows.
+* INTERNAL: Oneness is when the combination of sense of self and self-expression (*ϕ - 1/ϕ*) are equal to reality (*1*). The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is expressed. Peace is found in the harmonization of reality and perception (of the self).
 * note: the irrational number ϕ can be used to calculate a real number, 1 
