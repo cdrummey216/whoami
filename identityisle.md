@@ -112,10 +112,13 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * This question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end.
 * Intent is a choice and ability is a means
 
-# Identity as oneness or Identity as a multiple
-* The 'I am' equation shows that oneness can be achieved for the self by devaluing the definitions assigned to one's self (recognizing external influence)
-* Split or multiple identities are a result of disproportionate valuations of the definitions for the self, which in turn distorts self-perception.
-* Split identities can be reintegrated by reassigning/recalculating the value of the definitions for the self. //re-proportion of self-perception value and the untrue definitions for the self
+# Oneness
+
+**The Vision** //when perception and reality match (are equal). 1 = 1 or 1 = ϕ - 1/ϕ
+* EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
+* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
+* Peace is found in the balance of reality and perception (of the self).
+* The 'I am' equation shows that oneness can be achieved for the self by harmonizing the self (perceived, abstract) and self-expression (actual, reality)
 
 # a note on humanity
 
