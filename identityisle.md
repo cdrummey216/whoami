@@ -92,25 +92,11 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * perceived duration
 * time perception and sense of time
 
-# A Conversation with Death
-
-**Key Topics**
-* Why? //cannot know life without first understanding death
-* when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
-* A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
-* A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
-* A 'no' signals fear of death //"are you ready?"
-
-**Are you ready?**
-
-* If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
-* If no, wait. //to wait is to dread
-
-**Are you willing?**
-* For most, the answer is 'no' //there are only a few things someone may be willing to die for
-* The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
-* This question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end.
-* Intent is a choice and ability is a means
+# Phase Constant //in development
+* y − y0 = A sin (2πt/T ± 2πx/λ + ϕ) in which y0 is the y position at x = 0 and t = 0, A is the amplitude, T is the period and  ϕ is the phase constant.
+* phase is 2πt/T ± 2πx/λ + ϕ 
+* For this sinusoidal wave, the period T = 1/f for frequency (f), which is how many cycles of a wave passes over a given point per second. 
+* The left side y − y0 is the displacement of the wave in the y direction from the initial position, and the value within the parentheses 2πt/T ± 2πx/λ + ϕ is the phase.
 
 # Oneness
 
