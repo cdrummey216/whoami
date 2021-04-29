@@ -140,6 +140,16 @@ I have little to no interest in forming friendships or repairing damaged relatio
 
 Trust has value in social interations. It is the currency by which we exchange ideas and acheive mutual growth. Consdier the old miser with his gold piled high, what is the value of gold when it is scurried away into a dark room?
 
+## The Root of Trust
+
+Life is good. 
+
+If you are alive, then that is good.
+
+If you believe that *to be alive* is good, then you are ready (to live).
+
+I *hope to trust* and *trust in hope*. I beleive that it is good to be alive.
+
 ## Introduction 
 My name is Cullen Drummey and I have a sense of self and a sense of time. These senses are a means for an anyone to interpret and understand the world that is happening around them. When equipped with both senses, someone is capable of knowing themselves, understanding others, and perceiving the world around them (reality). //vehicles for the real-time perception of reality
 
