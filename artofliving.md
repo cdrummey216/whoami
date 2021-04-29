@@ -132,6 +132,14 @@ In the summer of 2018, I attempted suicide in my garage. I had been battling wit
 
 The desire to kill myself has departed from me entirely now. I want to live because I believe 'Life is good' and that the time left to me in this world has value.
 
+## Trust
+
+I am unable to think of anyone I trust completely and few I trust partially. I struggle with paranoia. I am unable to reveal my self to others for fear that they will use the information against me. I am suspicious of people and so I interpret simple statements and gestures from others as hidden and malicious. I am overly sensitive to perceived insults and criticism. I have very few friends and many relationships in my life are stunted due to my inability to trust.
+
+I have little to no interest in forming friendships or repairing damaged relationships. I struggle to see the purpose of social interaction because I believe it is rife with opportunity to be exploited or to be condemned.
+
+Trust has value in social interations. It is the currency by which we exchange ideas and acheive mutual growth. Consdier the old miser with his gold piled high, what is the value of gold when it is scurried away into a dark room?
+
 ## Introduction 
 My name is Cullen Drummey and I have a sense of self and a sense of time. These senses are a means for an anyone to interpret and understand the world that is happening around them. When equipped with both senses, someone is capable of knowing themselves, understanding others, and perceiving the world around them (reality). //vehicles for the real-time perception of reality
 
