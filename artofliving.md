@@ -120,7 +120,7 @@ Other opuses: //an externalization that exhibits a value
 
 # Narrative
 
-## When I met Death
+## A long conversation with Death
 
 For the greater part of my life, I had no respect for my self mentally or physically. I was a untethered alcoholic and a wayward mind lost amid the numbness of intoxication and apathy and hatred. 
 
