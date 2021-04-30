@@ -79,13 +79,13 @@ Other opuses: //an externalization that exhibits a value
 ## Framework
 
 **The Variable**
-
+* The distinct characteristics of self that vary from person to person. The values and abilities unique to a person.
 **The Value**
-
+* Most important (abstract) values of the self, which ultimately determine thoughts and actions. Truth is very important here.
 **The Momentum**
-
+* The intention behind a thought or action. Intention is the direction that actions and thoughts are externalized.
 **The Method**
-
+* The means of externalization (observable).
 
 ## My Framework //'values' here is different from 'values' when referring to identity equations.
 
@@ -149,6 +149,30 @@ If you are alive, then that is good.
 If you believe that *to be alive* is good, then you are ready (to live).
 
 I *hope to trust* and *trust in hope*. I beleive that it is good to be alive.
+
+## Water as a Analogy for Oneness
+
+Water is an amazing substance for its properties. Water is old, older than life itself. Truly, life would not have appeared on Earth without the presence of water. Without water, you would perish in a matter of days. Life *at large* and *your* life are bound inextricably to water. 
+
+Over time, water changes its form but not its composition. It is backward- and forward- compatible, meaning that water can change from one form to another ceaselessly without any loss to its essence. Water is water, in whatever form. 
+
+The sound of water, washing over stone or crashing against the shore is an old sound. Even before their were ears to hear, the sound of water filled the empty spaces of the world. That sound has not changed, because water has not changed.
+
+Water can flow or it can crash. It fills any vessel it is poured into. It can be deep or shallow. Who can say whether the work of frosts, dews, waves, or rain are for good or for evil in the end? 
+
+Water is reflective and cohesive. Water is natural and resilient to the long and slow wearing of time. It envelopes a pebble the same it envelopes a boulder as both sink to the bottom. And at the surface, water responds in measure to the force of the mass cast into it as it disperses the energy as ripples and waves and sound.
+
+//A ship can float on water, but it can also sink.
+
+## Properties of Water
+
+* Water is polar. Water molecules are polar, with partial positive charges on the hydrogens, a partial negative charge on the oxygen, and a bent overall structure. This is because oxygen is more electronegative, meaning that it is better than hydrogen at attracting electrons.
+* Water is an excellent solvent. Water has the unique ability to dissolve many polar and ionic substances. This is important to all living things because, as water travels through the water cycle, it takes many valuable nutrients along with it!
+* Water has high heat capacity. It takes a lot of energy to raise the temperature of a certain amount of water by a degree, so water helps with regulating temperature in the environment. For example, this property allows the temperature of water in a pond to stay relatively constant from day to night, regardless of the changing atmospheric temperature.
+* Water has high heat of vaporization. Humans (and other animals that sweat) use water’s high heat of vaporization to cool off. Water is converted from its liquid form to steam when the heat of vaporization is reached. This is known as evaporative cooling.
+* Water has cohesive and adhesive properties. Water molecules have strong cohesive forces due to their ability to form hydrogen bonds with one another. Cohesive forces are responsible for surface tension, the tendency of a liquid’s surface to resist rupture when placed under tension or stress. Water also has adhesive properties that allow it to stick to substances other than itself. These cohesive and adhesive properties are essential for fluid transport in many forms of life. For example, they allow nutrients to be transported to the top of a tree against the force of gravity.
+* Water is less dense as a solid than as a liquid. As water freezes, the molecules form a crystalline structure that spaces the molecules further apart than in liquid water. This means that ice is less dense than liquid water, which is why it floats. This property is important, as it keeps ponds, lakes, and oceans from freezing solid and allows life to continue to thrive under the icy surface.
+
 
 ## Introduction 
 My name is Cullen Drummey and I have a sense of self and a sense of time. These senses are a means for an anyone to interpret and understand the world that is happening around them. When equipped with both senses, someone is capable of knowing themselves, understanding others, and perceiving the world around them (reality). //vehicles for the real-time perception of reality
