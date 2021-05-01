@@ -150,7 +150,7 @@ If you believe that *to be alive* is good, then you are ready (to live).
 
 I *hope to trust* and *trust in hope*. I beleive that it is good to be alive.
 
-## Water as a Analogy for Oneness
+## Water as a *Star* for Oneness //star as guide
 
 Water is an amazing substance for its properties. Water is old, older than life itself. Truly, life would not have appeared on Earth without the presence of water. Without water, you would perish in a matter of days. Life *at large* and *your* life are bound inextricably to water. 
 
@@ -163,6 +163,10 @@ Water can flow or it can crash. It fills any vessel it is poured into. It can be
 Water is reflective and cohesive. Water is natural and resilient to the long and slow wearing of time. It envelopes a pebble the same it envelopes a boulder as both sink to the bottom. And at the surface, water responds in measure to the force of the mass cast into it as it disperses the energy as ripples and waves and sound.
 
 //A ship can float on water, but it can also sink.
+
+* water has value *as an ideal*. an ideal is some thing to emulate in thoughts and action, as an analogy for action and a method acheive oneness
+* water exists and it is a foundational element of our reality. it is also an ideal.
+* water is old and tributary. who can say how and when water is complete? //binary state of incomplete/complete. water is incomplete because cannot define an end. always moving
 
 ## Properties of Water
 
