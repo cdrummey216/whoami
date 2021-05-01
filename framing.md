@@ -1,7 +1,11 @@
 # Framing the World
 When you envision yourself, where are you? Within that vision of yourself, what do you know and what do you propose?
 
-That place is where peace can be found. Harmonize your actions and thoughts in order to get there.
+That place that you envision yourself, what ever the context (perception or reality), is where peace can be found. Harmonize your actions and thoughts in order to get there.
+
+Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star and a straight line can be traced from the tip of your bow, off the horizon and up, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
+
+A star can be something, anything, that acts as a waypoint for the self, or a guiding influence on the things we do, the things we think, and the things we say.
 
 ## Propositional Mathematics
 
@@ -34,7 +38,7 @@ I am on the Isle[0] Isle and I am equipped with the knowledge that I will die so
 
 ## Living as Art
 
-*Living as art* is an approach to life that is distinguished by the credo that self-expression is the highest form of externalization for the individual. It is true that other forms of expression exist, such as the rhythm and measure born out of a musician's creativity or the unique skill of an painter's brushstroke. However, an instrument remains silent until handled by the musician and the brush lays idle until the painter returns. When self-expression is conceptualized as a medium for individual expression, the onus of responsibility to be who we want to be -- who we see in the vision of our self-- is ever at the fore of our minds. So, in any moment we engage with the world around us, whether we are welcoming home a loved one at the end of the day or completing a task at work, the awareness of our greatest selves acts as a waypoint. Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star and a straight line can be traced from the tip of your bow, off the horizon and up, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
+*Living as art* is an approach to life that is distinguished by the credo that self-expression is the highest form of externalization for the individual. It is true that other forms of expression exist, such as the rhythm and measure born out of a musician's creativity or the unique skill of an painter's brushstroke. However, an instrument remains silent until handled by the musician and the brush lays idle until the painter returns. When self-expression is conceptualized as a medium for individual expression, the onus of responsibility to be who we want to be -- who we see in the vision of our self-- is ever at the fore of our minds. So, in any moment we engage with the world around us, whether we are welcoming home a loved one at the end of the day or completing a task at work, the awareness of our greatest selves acts as a waypoint, or star. 
 
 ### Self-expression
 
