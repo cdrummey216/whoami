@@ -168,6 +168,8 @@ Water is reflective and cohesive. Water is natural and resilient to the long and
 * water exists and it is a foundational element of our reality. it is also an ideal.
 * water is old and tributary. who can say how and when water is complete? //binary state of incomplete/complete. water is incomplete because cannot define an end. always moving
 
+The value of oneness is in placidity of mind, a stillness born out of understanding the whole self and its place in the world.
+
 ## Properties of Water
 
 * Water is polar. Water molecules are polar, with partial positive charges on the hydrogens, a partial negative charge on the oxygen, and a bent overall structure. This is because oxygen is more electronegative, meaning that it is better than hydrogen at attracting electrons.
