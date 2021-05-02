@@ -1,15 +1,17 @@
 # Framing the World
-When you envision yourself, where are you? Within that vision of yourself, what do you know and what do you propose?
+When you envision your ideal self, who are you? What do you know and what do you say?
 
-That place that you envision yourself, what ever the context (perception or reality), is where peace can be found. Harmonize your actions and thoughts in order to get there.
+*That* is where oneness can be *found*. Harmonize your actions and thoughts now with your ideal self in order to *get there*.
 
-Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star and a straight line can be traced from the tip of your bow, off the horizon and up, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
+Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star. A straight line can be traced from the tip of your bow, off the horizon. and upwards, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
 
 A star can be something, anything, that acts as a waypoint for the self, or a guiding influence on the things we do, the things we think, and the things we say.
 
+Do you perceive your sense of self? Are you *you*? To perceive our selves, we must perceive the world that we live in. To *perceive the world (real-time)* is to *frame the world around us*. *Framing* is to *understand* and *comprehend* the world in real-time. 
+
 ## Propositional Mathematics
 
-The self is produced by the combination of how we understand our selves in the world and how we define our selves to others. To understand our selves, we must first perceive our selves by framing the world around us by asking "Who am I?" Any answer to this question provides will not only provide some insight in to the repsonder's perception of the self, but it will also have some measure of value, or significance, to the responder. Likewise, we define our selves in the ways in which we communicate and interact with others in the world. When asked "Who are you?", the answer will define our selves in a way that is real because the question is external and our answer is a representation of our self.
+The self is produced by the combination of how we understand our selves in the world and how we define our selves to others. To understand our selves,  Aby asking "Who am I?" Any answer to this question provides will not only provide some insight in to the repsonder's perception of the self, but it will also have some measure of value, or significance, to the responder. Likewise, we define our selves in the ways in which we communicate and interact with others in the world. When asked "Who are you?", the answer will define our selves in a way that is real because the question is external and our answer is a representation of our self.
 
 ## Definitions
 
