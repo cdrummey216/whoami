@@ -197,6 +197,11 @@ Basically, if I can prove that I exist (with the identity equations) then I am 
 
 The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 1/ϕ). So, when I can prove that _I exist_ using the 'I exist' equation, I know that _I am_ because I _must_ be. When I _also_ know who and what I am, I know existential calm and can externalize it. Oneness into being.
 
+* The 'I exist' equation shows that I exist, so 'I am' because I must. 
+* The 'I exist' equation is part of the identity equations, so this means that I can prove 'I am' on the Isle[0].
+* Also put, I am because I exist.
+* Also put, I exist, therefore I think, therefore I am.
+
 ## Why is it 1 − ϕ?
 
 The self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
