@@ -188,3 +188,15 @@ The above "I exist" equation can be understood in terms of the following:
 * INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives itself and how it actually expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is manifested. Oneness is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 as reality = ϕ as self - 1/ϕ (externalization)
 * Peace is found in the balance of reality and perception (of the self).
 * note: the irrational number ϕ can be used to calculate a real number, 1 
+
+# Alternative
+
+## I exist (1), therefore I am (ϕ). //**fc, c = 1 − ϕ**
+
+Basically, if I can prove that I exist (with the identity equations) then I am because I must be.
+
+The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 1/ϕ). So, when I can prove that _I exist_ using the 'I exist' equation, I know that _I am_ because I _must_ be. When I _also_ know who and what I am, I know existential calm and can externalize it. Oneness into being.
+
+## Why is it 1 − ϕ?
+
+The self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
