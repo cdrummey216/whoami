@@ -9,6 +9,23 @@ A star can be something, anything, that acts as a waypoint for the self, or a gu
 
 Do you perceive your sense of self? Are you *you*? To perceive our selves, we must perceive the world that we live in. To *perceive the world (real-time)* is to *frame the world around us*. *Framing* is to *understand* and *comprehend* the world in real-time. 
 
+## I exist (1), therefore I am (ϕ). //**fc, c = 1 − ϕ**
+
+### For You
+
+Basically, if I can prove that I exist (with the identity equations) then I am because I must be.  
+The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 1/ϕ). So, when I can prove that _I exist_ using the 'I exist' equation, I know that _I am_ because I _must_ be. When I _also_ know who and what I am, I know existential calm and can externalize it. Oneness into being.
+
+The self (ϕ) must be externalized in to reality (1) in order for it to exist in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in the words spoken and the things done.
+
+### For All
+
+Each life is unique and independent while, at the same time, inextriably bound to other life.
+
+Nothing will change the fact that I am *here now*, so *I am* because *I* am here alive now. And I know I exist. //'I exist' equation
+
+Nothing will change the fact that I am here now *with you* and that you are here now with me. And that time goes on. And life flows. 
+
 ## Propositional Mathematics
 
 The self is produced by the combination of how we understand our selves in the world and how we define our selves to others. To understand our selves,  Aby asking "Who am I?" Any answer to this question provides will not only provide some insight in to the repsonder's perception of the self, but it will also have some measure of value, or significance, to the responder. Likewise, we define our selves in the ways in which we communicate and interact with others in the world. When asked "Who are you?", the answer will define our selves in a way that is real because the question is external and our answer is a representation of our self.
