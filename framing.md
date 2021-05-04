@@ -1,17 +1,33 @@
 # Framing the World
+ 
+Does the "ideal self" only exist in the never-realized future?  Or is it Heaven?  Or something else?
+
 When you envision your ideal self, who are you? What do you know and what do you say?
 
 *That* is where oneness can be *found*. Harmonize your actions and thoughts now with your ideal self in order to *get there*.
 
 The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide your responses in real-time. Follow the guide long enough, and you will reach your ideal self.
 
-Heaven is peace elsewhere. The ideal self is a guide to find peace here and now. It can be realized and sustained by holding to the ideal.
+* The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide responses in real-time. Follow the guide long enough, and you will reach your ideal self.
+* Heaven is peace outside the boundaries of real-time. The ideal self is a guide to find peace here and now. It can be realized and sustained by harmonizing the present self with the ideal self.
+* The star is your ideal self and the sea is your present circumstance. If you know where you want to get to, you can make choices here and now that will get you there. I understand that there are those that don't know where they want to get to, but simple answers to simple questions is where anyone should start.
+* Who am I? 
+* What am I?
 
 Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star. A straight line can be traced from the tip of your bow, off the horizon. and upwards, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
 
 A star can be something, anything, that acts as a waypoint for the self, or a guiding influence on the things we do, the things we think, and the things we say.
 
 Do you perceive your sense of self? Are you *you*? To perceive our selves, we must perceive the world that we live in. To *perceive the world (real-time)* is to *frame the world around us*. *Framing* is to *understand* and *comprehend* the world in real-time. 
+
+* The equation for identity (fc, c = 1 − ϕ) encapsulates who you are and what you are in real-time. When you are aware of the variable answers used in the formula for the self (a, b), you also understand what you are because the variable answers are data points about your self as you persist through time. What you are is a reflection of how you live in real-time, the things you think, do, say, speak and act. 
+* The constant of proportionality for truth is important in variable answers, because untrue variable answers ultimately skew the concept of what you are.
+* Simultaneously accepting who you are and knowing what you are aligns the present with the past and the future. If you accept who you are here and now and comprehend that what you are proceeds from the past, then what lies before you is the future.
+* Together, they will dull the sharpness of the past (memory) and will cut a straight line to the future (anticipation).
+* Who am I? I am a living being that perceives and defines itself.
+* What am I? My nature is to understand and to communicate.
+* How do you perceive your self? How do you define your self?
+* What do you understand? What do you communicate?
 
 ## I exist (1), therefore I am (ϕ). //**fc, c = 1 − ϕ**
 
@@ -66,9 +82,14 @@ I am on the Isle[0] Isle and I am equipped with the knowledge that I will die so
 ‘I must choose’ because the identity is a product of a free will. The choice inherent to a variable answer holds bearing on how we perceive and define our selves in the world. Unless we choose to end our selves early, we will continue living in real-time. 
 
 *Is anything that "must be chosen" really a choice?*
-- An alternative to any choice is always available. We can choose to die, which is the choice to end choice. To end choice is to void the requirement to choose (ever again).
-- The only choice that is unavailable to us at any time is the choice to ‘not choose’.
-- We live in the present, or real-time. Real-time is a continuous stream of stimuli that we must respond to in order to live and continue to live. The choice lies in how we respond at every moment. So, if we must choose how to respond to real-time, we should choose a response that reflects our ideal self.
+
+* I must choose if I want to continue to live in real-time. 
+* We live in the present, or real-time. Real-time is a continuous stream of stimuli that we must respond to in order to live and continue to live. The choice lies in how we respond at every moment.  
+* A single alternative is always available that will end all choice. We can choose to die, which is the choice to preclude all other future choices. 'To preclude all other choices' is to void the requirement that we 'must choose'. So, we always have the ability to 'exit', which can be thought of as a universal choice that allows anyone to escape the 'must choose' requirement.
+* To put it differently, if we are ready and we are willing, we can decide to 'not choose' anymore by making the final choice to end choice by ending our life. The END iteration and the Conversation with Death show that the end of life is a choice in some cases and that it is final in all cases.
+* The only choice that is unavailable to us if we choose to live is the choice to ‘not choose’. In other words, we must respond to real-time in order to live.
+* Foregoing the choice to die in any case is tantamount to choosing to live, because life and death are binary/exclusive. By choosing to not die, we are choosing to live.
+* If we must choose how to respond to real-time, we should choose a response that reflects our ideal self. 
 
 ‘I must be (live)’ because the energy quotient will drive me ever onwards. The vision of my self that guides all my interactions. What I choose to eat, say, practice, make, do, believe, produce, cultivate, share and create will flow out from my self. And the vision will have a place, the special place in time where your ideal self exists.
 
