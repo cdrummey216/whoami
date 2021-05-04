@@ -3,6 +3,10 @@ When you envision your ideal self, who are you? What do you know and what do you
 
 *That* is where oneness can be *found*. Harmonize your actions and thoughts now with your ideal self in order to *get there*.
 
+The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide your responses in real-time. Follow the guide long enough, and you will reach your ideal self.
+
+Heaven is peace elsewhere. The ideal self is a guide to find peace here and now. It can be realized and sustained by holding to the ideal.
+
 Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star. A straight line can be traced from the tip of your bow, off the horizon. and upwards, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
 
 A star can be something, anything, that acts as a waypoint for the self, or a guiding influence on the things we do, the things we think, and the things we say.
@@ -38,9 +42,6 @@ The self is produced by the combination of how we understand our selves in the w
 
 * Identifying as the one who asked positions the "asker" as an active participant in the curation of their identity. From this perspective, the individual has the ability to accept or reject a given answer at any time. If a routine of asking and answering "who am i?" is established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities. When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
-## Conclusions
-* 
-
 ## Concentrated Philosophy
 
 Imagine yourself, alone on a desert island, seeking the unknown. You are alone with only the sounds of the waves lapping against the shore. Ultimately, what is knowable about the world around you is what is observable on the island. It is observable that you are alive now. It is good to be alive.
@@ -54,6 +55,25 @@ I am on the Isle[0] Isle and I am equipped with the knowledge that I will die so
 * It will be observable that life compounds over time, building upon itself. Each life (living being) is an event that has begun but not yet ended, or an incomplete event. The binary state of complete/incomplete describes a chronological state, whereby an incomplete state must precede the complete state. The incomplete state positions a living being at a point in time before its end (complete state) which the living being is progressing towards (in time). It is always true that each life will end. Therefore, Life is tributary to itself.
 
 //The following are the conclusions and judgements that can be made based on the identity equations while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence).
+
+**Right now and anytime, I must choose and I must be.**
+
+‘I must choose’ because the identity is a product of a free will. The choice inherent to a variable answer holds bearing on how we perceive and define our selves in the world. Unless we choose to end our selves early, we will continue living in real-time. 
+
+*Is anything that "must be chosen" really a choice?*
+- An alternative to any choice is always available. We can choose to die, which is the choice to end choice. To end choice is to void the requirement to choose (ever again).
+- The only choice that is unavailable to us at any time is the choice to ‘not choose’.
+- We live in the present, or real-time. Real-time is a continuous stream of stimuli that we must respond to in order to live and continue to live. The choice lies in how we respond at every moment. So, if we must choose how to respond to real-time, we should choose a response that reflects our ideal self.
+
+‘I must be (live)’ because the energy quotient will drive me ever onwards. The vision of my self that guides all my interactions. What I choose to eat, say, practice, make, do, believe, produce, cultivate, share and create will flow out from my self. And the vision will have a place, the special place in time where your ideal self exists.
+
+‘Right now and anytime’ because we exist in real-time. The present exists, and everything else is either memory or anticipation. The present flows from the past and on into the future.
+
+Oneness is a way to understand the self at any moment. Peace is found in understanding and accepting who and what you are at a given moment and how this moment fits into the chain of events that lead to your ideal self. The goal is to float towards your ideal self using the current of the river. Time is the current and reality is the river. 
+
+When you understand that the equation for identity (fc, c = 1 - phi) is who you are, you also understand what you are. You are a living being that perceives and defines itself and your nature is to understand and to communicate.
+
+The voyage of life begins at one point on the river and ends somewhere else downstream.
 
 ## Living as Art
 
