@@ -15,6 +15,11 @@ Do you perceive your sense of self? Are you *you*? To perceive our selves, we mu
 
 ## I exist (1), therefore I am (ϕ). //**fc, c = 1 − ϕ**
 
+* The 'I exist' equation shows that I exist, so 'I am' because I must. 
+* The 'I exist' equation is part of the identity equations, so this means that I can prove 'I am' on the Isle[0].
+* Also put, I am because I exist.
+* Also put, I exist, therefore I think, therefore I am.
+
 ### For You
 
 Basically, if I can prove that I exist (with the identity equations) then I am because I must be.  
