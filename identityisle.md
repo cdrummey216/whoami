@@ -39,6 +39,17 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
 * It will be observable that life compounds over time, building upon itself. Each life (living being) is an event that has begun but not yet ended, or an incomplete event. The binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. The *incomplete* state positions a living being at a point in time before its end (*complete* state) which the living being is progressing towards (in time). It is always true that each life will end. *Therefore, Life is tributary to itself.*
 
+# Conclusions about Choice
+
+I must choose if I want to continue to live in real-time. 
+
+* We live in the present, or real-time. Real-time is a continuous stream of stimuli that we must respond to in order to live and continue to live. The choice lies in how we respond at every moment.  
+* A single alternative is always available that will end all choice. We can choose to die, which is the choice to preclude all other future choices. 'To preclude all other choices' is to void the requirement that we 'must choose'. So, we always have the ability to 'exit', which can be thought of as a universal choice that allows anyone to escape the 'must choose' requirement.
+* To put it differently, if we are ready and we are willing, we can decide to 'not choose' anymore by making the final choice to end choice by ending our life. The END iteration and the Conversation with Death show that the end of life is a choice in some cases and that it is final in all cases.
+* The only choice that is unavailable to us if we choose to live is the choice to ‘not choose’. In other words, we must respond to real-time in order to live.
+* Foregoing the choice to die in any case is tantamount to choosing to live, because life and death are binary/exclusive. By choosing to not die, we are choosing to live.
+* If we must choose how to respond to real-time, we should choose a response that reflects our ideal self.
+
 # Conclusions about Time (on the Isle[0]) //hypothetical
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now). time has value. therefore, time can be measured. therefore, the unit of time must be real (observable). //gravity as a unit and extra solar travel to measure in absence of gravity
