@@ -1,5 +1,11 @@
 # Framing the World
 
+'Framing the world' refers to the mental labor undertaken by an individual that is aimed at deciphering and integrating the truth that is available in the present moment. Who am I? What am I? How did I get here? What am I doing? 
+
+'Framing the world' begins with the ultimate source of truth for an individual, which is their own identification. Truly, the ways in which someone identifies themselves flows naturally from their sense of self. Who can say whether individual's answer to 'Who am I?' and 'Who are you?' is untrue? If someone believes in the accuracy of their answer and it is also not contradicted by some other externalization of the self, then the answer is true.
+
+I am who I say I am.
+
 # A Method to Find Truth
 Simple statements represent, at minimum, a single dimension of a topic. Statements like 'the sun will rise tomorrow' and 'the tide will ebb and flow' are simple characterizations of complex and aged processes in our world and their value lies in their truth about our world. Both statements will always be true, until such conditions appear that would disrupt them. The *value* of these statements resides in that they are always true. For example, the sun rose this morning and water flowed as the tide steadily washed out to sea. So, whether the sun rises over the sea or suddenly over mountaintops in to a deep valley, statements that desrcibe the manner in which the sun proceeds in the world around us will desrcibe an aspect of the truth that the sun rises and the tide flows. Statements that describe 'Where/When/How?' the sun rises are the 'scope' that is can be placed on universal truths because anwsers to questions like *How does it rise?* or *Where does it rise?* or *When does it rise?* about the sun or tide will yeild a statement about the manner in which the sun or tide proceeds in real-time.
 
