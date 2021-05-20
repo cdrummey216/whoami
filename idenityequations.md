@@ -1,3 +1,9 @@
+# A Formula for Identity
+An identity is one of a kind. An identity belongs to itself. An identity is a testimony of the sense of self. *Who we are* are the things that we value in our lives and, most often, these things are the qualities, beliefs, and ideals that we model our selves after in our day to day interactions. As each life extends from the first days across the intervening years to the final moments, we are expressing our selves through our identities in the words we choose and the actions we decide to take. In this way, identity is the highest means of self-expression and self-expression is a reflection of our inner most self. 
+
+How can you understand your self without understanding what your identity is?
+Everyone possesses an identity. Everyone has a distinct identity. In software development, an identity is a unique identifier assign to a single record in a database. This identity cannot be duplicated or copied and solely exists to identify a single record. 
+
 ## IDENTITY AS A CONCEPT
 In order to be understood, identity and its components must be defined.
 
