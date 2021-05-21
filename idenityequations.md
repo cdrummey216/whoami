@@ -1,13 +1,16 @@
 # A Formula for Identity
 An identity is one of a kind. An identity belongs to itself. An identity is a testimony of the sense of self. *Who we are* are the things that we value in our lives and, most often, these things are the qualities, beliefs, and ideals that we model our selves after in our day to day interactions. As each life extends from the first days across the intervening years to the final moments, we are expressing our selves through our identities in the words we choose and the actions we decide to take. In this way, identity is the highest means of self-expression and self-expression is a reflection of our inner most self. 
 
-How can you understand your self without understanding what your identity is?
+How can you understand your self without understanding what your identity is? _Identity is your composition, the combination of your distinct experiences and unique perspcetive on life._
+
 Everyone possesses an identity. Everyone has a distinct identity. In software development, an identity is a unique identifier assign to a single record in a database. This identity cannot be duplicated or copied and solely exists to identify a single record. 
 
 ## IDENTITY AS A CONCEPT
 In order to be understood, identity and its components must be defined.
 
-## WHO AM I?
+# Definitions
+
+#### WHO AM I?: The Question
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
 at any time would be able to provide this answer and also satisfy the question.
@@ -21,30 +24,35 @@ the individual has the ability to accept or reject a given answer at any time. I
 established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities.
 When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
-## AN ENGINE FOR IDENTITY 
+#### WHO ARE YOU?: A Question
+"Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
+
+"Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
+
+#### AN ENGINE FOR IDENTITY: A Statement
 This question, as a routine, is the engine for identity. ***The one who asks*** is seeking an answer and therefore possesses the power to accept or reject an answer. The routine becomes a reference point on which one can build their active identification, or, accummulate the things that they identify with.
 
-## FREE WILL AND IDENTITY
+#### FREE WILL AND IDENTITY: A Belief
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
 or, the things that they choose to identify with. An identity is also an answer to the question "Who am I?"
 
-## TRUST AND BELIEF
+#### TRUST AND BELIEF: A Statement
 In order to believe, one must trust. Trust is an active quality exchanged between identities because it can be given and recieved and it has social value. Trust is a foundational element of an identity. Trust is valuable because it is given and recieved by out of someone's own free will, a willful act. When trust is established, it facilitates social interaction between individuals. For example, an individual can, in a single exchange, grant their trust to and recieve 
 the trust of another individual. Trust facilitates the exchange of ideas.
 
 A belief is partial or full assurance without positive knowledge or absolute certainty. In order to believe in any one thing, an individual must grant their trust to that which they believe. So, in this way, belief becomes a product of free will through the act of choosing to grant trust. Trust is a foundational element of an
 identity and is the currency of exchange between identities. 
 
-## AN EXTERNAL FOUNDATION FOR KNOWLEDGE, OR "I"
+#### AN _EXTERNAL_ FOUNDATION FOR KNOWLEDGE: A Statement
 
-I asked "Who am I?", therefore I am.
+I asked "Who am I?", therefore I exist. //in real-time
 
 By asking "Who am I?", one has simultaneously taken an action that defines "I" and infers the existence of "I". "I" is
-defined as "I am the one who asked" and "I" must exist because it can be defined.
+defined as "I am the one who asked" and "I" must exist because it can be defined in real-time.
 
-Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (external identity) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
+Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (another _external identity of another_) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
-## VARIABLE ANSWER
+#### VARIABLE ANSWER: An Answer
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
 "Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
@@ -53,10 +61,12 @@ Variable answers occur in inverse pairs. For example, "I am a man" shares equal 
 
 A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity.
 
-## IDENTITY AS A FRACTAL SET
-Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?"
- 
-## GOLDEN RATIO AND SENSE OF SELF
+#### IDENTITY AS A FRACTAL SET: A Representation
+Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
+
+# Propositions, _Meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
+
+## GOLDEN RATIO AND SENSE OF SELF: A Proposition
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
 
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional values.
@@ -71,7 +81,7 @@ The value of ϕ (1.618) is the result of an equation using two given values (a, 
 * a+b = A combination of a and b
 * a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0 (zero or nothing)
 
-## PROPERTIES OF ϕ: 3) a+b is to a as a is to b AND 1) a+b/a = ϕ AND a/b = ϕ
+#### PROPERTIES OF ϕ: 3) a+b is to a as a is to b AND 1) a+b/a = ϕ AND a/b = ϕ
 Self-concept is to self-perception as self-perception is to self-definition.
 
 **EXAMPLE**
@@ -87,7 +97,7 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 ...as self-perception (*a*) is to self-definition (*b*).
 * Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
-## IDENTITY AS A JULIA SET
+#### IDENTITY AS A JULIA SET: The Representation
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 * the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
 * so using an example array of [apple, pear, orange] named 'example', the value of example[0] is 'apple', the value of example[1] is 'pear', the value of example[2] is 'orange'
@@ -99,7 +109,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 ![](image.png)
 
-### The *Begin* Iteration //first iteration of identity or identity[0]
+#### The *Begin* Iteration //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
@@ -109,7 +119,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 I am alive, who am I?
 
-### The *End* Iteration //last iteration of identity or identity[n-1]
+#### The *End* Iteration //last iteration of identity or identity[n-1]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am not alive'
 * The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
@@ -121,7 +131,7 @@ I am alive, who am I?
 
 I know who I am.
 
-## PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS
+## PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS: A Proposition
 
 ### A Universal Truth
 
@@ -138,7 +148,7 @@ I know who I am.
 
 I will end.
 
-### The Value of Truth
+#### The Value of Truth
 * y = kx //equation for constant of proportionality
 * x = y/k
 * y = a //Who am I?, variable answer that acknowledges "I"
@@ -152,7 +162,7 @@ So when k = 1,
 
 Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
 
-## VALUE OF VARIABLES ANSWERS a, b IN THE GOLDEN RATIO EQUATION 
+#### VALUE OF VARIABLES ANSWERS a, b IN THE GOLDEN RATIO EQUATION 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
 * ϕ = (a+b)/a //because each *a* provides contextual truth to each *b* for any single calculation of ϕ, a is equal to 1 (see value for truth, k = 1 in END iteration)
@@ -165,7 +175,7 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
-## THE "I EXIST" EQUATION 
+#### THE "I EXIST" EQUATION: The Answer
 
 **EXAMPLE**
 * Let identity[x] represent an iteration of **fc, c = 1 − ϕ** 
@@ -188,7 +198,7 @@ So, for identity[1]
 
 I am. //1 = ϕ - 1/ϕ
 
-#3 1 = ϕ - 1/ϕ
+## 1 = ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
 * Combination of value of self (ϕ) and value of self-expression (-1/ϕ), or **ϕ + (-1/ϕ)** //also ϕ - 1/ϕ
 * When the value of self-expression (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness, or 1 = ϕ - 1/ϕ
@@ -197,9 +207,9 @@ The above "I exist" equation can be understood in terms of the following:
 * Peace is found in the balance of reality and perception (of the self).
 * note: the irrational number ϕ can be used to calculate a real number, 1 
 
-# Alternative
+# The _external_ Foundation for Knowledge
 
-## I exist (1), therefore I am (ϕ). //**fc, c = 1 − ϕ**
+#### I exist (1), therefore I am (ϕ). //**fc, c = 1 − ϕ**
 
 Basically, if I can prove that I exist (with the identity equations) then I am because I must be.
 
@@ -210,6 +220,6 @@ The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 
 * Also put, I am because I exist.
 * Also put, I exist, therefore I think, therefore I am.
 
-## Why is it 1 − ϕ?
+#### Why is it 1 − ϕ?
 
 The self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
