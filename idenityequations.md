@@ -5,12 +5,22 @@ How can you understand your self without understanding what your identity is? _I
 
 Everyone possesses an identity. Everyone has a distinct identity. In software development, an identity is a unique identifier assign to a single record in a database. This identity cannot be duplicated or copied and solely exists to identify a single record. 
 
-## IDENTITY AS A CONCEPT
-In order to be understood, identity and its components must be defined.
+# The Golden Ratio
+
+## Examples in Nature
+
+## Examples in Human Endeavors
+
+## Identity from the Sense of Self
+In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, a fractal set, is a representation of the identity in real-time because the value for sense of self is the proportion of any two statements about the identity to which it is describing. For example, The identifications of "I am a friend" and "I am a musician" are both statements that are true (proportional) and describe a distinct identity. Therefore, 
+
+## The Property of Truth
+
+Truth is difficult to define. There is inner truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less truth than another thing that is true. To put it differently, comparing two truths in their 'truthiness' is meaningless because the ratio between truths is 1:1.
 
 # Definitions
 
-#### WHO AM I?: The Question
+**Who am I?: The Question**
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
 at any time would be able to provide this answer and also satisfy the question.
@@ -24,26 +34,26 @@ the individual has the ability to accept or reject a given answer at any time. I
 established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities.
 When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
-#### WHO ARE YOU?: A Question
+**Who are you?: A Question**
 "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
 "Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
 
-#### AN ENGINE FOR IDENTITY: A Statement
+**AN ENGINE FOR IDENTITY: A Statement**
 This question, as a routine, is the engine for identity. ***The one who asks*** is seeking an answer and therefore possesses the power to accept or reject an answer. The routine becomes a reference point on which one can build their active identification, or, accummulate the things that they identify with.
 
-#### FREE WILL AND IDENTITY: A Belief
+**FREE WILL AND IDENTITY: A Belief**
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
 or, the things that they choose to identify with. An identity is also an answer to the question "Who am I?"
 
-#### TRUST AND BELIEF: A Statement
+**TRUST AND BELIEF: A Statement**
 In order to believe, one must trust. Trust is an active quality exchanged between identities because it can be given and recieved and it has social value. Trust is a foundational element of an identity. Trust is valuable because it is given and recieved by out of someone's own free will, a willful act. When trust is established, it facilitates social interaction between individuals. For example, an individual can, in a single exchange, grant their trust to and recieve 
 the trust of another individual. Trust facilitates the exchange of ideas.
 
 A belief is partial or full assurance without positive knowledge or absolute certainty. In order to believe in any one thing, an individual must grant their trust to that which they believe. So, in this way, belief becomes a product of free will through the act of choosing to grant trust. Trust is a foundational element of an
 identity and is the currency of exchange between identities. 
 
-#### AN _EXTERNAL_ FOUNDATION FOR KNOWLEDGE: A Statement
+**AN _EXTERNAL_ FOUNDATION FOR KNOWLEDGE: A Statement**
 
 I asked "Who am I?", therefore I exist. //in real-time
 
@@ -52,7 +62,7 @@ defined as "I am the one who asked" and "I" must exist because it can be defined
 
 Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (another _external identity of another_) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
-#### VARIABLE ANSWER: An Answer
+**Variable Answer: An Answer**
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
 "Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
@@ -61,7 +71,7 @@ Variable answers occur in inverse pairs. For example, "I am a man" shares equal 
 
 A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity.
 
-#### IDENTITY AS A FRACTAL SET: A Representation
+**Identity as a fractal set: A Representation**
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
 
 # Propositions, _Meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
