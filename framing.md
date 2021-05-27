@@ -19,7 +19,9 @@ When you envision your ideal self, who are you? What do you know and what do you
 
 *That* is where oneness can be *found*. Harmonize your actions and thoughts now with your ideal self in order to *get there*.
 
-The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide your responses in real-time. Follow the guide long enough, and you will reach your ideal self.
+The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide your responses in real-time. Follow the guide long enough, and you will reach your ideal self. 
+
+Once the ideal self is envisioned, the only task that remains is to achieve it in the time alotted to you.
 
 * The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide responses in real-time. Follow the guide long enough, and you will reach your ideal self.
 * Heaven is peace outside the boundaries of real-time. The ideal self is a guide to find peace here and now. It can be realized and sustained by harmonizing the present self with the ideal self.
