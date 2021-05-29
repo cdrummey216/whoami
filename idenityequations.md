@@ -13,13 +13,14 @@ The "golden ratio" refers to a mathematical relationship between two numbers tha
 
 The golden ratio can be approximated using the Fibonacci numbers, which are numbers in a sequential, never-ending pattern that begins with 0 and 1, and continues infinitely by adding the previous two numbers. For example, the sequence [0,1,1,2,3,5] represents the first six numbers in the sequence and the pattern is seen in the fact that the sum of the first two numbers (0,1) equal the third number (1). The pattern continues in that the sum of the second and third numbers (1, 1) equal the fourth number (2) and so on.
 
-As the numbeThe ratios of sequential Fibonacci numbers (2/1, 3/2, 5/3, etc.) approach the golden ratio. In fact, the higher the Fibonacci numbers, the closer their relationship is to 1.618.
+As the the numbers in the Fibonacci sequence increase, the ratio of any two sequential numbers approach the golden ratio. To put it differently, the higher the Fibonacci numbers are in the sequence, the closer their ratio is to 1.618. As shown below, the quotient of 89 and 144 is much closer to the golden ratio that the quotient of 2 and 1, which are much lower in the Fibonacci sequence. 
 
                     2/1 = 2
                     3/2 = 1.5
                     5/3 = 1.66666666 . . .
+                    144/89 = 1.617977...
 
-The golden ratio is sometimes called the "divine proportion," because of its frequency in the natural world. The number of petals on a flower, for instance, will often be a Fibonacci number. The seeds of sunflowers and pine cones twist in opposing spirals of Fibonacci numbers. Even the sides of an unpeeled banana will usually be a Fibonacci number—and the number of ridges on a peeled banana will usually be a larger Fibonacci number.
+Also called the "divine proportion," the golden ratio is frequently displayed in the natural world. A common example is the golden spiral, which is a logarithmic spiral whose growth factor is ϕ and is a self-similar spiral curve the is observable in things like seashells, hurricanes, and spiral galaxies. Furthermore, the number of petals on a flower or the sides of an unpeeled banana will often be Fibonacci numbers and the pine cones twist in opposing spirals of Fibonacci numbers.
 
 ## Examples in Nature
 
