@@ -7,6 +7,29 @@ Everyone possesses an identity. Everyone has a distinct identity. In software de
 
 # The Golden Ratio
 
+## What is it?
+
+The "golden ratio" refers to a mathematical relationship between two numbers is observed when the ratio of the sum of the numbers (a+b) divided by the larger number (a) is equal to the ratio of the larger number divided by the smaller number (a/b).
+
+The golden ratio is about 1.618, and represented by the Greek letter phi, Φ.
+
+The golden ratio is best approximated by the famous "Fibonacci numbers." Fibonacci numbers are a never-ending sequence starting with 0 and 1, and continuing by adding the previous two numbers. The next numbers in the Fibonacci sequence, for instance, are 1,2,3, and 5.
+
+                    0
+                    1
+                    1 (0 1)
+                    2 (1 1)
+                    3 (2 1)
+                    5 (3 2)
+
+The ratios of sequential Fibonacci numbers (2/1, 3/2, 5/3, etc.) approach the golden ratio. In fact, the higher the Fibonacci numbers, the closer their relationship is to 1.618.
+
+                    2/1 = 2
+                    3/2 = 1.5
+                    5/3 = 1.66666666 . . .
+
+The golden ratio is sometimes called the "divine proportion," because of its frequency in the natural world. The number of petals on a flower, for instance, will often be a Fibonacci number. The seeds of sunflowers and pine cones twist in opposing spirals of Fibonacci numbers. Even the sides of an unpeeled banana will usually be a Fibonacci number—and the number of ridges on a peeled banana will usually be a larger Fibonacci number.
+
 ## Examples in Nature
 
 The golden ratio in nature, on display in the evolution of life and other things in the universe. These things on display are complex, old, and natural. The golden ratio is a fundamental part of our world and existence in the world.
