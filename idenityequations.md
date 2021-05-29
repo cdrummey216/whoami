@@ -9,10 +9,24 @@ Everyone possesses an identity. Everyone has a distinct identity. In software de
 
 ## Examples in Nature
 
+The golden ratio in nature, on display in the evolution of life and other things in the universe. These things on display are complex, old, and natural. The golden ratio is a fundamental part of our world and existence in the world.
+
+The golden ratio is exhibited in the forms of:
+
+* Flowers & trees
+* Hurricanes & Galaxies
+* Human body
+
 ## Examples in Human Endeavors
 
+The discovery of the golden ratio and examples in human endeavors. What is more complex than humans? Humans are a product of evolution in nature and are, therefore, natural beings with a chronology that is intertwined with the natural world. The human form exhibits the golden ratio in the face and in the  extremities. But what about the human mind? What is more complex than the human mind? It stands to reason that the human mind would also follow the golden ratio.
+
+The golden ratio in economics where economics is a human endeavor.
+
 ## Identity from the Sense of Self
-In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, a fractal set, is a representation of the identity in real-time because the value for sense of self is the proportion of any two statements about the identity to which it is describing. For example, The identifications of "I am a friend" and "I am a musician" are both statements that are true (proportional) and describe a distinct identity. Therefore, 
+In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, a fractal set, is a representation of the identity in real-time because the value for sense of self is the proportion of any two statements about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are both statements that are true (proportional) and describe a distinct identity. Therefore, 
+
+The golden ratio proposition as the value for sense of self. The sense of self is an output of a human mind that is singularly focused on the identification of the specific human mind it describes. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
 
 ## The Property of Truth
 
