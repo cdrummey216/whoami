@@ -9,20 +9,11 @@ Everyone possesses an identity. Everyone has a distinct identity. In software de
 
 ## What is it?
 
-The "golden ratio" refers to a mathematical relationship between two numbers is observed when the ratio of the sum of the numbers (a+b) divided by the larger number (a) is equal to the ratio of the larger number divided by the smaller number (a/b).
+The "golden ratio" refers to a mathematical relationship between two numbers that is observable when the ratio of the sum of the numbers (a+b) divided by the larger number (a) is equal to the ratio of the larger number divided by the smaller number (a/b).The golden ratio is approximately 1.618, and represented by the Greek letter phi, ϕ.
 
-The golden ratio is about 1.618, and represented by the Greek letter phi, Φ.
+The golden ratio can be approximated using the Fibonacci numbers, which are numbers in a sequential, never-ending pattern that begins with 0 and 1, and continues infinitely by adding the previous two numbers. For example, the sequence [0,1,1,2,3,5] represents the first six numbers in the sequence and the pattern is seen in the fact that the sum of the first two numbers (0,1) equal the third number (1). The pattern continues in that the sum of the second and third numbers (1, 1) equal the fourth number (2) and so on.
 
-The golden ratio is best approximated by the famous "Fibonacci numbers." Fibonacci numbers are a never-ending sequence starting with 0 and 1, and continuing by adding the previous two numbers. The next numbers in the Fibonacci sequence, for instance, are 1,2,3, and 5.
-
-                    0
-                    1
-                    1 (0 1)
-                    2 (1 1)
-                    3 (2 1)
-                    5 (3 2)
-
-The ratios of sequential Fibonacci numbers (2/1, 3/2, 5/3, etc.) approach the golden ratio. In fact, the higher the Fibonacci numbers, the closer their relationship is to 1.618.
+As the numbeThe ratios of sequential Fibonacci numbers (2/1, 3/2, 5/3, etc.) approach the golden ratio. In fact, the higher the Fibonacci numbers, the closer their relationship is to 1.618.
 
                     2/1 = 2
                     3/2 = 1.5
