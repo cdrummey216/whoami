@@ -50,7 +50,7 @@ Truth is difficult to define. There is inner truth, higher truth, shared truths.
 
 # Concepts
 
-**Who am I?: The Question**
+**Who am I?: A Question**
 
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
