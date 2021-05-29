@@ -17,9 +17,11 @@ As the the numbers in the Fibonacci sequence increase, the ratio of any two sequ
 
                     2/1 = 2
                     3/2 = 1.5
-                    5/3 = 1.66666666...
+                    5/3 = 1.666666...
                     ...
                     144/89 = 1.617977...
+                    ...
+                    4181/2584 = 1.618034...
 
 Also called the "divine proportion," the golden ratio is frequently displayed in the natural world. A common example is the golden spiral, which is a logarithmic spiral whose growth factor is ϕ and is a self-similar spiral curve the is observable in things like seashells, hurricanes, and spiral galaxies. Furthermore, the number of petals on a flower or the sides of an unpeeled banana will often be Fibonacci numbers and the pine cones twist in opposing spirals of Fibonacci numbers.
 
@@ -37,11 +39,22 @@ The golden ratio is exhibited in the forms of:
 
 ## Examples in Human Endeavors
 
-The discovery of the golden ratio and examples in human endeavors. What is more complex than humans? Humans are a product of evolution in nature and are, therefore, natural beings with a chronology that is intertwined with the natural world. The human form exhibits the golden ratio in the face and in the  extremities. But what about the human mind? What is more complex than the human mind? It stands to reason that the human mind would also follow the golden ratio.
+The discovery of the golden ratio and examples in human endeavors. 
 
-The golden ratio in economics where economics is a human endeavor.
+What is more complex than humans? Humans are a product of evolution in nature and are, therefore, natural beings with a chronology that is intertwined with the natural world. The human form exhibits the golden ratio in the face and in the  extremities. 
+
+What is more complex than the human mind? 
+
+The human mind can comprehend, understand and communicate the furthest intricacies of the universe. Could it be that the complexity of the human mind can be decoded using the golden ratio? It stands to reason that the human mind would also follow the golden ratio.
+
+An economy is ultimately the output of the choices made by its constituents on buying and selling. Econmy is ultimately a human endeavor.
+
+The golden ratio and the Fibonacci sequence are popularly used to analyze the economic performance. Technical analyst in the financial industry will use four applications of the Fibonacci sequence to analyze the historical performance of one investment or another to predict buying and selling trends. The four applications are retracements, arcs, fans, and time zones and are commonly displayed as data charts. Each approach uses the Fibonacci sequence to analyze the performance of a certain investment and make predictions about the investment's future. 
+
+Technical analysts also use the golden ratio, most often as three percentages of key Fibonacci numbers: 38.2%, 50%, and 61.8%.
 
 ## Identity from the Sense of Self
+
 In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, a fractal set, is a representation of the identity in real-time because the value for sense of self is the proportion of any two statements about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are both statements that are true (proportional) and describe a distinct identity. Therefore, 
 
 The golden ratio proposition as the value for sense of self. The sense of self is an output of a human mind that is singularly focused on the identification of the specific human mind it describes. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
