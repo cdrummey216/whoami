@@ -25,7 +25,9 @@ Also called the "divine proportion," the golden ratio is frequently displayed in
 
 ## Examples in Nature
 
-The golden ratio in nature, on display in the evolution of life and other things in the universe. These things on display are complex, old, and natural. The golden ratio is a fundamental part of our world and existence in the world.
+The natural world is chaotic and unpredictable but, as a physical realm, it is organized and bound by the laws of mathematics. A fundamental way in which mathematics manifests itself in physical phenomenon is through the golden ratio. Natural processes like the spiraling of a galaxy or the revolution of a hurricane exhibit the same logarithmic spirals found in the golden spiral. Numbers in the Fibonacci sequence and the golden spiral are also observabled in various life forms that have evolved on Earth such as the number of petals on flowers or in the length and number of the arms on a starfish.
+
+These things on display are complex, old, and natural. The golden ratio is a fundamental part of our physical realm and is a guiding influence on animate/inanimate objects in the world.
 
 The golden ratio is exhibited in the forms of:
 
@@ -75,7 +77,8 @@ When combined with a free will, this ability allows the "asker" to discover who 
 
 This question, as a routine, is the engine for identity. ***The one who asks*** is seeking an answer and therefore possesses the power to accept or reject an answer. The routine becomes a reference point on which one can build their active identification, or, accummulate the things that they identify with.
 
-**FREE WILL AND IDENTITY: A Belief**
+**FREE WILL AND IDENTITY: A Relationship**
+
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
 or, the things that they choose to identify with. An identity is also an answer to the question "Who am I?"
 
