@@ -262,7 +262,7 @@ So, for identity[1]
 * **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
 * The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. it is the first time that "I" is percieved AND defined within ϕ.
 
-I am. //1 = ϕ - 1/ϕ
+I exist. //1 = ϕ - 1/ϕ, also "I am"
 
 ## 1 = ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
