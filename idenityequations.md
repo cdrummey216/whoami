@@ -79,8 +79,10 @@ Other answers to this question could be responses like "I am a man" or "I am a f
 A man was once a child and a florist could sell their business. So, in this way, answers to the question "who am i?" are subject to change
 over time.
 
+The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", shows that "I" exists as an _internal process_ of the self. What this means is that the cogito, as it is often referred, proves that one's thoughts exist within the self and therefore, the self must exists. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinking. So, what is _my_ self? Is it externalized in reality (real-time) from _my_ self? Can I identify my self and the self of another in reality?
+
 Identifying as ***the one who asked*** positions the "asker" as an active participant in the curation of their identity. From this perspective,
-the individual has the ability to accept or reject a given answer at any time. If a routine of asking and answering "who am i?" is 
+the individual has the ability to accept or reject a given answer at any time. If a routine of asking and answering "Who am I?" is 
 established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities.
 When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
