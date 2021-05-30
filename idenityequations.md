@@ -65,7 +65,7 @@ The golden ratio proposition as the value for sense of self. The sense of self i
 
 ## The Property of Truth
 
-Truth is difficult to define. There is inner truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less truth than another thing that is true. To put it differently, comparing two truths in their 'truthiness' is meaningless because the ratio between truths is 1:1.
+Truth is difficult to define. There is inner truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthiness' is meaningless because the ratio between truths is 1:1.
 
 # Concepts
 
