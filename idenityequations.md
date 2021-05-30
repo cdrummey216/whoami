@@ -37,7 +37,7 @@ The golden ratio is exhibited in the forms of:
 * Hurricanes & Galaxies
 * Human body
 
-## Examples in Human Endeavors
+## Examples in Humans
 
 The discovery of the golden ratio and examples in human endeavors. 
 
@@ -47,15 +47,19 @@ What is more complex than the human mind?
 
 The human mind can comprehend, understand and communicate the furthest intricacies of the universe. Could it be that the complexity of the human mind can be decoded using the golden ratio? It stands to reason that the human mind would also follow the golden ratio.
 
-An economy is ultimately the output of the choices made by its constituents on buying and selling. Econmy is ultimately a human endeavor.
+An economy is the output of the choices made by its constituents on buying and selling. Econmy is ultimately a human endeavor.
 
 The golden ratio and the Fibonacci sequence are popularly used to analyze the economic performance. Technical analyst in the financial industry will use four applications of the Fibonacci sequence to analyze the historical performance of one investment or another to predict buying and selling trends. The four applications are retracements, arcs, fans, and time zones and are commonly displayed as data charts. Each approach uses the Fibonacci sequence to analyze the performance of a certain investment and make predictions about the investment's future. 
 
 Technical analysts also use the golden ratio, most often as three percentages of key Fibonacci numbers: 38.2%, 50%, and 61.8%.
 
+Even the human body is subject to the gold ratio, the proportions of the length of the nose, the position of the eyes and the length of the chin, are believed to conform to some aspect of the Golden Ratio. According to evolutionary research, physical attraction depends on ratio and, in particular, symmetry in facial structure. Our attraction to another person's body increases if that body is symmetrical and in proportion. Likewise, if a face is in proportion, we are more likely to notice it and find it beautiful.
+
+Scientists believe that we perceive proportional bodies to be more healthy.
+
 ## Identity from the Sense of Self
 
-In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, a fractal set, is a representation of the identity in real-time because the value for sense of self is the proportion of any two statements about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are both statements that are true (proportional) and describe a distinct identity. Therefore, 
+In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, the fractal set, is a representation of the identity in real-time. The identity is something that is externalized by the sense of self at any given moment. The value of the sense of self is the proportion of any two statements, or variable answers, about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are true variable answers that describe an identity. Therefore, the proportion of true variable answers about an identity is ultimately the product of the choices _made by the self_ in how it identifies itself. The choice _in what manner_ to identify oneself belongs wholly to the self. Identity is the product of a free will.
 
 The golden ratio proposition as the value for sense of self. The sense of self is an output of a human mind that is singularly focused on the identification of the specific human mind it describes. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
 
@@ -93,7 +97,7 @@ This question, as a routine, is the engine for identity. ***The one who asks*** 
 **FREE WILL AND IDENTITY: A Relationship**
 
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
-or, the things that they choose to identify with. An identity is also an answer to the question "Who am I?"
+or, the things that they choose to identify with.
 
 **TRUST AND BELIEF: A Statement**
 
