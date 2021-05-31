@@ -69,6 +69,8 @@ Truth is difficult to define. There is inner truth, higher truth, shared truths.
 
 # Concepts
 
+The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the self_. What this means is that the cogito, as it is often referred, proves that the self ("I") is cognizant due to the fact that the self is able _to think_ and therefore, the self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinks. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the self of another in reality? How?
+
 **Who am I?: A Question**
 
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
@@ -79,7 +81,7 @@ Other answers to this question could be responses like "I am a man" or "I am a f
 A man was once a child and a florist could sell their business. So, in this way, answers to the question "who am i?" are subject to change
 over time.
 
-The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", shows that "I" exists as an _internal process_ of the self. What this means is that the cogito, as it is often referred, proves that one's thoughts exist within the self and therefore, the self must exists. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinking. So, what is _my_ self? Is it externalized in reality (real-time) from _my_ self? Can I identify my self and the self of another in reality?
+The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the self_. What this means is that the cogito, as it is often referred, proves that the self ("I") is cognizant due to the fact that the self is able _to think_ and therefore, the self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinking. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the self of another in reality? How?
 
 Identifying as ***the one who asked*** positions the "asker" as an active participant in the curation of their identity. From this perspective,
 the individual has the ability to accept or reject a given answer at any time. If a routine of asking and answering "Who am I?" is 
