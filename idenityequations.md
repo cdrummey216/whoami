@@ -57,15 +57,28 @@ Even the human body is subject to the gold ratio, the proportions of the length 
 
 Scientists believe that we perceive proportional bodies to be more healthy.
 
+# The Property of Truth
+
+## What is it?
+
+Truth is difficult to define. There is inner truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthiness' is meaningless because the ratio between truths is 1:1.
+
+## Why !;!?
+
+When something has truth, it means that it is demonstrative of reality. As a result, what ever the object, it will also possesses the resilience that comes with truth. a truth will remain truthful through time and will only change its 'truthiness' after the introduction of new knowledge.
+
+## What is its source?
+
+The assignment of 'truth' to an object relies on the fact that an observer exists to declare the truth. So truth, the great equalizer across time, is a human creation that flows out from our minds. We observe the property of truth in certain objects because they display a reflection of reality in either form or function. Things that have truth will remain truthful until such time that a new observation or discovery changes the understanding of truth.
+
+The observer of the property of truth, then, possesses the perception of the truth through their understanding of the truth that has been observed. As the observer, then, the self percieves the truth in the ways in which the self understands the truth. 
+
 ## Identity from the Sense of Self
 
 In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, the fractal set, is a representation of the identity in real-time. The identity is something that is externalized by the sense of self at any given moment. The value of the sense of self is the proportion of any two statements, or variable answers, about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are true variable answers that describe an identity. Therefore, the proportion of true variable answers about an identity is ultimately the product of the choices _made by the self_ in how it identifies itself. The choice _in what manner_ to identify oneself belongs wholly to the self. Identity is the product of a free will.
 
 The golden ratio proposition as the value for sense of self. The sense of self is an output of a human mind that is singularly focused on the identification of the specific human mind it describes. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
 
-## The Property of Truth
-
-Truth is difficult to define. There is inner truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthiness' is meaningless because the ratio between truths is 1:1.
 
 # Concepts
 
