@@ -2,6 +2,8 @@
 
 ## Now
 
+'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
+
 The complexity of now relies on someone being present to experience it. 'Someone' will always have an identity and a sense of self. Identity is the observable expression of the sense of self each person has.
 
 # Part 1: What is 'someone'?
