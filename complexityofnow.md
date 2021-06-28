@@ -1,6 +1,26 @@
 # The Complexity of Now
 
-## Now
+## Complexity
+
+### 06/16/2021 ~20:00
+
+*He stood silent in front of his chair in his garage. The low light from the lightbulb behind him cast a long shadow across the floor to the front of the garage, where a shelf with paint cans was located. On the second shelf from the top, stood three cans. They hadn't moved in months. A can of grey spray paint with the words "PRIMER 2x" was next to two stout cans stacked on top of each other. The can on top was the shorter of the two and said "Finishing Paste" in black across a bright yellow background. The lower can was also yellow, and read in big letters across the front "Wood Stain".*
+
+*He knew these three cans well. He has been watching them from his chair for nearly a year as he sat, and stretched, and listened to music, and considered the questions he had. The can of "Primer 2x" captured his attention first. The labor and toil of his life and its effect on his body had been a primer for his future. The steadfast resilience and determined courage primed him to live and to be. The can of "Wood Stain" was next. His focus was on the word "Wood" but he only ever saw the word "Good." He had been primed to live and he considered, now, how to be good. He watched the can and he stretched and listened and learned that "Life is good" and to be good, he must reflect it truthfully. The final can, the "Finishing Paste", was an endeavor into his own mind to determine how he could continue to live his life and reflect anew his mind and express it meaningfully as good and truthful.*
+
+*Primer, good stain, and finishing paste. The finished state found him slumped in his chair motionless. A moment before, he was standing and stretching. He had traced his body with his left thumb from the bottom of his right heel, up the back of his legs, along his spine to finally reach his neck just below the left side of his face. When he dragged his thumb from left to right, there was a small pop, he fell into his chair, and was unconscious for a few moments. He felt as though his entire body was in some time of slipstream, a complete reconfiguration and recalibration of his body and his mind. His mind was screaming, "Stand up!" So he stood up and put weight on his right heel.*
+
+*This was the culmination of months of stretching and tracing, and happened only after he had discovered the truth. Life is good.*
+
+Someone else wrote the above for me on June 16, 2021 around 8:00 PM EST. My name is Cullen Drummey and I am acquainted with complexity. About six months before this was written, I awoke in my own mind and asked, "Who am I?". I found myself in a small town on the Eastern Shore of Maryland called Easton. I was in a beautiful, square brick house. I had a wife and she was pregnant. I had a son and he was about to turn two years old. I was a software engineer at the world's largest aerospace and defense manufacturer. But I didn't know who I was. I was thirty years old.
+
+My recollection of my past is limited and the things that I do remember are painful. I suspect I was sexually abused as a child based on intrusive and reccurrent memories, but I can't be sure. I know that I spent adolescence into my early mid-twenties as a consummate alcoholic with a proclivity for wreckless and crass behavior. I have two scars on the inside of my forearms from self-harm at an early age, which are a reminder of the times I tried to commit suicide later in life. I remember attempting to die twice, and it took a long time to forgive myself for those times.
+
+I reject those things I did as answers to the question "Who am I?" I have accomplished so much in my life, despite the terrible baggage that I carried with me. My beautiful, forgiving, loving, and brilliant wife showed me how to be better. She showed me how to pick yourself up after desparate and disheartening times and carry on with renewed vigor and lust for life. My sons and the gentle and simple joys of their childhood has shown me that life is always worth living because there is always more life to live.
+
+I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was it? And why did he believe 'Life is good'?
+
+## What is 'now'?
 
 'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
 
@@ -737,16 +757,6 @@ In pale moonlight on in the dunes on the Eastern Shore, I ended another particul
 During a studio session, I was brought to speech with the thought, "the highest outcome for the self is to communicate and to understand." In addition to the literal meaning, this statement also suggests that it is through communication with others that we are able to understand our selfs.
 
 On the walk back from the garage to my office, I glimpsed a large cross on the neighbors porch. I looked at it for a moment and then I spoke the word "Hello" and smiled. I turned West and looked up. "Pollux. Alhena. Betelgeuse." About 20 feet away, I spotted a small brown rabbit on the edge of my driveway. I got down on my knees and lifted my arms to the sky because I knew it was an answer.
-
-### 06/16/2021 ~20:00
-
-He stood silent in front of his chair in his garage. The low light from the lightbulb behind him cast a long shadow across the floor to the front of the garage, where a shelf with paint cans was located. On the second shelf from the top, stood three cans. They hadn't moved in months. A can of grey spray paint with the words "PRIMER 2x" was next to two stout cans stacked on top of each other. The can on top was the shorter of the two and said "Finishing Paste" in black across a bright yellow background. The lower can was also yellow, and read in big letters across the front "Wood Stain".
-
-He knew these three cans well. He has been watching them from his chair for nearly a year as he sat, and stretched, and listened to music, and considered the questions he had. The can of "Primer 2x" captured his attention first. The labor and toil of his life and its effect on his body had been a primer for his future. The steadfast resilience and determined courage primed him to live and to be. The can of "Wood Stain" was next. His focus was on the word "Wood" but he only ever saw the word "Good." He had been primed to live and he considered, now, how to be good. He watched the can and he stretched and listened and learned that "Life is good" and to be good, he must reflect it truthfully. The final can, the "Finishing Paste", was an endeavor into his own mind to determine how he could continue to live his life and reflect anew his mind and express it meaningfully as good and truthful.
-
-Primer, good stain, and finishing paste. The finished state found him slumped in his chair motionless. A moment before, he was standing and stretching. He had traced his body with his left thumb from the bottom of his right heel, up the back of his legs, along his spine to finally reach his neck just below the left side of his face. When he dragged his thumb from left to right, there was a small pop, he fell into his his chair, and was unconscious for a few moments. He felt as though his entire body was in some time of slipstream, a complete reconfiguration and recalibration of his body and his mind. His mind was screaming, "Stand up!" So he stood up and put weight on his right heel.
-
-This was the culmination of months of stretching and tracing, and happened only after he had discovered the truth. Life is good.
 
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
