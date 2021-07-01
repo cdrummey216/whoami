@@ -20,6 +20,87 @@ I reject those things I did as answers to the question "Who am I?" I have accomp
 
 I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was it? And why did he believe 'Life is good'?
 
+_________________________________________________________________________
+Golden Rule:
+Treat others the way you want to be treated.
+
+Enduring Rule:
+Treat yourself the way you want to be treated by others.
+
+Identity is real. It can be lost and it can be found. It can be restored.
+
+Story: Sorrow into wisdom
+
+Lost agency from a young age, bad habits from the very early ages of life turned into intolerance, intoxication and infantilization of the mind. I had no concept of self, I was a reflection of what I perceived others wanted me to be because that was how I was raised. I had no self respect and self loathing was incessant and came close to killing me a few times. How? My mother was not prepared to be a parent. She was emotionally manipulative and physically abusive and promoted a family culture that facilitated these behaviors. She encouraged my older brother, who had his own problems (self esteem and OCD), to physically and emotionally abuse me as well. Together, they humiliated me for pleasure and critiqued every word or action of mine to the point that I hated myself. I even tried to kill myself in middle school.
+
+My mother controlled every aspect of my life, allowing me no agency to think or do for myself. She forced her identity on to me, making me feel ashamed or guilty for not liking the things she wanted me to enjoy. She even took away my name. She convinced me that I was not a ‘Drummey’ but instead a ‘Meehan’, her surname. She would constantly discuss the shortcomings of me while also using me to vent her frustrations with herself and others. She often gossiped about my own family members and friends, which ultimately led to my inability to connect meaningfully with them. As I saw it, she described them as bad or inadequate people, so I avoided them. I spent a lot of time alone. She often told me she would kill herself if anything would happen to me. She would periodically go through my things and throw items out that she disapproved, and would punish me for items that she found. She used to ‘squeeze’ her children’s faces as punishment, which involved forcing the child’s jaw open and squeezing their cheeks between her thumb and fingers. The teeth would cut up the inside of the mouth and it was extremely painful. One of my earliest memories is my mother in the kitchen and she was screaming about some frustration, she tired the faucet hose out of the sink while trying to get more slack to spray me in the face, I remember feeling like I was drowning. During puberty, she thought the best way to get my to stop unwanted behavior (like viewing pornography and masturbating) was to humiliate me. She gossiped to her large ‘Meehan’ family and she encouraged them to ridicule me. She is racist and intolerant and often shared her unsavory comments about various colors and creeds with me. She is a self absorbed manipulator and an ugly and violent person.
+
+I was deathly afraid of my own mother while at the same time
+
+My brother, I suspect after seeing the treatment by my mother, imitated the same behavior when interacting with me. He was also emotionally and physically abusive in the same ways my mother was, but he would do it often and unsupervised. There are a lot of really painful memories about this relationship.
+
+At some point in my life, I believe that I was sexually abused. I have three recurring memories that come to my mind, and each lead me to believe that I was molested. The first is a memory of my grandmothers basement, and I feel a tremendous amount of dread when I picture the dingy bathroom or the dark, mildewy laundry room. I don’t know how old I was during this memory. Another I was in 4th or 5 grade and I was left alone by my mother in Stuttgart Germany to wander the barracks of the army base. The older brother of a friend in my class and a group of his friends (maybe high school) brought me up in to their apartment. I don’t remember what happened, but I remember them explaining to me with drawings about sex and sexual pleasure. I feel the same sense of dread and helplessness when thinking about this.
+
+For a large parent of my childhood and adolescence, I was unwittingly struggling with severe anxiety, depression and suicidal thoughts. I contemplated suicide from middle school almost daily until I learned that it was
+an abnormal thought, sometime in my 20s. I was a slave to my anxiety and suffered severe panic attacks, which were exacerbated by alcohol and nicotine. I was unable to engage socially sober due to depression and feelings of inadequacy. The times when I did share how I was feeling, my mother would scold ‘you shouldn’t feel that way’ and ended the conversation. I believed my mother, picked myself back up and continued on.
+
+Alcohol provided an outlet for many of the feelings and thoughts that I was unequipped to handle. I was addicted to alcohol from the age of 14 to 27 and in those intervening years I was untethered and uninhibited. I suspect there was some part of my that engaged in any manner of wreck less behavior because I wanted to die because living was too painful. My mentality during this time was to shock, disgust, and disturb those around me to prevent meaningful connections or interactions. I used and manipulated others and relished intolerant and disgusting thoughts and behaviors. I thought to be foul was desirable. Many of these behaviors and thought patterns stem directly from the poor parenting and lack of maturity from my mother and after reclaiming my agency later in life, I know that who I was then is not who I am now. Who I was then was someone who was sick, unstable, and degenerate.
+
+i[0]
+a: I am what I am told
+b: I don’t know, who am I?
+
+Agency lost
+
+Identity disturbance
+
+“One cluster of characteristics came under the construct of ‘identitylessness,’ which included ‘feeling like I am evil, like a small child, unreal, like people and things aren't real, like people can see right through me, like I have no identity, like I'm someone else, like other people are living inside me’ (Zanarini et al. 1998, p. 205). These researchers report that, along with other states, identitylessness, understood as an ‘absence of a core feeling of continuity about oneself,’ contributes to ‘despair and desperation among borderline patients that may not be appreciated by even the most knowledgeable of clinicians’”
+
+
+
+Trust is influential. Belief is trust in something without full assurance. When you trust, you open your self up to influence from the object of trust. An object of trust can be someone you grant trust to or something believe is trustworthy. If you grant your trust to someone, it means that you value their perceptions. If trust in a belief, it means that you value the object of trust to such a degree, you allow it to influence you.
+
+Trust obscures truth. When you trust someone or some thing to the highest degree, the influence from the object of trust is mistaken for truth. The sense of self needs truth in order to be proportional (maintain the ideal).
+
+A child will trust a parent to the highest degree and believe their word to be truthful until that trust is broken. If the parent is flippant and contradictory, the sense of self of the child will become skewed because the child lacks fundamental truths to build their sense of self upon
+
+Joy in the deed of making and in the thing made is where I took consolation because I had made something new and entirely mine.
+
+i[1]
+a: I am what I am
+b: I do
+
+Agency found
+
+https://github.com/cdrummey216/whoami
+
+I have a handful of memories that echo in my mind and when they are at the forefront of my mind, my perception of- and presence in- the present moment is diminished. My ability to be present and at peace with my life are sometimes disrupted by memories of past abuse and mistreatment. These memories are limited in number and are localized around specific individuals. Some are close family members and some were friends. For example, Something in my day to day life will conjured memories of ridicule from an individual that will persist for hours and I feel intense anger and shame during this period. I am irritable and unpleasant and it takes a lot of concentration to control my self.
+
+I am an alcoholic and I have been sober for nearly three years. I never took my life seriously so I squandered my time drinking for many years. I am happier now than I have ever been and I’m never looking back.
+
+Until about 3 years ago, I was in a mental and behavioral battle with myself. I had to find a way to live in a world that had made me want to die.
+
+I had to find a reason to live and I had to act in accord with what I wanted that life to be like.
+
+Message:
+Q: What is the source of truth?
+A: The self is the source of truth because ‘truth’ is a concept used to define a property of something.
+
+We are and I am. We define truths together and alone, to one another and ourselves.
+
+There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
+
+I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. For example, if I see that a colleague at work is routinely not meeting expectations in a certain area, I know that I can drop to that level of performance.
+
+I did not know my self so I did not know truth. If you don’t know truth in your self, you will be unable to know truth in others. If you don’t know truth in your self, you will be identityless.
+
+I was identityless so I quantified and defined identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers you use to understand your self and communicate your self.
+
+A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
+
+Be the unsinkable ship.
+_______
+
 ## What is 'now'?
 
 'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
