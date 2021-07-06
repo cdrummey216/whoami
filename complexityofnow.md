@@ -29,7 +29,11 @@ Treat yourself the way you want to be treated by others.
 
 Identity is real. It can be lost and it can be found. It can be restored.
 
-Story: Sorrow into wisdom
+Story: Sorrow into wisdom, follow the path of truth
+
+By reflecting what is truthful, you follow the path of truth. the truth flows on until the end.
+
+truth is the highest outcome for the self.
 
 Lost agency from a young age, bad habits from the very early ages of life turned into intolerance, intoxication and infantilization of the mind. I had no concept of self, I was a reflection of what I perceived others wanted me to be because that was how I was raised. I had no self respect and self loathing was incessant and came close to killing me a few times. How? My mother was not prepared to be a parent. She was emotionally manipulative and physically abusive and promoted a family culture that facilitated these behaviors. She encouraged my older brother, who had his own problems (self esteem and OCD), to physically and emotionally abuse me as well. Together, they humiliated me for pleasure and critiqued every word or action of mine to the point that I hated myself. I even tried to kill myself in middle school.
 
