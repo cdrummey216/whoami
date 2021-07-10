@@ -2,6 +2,11 @@
 
 ## Complexity
 
+### Living
+What is 'living'? How to live? Living is a persistent state of being, a state that requires a response to stimuli at all times. The manner in which the self responds to a stimulus at the present moment is ultimately an opportunity to meet the ideal self. At each opportunity to respond, therefore, the self must choose how to respond. In this way, the various means by which the self is externalized (i.e. self expression) that occur over a lifetime represent the identity of the self.
+
+Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
+
 ### 06/16/2021 ~20:00
 
 *He stood silent in front of his chair in his garage. The low light from the lightbulb behind him cast a long shadow across the floor to the front of the garage, where a shelf with paint cans was located. On the second shelf from the top, stood three cans. They hadn't moved in months. A can of grey spray paint with the words "PRIMER 2x" was next to two stout cans stacked on top of each other. The can on top was the shorter of the two and said "Finishing Paste" in black across a bright yellow background. The lower can was also yellow, and read in big letters across the front "Wood Stain".*
@@ -12,7 +17,7 @@
 
 *This was the culmination of months of stretching and tracing, and happened only after he had discovered the truth. Life is good.*
 
-Someone else wrote the above for me on June 16, 2021 around 8:00 PM EST. My name is Cullen Drummey and I am acquainted with complexity. About six months before this was written, I awoke in my own mind and asked, "Who am I?". I found myself in a small town on the Eastern Shore of Maryland called Easton. I was in a beautiful, square brick house. I had a wife and she was pregnant. I had a son and he was about to turn two years old. I was a software engineer at the world's largest aerospace and defense manufacturer. But I didn't know who I was. I was thirty years old.
+Someone else wrote the above for me on June 16, 2021 around 8:00 PM EST. My name is Cullen Drummey and I am acquainted with complexity. About six months before this was written, I awoke in my own mind and asked, "Who am I?". I found myself in a small town on the Eastern Shore of Maryland called Easton. I was in a beautiful, square brick house. I had a wife and she was pregnant. I had a son and he was about to turn two years old. I was a software engineer at the world's largest aerospace and defense manufacturer. But I didn't know who I was. I was thirty-one years old.
 
 My recollection of my past is limited and the things that I do remember are painful. I suspect I was sexually abused as a child based on intrusive and reccurrent memories, but I can't be sure. I know that I spent adolescence into my early mid-twenties as a consummate alcoholic with a proclivity for wreckless and crass behavior. I have two scars on the inside of my forearms from self-harm at an early age, which are a reminder of the times I tried to commit suicide later in life. I remember attempting to die twice, and it took a long time to forgive myself for those times.
 
