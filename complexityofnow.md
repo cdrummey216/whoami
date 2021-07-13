@@ -2,6 +2,12 @@
 
 ## Complexity
 
+I exist (1), therefore, I am (ϕ).
+
+I doubt, I think, therefore I am, because I exist. Existence is a fascinating topic. There are some that might ask, 'Why? Its implied in all things, so why does it merit discussion in the first place?' I understand the skepticism, 'existence' has so much finality associated with it. Existence is simply the truth about all things in its present state, and is reflective of the state of reality in which it exists. However, when I know that I exist, it means that I will also know some aspect of truth about my own existence. Who am I (1)? What is 'I' (ϕ)? How does it (1/ϕ) exist? How does it perceive? What does it mean that I can perceive the reality that I exist in? How does this inform my approach to living in reality?
+
+In order to be aware of any truth in existence, the self ('I') must be able to perceive the reality that the self ('I') exists and is made real through self-expression. In this way, the self is the unification of perception and reality.
+
 ### Living
 What is 'living'? How to live? Living is a persistent state of being, a state that requires a response to stimuli at all times. The manner in which the self responds to a stimulus at the present moment is ultimately an opportunity to meet the ideal self. At each opportunity to respond, therefore, the self must choose how to respond. In this way, the various means by which the self is externalized (i.e. self expression) that occur over a lifetime represent the identity of the self.
 
