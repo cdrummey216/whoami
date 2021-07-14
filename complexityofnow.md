@@ -13,6 +13,10 @@ What is 'living'? How to live? Living is a persistent state of being, a state th
 
 Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
 
+### Truth
+The truth unites perception and reality. What is real is a example of what is perceived. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
+
+
 ### 06/16/2021 ~20:00
 
 *He stood silent in front of his chair in his garage. The low light from the lightbulb behind him cast a long shadow across the floor to the front of the garage, where a shelf with paint cans was located. On the second shelf from the top, stood three cans. They hadn't moved in months. A can of grey spray paint with the words "PRIMER 2x" was next to two stout cans stacked on top of each other. The can on top was the shorter of the two and said "Finishing Paste" in black across a bright yellow background. The lower can was also yellow, and read in big letters across the front "Wood Stain".*
