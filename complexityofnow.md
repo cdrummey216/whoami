@@ -141,6 +141,11 @@ How can you understand your self without understanding what your identity is? _I
 
 Everyone possesses an identity. Everyone has a distinct identity. In software development, an identity is a unique identifier assign to a single record in a database. This identity cannot be duplicated or copied and solely exists to identify a single record. 
 
+## Exercising Free Will
+Does this mean that you will always respond the same way to similar situations? Does this mean that I will not grow and change and right the wrongs of my past?
+
+No, and free will is that choice that is made to do it differently next time. To change, to learn and grow from experience is an exercise in free will. The self acts willfully when it decides to modify its response based on past experiences. For example, an alcoholic's 'self' is impeded and disrupted by the desire for alcohol. A sober alcoholic has committed to themselves that they will no longer imbibe. A decision to live differently than how one has lived in the past and to ignore and control desire.
+
 ## The Golden Ratio
 
 ### What is it?
