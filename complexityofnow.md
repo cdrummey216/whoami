@@ -128,6 +128,12 @@ The complexity of now relies on someone being present to experience it. 'Someone
 
 # Part 1: What is 'someone'?
 
+## A Method for _Knowing_ and _Understanding_ the self
+
+The _mind_, the thing behind between your eyes that can conceptualize itself and can respond to the world, is like an algorithm in that takes an input, any input from its surroundings, and releases an output. This 'thing', then, can be thought of as a computer program that receives and responds based upon stored data, like memories and experiences. As a computer program, this 'thing' must also perform a function, in other words, it must _do something_. So, our identity, the thing that makes this 'thing' unique is like a hashing function, in that, the inputs are distinct for each individual and finite for the self. For example, only _you_ experienced that difficult period in your life, and that experience will also affect how you live the rest of your life in your response to other, similar or paralell, circumstances.
+
+For this analogy to work, the _mind_ must also have a value. The inputs into the _mind_ are ultimately memories of distinct experiences, like stored data in a database. Our memories are stream of experiences that compound one upon the other over the course of our lives. From the day we are born until the day we reach the fullness of our life, we are creating new memories on new experiences. What, then, is the value of 'self'? What is the value of 'self-expression'? 
+
 ## A Formula for Identity
 An identity is one of a kind. An identity belongs to itself. An identity is a testimony of the sense of self. *Who we are* are the things that we value in our lives and, most often, these things are the qualities, beliefs, and ideals that we model our selves after in our day to day interactions. As each life extends from the first days across the intervening years to the final moments, we are expressing our selves through our identities in the words we choose and the actions we decide to take. In this way, identity is the highest means of self-expression and self-expression is a reflection of our inner most self. 
 
