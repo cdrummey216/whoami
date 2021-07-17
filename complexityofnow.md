@@ -14,8 +14,16 @@ What is 'living'? How to live? Living is a persistent state of being, a state th
 Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
 
 ### Truth
-The truth unites perception and reality. What is real is a example of what is perceived. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
+The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
 
+An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
+
+## Form
+The self is the inside of the cup and the outside of the cup. Function due to form.
+
+The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the cup. The body is the cup from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
+
+The body is also the cup in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a cup, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
 
 ### 06/16/2021 ~20:00
 
