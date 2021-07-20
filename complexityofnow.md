@@ -28,7 +28,9 @@ Veritatis, iterum. For truth, once again.
 
 Truth in reality is observed, truth in mind is perceived. Truth unites perception and reality. It is measureable. We, as humans, exist to know and understand truth. The truth in reality will calm a truthful mind. A mind that _seeks truth in all things_ will also share in truth and, thus, be in unison with reality. The _here and now_. Get to know truth, start with simple.
 
-Truth is like a shadow. Finite and definitive at the edges but obscured and ubiqutitous in its form. How do you discover the nature of a shadow? I rely on the silhouettes of truths to understand more complex truths.
+Truth is like a shadow. Finite and definitive at the edges but obscured and ubiqutitous at its interior. How do you discover the nature of a shadow? I observe the silhouettes of truth at the exterior to understand more complex truths at the interior. 
+
+The will realizes truth.
 
 ## Complexity
 ### 06/16/2021 ~20:00
