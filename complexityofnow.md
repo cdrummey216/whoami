@@ -221,11 +221,13 @@ Scientists believe that we perceive proportional bodies to be more healthy.
 
 ### What is it?
 
-Truth is difficult to define. There is inner truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthiness' is meaningless because the ratio between truths is 1:1.
+Truth is difficult to define. There is observable truth, personal truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Not all truths are observable, however, so what becomes of the truths that we are closest to our hearts and souls? Are they somehow 'less than' in relation to obserable truths? No, they are equal. Personal truth is externalized by the self. Observable truth is the self. Either way, they both appear in reality to a third party as observable events. Two truths will always be in balance in relation to their 'truthfulness'. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthfulness' is meaningless because the ratio between truths is 1:1.
 
-### Why !;!?
+### Why is the ratio of truths 1:1?
 
-When something has truth, it means that it is demonstrative of reality. As a result, what ever the object, it will also possesses the resilience that comes with truth. a truth will remain truthful through time and will only change its 'truthiness' after the introduction of new knowledge.
+When something 'has truth' or 'is truth', it means that it is demonstrative of reality. As a result, what ever the object may be, it will also possess the resilience that comes with reality. Truth is interdependent with reality. Whatsoever is deemed to be truth will also be related to reality in some manner. Observable truth is clear and on display, while personal truth is complex and discrete. But both possess the property of truth. And truth is an either/or. Truth or not truth. So when the 'truthfulness' is compared as a proportion, the result will always be 1:1 (truth a/truth b). 
+
+Truth in reality is the foundation of perception. 'This', around us, is reality. A truth will remain truthful through time and will only change in its 'truthfulness' after the introduction of new knowledge and understanding.
 
 ### What is its source?
 
@@ -399,8 +401,8 @@ I will end.
 * x = y/k OR x = kx/k OR **x = x** //substituted predefined values for x, simplified, see above
 
 So when k = 1, 
-* y = 1x --> y = x
-* x = y/1 --> x = y
+* y = 1x --> y = x //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary. 
+* x = y/1 --> x = y //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary.
 
 Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
 
