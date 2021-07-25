@@ -1,5 +1,22 @@
 # The Complexity of Now
 
+You exist. //fact
+You exist here. //observation via senses
+You exist now. //perception of 'I exist' equation and specious present
+You are alive now. //perceived and observed. I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system (the body) are responding to how you perceive (the mind) the present moment. The body and the mind are unitary, they are the two components of singular existence. Singular existance is selfhood, or the individual identity as it exists in real-time. You must have a body in order to exist and you must have a mind in order to perceive that you exist.
+You are mortal here. //observed and perceived, I am here at this point in my life, which is observable. The present is the foremost in a sequence of observable events and time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.
+
+What's next?
+
+## Now
+
+'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
+
+The complexity of now relies on someone being present to experience it. 'Someone' will always have an identity and a sense of self. Identity is the observable expression of the sense of self each person has.
+
+## Here
+'This' place. The things around you that you can touch and see and feel and sense. Here is the place that you find yourself in at all times. You are 'here' because your body is here and your mind is present to respond to it. To do the dishes in the sink or comfort a friend in need. You are here because its unavoidable. You exist.
+
 ## To exist, existence
 
 I doubt, I think, therefore I am, because I exist. Existence is a fascinating topic. There are some that might ask, 'Why? Who cares? Its implied in all things, so why does it merit discussion in the first place?' I understand the skepticism, 'existence' has so much finality associated with it. But, it _is_. It is simple and unifying. Everything exists. This book. Your eyes, reading this. Its all real. So, _'this' around us_ is the sum total of what has existed, because everything that _will ever_ happen _will_ proceed from the past. We are like boats riding the opening salvo of _liquid time_, which burst forth like floodgates releasing a river that flows on forever. Existence is simply a foundational truth, so foundational that it is easily overlooked. It denotes a binary state. You either exist or you don't. Do you exist? I will always tell you that I exist. It is foundational element of who I am because _existing_ is a source of truth in my life. It has always been true that I exist, and I intend to exist for the rest of my life. The simplest truth that 'I exist' is the pillar upon which the sense of self is built.  _My 'I'_ and your 'I' and our neighbor's 'I'. Its the person in your shoes, and the pair of shoes next to you. But, what is a sense of self? Can it be observed and defined? The self is the internal perception of and relation to the present each and every one us possesses. Our 'I'. This 'thing' is capable of knowing and understanding and remembering and creating. And what are the limits of perception when its in unison with reality? Each 'self' determines the identity that it manifests in reality as self-expression. This truth that 'I exist' also serves as a benchmark for other, more complex truths. But, is the truth _real_? In other words, does it exist _like me_? Can I observe something real to confirm it? Truth is that which is true or in accordance with fact or reality. Truth can also be a belief that is accepted as true. So, when I _know_ that I _exist_, it means that I will also to confirm some aspect of truth about my reality. I can waive my arms in the air. I can skip that day at the gym because I forgot fresh socks. We make choices and do things. We are a unit in reality that is aware of itself. Great, I know I exist and I also know that rent is due. Both are perceived and defined by the self and the self comprehends truth. And, at minimum, I can define the truth about my self and my idenity. So, who am I (1,  a thing in reality)? What is 'I' (ϕ, this thing that perceives reality)? How does 'I' (1/ϕ, this thing that interacts with reality) manifest in reality? How does it perceive? What does it mean that I can perceive the reality that I exist in? How does this inform my approach to living in reality?
@@ -11,17 +28,17 @@ What is 'living'? How to live? Living is a persistent state of being, a state th
 
 Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
 
-### Truth
-The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
-
-An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
-
 ## Form
 The self is the inside of the cup and the outside of the cup. Function due to form.
 
 The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the cup. The body is the cup from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
 
 The body is also the cup in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a cup, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
+
+### Truth
+The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
+
+An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
 
 ## Where are you going? To what end?
 Veritatis, iterum. For truth, once again.
@@ -136,14 +153,6 @@ A boat can float and it can sink. Whether it is the gentle wearing of time upon 
 Be the unsinkable ship.
 _______
 
-## Now
-
-'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
-
-The complexity of now relies on someone being present to experience it. 'Someone' will always have an identity and a sense of self. Identity is the observable expression of the sense of self each person has.
-
-## Here
-'This' place. The things around you that you can touch and see and feel and sense. Here is the place that you find yourself in at all times. You are 'here' because your body is here and your mind is present to respond to it. To do the dishes in the sink or comfort a friend in need. You are here because its unavoidable. You exist.
 
 # Part 1: What is 'someone'?
 
