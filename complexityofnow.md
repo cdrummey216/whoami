@@ -1,12 +1,27 @@
 ## INDEX //in development, subject to change
 
-Part 0: The Complexity of Now
+**Abstract**
+
+The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before it can even ask or answer. By defining 'I', it is possible to ground the self in real-time and thereby placing the self in the position to be able to answer, 'Who am I?'
+
+I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is desribed as the quintessential element that binds humNanity to all things in reality. Humankind seeks truth. As a species, we are driven on in our quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. But what is the truthful answer to 'Who am I?' I tell my story about my history of addiciton and abuse and mental illness (!!!Active Development!!!).
+
+I use a unique philosophical proposition, based on objective facts, that assigns the value of the Golden Ratio (1.618..., ϕ) to the sense of self. With this value, I make an additional proposition that the 'identity' is akin to a fractal set, specifically the Filled Julia Set. Using the Julia set for function (fc, c = 1 - ϕ), _meaning_ can be derived from iterations of the function as it relates to the self and existence, life and death, and identity as the expression of the self.
+
+Based on the 'identity equations', as I refer to them, I present philosophical conclusions stemming from the classic desert island thought experiment. I refer to the experiment as The Isle[0], whereby the conclusions are related to time, mortality, and reality. The judgement that 'Life is good.' is also presented and a case for individual imperitives is given (in development).
+
+Lastly, a thought framework and personal credo is described in detail that aligns with the conslusions from propositional mathematics and concentrated philosophy. This section desribes the means and methods for identifying the ideal self along with personal anecdotes/descriptions (in development). Who we _want_ to be. _How_ we want to be.
+
+The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' through (2) a philosophical/metaphysical foundation for self and (3) a thought framework and method to reach the ideal, whatever that may be.
+
+
+**Part 0: The Complexity of Now** (!!!Active Development!!!)
 * 0a: Five Facts about you and 'now'
 * 0b: what's next?
 * 0c: Where are you going? To what end?
 * 0d: Complexity //in development
 
-Part 1: What is 'someone'?
+**Part 1: What is 'someone'?**
 * 1a: A Method for Knowing and Understanding the self
 * 1b: A Formula for Identity
 * 1c: Exercising Free Will
@@ -15,7 +30,7 @@ Part 1: What is 'someone'?
 * 1f: Concepts
 * 1g: Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
-Part 2: What constitutes 'someone'?
+**Part 2: What constitutes 'someone'?**
 * 2a: Overview & Purpose
 * 2b: Universal Truth, or a common good
 * 2c: The Isle[0]
@@ -25,9 +40,9 @@ Part 2: What constitutes 'someone'?
 * 2g: A Conversation with Death
 * 2h: Oneness
 
-Part 3: Life is good.
+**Part 3: Life is good.**
 
-Part 4: How to be intentional and to act?
+**Part 4: How to be intentional and to act?**
 * 4a: Overview and Purpose
 * 4b: Existential Calm and the Isle[0]
 * 4c: Self-Expression and Externalization
@@ -36,7 +51,7 @@ Part 4: How to be intentional and to act?
 * 4f: Living as Art
 * 4g-4n: //in development
 
-Part 5: How to be intentional?
+**Part 5: How to be intentional?**
 * 5a: Framing the World
 * 5b: A Method to Find Truth
 * 5c: Propositional Mathematics
