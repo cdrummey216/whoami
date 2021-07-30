@@ -1,21 +1,20 @@
 # whoami
 
-## INDEX
-
 **Abstract**
 
-The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before it can even ask or answer. By defining 'I', the self is grounded in present reality by a definable value and, therefore, the self is quipped to answer 'Who am I?'
+The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before it can even ask or answer. By defining 'I', the self is grounded in present reality by a definable value and, therefore, the self is equipped to answer 'Who am I?'
 
 I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is desribed as the quintessential element that binds humNanity to all things in reality. Humankind seeks truth. As a species, we are driven on in our quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. But what is the truthful answer to 'Who am I?' I tell my story about my history of addiciton and abuse and mental illness (!!!Active Development!!!).
 
-I use a unique philosophical proposition, based on objective facts, that assigns the value of the Golden Ratio (1.618..., ϕ) to the sense of self. With this value, I make an additional proposition that the 'identity' is akin to a fractal set, specifically the Filled Julia Set. Using the Julia set for function (fc, c = 1 - ϕ), _meaning_ can be derived from iterations of the function as it relates to the self and existence, life and death, and identity as the expression of the self.
+I use a unique philosophical proposition, based on objective facts, that assigns the value of the Golden Ratio (1.618..., or ϕ) to the sense of self. With this value, I make an additional proposition that the 'identity' is akin to a fractal set, specifically the Filled Julia Set. Using the Julia set function (fc, c = 1 - ϕ), _meaning_ can be derived from iterations of the function as it relates to the self and existence, life and death, and identity as the expression of the self.
 
-Based on the 'identity equations', as I refer to them, I present philosophical conclusions stemming from the classic desert island thought experiment. I refer to the experiment as The Isle[0], whereby the conclusions are related to time, mortality, and reality. The judgement that 'Life is good.' is also presented and a case for individual imperitives is given (in development).
+Based on the 'identity equations', as I refer to them, I present philosophical conclusions stemming from the classic desert island thought experiment. I refer to the experiment as The Isle[0], and the conclusions are related to time, mortality, and reality. The judgement that 'Life is good.' is also presented and a case for individual imperitives is given (in development).
 
 Lastly, a thought framework and personal credo is described in detail that aligns with the conslusions from propositional mathematics and concentrated philosophy. This section desribes the means and methods for identifying the ideal self along with personal anecdotes/descriptions (in development). Who we _want_ to be. _How_ we want to be.
 
 The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' through (2) a philosophical/metaphysical foundation for self and (3) a thought framework and method to reach the ideal, whatever that may be.
 
+## INDEX
 
 **Part 0: The Complexity of Now** (!!!Active Development!!!)
 * 0a: Five Facts about you and 'now'
@@ -60,6 +59,7 @@ The contents of this document ideally will flow from a (1) description of some o
 * 5d: Definitions
 * 5e: Concentrated Philosophy
 * 5f: Living as Art
+
 
 # The Complexity of Now
 
@@ -109,7 +109,9 @@ The truth unites perception and reality. _What is real_ is the input into _what 
 An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
 
 ## Where are you going? To what end?
-Veritatis, iterum. For truth, once again.
+
+__Veritatis, iterum.__
+For truth, once again.
 
 Truth in reality is observed, truth in mind is perceived. Truth unites perception and reality. It is measureable. We, as humans, exist to know and understand truth. The truth in reality will calm a truthful mind. A mind that _seeks truth in all things_ will also share in truth and, thus, be in unison with reality. The _here and now_. Get to know truth, start with simple.
 
@@ -130,12 +132,13 @@ The will realizes truth.
 
 Someone else wrote the above for me on June 16, 2021 around 8:00 PM EST. My name is Cullen Drummey and I am acquainted with complexity. About six months before this was written, I awoke in my own mind and asked, "Who am I?". I found myself in a small town on the Eastern Shore of Maryland called Easton. I was in a beautiful, square brick house. I had a wife and she was pregnant. I had a son and he was about to turn two years old. I was a software engineer at the world's largest aerospace and defense manufacturer. But I didn't know who I was. I was thirty-one years old.
 
-My recollection of my past is limited and the things that I do remember are painful. I suspect I was sexually abused as a child based on intrusive and reccurrent memories, but I can't be sure. I know that I spent adolescence into my early mid-twenties as a consummate alcoholic with a proclivity for wreckless and crass behavior. I have two scars on the inside of my forearms from self-harm at an early age, which are a reminder of the times I tried to commit suicide later in life. I remember attempting to die twice, and it took a long time to forgive myself for those times.
+My recollection of my past is limited and the things that I do remember are painful. I suspect I was sexually abused as a child based on intrusive and reccurrent memories, but I can't be sure. Memory is complex. I know that I spent adolescence into my early mid-twenties as a consummate alcoholic with a proclivity for wreckless and crass behavior. I have two scars on the inside of my forearms from self-harm at an early age, which are a reminder of the times I tried to commit suicide later in life. I remember attempting to die twice, and it took a long time to forgive myself for those times.
 
 I reject those things I did as answers to the question "Who am I?" I have accomplished so much in my life, despite the terrible baggage that I carried with me. My beautiful, forgiving, loving, and brilliant wife showed me how to be better. She showed me how to pick yourself up after desparate and disheartening times and carry on with renewed vigor and lust for life. My sons and the gentle and simple joys of their childhood has shown me that life is always worth living because there is always more life to live.
 
-I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was it? And why did he believe 'Life is good'?
+I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was that someone? And why did he believe 'Life is good'? And how do I know it's not me?
 
+<!--
 _________________________________________________________________________
 Golden Rule:
 Treat others the way you want to be treated.
@@ -219,7 +222,7 @@ I was identityless so I quantified and defined identity so that I could create o
 A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
 
 Be the unsinkable ship.
-_______
+-->
 
 
 # Part 1: What is 'someone'?
