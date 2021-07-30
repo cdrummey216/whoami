@@ -525,7 +525,7 @@ Why is it called isle[0]? //isle index of zero
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 * I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
-## Conclusions about Life (on the Isle[0])
+## Conclusions about Life
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
@@ -544,7 +544,7 @@ I must choose if I want to continue to live in real-time.
 * Foregoing the choice to die in any case is tantamount to choosing to live, because life and death are binary/exclusive. By choosing to not die, we are choosing to live.
 * If we must choose how to respond to real-time, we should choose a response that reflects our ideal self.
 
-## Conclusions about Time (on the Isle[0]) //hypothetical
+## Conclusions about Time //hypothetical
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now). time has value. therefore, time can be measured. therefore, the unit of time must be real (observable). //gravity as a unit and extra solar travel to measure in absence of gravity
 
@@ -556,6 +556,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
 * Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 
+<!--
 **Calculation of Time Constant** //hypothetical
 * ϕ = (ϕ + 1)/ϕ means that ϕ (a) and 1 (b) are at the golden ratio  //also ϕ = ϕ/1 AND ϕ > 1 > 0, new method to calculate ϕ?
 * As a fractal set, identity at any time is the product of c = 1 - ϕ. The value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's existence (here & now). So, the value of self is ϕ and the value of the relative life is 1.
@@ -602,7 +603,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * phase is 2πt/T ± 2πx/λ + ϕ 
 * For this sinusoidal wave, the period T = 1/f for frequency (f), which is how many cycles of a wave passes over a given point per second. 
 * The left side y − y0 is the displacement of the wave in the y direction from the initial position, and the value within the parentheses 2πt/T ± 2πx/λ + ϕ is the phase.
-
+-->
 ## A Conversation with Death
 
 **Key Topics**
