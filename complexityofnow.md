@@ -1,12 +1,15 @@
 # The Complexity of Now
 
-You exist. //fact
-You exist here. //observation via senses
-You exist now. //perception of 'I exist' equation and specious present
-You are alive now. //perceived and observed. I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system (the body) are responding to how you perceive (the mind) the present moment. The body and the mind are unitary, they are the two components of singular existence. Singular existance is selfhood, or the individual identity as it exists in real-time. You must have a body in order to exist and you must have a mind in order to perceive that you exist.
-You are mortal here. //observed and perceived, I am here at this point in my life, which is observable. The present is the foremost in a sequence of observable events and time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.
+## Five Facts about the 'Now'
+1. You exist. //fact
+2. You exist here. //observation via senses
+3. You exist now. //perception of 'I exist' equation and specious present
+4. You are alive now. //perceived and observed. I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system (the body) are responding to how you perceive (the mind) the present moment. The body and the mind are unitary, they are the two components of singular existence. Singular existence is selfhood, or the individual identity as it exists in real-time. You must have a body in order to exist and you must have a mind in order to perceive that you exist.
+5. You are mortal here. //observed and perceived, I am here at this point in my life, which is observable. The present is the foremost in a sequence of observable events and time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.
 
-What's next?
+## What's next?
+
+So I know that I am alive here and now, what do I do next?
 
 ## Now
 
