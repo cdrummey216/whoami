@@ -1,4 +1,6 @@
-## INDEX //in development, subject to change
+# whoami
+
+## INDEX
 
 **Abstract**
 
