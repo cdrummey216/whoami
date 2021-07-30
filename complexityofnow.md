@@ -1,6 +1,52 @@
+## INDEX //in development, subject to change
+
+Part 0: The Complexity of Now
+* 0a: Five Facts about you and 'now'
+* 0b: what's next?
+* 0c: Where are you going? To what end?
+* 0d: Complexity //in development
+
+Part 1: What is 'someone'?
+* 1a: A Method for Knowing and Understanding the self
+* 1b: A Formula for Identity
+* 1c: Exercising Free Will
+* 1d: The Golden Ratio
+* 1e: The Property of Truth
+* 1f: Concepts
+* 1g: Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
+
+Part 2: What constitutes 'someone'?
+* 2a: Overview & Purpose
+* 2b: Universal Truth, or a common good
+* 2c: The Isle[0]
+* 2d: Conclusions about Life 
+* 2e: Conclusions about Choice
+* 2f: Conclusions about Time
+* 2g: A Conversation with Death
+* 2h: Oneness
+
+Part 3: Life is good.
+
+Part 4: How to be intentional and to act?
+* 4a: Overview and Purpose
+* 4b: Existential Calm and the Isle[0]
+* 4c: Self-Expression and Externalization
+* 4d: Oneness
+* 4e: Questions for Self
+* 4f: Living as Art
+* 4g-4n: //in development
+
+Part 5: How to be intentional?
+* 5a: Framing the World
+* 5b: A Method to Find Truth
+* 5c: Propositional Mathematics
+* 5d: Definitions
+* 5e: Concentrated Philosophy
+* 5f: Living as Art
+
 # The Complexity of Now
 
-## Five Facts about the 'Now'
+## Five Facts about you and 'Now'
 1. You exist. //fact
 2. You exist here. //observation via senses
 3. You exist now. //perception of 'I exist' equation and specious present
@@ -11,16 +57,18 @@
 
 So I know that I am alive here and now, what do I do next?
 
-## Now
+## Definitions
+
+### Now
 
 'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
 
 The complexity of now relies on someone being present to experience it. 'Someone' will always have an identity and a sense of self. Identity is the observable expression of the sense of self each person has.
 
-## Here
+### Here
 'This' place. The things around you that you can touch and see and feel and sense. Here is the place that you find yourself in at all times. You are 'here' because your body is here and your mind is present to respond to it. To do the dishes in the sink or comfort a friend in need. You are here because its unavoidable. You exist.
 
-## To exist, existence
+### To exist, existence
 
 I doubt, I think, therefore I am, because I exist. Existence is a fascinating topic. There are some that might ask, 'Why? Who cares? Its implied in all things, so why does it merit discussion in the first place?' I understand the skepticism, 'existence' has so much finality associated with it. But, it _is_. It is simple and unifying. Everything exists. This book. Your eyes, reading this. Its all real. So, _'this' around us_ is the sum total of what has existed, because everything that _will ever_ happen _will_ proceed from the past. We are like boats riding the opening salvo of _liquid time_, which burst forth like floodgates releasing a river that flows on forever. Existence is simply a foundational truth, so foundational that it is easily overlooked. It denotes a binary state. You either exist or you don't. Do you exist? I will always tell you that I exist. It is foundational element of who I am because _existing_ is a source of truth in my life. It has always been true that I exist, and I intend to exist for the rest of my life. The simplest truth that 'I exist' is the pillar upon which the sense of self is built.  _My 'I'_ and your 'I' and our neighbor's 'I'. Its the person in your shoes, and the pair of shoes next to you. But, what is a sense of self? Can it be observed and defined? The self is the internal perception of and relation to the present each and every one us possesses. Our 'I'. This 'thing' is capable of knowing and understanding and remembering and creating. And what are the limits of perception when its in unison with reality? Each 'self' determines the identity that it manifests in reality as self-expression. This truth that 'I exist' also serves as a benchmark for other, more complex truths. But, is the truth _real_? In other words, does it exist _like me_? Can I observe something real to confirm it? Truth is that which is true or in accordance with fact or reality. Truth can also be a belief that is accepted as true. So, when I _know_ that I _exist_, it means that I will also to confirm some aspect of truth about my reality. I can waive my arms in the air. I can skip that day at the gym because I forgot fresh socks. We make choices and do things. We are a unit in reality that is aware of itself. Great, I know I exist and I also know that rent is due. Both are perceived and defined by the self and the self comprehends truth. And, at minimum, I can define the truth about my self and my idenity. So, who am I (1,  a thing in reality)? What is 'I' (ϕ, this thing that perceives reality)? How does 'I' (1/ϕ, this thing that interacts with reality) manifest in reality? How does it perceive? What does it mean that I can perceive the reality that I exist in? How does this inform my approach to living in reality?
 
@@ -31,7 +79,7 @@ What is 'living'? How to live? Living is a persistent state of being, a state th
 
 Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
 
-## Form
+### Form
 The self is the inside of the cup and the outside of the cup. Function due to form.
 
 The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the cup. The body is the cup from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
