@@ -4,7 +4,7 @@
 
 **Abstract**
 
-The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before it can even ask or answer. By defining 'I', it is possible to ground the self in real-time and thereby placing the self in the position to be able to answer, 'Who am I?'
+The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before it can even ask or answer. By defining 'I', the self is grounded in present reality by a definable value and, therefore, the self is quipped to answer 'Who am I?'
 
 I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is desribed as the quintessential element that binds humNanity to all things in reality. Humankind seeks truth. As a species, we are driven on in our quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. But what is the truthful answer to 'Who am I?' I tell my story about my history of addiciton and abuse and mental illness (!!!Active Development!!!).
 
