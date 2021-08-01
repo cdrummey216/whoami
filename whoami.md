@@ -63,61 +63,84 @@ The contents of this document ideally will flow from a (1) description of some o
 
 # The Complexity of Now
 
-## Five Facts about you and 'Now'
-1. You exist. //fact
-2. You exist here. //observation via senses
-3. You exist now. //perception of 'I exist' equation and specious present
-4. You are alive now. //perceived and observed. I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system (the body) are responding to how you perceive (the mind) the present moment. The body and the mind are unitary, they are the two components of singular existence. Singular existence is selfhood, or the individual identity as it exists in real-time. You must have a body in order to exist and you must have a mind in order to perceive that you exist.
-5. You are mortal here. //observed and perceived, I am here at this point in my life, which is observable. The present is the foremost in a sequence of observable events and time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.
+But first, some definitions.
 
-## What's next?
 
-So I know that I am alive here and now, what do I do next?
 
-## Definitions
 
-### Now
+
+
+
+
+(new page)
+## (#) Definitions
+
+### (1) Now, a _noun_;
 
 'Now' is a stream of consciousness, a continuous flow of stimuli that you intepret and internalize as memories. Your mind translates everything around you into memory.
 
 The complexity of now relies on someone being present to experience it. 'Someone' will always have an identity and a sense of self. Identity is the observable expression of the sense of self each person has.
 
-### Here
+### (2) Here, a _noun_;
 'This' place. The things around you that you can touch and see and feel and sense. Here is the place that you find yourself in at all times. You are 'here' because your body is here and your mind is present to respond to it. To do the dishes in the sink or comfort a friend in need. You are here because its unavoidable. You exist.
 
-### To exist, existence
+### (3) To exist, a _verb_; existence, a _noun_;
 
 I doubt, I think, therefore I am, because I exist. Existence is a fascinating topic. There are some that might ask, 'Why? Who cares? Its implied in all things, so why does it merit discussion in the first place?' I understand the skepticism, 'existence' has so much finality associated with it. But, it _is_. It is simple and unifying. Everything exists. This book. Your eyes, reading this. Its all real. So, _'this' around us_ is the sum total of what has existed, because everything that _will ever_ happen _will_ proceed from the past. We are like boats riding the opening salvo of _liquid time_, which burst forth like floodgates releasing a river that flows on forever. Existence is simply a foundational truth, so foundational that it is easily overlooked. It denotes a binary state. You either exist or you don't. Do you exist? I will always tell you that I exist. It is foundational element of who I am because _existing_ is a source of truth in my life. It has always been true that I exist, and I intend to exist for the rest of my life. The simplest truth that 'I exist' is the pillar upon which the sense of self is built.  _My 'I'_ and your 'I' and our neighbor's 'I'. Its the person in your shoes, and the pair of shoes next to you. But, what is a sense of self? Can it be observed and defined? The self is the internal perception of and relation to the present each and every one us possesses. Our 'I'. This 'thing' is capable of knowing and understanding and remembering and creating. And what are the limits of perception when its in unison with reality? Each 'self' determines the identity that it manifests in reality as self-expression. This truth that 'I exist' also serves as a benchmark for other, more complex truths. But, is the truth _real_? In other words, does it exist _like me_? Can I observe something real to confirm it? Truth is that which is true or in accordance with fact or reality. Truth can also be a belief that is accepted as true. So, when I _know_ that I _exist_, it means that I will also to confirm some aspect of truth about my reality. I can waive my arms in the air. I can skip that day at the gym because I forgot fresh socks. We make choices and do things. We are a unit in reality that is aware of itself. Great, so what? I know I exist and I also know that rent is due, whats the point? Well, its important because it means that _truth_ is both perceived and defined by the self. And, at minimum, I can define the truth about my self and my idenity. So, who am I (1,  a thing in reality)? What is 'I' (ϕ, this thing that perceives reality)? How does 'I' (1/ϕ, this thing that interacts with reality) manifest in reality? How does it perceive? What does it mean that I can perceive the reality that I exist in? How does this inform my approach to living in reality?
 
 In order to be aware of any truth in existence, the self ('I') must be able to perceive the reality that the self ('I') exists and is made real through self-expression. In this way, the self is the unification of perception and reality. So what? I know _the truth that I exist_, where does that get me? Well, you have a thing in reality that perceives its existence and knows/understands what truth is. The autonomy of self must decide what their relationship with truth is like. I believe truth to be the highest outcome in all things. Truth is ubiquitous and all encompassing. It is hidden and revealed and mined by perception to the depths of inquiry. Truth connects our minds with reality. It connects other things in reality. It can connect others as a network of truths. A truth is a truth, so who could compare them? Either possesses the property of truth and are in accord with reality. What is more real? Personal truth or observable truth? Both truths are real, aren't they? Yes, and its because the self, _this_ perceiver of the truth, exists.
 
-### Living
+### (4) Living, a _noun_; to live, a _verb_;
 What is 'living'? How to live? Living is a persistent state of being, a state that requires a response to stimuli at all times. The manner in which the self responds to a stimulus at the present moment is ultimately an opportunity to meet the ideal self. But, what is 'ideal'? The _ideal_ is ultimately a choice that must be made by the self that attributes a value to a thought pattern or an action through time invested. Personally, I like woodworking. I like the precision, the tools, the practical and creative opportunities. Some people like family, cars, computers, board games, all sorts of things. The point is that its all about time, and a special type of time. This particular type of time is perception, which is summary of time between the entrance and the exit of existence. Time has value and we transfer that value to the things we care about through our individual thoughts and actions. At each opportunity to act, therefore, the self must choose _how_ to act. How to be good? How to be true? How to be The Good Samaritan with the honest truth? The ideals of good and truth in thoughts and actions is like using intention to change reality. Good, Truth. The various means by which the self is externalized (i.e. self expression) that occur over a lifetime represent the identity of the self.
 
 Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
 
-### Form
+### (5) Form, a _noun_;
 The self is the inside of the cup and the outside of the cup. Function due to form.
 
 The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the cup. The body is the cup from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
 
 The body is also the cup in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a cup, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
 
-### Truth
+### (4) Truth, a _noun_;
 The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
 
 An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
+
+## End of Definitions
+
+For now...
+
+
+
+(new page)
+## Five Facts about you and 'Now'
+1. You exist. //fact
+2. You exist here. //observation via senses ('i can touch/feel/interact with my surroudings')
+3. You exist now. //perception of 'I exist' equation and specious present ('i can observe events in the present and respond in order to live')
+4. You are alive now. //perceived and observed ('I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system (the body) are responding to how you perceive (the mind) the present moment. The body and the mind are unitary, they are the two components of singular existence. Singular existence is selfhood, or the individual identity as it exists in real-time. You must have a body in order to exist and you must have a mind in order to perceive that you exist.')
+5. You are mortal here. //observed and perceived ('I am here at this point in my life, which is observable. The present is the foremost in a sequence of observable events and time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.')
+
+## What's next?
+
+So I know that I am alive here and now, what do I do next?
 
 ## Where are you going? To what end?
 
 __Veritatis, iterum.__
 For truth, once again.
 
-Truth in reality is observed, truth in mind is perceived. Truth unites perception and reality. It is measureable. We, as humans, exist to know and understand truth. The truth in reality will calm a truthful mind. A mind that _seeks truth in all things_ will also share in truth and, thus, be in unison with reality. The _here and now_. Get to know truth, start with simple.
+Truth in reality is observed, truth in mind is perceived. Truth unites perception and reality. It is measureable. We, as humans, exist to know and understand truth. The truth in reality will calm a truthful mind. Truth is a property of all things because all things are capable of being truthful as elements in reality. So, whether it is a truth discovered beneath the lens a microsocope or at the deeps of a sudden plunge into thought is irrelevant, the fact will always remain that both the lens of the microscope and your mind exist. Truth _unites_ precisely because it is in accord with reality.
 
-Truth is like a shadow. Finite and definitive at the edges but obscured and ubiqutitous at its interior. How do you discover the nature of a shadow? I observe the silhouettes of truth at the exterior to understand more complex truths at the interior. 
+A mind that _seeks truth in all things_ will also share in truth and, thus, be in unison with reality. The _here and now_, or 'this' place and my perception. Truth is recognizable precisely because it is discernible. How to discern truth? The answers to that question are many and diverse. However, I can tell you what truth is like. Truth is like a shadow. Finite and definitive at the edges but obscured and ubiqutitous at its interior. Ok, so how do you discover the nature of a shadow? You can watch it move across a wide, grassy field. You can observe its shape as it glides over the ground. You can see two wings. Are they moving? Whose shadow is it? 
 
-The will realizes truth.
+If the wings move, it is a bird. You can see the shadow of the bird moving gracefully across the open space before you. The bird is soaring with bright sunlight on its wings. As the wings bend with every flap, the shadow _changes_.
+
+If the wings don't move, it is a plane. You can now see the shadow of the single engine cruising across the open space as it passes by overhead. The same sunlight hits the top of the wings thats casts the shape of wings, wheels, propeller on the grass before you. As the sharp lines of the wings maintain their shape, the shadow _remains the same_.
+
+I observe the silhouettes of truth at the exterior to understand more complex truths at the interior. Or, I rely on the simple truths to know complex truths because truth is consistent with truth.
+
+The self makes truth real.
 
 ## Complexity
 ### 06/16/2021 ~20:00
