@@ -96,11 +96,11 @@ What is 'living'? How to live? Living is a persistent state of being, a state th
 Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
 
 ### (5) Form, a _noun_;
-The self is the inside of the cup and the outside of the cup. Function due to form.
+The self is the inside of the shell and the outside of the shell. Function due to form.
 
-The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the cup. The body is the cup from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
+The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the shell. The body is the shell from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
 
-The body is also the cup in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a cup, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
+The body is also the shell in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a shell, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
 
 ### (4) Truth, a _noun_;
 The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
@@ -269,6 +269,11 @@ Does this mean that you will always respond the same way to similar situations? 
 No, and free will is that choice that is made to do it differently next time. To change, to learn and grow from experience is an exercise in free will. The self acts willfully when it decides to modify its response based on past experiences. For example, an alcoholic's 'self' is impeded and disrupted by the desire for alcohol. A sober alcoholic has committed to themselves that they will no longer imbibe. A decision to live differently than how one has lived in the past and to ignore and control desire.
 
 ## The Golden Ratio
+
+### Who cares?
+I'll tell you because it concerns you, as well. It is a very special number for two reasons. First, it is a ratio that represents a specific proporition of one thing to another, related thing. Two quantities of something --anything-- like the number of petals on a flower or the distance between your hand and your arm are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. This number is extraordinarily useful in mathematics, architecture, art and more. It is a pattern that is often found in nature. The pattern of the seeds in a sunflower, the number of arms on a starfish, the shape of a hurricane and yes, even you in your body, represent the golden ratio in some manner. The measurement from the navel to the floor and the top of the head to the navel is the golden ratio.
+
+You should care about the golden ratio because it so common. Its natural. It is part of the fabric of our reality. Its this funky little number that guides natural processes and perfects the evolution of life. The nautilus' shell is beautiful and ideal for its survival in nature. This shell is ultimately the result of refined genetics from generations of cephalopods that have resisted the forces of nature through the long forgotten eons. Its natural, and often observable. Could it be that humanity, as the most advanced species on the planet, also have a 'shell'? 
 
 ### What is it?
 
