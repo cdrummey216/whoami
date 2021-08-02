@@ -351,11 +351,11 @@ In order to be understood, identity and its components must be defined. The sens
 
 The golden ratio proposition as the value for sense of self. The sense of self is an output of a human mind that is singularly focused on the identification of the specific human mind it describes. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
 
-## Concepts
+## Definitions & Concepts
 
 The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the self_. What this means is that the cogito, as it is often referred, proves that the self ("I") is cognizant due to the fact that the self is able _to think_ and therefore, the self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinks. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the self of another in reality? How?
 
-**Who am I?: A Question**
+**Who am I?:** A question
 
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
@@ -372,22 +372,22 @@ the individual has the ability to accept or reject a given answer at any time. I
 established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities.
 When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
-**Who are you?: A Question**
+**Who are you?:** A question
 
 "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
 "Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
 
-**The Self, an engine for Identity: A Statement**
+**The Self, an engine for Identity:** A statement
 
 This question, as a routine, is the engine for identity. ***The one who asks*** is seeking an answer and therefore possesses the power to accept or reject an answer. The routine becomes a reference point on which one can build their active identification, or, accummulate the things that they identify with.
 
-**FREE WILL AND IDENTITY: A Relationship**
+**FREE WILL AND IDENTITY:** A relationship
 
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
 or, the things that they choose to identify with.
 
-**TRUST AND BELIEF: A Statement**
+**TRUST AND BELIEF:** A statement
 
 In order to believe, one must trust. Trust is an active quality exchanged between identities because it can be given and recieved and it has social value. Trust is a foundational element of an identity. Trust is valuable because it is given and recieved by out of someone's own free will, a willful act. When trust is established, it facilitates social interaction between individuals. For example, an individual can, in a single exchange, grant their trust to and recieve 
 the trust of another individual. Trust facilitates the exchange of ideas.
@@ -395,7 +395,7 @@ the trust of another individual. Trust facilitates the exchange of ideas.
 A belief is partial or full assurance without positive knowledge or absolute certainty. In order to believe in any one thing, an individual must grant their trust to that which they believe. So, in this way, belief becomes a product of free will through the act of choosing to grant trust. Trust is a foundational element of an
 identity and is the currency of exchange between identities. 
 
-**AN _EXTERNAL_ FOUNDATION FOR KNOWLEDGE: A Statement**
+**AN _EXTERNAL_ FOUNDATION FOR KNOWLEDGE:** A statement
 
 I asked "Who am I?", therefore I exist. //in real-time
 
@@ -404,7 +404,7 @@ defined as "I am the one who asked" and "I" must exist because it can be defined
 
 Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (another _external identity of another_) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
-**Variable Answer: An Answer**
+**Variable Answer:** An answer
 
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
@@ -414,7 +414,7 @@ Variable answers occur in inverse pairs. For example, "I am a man" shares equal 
 
 A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity.
 
-**Identity as a fractal set: A Representation**
+**Identity as a fractal set:** A representation
 
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
 
