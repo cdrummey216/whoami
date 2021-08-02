@@ -61,7 +61,7 @@ The contents of this document ideally will flow from a (1) description of some o
 * 5f: Living as Art
 
 
-# The Complexity of Now
+# Part 0: The Complexity of Now
 
 But first, some definitions.
 
@@ -115,15 +115,17 @@ For now...
 
 (new page)
 ## Five Facts about you and 'Now'
-1. You exist. //fact
-2. You exist here. //observation via senses ('i can touch/feel/interact with my surroudings')
-3. You exist now. //perception of 'I exist' equation and specious present ('i can observe events in the present and respond in order to live')
-4. You are alive now. //perceived and observed ('I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system (the body) are responding to how you perceive (the mind) the present moment. The body and the mind are unitary, they are the two components of singular existence. Singular existence is selfhood, or the individual identity as it exists in real-time. You must have a body in order to exist and you must have a mind in order to perceive that you exist.')
-5. You are mortal here. //observed and perceived ('I am here at this point in my life, which is observable. The present is the foremost in a sequence of observable events and time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.')
+1. You exist.
+2. You exist here.
+3. You exist now.
+4. You are alive now.
+5. You are mortal here.
 
 ## What's next?
 
-So I know that I am alive here and now, what do I do next?
+So I know that I am alive here and now, what do I do next? I am a living being and I have senses at this moment. I can wiggle my toes and scrunch up my nose. What's interesting is the connection between your brain and your toes or your nose while your wiggle or scrunch. Think about the action involved with either. Its simple, right? You think about your toes or your nose and it just happens. Yep, but it is something special. The simplicity of it all belies the truth about whats happening in your body and mind. The intricacies of your nervous system are responding to how your mind perceives the present moment. The body and the mind are unitary, they are the two components of singular existence. And, singular existence is selfhood, or the individual identity as it exists at present. You must have a body in order to exist and you must have a mind in order to perceive that you exist.
+
+I am here at this point in my life, which is observable. You experienced birth and growth. You are alive now. You also know that someday, you will end. When you reach that fullness of life and you finally exit the world, the present ceases and whats it left are all the moments of your life. The present is the foremost in a sequence of observable events as time progresses. For example, the observation supporting the perception of _being at the grocery_ is to be, in fact, at the grocery store.
 
 ## Where are you going? To what end?
 
