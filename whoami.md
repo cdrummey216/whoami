@@ -351,11 +351,11 @@ In order to be understood, identity and its components must be defined. The sens
 
 The golden ratio proposition as the value for sense of self. The sense of self is an output of a human mind that is singularly focused on the identification of the specific human mind it describes. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
 
-## Definitions & Concepts
+## (#) Definitions & Concepts
 
 The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the self_. What this means is that the cogito, as it is often referred, proves that the self ("I") is cognizant due to the fact that the self is able _to think_ and therefore, the self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinks. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the self of another in reality? How?
 
-**Who am I?:** A question
+### (1) Who am I?, a _question_
 
 "Who am I?" is a question with a variable answer, or, a question that can be satisifed by an inumerable count of distinct answers.
 The response "I am the one who asked" is an example of an answer that is universally true. In other words, any individual 
@@ -372,22 +372,22 @@ the individual has the ability to accept or reject a given answer at any time. I
 established, then each answer can be assessed individually or as a trend over time and used to distinguish desirable and undesirable attributes and qualities.
 When combined with a free will, this ability allows the "asker" to discover who they are, in thoughts and actions.
 
-**Who are you?:** A question
+### (2) Who are you?, a _question_
 
 "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
 "Who are you?" is also a question that acknowledges the existence of another "I". A universal response to this question is "I am not the one who asked", the inverse of the variable answer "I am the one who asked." An additional universal response to this question is "I am," when "I" is understood to be the entirety of the identity.
 
-**The Self, an engine for Identity:** A statement
+### (3) The Self: an engine for Identity, a _statement_
 
 This question, as a routine, is the engine for identity. ***The one who asks*** is seeking an answer and therefore possesses the power to accept or reject an answer. The routine becomes a reference point on which one can build their active identification, or, accummulate the things that they identify with.
 
-**FREE WILL AND IDENTITY:** A relationship
+### (4) Free Will & Identity, a _relationship_
 
 The product of a free will is an identity. An identity is the culmination of an individual's choices for active identification,
 or, the things that they choose to identify with.
 
-**TRUST AND BELIEF:** A statement
+### (5) Trust & Belief, a _statement_
 
 In order to believe, one must trust. Trust is an active quality exchanged between identities because it can be given and recieved and it has social value. Trust is a foundational element of an identity. Trust is valuable because it is given and recieved by out of someone's own free will, a willful act. When trust is established, it facilitates social interaction between individuals. For example, an individual can, in a single exchange, grant their trust to and recieve 
 the trust of another individual. Trust facilitates the exchange of ideas.
@@ -395,7 +395,7 @@ the trust of another individual. Trust facilitates the exchange of ideas.
 A belief is partial or full assurance without positive knowledge or absolute certainty. In order to believe in any one thing, an individual must grant their trust to that which they believe. So, in this way, belief becomes a product of free will through the act of choosing to grant trust. Trust is a foundational element of an
 identity and is the currency of exchange between identities. 
 
-**AN _EXTERNAL_ FOUNDATION FOR KNOWLEDGE:** A statement
+### (6) An _external_ Foundation for Knowledge, a _statement_
 
 I asked "Who am I?", therefore I exist. //in real-time
 
@@ -404,7 +404,7 @@ defined as "I am the one who asked" and "I" must exist because it can be defined
 
 Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (another _external identity of another_) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
-**Variable Answer:** An answer
+#### (7) Variable Answer, an _answer_
 
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
@@ -414,13 +414,13 @@ Variable answers occur in inverse pairs. For example, "I am a man" shares equal 
 
 A variable answer that defines an identity is self-similar due to the fact that the identity it defines ("I") remains the same while being defined ("I am *x*."). At any scale, a variable answer is a representation of the identity.
 
-**Identity as a fractal set:** A representation
+### (8) Identity as a fractal set, a _representation_
 
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
 
 ## Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
-### GOLDEN RATIO AND SENSE OF SELF: A Proposition
+### Proposition: Golend Ratio & sense of self
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
 
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional values.
@@ -435,10 +435,10 @@ The value of ϕ (1.618) is the result of an equation using two given values (a, 
 * a+b = A combination of a and b
 * a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0 (zero or nothing)
 
-#### PROPERTIES OF ϕ: 3) a+b is to a as a is to b AND 1) a+b/a = ϕ AND a/b = ϕ
+#### Properties of ϕ: 3) a+b is to a as a is to b AND 1) a+b/a = ϕ AND a/b = ϕ
 Self-concept is to self-perception as self-perception is to self-definition.
 
-**EXAMPLE**
+**Example**
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
 * b = I am florist. (self-definition) //limited to context, must be true
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
@@ -451,7 +451,7 @@ Self-concept (*a+b*) is to self-perception (*a*) as...
 ...as self-perception (*a*) is to self-definition (*b*).
 * Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
-#### IDENTITY AS A JULIA SET: The Representation
+#### Identity as Julia Set, a representation of Human Identity
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 * the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
 * so using an example array of [apple, pear, orange] named 'example', the value of example[0] is 'apple', the value of example[1] is 'pear', the value of example[2] is 'orange'
