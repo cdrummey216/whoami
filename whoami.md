@@ -593,16 +593,19 @@ The self (ϕ) must be externalized in to reality (1) in order for it to _exist_ 
 ## Overview & Purpose
 The following are the conclusions and judgements that can be made based on the [identity equations](idenityequations.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence). 
 
+<!--
 ## A foundation for reason
-* every cause is an effect and every effect is a cause. //in development
+* every cause is an effect and every effect is a cause.
 * Occam's razor //intersection of mathematics and philosophy
-
+-->
 ## Universal Truth, or a common good
 
 **Why is a common good necessary?**
 
-* Once an answer to 'Who am I?' is established, the question 'What am I?' naturally follows because an explanation is needed for *how* or *in what manner* an identity exists in reality (I am but how?).  The answer to the question 'What am I?' serves as the foundation for understanding the self because the answer meaningfully connects an identity to reality. 
-* What am I? //'I am a living being.' 
+* The question 'What am I?' naturally follows the answer to 'Who am I?'
+* An explanation is needed for *how* or *in what manner* an identity exists in reality (asking 'I am, but how is it that I _think_?')
+* For example, consider Descartes' _cogito ergo sum_ and 'the identity equations', the combination of which permits the self to simultaneaoulsy perceive 'who' (_I think, therefore I am_) and define 'what' for themselves (_I exist (1), therefore I am (ϕ)_).  The answer to the question 'What am I?' serves as the foundation for _understanding the self_ because this answer is the first that meaningfully connects an identity to the reality in which it exists. 
+* So, when asked 'What am I?', the response 'I am a living being' is affirmed.
 * In order to be considered 'living', an identity (self) must be 'alive'. //I know I am alive because the BEGIN iteration demonstrates that self is alive utilizing the binary state of alive/not alive
 * Living (to be alive) is a binary state, so only one alternative exists. Any reasonable person would agree that being alive is better than being not alive. (good > not good (bad), alive > not alive)
 * Life is good. //existential calm, or I know who and what I am. I conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment made about what the binary state ('alive'/'not alive') *represents*, or 'Life'. The judgement that *Life is good* is universal because the only alternative ('I am not alive') represents death, which any reasonable person would perceive as 'not good'. Death is 'not good' from the perspective of the self because it reresents the end of self. Death is also good as a part of Life. See also END iteration, c = 0
