@@ -111,9 +111,11 @@ An example of a universal truth about _the self_ is that they all share in hope.
 
 For now...
 
+## The Duality of Self
+The duality of self begins with the creation of an internal world (the self) amidst an external one (reality). We live our lives everyday balancing ourselves between what we _think_ is happening and what is, in fact, happening. We are ever present in our pursuit to reconcile our perception of reality with reality itself. Truth unites perception and reality and so, when the self idealizes truth, the self is ever present and in unison with reality.
 
+There is endless depth and beauty in the world around us while, at the same time, there exists great power and value in the mind of the individual in reality.
 
-(new page)
 ## Five Facts about you and 'Now'
 1. You exist.
 2. You exist here.
