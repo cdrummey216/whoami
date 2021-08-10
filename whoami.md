@@ -116,6 +116,12 @@ The duality of self begins with the creation of an internal world (the self) ami
 
 There is endless depth and beauty in the world around us while, at the same time, there exists great power and value in the mind of the individual in reality.
 
+## GRAPES //dev
+A grape is in a bunch along the main vine. A grape, in essence, is the expression of the roots of the vine, in that the roots draw in water and nutrients to grow and sustain the grape. The grape is at the end of a very long, aged, and natural process that begins at the the root and extends up and out as the limbs and vines and bunches and even unto the grape. The source of the grape is utimately, therefore, the root. 
+
+I love grapes. Very cold. And green. Cotton Candy, if you you can get them. I don't really have a preference on root systems of green versus purple. The distinction about the roots is pretty interesting. The roots carry out their chemical processes in order to produce and yeild new grapes and sustain the vines.
+The grape knows its position, understands the position, and that time is independent of the grape.
+
 ## Five Facts about you and 'Now'
 1. You exist.
 2. You exist here.
