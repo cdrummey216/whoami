@@ -65,16 +65,24 @@ The contents of this document ideally will flow from a (1) description of some o
 
 # Part 0: The Complexity of Now
 
-But first, some definitions.
+## What is the source of truth?
+Q: Quo vadis?
+A: Veritatis, iterum.
+
+Q: To what end?
+A: For truth, once again.
+
+Self-discovery is the path. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
+
+Truth is the end. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
+
+Follow the path seeking the end. Truth is the highest outcome. A good Samaritan with the honest truth sharing the path of life.
+
+The bodied self is truth embodied. The highest outcome of the living self is truth. Living is good. Living for truth is better. 
+
+// in development
 
 
-
-
-
-
-
-
-(new page)
 ## (#) Definitions
 
 ### (1) Now, a _noun_;
