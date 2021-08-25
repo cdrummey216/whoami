@@ -772,6 +772,25 @@ As shown in the section _Conclusions about Choice_, the self must respond at all
 
 _You are given an array of n - 1 integers which are in the range between 1 and n. All numbers appear exactly once, except one number, which is missing. Find this missing number._
 
+### What is it?
+
+XOR is a logical operator that works on bits. Let’s denote it by ^. If the two bits it takes as input are the same, the result is 0, otherwise it is 1. This implements an exclusive or operation, i.e. exactly one argument has to be 1 for the final result to be 1. We can show this using a truth table:
+
+![image](https://user-images.githubusercontent.com/46973458/130849802-bbbf26ea-174d-4f95-87d0-2cc263f8f986.png)
+
+Most programming languages implement ^ as a bitwise operator, meaning XOR is individually applied to each bit in a string of bits (e.g. a byte).
+
+For example:
+                    0011 ^ 0101 = 0110
+
+since
+                    0 ^ 0 = 0
+                    0 ^ 1 = 1
+                    1 ^ 0 = 1
+                    1 ^ 1 = 0
+
+Because of this, we can apply XOR to anything, not just booleans.
+
 ### Useful Properties
 
 #### XOR and 0: x ^ 0 = x
