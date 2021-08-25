@@ -765,6 +765,64 @@ In order to be intentional, someone must be present to respond in some manner (h
 
 # Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
 
+## The XOR Trick
+_If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
+
+As shown in the section _Conclusions about Choice_, the self must respond at all times in order to live. As a result, this means that we must always choose how to respond at any given moment. If I must choose, what is the method for finding truth? Consider the following problem, which demonstrates the various properties of XOR operations as well as a common problem faced every day. How do I decide to act in the absence of other knowledge?
+
+_You are given an array of n - 1 integers which are in the range between 1 and n. All numbers appear exactly once, except one number, which is missing. Find this missing number._
+
+### Useful Properties
+
+#### XOR and 0: x ^ 0 = x
+If one of the two arguments to XOR is 0, then the remaining argument is the result. This directly follows from the truth table by checking the rows where y = 0, namely the first and third row.
+
+![image](https://user-images.githubusercontent.com/46973458/130845300-ba23e665-92b0-45bf-97f9-8ae801b7168b.png)
+
+#### XOR on the same argument: x ^ x = 0
+If the two arguments are the same, the result is always 0. Again, we can convince ourselves that this is true by inspecting the truth table. This time we have to check the rows where x = y, i.e. the first and last row.
+
+![image](https://user-images.githubusercontent.com/46973458/130845247-b35232be-7932-4127-a3d6-572c64b1b27f.png)
+
+Intuitively, this means that if we apply XOR to the same arguments, they cancel each other out.
+
+#### Commutativity: x ^ y = y ^ x
+XOR is commutative, meaning we can change the order in which we apply XOR. To prove this, we can check the truth table for both x ^ y and y ^ x:
+
+As we can see, x ^ y and y ^ x always end up with the same value.
+
+![image](https://user-images.githubusercontent.com/46973458/130845183-1cea6b8b-51c8-411b-a4ca-f07e142f4ef7.png)
+
+#### Sequences of XOR operations
+By combining all of this, we can deduce the central insight behind everything that is about to follow:
+
+_If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
+
+Commutativity allows us to re-order the applications of XOR so that the duplicated elements are next to each other. Since x ^ x = 0 and a ^ 0 = a, each pair of duplicated values has no effect on the outcome.
+
+Let’s go through an example of this:
+
+  a ^ b ^ c ^ a ^ b     # Commutativity
+= a ^ a ^ b ^ b ^ c     # Using x ^ x = 0
+= 0 ^ 0 ^ c             # Using x ^ 0 = x (and commutativity)
+= c
+
+Because ^ is a bitwise operator, this will work regardless of what kind of values a, b and c are. This idea is really at the heart of how XOR can be used seemingly magically in many situations.
+
+### Applications
+* In-Place Swapping (To test if two values are equal, Swap two values x and y in-place, i.e. without using any helper variables
+* Finding the Missing Number
+* Finding the Duplicate Number
+* Finding Two Missing/Duplicate Numbers
+
+taken from https://florian.github.io/xor-trick/
+
+### How is it useful as it relates to choice?
+
+If we must choose, then using an XOR operation on relevant and binary states yeilds the greatest flexibility in how to respond.
+///For example, TODO
+
+
 ## Overview & Purpose
 Self-expression is the means by which *the internal processes for perceiving and defining one's self* are externalized, or made real in the world. Living, or *to be alive*, is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the self**, *by the self*, <ins>for the self</ins>. Therefore, living is art, or an application of human creative skill and imagination. 
 
