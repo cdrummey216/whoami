@@ -354,6 +354,30 @@ Scientists believe that we perceive proportional bodies to be more healthy.
 
 ## The Property of Truth
 
+### What is the value of truth?
+
+The value of truth is the proportion of how we perceive a truth and how it is defined in reality. For example, perception gives an individual the ability to be conscious of the simple truth that the sun rises in the morning. Everday this truth is redfined and, fortunately for us, the sun continues to rise and set. If, however, one day the sun did not rise while the perception that it would rise remained, the value of the perceived truth would be 0 because the reality of the event is 0. Alternatively, if the perception of the truth is that the sun will not rise and the sun does, in fact, rise, the value of truth will also be 0. 
+
+If perception is unified with reality, the value of truth is 1.
+
+#### Case 1 TRUTH (present)
+
+_The sun rises._
+Truth (1) = Perception (1) / Reality (1)
+
+
+#### Case 2 BELIEF (future)
+
+_The sun will rise tomorrow._
+Truth (undefined) = Perception (1) / Reality (0)
+
+#### Case 3 NOT TRUTH (past)
+
+_The sun did not rise._
+Truth (0) = Perception (0) / Reality (1)
+
+Truth is dependent upon perception. A self is necessary to perceive and define truth in reality.
+
 ### What is it?
 
 Truth is difficult to define. There is observable truth, personal truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Not all truths are observable, however, so what becomes of the truths that we are closest to our hearts and souls? Are they somehow 'less than' in relation to obserable truths? No, they are equal. Personal truth is externalized by the self. Observable truth is the self. Either way, they both appear in reality to a third party as observable events. Two truths will always be in balance in relation to their 'truthfulness'. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthfulness' is meaningless because the ratio between truths is 1:1.
