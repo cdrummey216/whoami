@@ -454,7 +454,7 @@ defined as "I am the one who asked" and "I" must exist because it can be defined
 
 Asking "Who am I?" is a action that can be observed. Due to this fact, I can signal to another "I" (another _external identity of another_) that I exist, and vice versa. The asker, at the moment of asking, will know that they are the asker because they identify as the asker with the knowledge that "I am the one who asked." Another individual could also hear the asker and determine that "I" (relative to the asker) exists because it can be defined.
 
-#### (7) Variable Answer, an _answer_
+### (7) Variable Answer, an _answer_
 
 A variable answer is used to represent a response to a question that is infinite in scope so long as it acknowledges the inferences in the question. For example, "Who are you?" is a question that is satisfied by any answer from the responder that acknowledges the existence of "I" (*you*). In effect, this means that the responder will choose to define themselves because the choice in response is dependent upon the responder. 
 
@@ -545,6 +545,9 @@ If we must choose, then using an XOR operation on relevant and binary states yei
 ///For example, TODO
 
 ## Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
+
+//DEV -- convert to XOR operations, XOR result of one side of "x/y = a + b" to the other, result will indicate equality of one operation to another;
+
 
 ### Proposition: Golend Ratio & sense of self
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
