@@ -4,6 +4,8 @@ The following are the conclusions and judgements that can be made based on the [
 # A foundation for reason
 * every cause is an effect and every effect is a cause. //in development
 * Occam's razor //intersection of mathematics and philosophy
+* Life is denoted by ϕ. Life is binary (0/ϕ, not alive or alive).
+
 
 # Universal Truth, or a common good
 
