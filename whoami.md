@@ -24,11 +24,11 @@ The contents of this document ideally will flow from a (1) description of some o
 
 **Part 0: The Complexity of Now** (!!!Active Development!!!)
 * 0a: Five Facts about you and 'now'
-* 0b: what's next?
+* 0b: What's next?
 * 0c: Where are you going? To what end?
 * 0d: Complexity //in development
 
-**Part 1: What is 'someone'?**
+**Part 1: What is/am 'I'?**
 * 1a: A Method for Knowing and Understanding the self
 * 1b: A Formula for Identity
 * 1c: Exercising Free Will
@@ -38,7 +38,7 @@ The contents of this document ideally will flow from a (1) description of some o
 * 1g: The XOR operation
 * 1h: Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
-**Part 2: What constitutes 'someone'?**
+**Part 2: What constitutes an 'I'?**
 * 2a: Overview & Purpose
 * 2b: Universal Truth, or a common good
 * 2c: The Isle[0]
@@ -49,6 +49,13 @@ The contents of this document ideally will flow from a (1) description of some o
 * 2h: Oneness
 
 **Part 3: Life is good.**
+* 0a: Five Facts about me and 'now'
+* Health (post-alcohol/respect for body, future)
+* Family (Support, care)
+* Love (audrey,grant,ronan, simple joy of life)
+* Methods of Expression ('making', computers, tools, art)
+* Inequality is the source of imbalance. How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... (life is so rich and joy is bountiful. Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...)
+
 
 **Part 4: How is identity defined?**
 * 4a: Overview and Purpose
