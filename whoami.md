@@ -1,6 +1,6 @@
 # whoami
 **The Perception Constant**
-The 'perception constant'. In my view, it is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
+In a quantifiable universe, all things must have a value. So, then, what is the value of a consciousness? And, in a world where observation (via perception) changes the observable, we must account for perception in measurement. A 'perception constant'. In my view, it is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
 
 How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the self is present in reality as a body.
 
