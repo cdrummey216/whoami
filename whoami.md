@@ -11,6 +11,8 @@ A wonderfully empowering statement. Its like, my body is the cup and it's filled
 
 Which brings me to my second distillation. In my project, self-expression is described as a means to externalize the sense of self. And self-expression has many forms. It is the will to know, do, act, believe. So, I say that the body is an instrument of self. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given present reality.
 
+The self defines its ends in the way it responds in all things via self-expression and, the ends (ie the result, what is achieved) is defined by the means by which is was achieved. _The self is to its ends as the ends is to its means._
+
 **The Golden Interpretation**
 
 In dev
