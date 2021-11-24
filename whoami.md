@@ -19,8 +19,6 @@ In dev
 
 **Abstract**
 
-Life is denoted by ϕ. Life is binary (0/ϕ, not alive or alive).
-
 The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before the self can respond with an answer to any question. By defining 'I', the self is grounded in present reality by a definable value and, therefore, the self is equipped to answer 'Who am I?'
 
 What are the properties that define the _self_? What also can be known based on this definiton? How do I live according to this definition of self? To answer these questions, I present propositional mathematics, concentrated philosophy, _living_ as art, and framing. The intention behind this document is to _know more_. In other words, what else can be known based on this knowledge? By defining the self as a value, we are able to observe the self as an _object in reality_ while also understanding the self as an _object of our own perception_. In the following, a proposition is given that the value of the _sense of self_ is the same value that is seen repeatedly across the universe in everything from spiral of a nautilus shell to the shape of the Milky Way galaxy to the length of your arm. This value is called the divine proportion, phi, or 1.618...
