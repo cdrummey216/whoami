@@ -492,7 +492,7 @@ A variable answer that defines an identity is self-similar due to the fact that 
 
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
 
-## The XOR operation //dev topic, intend to update zll identity equestions with XOR of result values
+## The XOR operation //dev topic, intend to update all identity equations with XOR of result values
 _If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
 
 As shown in the section _Conclusions about Choice_, the self must respond at all times in order to live. As a result, this means that we must always choose how to respond at any given moment. If I must choose, what is the method for finding truth? Consider the following problem, which demonstrates the various properties of XOR operations as well as a common problem faced every day. How do I decide to act in the absence of other knowledge?
