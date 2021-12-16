@@ -1257,7 +1257,7 @@ I am on the Isle[0] Isle and I am equipped with the knowledge that I will die so
 * Foregoing the choice to die in any case is tantamount to choosing to live, because life and death are binary/exclusive. By choosing to not die, we are choosing to live.
 * If we must choose how to respond to real-time, we should choose a response that reflects our ideal self. 
 
-‘I must be (live)’ because the energy quotient will drive me ever onwards. The vision of my self that guides all my interactions. What I choose to eat, say, practice, make, do, believe, produce, cultivate, share and create will flow out from my self. And the vision will have a place, the special place in time where your ideal self exists.
+‘I must be’ (like _to live/continue_) because the energy quotient will drive me ever onwards. The vision of my self that guides all my interactions. What I choose to eat, say, practice, make, do, believe, produce, cultivate, share and create will flow out from my self. And the vision will have a place, the special place in time where your ideal self exists.
 
 ‘Right now and anytime’ because we exist in real-time. The present exists, and everything else is either memory or anticipation. The present flows from the past and on into the future.
 
