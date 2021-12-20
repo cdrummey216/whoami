@@ -1132,7 +1132,7 @@ At any moment within the given timeframe, I represented one of either of the fol
 ## one
 * Spring 2021
 * self and alive (exist)
-* oneness
+* oneness/eon
 
 ## A CROSS, THREE STARS, AND THE RABBIT 
 
