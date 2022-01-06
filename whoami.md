@@ -968,10 +968,13 @@ Other opuses: //an externalization that exhibits a value
 
 **The Variable**
 * The distinct characteristics of self that vary from person to person. The values and abilities unique to a person.
+
 **The Value**
 * Most important (abstract) values of the self, which ultimately determine thoughts and actions. Truth is very important here.
+
 **The Momentum**
 * The intention behind a thought or action. Intention is the direction that actions and thoughts are externalized.
+
 **The Method**
 * The means of externalization (observable).
 
