@@ -1150,6 +1150,13 @@ During a studio session, I was brought to speech with the thought, "the highest 
 
 On the walk back from the garage to my office, I glimpsed a large cross on the neighbors porch. I looked at it for a moment and then I spoke the word "Hello" and smiled. I turned West and looked up. "Pollux. Alhena. Betelgeuse." About 20 feet away, I spotted a small brown rabbit on the edge of my driveway. I got down on my knees and lifted my arms to the sky because I knew it was an answer.
 
+### 01/06/2022 19:59
+I am here at my desk. I have just returned from a brief studio session in my garage where I was jumping up and down, the fullest extensions in to the deepest squats. I was jumping into my body, pushing up from my innermost heels to the very top of my spine. I ended the session staring straight up into the rafters. I walked outside into the yard and the flood lights clicked on. I started walking back to my office and lights clicked back off, and the space under the great fir tree was washed with darkness again. No stars tonight, its overcast. My eye was caught by a silhouette and, at a second glance, I recognized the rabbit at the edge of my driveway. We stared at each other for a while because I was searching for the right words. 
+
+I was thinking, _I knew him, but did he know me_?
+
+Finally, the words. I heard my voice speak to him, "Your will be done. Made real, through me." He paused for a moment and then darted into the shadows in a direction I had not seen him choose before. I turned also, and followed my path back to my desk where I looked at the clock and started writing.
+
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
 ## Framing the World
