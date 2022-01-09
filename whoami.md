@@ -499,6 +499,10 @@ As shown in the section _Conclusions about Choice_, the self must respond at all
 
 _You are given an array of n - 1 integers which are in the range between 1 and n. All numbers appear exactly once, except one number, which is missing. Find this missing number._
 
+Think of your self. Who you were and how its changed over the course of your life. Imagine that you are given an array of n - 1, where the items in the array are snapshots of your identity at any point in time leading up to the present. The present identity, the snapshot on the top of the pile, is always undefined because it can always be redefined.
+
+How do I know that I change? I can XOR my present self with my past selves to see my growth and change over time.
+
 ### What is it?
 
 XOR is a logical operator that works on bits. Let’s denote it by ^. If the two bits it takes as input are the same, the result is 0, otherwise it is 1. This implements an exclusive or operation, i.e. exactly one argument has to be 1 for the final result to be 1. We can show this using a truth table:
