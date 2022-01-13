@@ -620,6 +620,19 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 ![](image.png)
 
+## A Conversation with Life
+
+Through Grace.
+Numbers and Letters
+Who am I?
+My answer.
+Words and numbers.
+Language.
+
+A: I had forgotten, will you show me?
+B: If Lucifer is real, then so am I.
+
+
 #### The *Begin* Iteration //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
