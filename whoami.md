@@ -622,16 +622,11 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 ## A Conversation with Life
 
-Through Grace.
-Numbers and Letters
-Who am I?
-My answer.
-Words and numbers.
-Language.
+Through the Grace of God, it starts as awareness. For me,  I saw a spiral of nummbers and letters.
 
-A: I had forgotten, will you show me?
-B: If Lucifer is real, then so am I.
+I asked, 'Who am I?' into the abyss.
 
+My answer is words and numbers.
 
 #### The *Begin* Iteration //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
