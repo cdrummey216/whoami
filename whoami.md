@@ -380,8 +380,15 @@ Scientists believe that we perceive proportional bodies to be more healthy.
 ## The Property of Truth
 
 ### What is the value of truth?
+Solve for x:
 
-The value of truth is the proportion of how we perceive a truth and how it is defined in reality. For example, perception gives an individual the ability to be conscious of the simple truth that the sun rises in the morning. Everday this truth is redfined and, fortunately for us, the sun continues to rise and set. If, however, one day the sun did not rise while the perception that it would rise remained, the value of the perceived truth would be 0 because the reality of the event is 0. Alternatively, if the perception of the truth is that the sun will not rise and the sun does, in fact, rise, the value of truth will also be 0. 
+_The bodied (1) self (phi) is truth (x) embodied (1)._
+
+The body is the real thing that tethers the self to reality. Self is express through the body, and truth is the ideal expression.
+
+### What is the ratio of truths?
+
+The ratio of truths is the proportion of how we perceive a truth and how it is defined in reality. For example, perception gives an individual the ability to be conscious of the simple truth that the sun rises in the morning. Everday this truth is redfined and, fortunately for us, the sun continues to rise and set. If, however, one day the sun did not rise while the perception that it would rise remained, the value of the perceived truth would be 0 because the reality of the event is 0. Alternatively, if the perception of the truth is that the sun will not rise and the sun does, in fact, rise, the value of truth will also be 0. 
 
 If perception is unified with reality, the value of truth is 1.
 
