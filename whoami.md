@@ -819,7 +819,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
 * Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 
-<!--
+
 **Calculation of Time Constant** //hypothetical
 * ϕ = (ϕ + 1)/ϕ means that ϕ (a) and 1 (b) are at the golden ratio  //also ϕ = ϕ/1 AND ϕ > 1 > 0, new method to calculate ϕ?
 * As a fractal set, identity at any time is the product of c = 1 - ϕ. The value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's existence (here & now). So, the value of self is ϕ and the value of the relative life is 1.
@@ -866,7 +866,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * phase is 2πt/T ± 2πx/λ + ϕ 
 * For this sinusoidal wave, the period T = 1/f for frequency (f), which is how many cycles of a wave passes over a given point per second. 
 * The left side y − y0 is the displacement of the wave in the y direction from the initial position, and the value within the parentheses 2πt/T ± 2πx/λ + ϕ is the phase.
--->
+
 ## A Conversation with Death
 
 **Key Topics**
