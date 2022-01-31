@@ -861,11 +861,18 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * perceived duration
 * time perception and sense of time
 
-## Phase Constant //in development
+**Phase Constant** //in development
 * y − y0 = A sin (2πt/T ± 2πx/λ + ϕ) in which y0 is the y position at x = 0 and t = 0, A is the amplitude, T is the period and  ϕ is the phase constant.
 * phase is 2πt/T ± 2πx/λ + ϕ 
 * For this sinusoidal wave, the period T = 1/f for frequency (f), which is how many cycles of a wave passes over a given point per second. 
 * The left side y − y0 is the displacement of the wave in the y direction from the initial position, and the value within the parentheses 2πt/T ± 2πx/λ + ϕ is the phase.
+
+## The River of Time, Local Timespace
+* Time is fluid
+* The river of time crashes in to and flows out of the valley. Non-causal beings, our selves, are like drops of rain falling into the river of liquid time. And, at that instant where the river and the droplet touch, there is a moment of non-cohesion.
+* We are like droplets because we exist until we join the river. The liquidity of self is the essence of liquid time, each is a perceiver of time and the keeper of time.
+* The ephemeral dew of the universe
+* Who filled the clouds and opened the valley?
 
 ## A Conversation with Death
 
