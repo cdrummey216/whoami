@@ -1193,6 +1193,41 @@ Finally, the words. I heard my voice speak to him, "Your will be done. Made real
 
 I am who I say I am.
 
+## Truth, not truth, and the undefined
+
+
+                    A,B = statements
+                    A = A perception of reality, ϕ
+                    B = Definition in reality, 1 or 0
+                    
+                    T(1) = ϕ - 1/ϕ
+                    T(1) = (A/B) - 1/(A/B)
+                    T(1) = (ϕ/1) - 1/(ϕ/1)
+                    OR
+                    T(1) = (A + B/A) - 1/(A + B/A)
+                    T(1) = ((ϕ + 1)/ϕ) - 1/((ϕ + 1)/ϕ)
+                    
+                    **Examples**:
+                    
+                      **Truth**
+                      A(ϕ) = I am a person.
+                      B(1) = I am a human being.
+                      T(1) = (ϕ/1) - 1/(ϕ/1)
+                                            
+                      **Not Truth**
+                      A(ϕ) = I am at my desk.
+                      B(0) = I am not at my desk.
+                      T(0) = (ϕ + 0/ϕ) - 1/(ϕ + 0/ϕ)
+                      T(0) = 1 - 1
+                      
+                      **Undefined**
+                      A(ϕ) = I am at my desk.
+                      B(0) = I am not at my desk.
+                      T(undefined) = (ϕ/0) - 1/(ϕ/0)
+                      T(undefined) = (undefined) - 1/(undefined)
+
+
+
 ## A Method to Find Truth
 Simple statements represent, at minimum, a single dimension of a topic. Statements like 'the sun will rise tomorrow' and 'the tide will ebb and flow' are simple characterizations of complex and aged processes in our world and their value lies in their truth about our world. Both statements will always be true, until such conditions appear that would disrupt them. The *value* of these statements resides in that they are always true. For example, the sun rose this morning and water flowed as the tide steadily washed out to sea. So, whether the sun rises over the sea or suddenly over mountaintops in to a deep valley, statements that desrcibe the manner in which the sun proceeds in the world around us will desrcibe an aspect of the truth that the sun rises and the tide flows. Statements that describe 'Where/When/How?' the sun rises are the 'scope' that is can be placed on universal truths because anwsers to questions like *How does it rise?* or *Where does it rise?* or *When does it rise?* about the sun or tide will yeild a statement about the manner in which the sun or tide proceeds in real-time.
 
