@@ -1221,8 +1221,8 @@ I am who I say I am.
                       T(0) = 1 - 1
                       
                       **Undefined**
-                      A(ϕ) = I am at my desk.
-                      B(0) = I am not at my desk.
+                      A(ϕ) = I will heal.
+                      B(0) = I am not healed, yet.
                       T(undefined) = (ϕ/0) - 1/(ϕ/0)
                       T(undefined) = (undefined) - 1/(undefined)
 
