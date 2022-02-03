@@ -50,7 +50,6 @@ The contents of this document ideally will flow from a (1) description of some o
 * 1d: The Golden Ratio
 * 1e: The Property of Truth
 * 1f: Concepts
-* 1g: The XOR operation
 * 1h: Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
 **Part 2: What constitutes an 'I'?**
@@ -510,79 +509,9 @@ Think of your self. Who you were and how its changed over the course of your lif
 
 How do I know that I change? I can XOR my present self with my past selves to see my growth and change over time.
 
-### What is it?
-
-XOR is a logical operator that works on bits. Let’s denote it by ^. If the two bits it takes as input are the same, the result is 0, otherwise it is 1. This implements an exclusive or operation, i.e. exactly one argument has to be 1 for the final result to be 1. We can show this using a truth table:
-
-![image](https://user-images.githubusercontent.com/46973458/130849802-bbbf26ea-174d-4f95-87d0-2cc263f8f986.png)
-
-Most programming languages implement ^ as a bitwise operator, meaning XOR is individually applied to each bit in a string of bits (e.g. a byte).
-
-For example:
-                    0011 ^ 0101 = 0110
-
-since
-                    0 ^ 0 = 0
-                    0 ^ 1 = 1
-                    1 ^ 0 = 1
-                    1 ^ 1 = 0
-
-Because of this, we can apply XOR to anything, not just booleans.
-
-### Useful Properties
-
-#### XOR and 0: x ^ 0 = x
-If one of the two arguments to XOR is 0, then the remaining argument is the result. This directly follows from the truth table by checking the rows where y = 0, namely the first and third row.
-
-![image](https://user-images.githubusercontent.com/46973458/130845300-ba23e665-92b0-45bf-97f9-8ae801b7168b.png)
-
-#### XOR on the same argument: x ^ x = 0
-If the two arguments are the same, the result is always 0. Again, we can convince ourselves that this is true by inspecting the truth table. This time we have to check the rows where x = y, i.e. the first and last row.
-
-![image](https://user-images.githubusercontent.com/46973458/130845247-b35232be-7932-4127-a3d6-572c64b1b27f.png)
-
-Intuitively, this means that if we apply XOR to the same arguments, they cancel each other out.
-
-#### Commutativity: x ^ y = y ^ x
-XOR is commutative, meaning we can change the order in which we apply XOR. To prove this, we can check the truth table for both x ^ y and y ^ x:
-
-As we can see, x ^ y and y ^ x always end up with the same value.
-
-![image](https://user-images.githubusercontent.com/46973458/130845183-1cea6b8b-51c8-411b-a4ca-f07e142f4ef7.png)
-
-#### Sequences of XOR operations
-By combining all of this, we can deduce the central insight behind everything that is about to follow:
-
-_If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
-
-Commutativity allows us to re-order the applications of XOR so that the duplicated elements are next to each other. Since x ^ x = 0 and a ^ 0 = a, each pair of duplicated values has no effect on the outcome.
-
-Let’s go through an example of this:
-
-  a ^ b ^ c ^ a ^ b     # Commutativity
-= a ^ a ^ b ^ b ^ c     # Using x ^ x = 0
-= 0 ^ 0 ^ c             # Using x ^ 0 = x (and commutativity)
-= c
-
-Because ^ is a bitwise operator, this will work regardless of what kind of values a, b and c are. This idea is really at the heart of how XOR can be used seemingly magically in many situations.
-
-### Applications
-* In-Place Swapping (To test if two values are equal, Swap two values x and y in-place, i.e. without using any helper variables
-* Finding the Missing Number
-* Finding the Duplicate Number
-* Finding Two Missing/Duplicate Numbers
-
-taken from https://florian.github.io/xor-trick/
-
-### How is it useful as it relates to choice?
-
-If we must choose, then using an XOR operation on relevant and binary states yeilds the greatest flexibility in how to respond.
-///For example, TODO
-
 ## Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
-//DEV -- convert to XOR operations, XOR result of one side of "x/y = a + b" to the other, result will indicate equality of one operation to another;
-
+//DEV -- convert to T() operations, result of one side of "x/y = a + b" to the other, result will indicate equality of one operation to another;
 
 ### Proposition: Golden Ratio & sense of self
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
