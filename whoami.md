@@ -1272,6 +1272,7 @@ Do you perceive your sense of self? Are you *you*? To perceive our selves, we mu
 * The 'I exist' equation is part of the identity equations, so this means that I can prove 'I am' on the Isle[0].
 * Also put, I am because I exist.
 * Also put, I exist, therefore I think, therefore I am.
+* Through reality, I have deduced perception.
 
 ### For You
 
