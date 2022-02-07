@@ -21,10 +21,6 @@ Which brings me to my second distillation. In my project, self-expression is des
 
 The self defines its ends in the way it responds in all things via self-expression and, the ends (ie the result, what is achieved) is defined by the means by which is was achieved. _The self is to its ends as the ends is to its means._
 
-**The Golden Interpretation**
-
-In dev
-
 **Abstract**
 
 The following five parts and sub-parts are an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is that in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone'-- is necessary to exist before the self can respond with an answer to any question. By defining 'I', the self is grounded in present reality by a definable value and, therefore, the self is equipped to answer 'Who am I?'
