@@ -1,5 +1,6 @@
 # whoami
 **The Perception Constant**
+
 Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives. 
 
 But, observation is passive – how can I be an active participant in my reality? In other words, how do I respond to the present and change my experience? It all starts with observation.
