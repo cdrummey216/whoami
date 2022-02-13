@@ -9,7 +9,9 @@ In physics, the observer effect is the disturbance of an observed system by the 
 
 What is observed in the experiment is a particle falling through spacetime, emanating a wave as it falls.
 
-In a world where observation (via perception) changes the observable, we must account for perception in measurement. What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
+In a world where observation (via perception) changes the observable, we must account for perception in measurement. The famous double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles. The observer effect is the fact that observing a situation or phenomenon necessarily changes it. What if perception (via observation) is the mechanism that changes the wave or particle?
+
+What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
 
 How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the self is present in reality as a body.
 
