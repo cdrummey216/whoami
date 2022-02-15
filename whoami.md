@@ -14,7 +14,7 @@ But, observation is passive – how can I be an active participant in my reality
 
 In physics, the observer effect is the disturbance of an observed system by the act of observation. An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment.
 
-_What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes by the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time._
+_What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time._
 
 In a world where observation (via perception) changes the observable, we must account for perception in measurement. The famous double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles. The observer effect is the fact that observing a situation or phenomenon necessarily changes it. What if perception (via observation) is the mechanism that changes the wave or particle?
 
