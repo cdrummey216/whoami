@@ -1,5 +1,12 @@
 # whoami
-**The Perception Constant**
+
+**Observer effect (physics)**
+
+In physics, the observer effect is the disturbance of an observed system by the act of observation. This is often the result of instruments that, by necessity, alter the state of what they measure in some manner. A common example is checking the pressure in an automobile tire; this is difficult to do without letting out some of the air, thus changing the pressure. Similarly, it is not possible to see any object without light hitting the object, and causing it to reflect that light. While the effects of observation are often negligible, the object still experiences a change. This effect can be found in many domains of physics, but can usually be reduced to insignificance by using different instruments or observation techniques.
+
+An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment. Physicists have found that observation of quantum phenomena can actually change the measured results of this experiment. Despite the "observer effect" in the double-slit experiment being caused by the presence of an electronic detector, the experiment's results have been misinterpreted by some to suggest that a conscious mind can directly affect reality.[3] The need for the "observer" to be conscious is not supported by scientific research, and has been pointed out as a misconception rooted in a poor understanding of the quantum wave function ψ and the quantum measurement process.[4][5][6]
+
+**Perceiver Effect**
 
 Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives. 
 
