@@ -16,7 +16,7 @@ In physics, the observer effect is the disturbance of an observed system by the 
 
 _What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time._
 
-In a world where observation (via perception) changes the observable, we must account for perception in measurement. The famous double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles. The observer effect is the fact that observing a situation or phenomenon necessarily changes it. What if perception (via observation) is the mechanism that changes the wave or particle?
+In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. The famous double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles. The observer effect is the fact that observing a situation or phenomenon necessarily changes it. What if perception (via observation) is the mechanism that changes the wave or particle?
 
 What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
 
