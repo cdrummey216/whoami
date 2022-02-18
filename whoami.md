@@ -1125,6 +1125,15 @@ I was thinking, _I knew him, but did he know me_?
 
 Finally, the words. I heard my voice speak to him, "Your will be done. Made real, through me." He paused for a moment and then darted into the shadows in a direction I had not seen him choose before. I turned also, and followed my path back to my desk where I looked at the clock and started writing.
 
+### 02/17/2022 ~20:00
+The garage door shut with a wooden clap behind me as I stepped out onto the brick patio. Only the brightest stars were peaking through the overcast sky, like light shining through pinholes in the dark dome of night. The flood lights clicked on. Simultaneous with the sudden light that drenched the patio, my eyes caught sight of two silhouettes and I instinctively flipped my head to the left. Two rabbits at the edge of the bricks about 10 feet away. The first scurried off into the darkness at the introduction of the light, while the second remained. We gazed at each other. He knew me, and I knew him. He held me in his eyes as he waited for me to say something. I was ovecome, frozen, and speechless. I saw my reflection in his eye. He was returning to me a thing that I had lost in the river of time.
+
+Ages ago, I asked into the abyss, "Who am I?" 
+
+The rabbit answered me with my own reflection. I am this self, and I am living by choice. Living is my response.
+
+The lights clicked off and, in that same moment, I was released. I strode across the patio, and opened the backdoor to my home. I passed the cross hung on the wall just inside the door. I walked through the kitchen, the living room, my office. It is real, this place. It is the present. And it is a present.
+
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
 ## Framing the World
