@@ -854,6 +854,12 @@ How did the mind evolve?
 Good intentions in both words and actions are an imperitive through good faith and good will.
 In order to be intentional, someone must be present to respond in some manner (how do you want to respond). In order to live in real-time, someone must respond. An imperitive arises to be present and to act.
 
+* Authenticity without offensiveness
+* Sincerity without design
+* Simplicity without distortion
+* Fluidity without yeilding
+
+
 # Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
 
 ## Overview & Purpose
