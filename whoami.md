@@ -1140,6 +1140,15 @@ The rabbit answered me with my own reflection. I am this self, and I am living b
 
 The lights clicked off and, in that same moment, I was released. I strode across the patio, and opened the backdoor to my home. I passed the cross hung on the wall just inside the door. I walked through the kitchen, the living room, my office. It is real, this place. It is the present. And it is a present.
 
+### 2/22/2022 ~20:00
+My eyes opened. I was bending over, and my head was looking straight ahead, dead even with the black light switch on the plywood wall. Two repurposed doorbells were set horizontally and were demarcated L and R for each of the garage doors. He spoke, “through the grace of god, it starts as awareness.”
+
+I slowly stood back up. A few moment ago I had placed my fingers at the tip of my tailbone, and pushed up until I felt the back of my neck again. I pushed until I stood up straight, until my hipbone shifted. I followed the movements of my body, tracing with my fingers, until I reached the base of my skull. I flipped my head around, or I put my spine back on. Both could be true.
+
+I reached for the switch and flipped it off, and the room collapsed in darkness. I opened the door and stepped out onto the single step brick platform outside the door. I balanced on the tips of my toes with my heels on the step facing the brick patio. I bent over, and began to trace again. I looked to my left and the floodlights clicked on. My shadow appeared before me, and I saw it stretching across my lawn before the great fir tree. I saw that I was bent with my right thumb at the base of my spine, and nearby on the left-side, the backs of my thumbs touched. I was frozen when I saw my form. My form was a silhouette, an outline of where the light had entered into me. Who am I?
+
+I was searching for the answer. I am where I am. I am what I am. I am who I am. I am as I am, this doer/thinker. All that my self can create is new combinations of words, my own slang-style. The new slang-style.
+
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
 ## Framing the World
