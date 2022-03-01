@@ -6,7 +6,13 @@ In physics, the observer effect is the disturbance of an observed system by the 
 
 An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment. Physicists have found that observation of quantum phenomena can actually change the measured results of this experiment. Despite the "observer effect" in the double-slit experiment being caused by the presence of an electronic detector, the experiment's results have been misinterpreted by some to suggest that a conscious mind can directly affect reality.[3] The need for the "observer" to be conscious is not supported by scientific research, and has been pointed out as a misconception rooted in a poor understanding of the quantum wave function ψ and the quantum measurement process.[4][5][6]
 
+**Emanation Theory**
+
+Emanation theory claims that memories are non-causal reflexive interactions of information flow. Experience is the first memory to emanate from existence. The condition of existence and experience entanglement is the initial condition of self-referential flow from any fundamental information system or source.
+
 **Perceiver Effect**
+
+The perceiver effect is the fact that the memory of an observable experience is disturbed by the act of perception at the time of the experience. The self is distinct from any experience, but it's perception of an experience is singular in memory. The perception constant is a way to define the self and account for perception in observation.
 
 Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives. 
 
