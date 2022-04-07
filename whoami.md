@@ -1155,6 +1155,12 @@ I reached for the switch and flipped it off, and the room collapsed in darkness.
 
 I was searching for the answer. I am where I am. I am what I am. I am who I am. I am as I am, this doer/thinker. All that my self can create is new combinations of words, my own slang-style. The new slang-style.
 
+### 4/6/2022 ~20:00
+
+Out the back door, gliding across the patio. Finger guns to the rabbit under the floodlight. The garage door shuts behind me. Time slows.
+
+"I am a Christian, I know how to suffer and how to be joyful."
+
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
 ## Framing the World
