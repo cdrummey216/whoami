@@ -1161,6 +1161,15 @@ Out the back door, gliding across the patio. Finger guns to the rabbit under the
 
 "I am a Christian, I know how to suffer and how to be joyful."
 
+### 4/30/2022 19:45 
+
+Surely, each being looks up in wonder at the night sky and gazes with curiousity at the reflection in a clear pool. Whether you find yourself in the cerulean waters or below the sky at starlit dusk, it is an exercise that each being undertakes in order to percieve *the world* around *itself*. 
+
+I feel small under the night sky and I see my self, my actual self, in my reflection. I cannot change the stars, but I can change the time that I have left to me.
+
+38.76583518716511, -76.07276662530394
+The greater than mere - a reflection of myself in the stars.
+
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
 ## Framing the World
