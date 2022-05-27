@@ -45,9 +45,11 @@ The following five parts and sub-parts are an attempt to answer the philosophica
 
 What are the properties that define the _self_? What also can be known based on this definiton? How do I live according to this definition of self? To answer these questions, I present propositional mathematics, concentrated philosophy, _living_ as art, and framing. The intention behind this document is to _know more_. In other words, what else can be known based on this knowledge? By defining the self as a value, we are able to observe the self as an _object in reality_ while also understanding the self as an _object of our own perception_. In the following, a proposition is given that the value of the _sense of self_ is the same value that is seen repeatedly across the universe in everything from spiral of a nautilus shell to the shape of the Milky Way galaxy to the length of your arm. This value is called the divine proportion, phi, or 1.618...
 
-So, now that I have a method to understand my self, what does it mean that I am here? In other words, I have foundational knowledge in the fact of my existence because I have the ability to define my self as a value and so, what does it tell me about my self at present? A desert island thought experiment is used to reach conclusions about life, mortality, choice, and time. Ok, How can my sense of self reach the divine proportion? Truth is necessary and honesty is an imperitive in the framework desribed in _living as art._ An approach to defining the ideal self through self expression is defined in _living as art_. Lastly, 'framing' is desribed as an approach that is aimed at deciphering and integrating the truth that is available in the present moment (i.e. Who am I? What am I? How did I get here? What am I doing?).
+So, now that I have a method to understand my self, what does it mean that I am here? In other words, I have foundational knowledge in the fact of my existence because I have the ability to define my self as a value and so, what does it tell me about my self at present? A desert island thought experiment is used to reach conclusions about life, mortality, choice, and time. 
 
-I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is desribed as the quintessential element that binds humNanity to all things in reality. Humankind seeks truth. As a species, we are driven onwards by our perpetual quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. But what is the truthful answer to 'Who am I?' Truth is a foundational aspect of reality and perception, so defining the truth about _what the self is_ is critical to deeper understanding of the physical realm and in the abstract thought. I tell my story about my history of addiciton and abuse and mental illness.
+How can my sense of self find the golden ratio? Truth is necessary and honesty is an imperitive in the framework desribed in _living as art._ An approach to defining the ideal self through self expression is defined in _living as art_. Lastly, 'framing' is desribed as an approach that is aimed at deciphering and integrating the truth that is available in the present moment (i.e. Who am I? What am I? How did I get here? What am I doing?).
+
+I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is desribed as the quintessential element that binds humanity to all things in reality. Humankind seeks truth. As a species, we are driven onwards by our perpetual quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. But what is the truthful answer to 'Who am I?' Truth is a foundational aspect of reality and perception, so defining the truth about _what the self is_ is critical to deeper understanding of the physical realm and in the abstract thought. I tell my story about my history of addiciton and abuse and mental illness.
 
 I use a unique philosophical proposition, based on objective facts, that assigns the value of the Golden Ratio (1.618..., or ϕ) to the sense of self. With this value, I make an additional proposition that the 'identity' is akin to a fractal set, specifically the Filled Julia Set. Using the Julia set function (fc, c = 1 - ϕ), _meaning_ can be derived from iterations of the function as it relates to the self and existence, life and death, and identity as the expression of the self.
 
@@ -55,7 +57,7 @@ Based on the 'identity equations', as I refer to them, I present philosophical c
 
 Lastly, a thought framework and personal credo is described in detail that aligns with the conslusions from propositional mathematics and concentrated philosophy. This section desribes the means and methods for identifying the ideal self, or who we _want_ to be and _how_ we want to be. I provide a sample of self-organization and also relate some peronsal anecdotes.
 
-The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' (2) to a philosophical/metaphysical foundation for self and then (3) to a thought framework and method to reach the ideal, whatever that may be. The goal of this endeavor is to relate truth as I have come to understand it about the self, identity, and its place in reality. Each of us observes and perceives truth in reality and, therrefore, it is critically important that the self also has a method to define and understand truth. The 'identity equations' give form to truth about the self.
+The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' (2) to a philosophical/metaphysical foundation for self and then (3) to a thought framework and method to reach the ideal, whatever that may be. The goal of this endeavor is to relate truth as I have come to understand it about the self, identity, and its place in reality. Each of us observes and perceives truth in reality and, therefore, it is critically important that the self also has a method to define and understand truth. The 'identity equations' give form to truth about the self.
 
 ## INDEX
 
@@ -65,7 +67,7 @@ The contents of this document ideally will flow from a (1) description of some o
 * 0c: Where are you going? To what end?
 * 0d: Complexity //in development
 
-**Part 1: What is/am 'I'?**
+**Part 1: What am 'I'?**
 * 1a: A Method for Knowing and Understanding the self
 * 1b: A Formula for Identity
 * 1c: Exercising Free Will
@@ -74,15 +76,15 @@ The contents of this document ideally will flow from a (1) description of some o
 * 1f: Concepts
 * 1h: Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
-**Part 2: What constitutes an 'I'?**
+**Part 2: What constitutes 'I'?**
 * 2a: Overview & Purpose
-* 2b: Universal Truth, or a common good
+* 2b: Universal Truth, or Common Good
 * 2c: The Isle[0]
 * 2d: Conclusions about Life 
 * 2e: Conclusions about Choice
 * 2f: Conclusions about Time
 * 2g: A Conversation with Death
-* 2h: Oneness
+* 2h: Oneness and the Eternal Present
 
 **Part 3: Life is good.**
 * 0a: Five Facts about me and 'now'
@@ -234,48 +236,22 @@ I reject those things I did as answers to the question "Who am I?" I have accomp
 
 I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was that someone? And why did he believe 'Life is good'? And how do I know it's not me?
 
-<!--
-_________________________________________________________________________
-Golden Rule:
+## Rules // in dev
+
+**Golden Rule:**
 Treat others the way you want to be treated.
 
-Enduring Rule:
+**Enduring Rule:**
 Treat yourself the way you want to be treated by others.
 
 Identity is real. It can be lost and it can be found. It can be restored.
 
-Story: Sorrow into wisdom, follow the path of truth
+**Story: **
+Sorrow into wisdom, follow the path of truth
 
 By reflecting what is truthful, you follow the path of truth. the truth flows on until the end.
 
 truth is the highest outcome for the self.
-
-Lost agency from a young age, bad habits from the very early ages of life turned into intolerance, intoxication and infantilization of the mind. I had no concept of self, I was a reflection of what I perceived others wanted me to be because that was how I was raised. I had no self respect and self loathing was incessant and came close to killing me a few times. How? My mother was not prepared to be a parent. She was emotionally manipulative and physically abusive and promoted a family culture that facilitated these behaviors. She encouraged my older brother, who had his own problems (self esteem and OCD), to physically and emotionally abuse me as well. Together, they humiliated me for pleasure and critiqued every word or action of mine to the point that I hated myself. I even tried to kill myself in middle school.
-
-My mother controlled every aspect of my life, allowing me no agency to think or do for myself. She forced her identity on to me, making me feel ashamed or guilty for not liking the things she wanted me to enjoy. She even took away my name. She convinced me that I was not a ‘Drummey’ but instead a ‘Meehan’, her surname. She would constantly discuss the shortcomings of me while also using me to vent her frustrations with herself and others. She often gossiped about my own family members and friends, which ultimately led to my inability to connect meaningfully with them. As I saw it, she described them as bad or inadequate people, so I avoided them. I spent a lot of time alone. She often told me she would kill herself if anything would happen to me. She would periodically go through my things and throw items out that she disapproved, and would punish me for items that she found. She used to ‘squeeze’ her children’s faces as punishment, which involved forcing the child’s jaw open and squeezing their cheeks between her thumb and fingers. The teeth would cut up the inside of the mouth and it was extremely painful. One of my earliest memories is my mother in the kitchen and she was screaming about some frustration, she tired the faucet hose out of the sink while trying to get more slack to spray me in the face, I remember feeling like I was drowning. During puberty, she thought the best way to get my to stop unwanted behavior (like viewing pornography and masturbating) was to humiliate me. She gossiped to her large ‘Meehan’ family and she encouraged them to ridicule me. She is racist and intolerant and often shared her unsavory comments about various colors and creeds with me. She is a self absorbed manipulator and an ugly and violent person.
-
-I was deathly afraid of my own mother while at the same time
-
-My brother, I suspect after seeing the treatment by my mother, imitated the same behavior when interacting with me. He was also emotionally and physically abusive in the same ways my mother was, but he would do it often and unsupervised. There are a lot of really painful memories about this relationship.
-
-At some point in my life, I believe that I was sexually abused. I have three recurring memories that come to my mind, and each lead me to believe that I was molested. The first is a memory of my grandmothers basement, and I feel a tremendous amount of dread when I picture the dingy bathroom or the dark, mildewy laundry room. I don’t know how old I was during this memory. Another I was in 4th or 5 grade and I was left alone by my mother in Stuttgart Germany to wander the barracks of the army base. The older brother of a friend in my class and a group of his friends (maybe high school) brought me up in to their apartment. I don’t remember what happened, but I remember them explaining to me with drawings about sex and sexual pleasure. I feel the same sense of dread and helplessness when thinking about this.
-
-For a large parent of my childhood and adolescence, I was unwittingly struggling with severe anxiety, depression and suicidal thoughts. I contemplated suicide from middle school almost daily until I learned that it was
-an abnormal thought, sometime in my 20s. I was a slave to my anxiety and suffered severe panic attacks, which were exacerbated by alcohol and nicotine. I was unable to engage socially sober due to depression and feelings of inadequacy. The times when I did share how I was feeling, my mother would scold ‘you shouldn’t feel that way’ and ended the conversation. I believed my mother, picked myself back up and continued on.
-
-Alcohol provided an outlet for many of the feelings and thoughts that I was unequipped to handle. I was addicted to alcohol from the age of 14 to 27 and in those intervening years I was untethered and uninhibited. I suspect there was some part of my that engaged in any manner of wreck less behavior because I wanted to die because living was too painful. My mentality during this time was to shock, disgust, and disturb those around me to prevent meaningful connections or interactions. I used and manipulated others and relished intolerant and disgusting thoughts and behaviors. I thought to be foul was desirable. Many of these behaviors and thought patterns stem directly from the poor parenting and lack of maturity from my mother and after reclaiming my agency later in life, I know that who I was then is not who I am now. Who I was then was someone who was sick, unstable, and degenerate.
-
-i[0]
-a: I am what I am told
-b: I don’t know, who am I?
-
-Agency lost
-
-Identity disturbance
-
-“One cluster of characteristics came under the construct of ‘identitylessness,’ which included ‘feeling like I am evil, like a small child, unreal, like people and things aren't real, like people can see right through me, like I have no identity, like I'm someone else, like other people are living inside me’ (Zanarini et al. 1998, p. 205). These researchers report that, along with other states, identitylessness, understood as an ‘absence of a core feeling of continuity about oneself,’ contributes to ‘despair and desperation among borderline patients that may not be appreciated by even the most knowledgeable of clinicians’”
-
-
 
 Trust is influential. Belief is trust in something without full assurance. When you trust, you open your self up to influence from the object of trust. An object of trust can be someone you grant trust to or something believe is trustworthy. If you grant your trust to someone, it means that you value their perceptions. If trust in a belief, it means that you value the object of trust to such a degree, you allow it to influence you.
 
@@ -289,19 +265,11 @@ i[1]
 a: I am what I am
 b: I do
 
-Agency found
-
-https://github.com/cdrummey216/whoami
-
-I have a handful of memories that echo in my mind and when they are at the forefront of my mind, my perception of- and presence in- the present moment is diminished. My ability to be present and at peace with my life are sometimes disrupted by memories of past abuse and mistreatment. These memories are limited in number and are localized around specific individuals. Some are close family members and some were friends. For example, Something in my day to day life will conjured memories of ridicule from an individual that will persist for hours and I feel intense anger and shame during this period. I am irritable and unpleasant and it takes a lot of concentration to control my self.
-
-I am an alcoholic and I have been sober for nearly three years. I never took my life seriously so I squandered my time drinking for many years. I am happier now than I have ever been and I’m never looking back.
-
 Until about 3 years ago, I was in a mental and behavioral battle with myself. I had to find a way to live in a world that had made me want to die.
 
 I had to find a reason to live and I had to act in accord with what I wanted that life to be like.
 
-Message:
+## Complexity
 Q: What is the source of truth?
 A: The self is the source of truth because ‘truth’ is a concept used to define a property of something.
 
@@ -317,9 +285,7 @@ I was identityless so I quantified and defined identity so that I could create o
 
 A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
 
-Be the unsinkable ship.
--->
-
+_Be the unsinkable ship._
 
 # Part 1: What is 'someone'?
 
@@ -705,7 +671,7 @@ The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 
 
 The self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
 
-# Part 2: What constitutes 'someone'? (a: identity isle, concentrated philosophy)
+# Part 2: What constitutes 'I'? (a: identity isle, concentrated philosophy)
 
 ## Overview & Purpose
 The following are the conclusions and judgements that can be made based on the [identity equations](idenityequations.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence). 
@@ -850,7 +816,9 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * Intent is a choice and ability is a means
 
 
-## Oneness
+## Oneness and the Eternal Present
+
+The eternal present is eyes open, looking into liquid time as it washes over/past you.
 
 **The Vision** //when perception and reality match (are equal). 1 = 1 or 1 = ϕ - 1/ϕ
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
