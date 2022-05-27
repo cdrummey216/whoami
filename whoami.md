@@ -2,39 +2,42 @@
 
 **Observer effect (physics)**
 
-In physics, the observer effect is the disturbance of an observed system by the act of observation. This is often the result of instruments that, by necessity, alter the state of what they measure in some manner. A common example is checking the pressure in an automobile tire; this is difficult to do without letting out some of the air, thus changing the pressure. Similarly, it is not possible to see any object without light hitting the object, and causing it to reflect that light. While the effects of observation are often negligible, the object still experiences a change. This effect can be found in many domains of physics, but can usually be reduced to insignificance by using different instruments or observation techniques.
-
-An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment. Physicists have found that observation of quantum phenomena can actually change the measured results of this experiment. Despite the "observer effect" in the double-slit experiment being caused by the presence of an electronic detector, the experiment's results have been misinterpreted by some to suggest that a conscious mind can directly affect reality.[3] The need for the "observer" to be conscious is not supported by scientific research, and has been pointed out as a misconception rooted in a poor understanding of the quantum wave function ψ and the quantum measurement process.[4][5][6]
+In physics, the observer effect is the disturbance of an observed system by the act of observation.
 
 **Emanation Theory**
 
+Emergence is a hot new term in disciplines ranging from philosophy to neuroscience. Emergence asserts that whole entities are produced by the organization of their constituent parts but are not inherently the same as the parts. The concern with emergence is it does not explain how parts become a whole or become something greater than the whole. The way parts become a whole, or something greater than the whole is when the parts obtain a function. Before we go into the nature of functions there is further that needs to be noted about emergence. The other concern with emergence, is it does not consider the fact that parts are themselves whole(s), that also obtain their own respective function. Parts are wholes, and wholes are also parts of other wholes. Acceptance of this dynamic can lead to an infinite reduction of physicalism. The scales become broken when you fall into these reduction pits. The solution is not mere emergence because emergence does not account for or explain fundamentality nor functionality. The simple solution to solving the dynamics of parts, wholes, and things greater is considering that functions themselves are fundamental, and that they transverse scales and degrees. The reason we should consider functions as fundamental is because no matter if we observe physical, psychological, or informational objects there is no way to separate the identity of the object from the whole function that the identity is upholding. Just how you cannot separate the entire information of what said object is from what the object essentially is. Arguments can be made that an object’s form is the object's essential identity. However, form in itself, (synonymous with essentially) is a function of other parts. Function is irreducible and it traverses scales which makes it fundamental, dynamic, and whole. This entails that true functionalism is naturalism. Evidence of this is by natural functions exhibiting self-referential, self-organizing, and self-transfiguring processes.
+					
+Now onto functions. The most practical way to describe a function is a process or flow of information from its source (i.e., its initiation) to its form and then the information proceeds as interaction with its environment, itself, and its constituents; in either a causal or non-causal continuum. When the information flow is causal, the function produces a subsequent function (I.e., an effect). This is called Emergence. When the information flow is non-causal the function conditions itself as a subsequent function (I.e., self-referential process). This is called Emanation
+
 Emanation theory claims that memories are non-causal reflexive interactions of information flow. Experience is the first memory to emanate from existence. The condition of existence and experience entanglement is the initial condition of self-referential flow from any fundamental information system or source.
 
-**Perceiver Effect**
 
+**Perceiver Effect and the Perception Constant**
+
+The bodied self is a form functioning. Our bodies are the culmination of innumerable partial and distinct forms and functions. We can taste, smell, touch, see, and hear. Our eyes, each eye, is a beautiful refinement of evolution. The dexterity and precision of our hands and the keen ear or the discerning nose. It’s all connected by a system of constituent parts and those parts grow and change over time. These parts in you assemble to create your self. And you are more than just your body. You are the function within your form choosing your function. You are perception perceiving and defining itself in reality.
 The perceiver effect is the fact that the memory of an observable experience is disturbed by the act of perception at the time of the experience. The self is distinct from any experience, but it's perception of an experience is singular in memory. The perception constant is a way to define the self and account for perception in observation.
 
-Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives. 
-
+Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives.
 But, observation is passive – how can I be an active participant in my reality? In other words, how do I respond to the present and change my experience? It all starts with observation.
 
 In physics, the observer effect is the disturbance of an observed system by the act of observation. An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment.
 
-_What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time._
+What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time.
 
-In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. The famous double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles. The observer effect is the fact that observing a situation or phenomenon necessarily changes it. What if perception (via observation) is the mechanism that changes the wave or particle?
+In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. What if perception (via observation) is the mechanism that changes the wave or particle in the double-slit experiment?
 
 What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
 
 How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the self is present in reality as a body.
 
-This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the self exists in reality. He says that the 'body is a container of self'. 
+This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the self exists in reality. He says that the 'body is a container of self'.
 
-A wonderfully empowering statement. Its like, my body is the cup and it's filled to the brim with self.
+A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self.
 
-Which brings me to my second distillation. In my project, self-expression is described as a means to externalize the sense of self. And self-expression has many forms. It is the will to know, do, act, believe. So, I say that the body is an instrument of self. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given present reality.
+In the following, self-expression is described as a means to externalize the sense of self. And self-expression has many forms. It is the will to know, do, act, believe. So, I say that the body is an instrument of self. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given present reality.
 
-The self defines its ends in the way it responds in all things via self-expression and, the ends (ie the result, what is achieved) is defined by the means by which is was achieved. _The self is to its ends as the ends is to its means._
+The self defines its ends in the ways that it responds to all things and, the ends is defined by the means by which it was achieved. The self is to its ends as the end is to its means.
 
 **Abstract**
 
