@@ -270,20 +270,22 @@ Until about 3 years ago, I was in a mental and behavioral battle with myself. I 
 I had to find a reason to live and I had to act in accord with what I wanted that life to be like.
 
 ## Complexity
-Q: What is the source of truth?
-A: The self is the source of truth because ‘truth’ is a concept used to define a property of something.
+
+#### What is the source of truth?
+
+The self is the source of truth because ‘truth’ is a concept used to define a property of something.
 
 We are and I am. We define truths together and alone, to one another and ourselves.
 
 There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
 
-I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. For example, if I see that a colleague at work is routinely not meeting expectations in a certain area, I know that I can drop to that level of performance.
+I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. 
 
-I did not know my self so I did not know truth. If you don’t know truth in your self, you will be unable to know truth in others. If you don’t know truth in your self, you will be identityless.
+I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless.
 
-I was identityless so I quantified and defined identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers you use to understand your self and communicate your self.
+I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
 
-A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
+A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
 
 _Be the unsinkable ship._
 
@@ -296,13 +298,15 @@ The _mind_, the thing behind between your eyes that can conceptualize itself and
 For this analogy to work, the _mind_ must also have a value. The inputs into the _mind_ are ultimately memories of distinct experiences, like stored data in a database. Our memories are stream of experiences that compound one upon the other over the course of our lives. From the day we are born until the day we reach the fullness of our life, we are creating new memories on new experiences. What, then, is the value of 'self'? What is the value of 'self-expression'? 
 
 ## A Formula for Identity
-An identity is one of a kind. An identity belongs to itself. An identity is a testimony of the sense of self. *Who we are* are the things that we value in our lives and, most often, these things are the qualities, beliefs, and ideals that we model our selves after in our day to day interactions. As each life extends from the first days across the intervening years to the final moments, we are expressing our selves through our identities in the words we choose and the actions we decide to take. In this way, identity is the highest means of self-expression and self-expression is a reflection of our inner most self. 
+
+An identity is one of a kind. An identity belongs to itself. An identity is the testimony of the sense of self. *Who we are* are the things that we value in our lives and, most often, these things are the qualities, beliefs, and ideals that we model our selves after in our day to day interactions. As each life extends from the first days across the intervening years to the final moments, we are expressing our selves through our identities in the words we choose and the actions we decide to take. In this way, identity is the highest means of self-expression and self-expression is a reflection of our inner most self. 
 
 How can you understand your self without understanding what your identity is? _Identity is your composition, the combination of your distinct experiences and unique perspcetive on life._
 
 Everyone possesses an identity. Everyone has a distinct identity. In software development, an identity is a unique identifier assign to a single record in a database. This identity cannot be duplicated or copied and solely exists to identify a single record. 
 
 ## Exercising Free Will
+
 Does this mean that you will always respond the same way to similar situations? Does this mean that I will not grow and change and right the wrongs of my past?
 
 No, and free will is that choice that is made to do it differently next time. To change, to learn and grow from experience is an exercise in free will. The self acts willfully when it decides to modify its response based on past experiences. For example, an alcoholic's 'self' is impeded and disrupted by the desire for alcohol. A sober alcoholic has committed to themselves that they will no longer imbibe. A decision to live differently than how one has lived in the past and to ignore and control desire.
