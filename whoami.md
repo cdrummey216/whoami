@@ -835,7 +835,17 @@ The eternal present is eyes open, looking into liquid time as it washes over/pas
 How did the mind evolve?
 * Looking up at the stars and down at their reflections (in water). A baby will fixate on a light source, moving their heads and eyes to follow it. As the human form evolved, the 'mind' also developed as a means to interact with the world. Naturally, each being would look up at the skies at night with curiousity or stare into a clear pool at the face appearing before them. Each example is an exercise in curiosity that the mind undertakes to percieve *the world* around them or *itself*.
 
-# Part 3: Life is good. 
+# Part 3: Life is good.
+
+"_Me_ corresponds to the self as an object of experience (self as object), while _I_ reflects the self as a subject of experience (self as subject)."
+
+## 0a: Five Facts about me
+1. This (body) is me.
+2. This (place) is around me.
+3. The past is behind me.
+4. The present is before me.
+5. The future is after me.
+
 Good intentions in both words and actions are an imperitive through good faith and good will.
 In order to be intentional, someone must be present to respond in some manner (how do you want to respond). In order to live in real-time, someone must respond. An imperitive arises to be present and to act.
 
@@ -843,6 +853,13 @@ In order to be intentional, someone must be present to respond in some manner (h
 * Sincerity without design
 * Simplicity without distortion
 * Fluidity without yeilding
+
+### outline
+* Health (post-alcohol/respect for body, future)
+* Family (Support, care)
+* Love (audrey,grant,ronan, simple joy of life)
+* Methods of Expression ('making', computers, tools, art)
+* Inequality is the source of imbalance. How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... (life is so rich and joy is bountiful. Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...)
 
 
 # Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
