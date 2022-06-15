@@ -93,7 +93,6 @@ The self defines its ends in the ways that it responds to all things and, the en
 * Methods of Expression ('making', computers, tools, art)
 * Inequality is the source of imbalance. How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... (life is so rich and joy is bountiful. Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...)
 
-
 **Part 4: How is identity defined?**
 * 4a: Overview and Purpose
 * 4b: Existential Calm and the Isle[0]
@@ -116,10 +115,8 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 ## What is the source of truth?
 
-Q: Quo vadis?
-A: Veritatis, iterum.
+Q: To what end? For what purpose?
 
-Q: To what end?
 A: For truth, once again.
 
 Self-discovery is the path. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
@@ -129,9 +126,6 @@ Truth is the end. Truth is what is real and factual and congruent with reality. 
 Follow the path seeking the end. Truth is the highest outcome. A good Samaritan with the honest truth sharing the path of life.
 
 The bodied self is truth embodied. The highest outcome of the living self is truth. Living is good. Living for truth is better. 
-
-// in development
-
 
 ## (#) Definitions
 
