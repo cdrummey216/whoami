@@ -115,13 +115,9 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 ### What is the source of truth?
 
-Q: To what end? For what purpose?
+Self-discovery is the path to truth. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
 
-A: For truth, once again. Veritatis, iterum.
-
-Self-discovery is the path. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
-
-Truth is the end. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
+Truth is the end and the beginning of all things. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
 
 Follow the path seeking the end. Truth is the highest outcome. A good Samaritan with the honest truth sharing the path of life.
 
@@ -176,12 +172,12 @@ A grape is in a bunch along the main vine. A grape, in essence, is the expressio
 I love grapes. Very cold. And green. Cotton Candy, if you you can get them. I don't really have a preference on root systems of green versus purple. The distinction about the roots is pretty interesting. The roots carry out their chemical processes in order to produce and yeild new grapes and sustain the vines.
 The grape knows its position, understands the position, and that time is independent of the grape.
 
-## Five Facts about you and 'Now'
-1. You exist.
-2. You exist here.
-3. You exist now.
-4. You are alive now.
-5. You are mortal here.
+## Five Facts about 'I' (self as subject) and 'Now'
+1. I exist.
+2. I exist here.
+3. I exist now.
+4. I am alive now.
+5. I am mortal here.
 
 ## What's next?
 
@@ -192,7 +188,8 @@ I am here at this point in my life, which is observable. You experienced birth a
 ## Where are you going? To what end?
 
 __Veritatis, iterum.__
-For truth, once again.
+
+_For truth, once again._ is a good reason to do anything. Follow truth wherever it takes you and you will not be surprised where you end up. Truth in a sequence always makes sense.
 
 Truth in reality is observed, truth in mind is perceived. Truth unites perception and reality. It is measureable. We, as humans, exist to know and understand truth. The truth in reality will calm a truthful mind. Truth is a property of all things because all things are capable of being truthful as elements in reality. So, whether it is a truth discovered beneath the lens a microsocope or at the deeps of a sudden plunge into thought is irrelevant, the fact will always remain that both the lens of the microscope and your mind exist. Truth _unites_ precisely because it is in accord with reality.
 
@@ -207,6 +204,7 @@ I observe the silhouettes of truth at the exterior to understand more complex tr
 The self makes truth real.
 
 ## Complexity
+
 ### 06/16/2021 ~20:00
 
 *He stood silent in front of his chair in his garage. The low light from the lightbulb behind him cast a long shadow across the floor to the front of the garage, where a shelf with paint cans was located. On the second shelf from the top, stood three cans. They hadn't moved in months. A can of grey spray paint with the words "PRIMER 2x" was next to two stout cans stacked on top of each other. The can on top was the shorter of the two and said "Finishing Paste" in black across a bright yellow background. The lower can was also yellow, and read in big letters across the front "Wood Stain".*
