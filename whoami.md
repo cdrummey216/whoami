@@ -113,11 +113,11 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 # Part 0: The Complexity of Now
 
-## What is the source of truth?
+### What is the source of truth?
 
 Q: To what end? For what purpose?
 
-A: For truth, once again.
+A: For truth, once again. Veritatis, iterum.
 
 Self-discovery is the path. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
 
