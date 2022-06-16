@@ -119,6 +119,18 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 ## Complexity
 
+Why?
+
+Why is it like this?
+
+Why isn't that like this? 
+
+Can it be different? 
+
+The complexity of each moment is found in the answers to questions like these. Asking _why_ is an interrogation of reason, of cause, and of source. The object of _why_ can be anything. Why am I here? Why are you? Why, why, why?
+
+Asking _why_ is like picking at the strings on a guitar.
+
 #### What is the source of truth?
 
 Self-discovery is the path to truth. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
@@ -184,6 +196,7 @@ An example of a universal truth about _the self_ is that they all share in hope.
 For now...
 
 ## Five Facts about 'I' (self as subject) and 'Now'
+
 1. I exist.
 2. I exist here.
 3. I exist now.
@@ -214,7 +227,7 @@ I observe the silhouettes of truth at the exterior to understand more complex tr
 
 The self makes truth real.
 
-## Capturing Complexity
+## Capturing the Complexity of the Present ('Now')
 
 ### 06/16/2021 ~20:00
 
