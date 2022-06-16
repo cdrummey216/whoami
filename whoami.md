@@ -60,19 +60,23 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 ## INDEX
 
-**Part 0: The Complexity of Now** (!!!Active Development!!!)
-* 0a: Five Facts about you and 'now'
-* 0b: What's next?
-* 0c: Where are you going? To what end?
-* 0d: Complexity //in development
+**Part 0: The Complexity of Now**
+* 0a: Complexity
+* 0b: Definitions
+* 0c: Five Facts about 'I' and 'Now'
+* 0d: What's next?
+* 0e: Where are you going? To what end?
+* 0f: Rules
+* 0g: Capturing Complexity
 
 **Part 1: What am 'I'?**
 * 1a: A Method for Knowing and Understanding the self
-* 1b: A Formula for Identity
-* 1c: Exercising Free Will
-* 1d: The Golden Ratio
-* 1e: The Property of Truth
-* 1f: Concepts
+* 1b: The Duality of Self
+* 1c: A Formula for Identity
+* 1d: Exercising Free Will
+* 1e: The Golden Ratio
+* 1f: The Property of Truth
+* 1g: Concepts
 * 1h: Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
 **Part 2: What constitutes 'I'?**
@@ -86,7 +90,7 @@ The self defines its ends in the ways that it responds to all things and, the en
 * 2h: Oneness and the Eternal Present
 
 **Part 3: Life is good.**
-* 0a: Five Facts about me and 'now'
+* 0a: Five Facts about 'me' and 'now'
 * Health (post-alcohol/respect for body, future)
 * Family (Support, care)
 * Love (audrey,grant,ronan, simple joy of life)
@@ -175,20 +179,9 @@ The truth unites perception and reality. _What is real_ is the input into _what 
 
 An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
 
-## End of Definitions
+### End of Definitions
 
 For now...
-
-## The Duality of Self
-The duality of self begins with the creation of an internal world (the self) amidst an external one (reality). We live our lives everyday balancing ourselves between what we _think_ is happening and what is, in fact, happening. We are ever present in our pursuit to reconcile our perception of reality with reality itself. Truth unites perception and reality and so, when the self idealizes truth, the self is ever present and in unison with reality.
-
-There is endless depth and beauty in the world around us while, at the same time, there exists great power and value in the mind of the individual in reality.
-
-## GRAPES //dev
-A grape is in a bunch along the main vine. A grape, in essence, is the expression of the roots of the vine, in that the roots draw in water and nutrients to grow and sustain the grape. The grape is at the end of a very long, aged, and natural process that begins at the the root and extends up and out as the limbs and vines and bunches and even unto the grape. The source of the grape is utimately, therefore, the root. 
-
-I love grapes. Very cold. And green. Cotton Candy, if you you can get them. I don't really have a preference on root systems of green versus purple. The distinction about the roots is pretty interesting. The roots carry out their chemical processes in order to produce and yeild new grapes and sustain the vines.
-The grape knows its position, understands the position, and that time is independent of the grape.
 
 ## Five Facts about 'I' (self as subject) and 'Now'
 1. I exist.
@@ -221,7 +214,7 @@ I observe the silhouettes of truth at the exterior to understand more complex tr
 
 The self makes truth real.
 
-## Complexity
+## Capturing Complexity
 
 ### 06/16/2021 ~20:00
 
@@ -286,6 +279,12 @@ The _mind_, the thing behind between your eyes that can conceptualize itself and
 
 For this analogy to work, the _mind_ must also have a value. The inputs into the _mind_ are ultimately memories of distinct experiences, like stored data in a database. Our memories are stream of experiences that compound one upon the other over the course of our lives. From the day we are born until the day we reach the fullness of our life, we are creating new memories on new experiences. What, then, is the value of 'self'? What is the value of 'self-expression'? 
 
+## The Duality of Self
+
+The duality of self begins with the creation of an internal world (the self) amidst an external one (reality). We live our lives everyday balancing ourselves between what we _think_ is happening and what is, in fact, happening. We are ever present in our pursuit to reconcile our perception of reality with reality itself. Truth unites perception and reality and so, when the self idealizes truth, the self is ever present and in unison with reality.
+
+There is endless depth and beauty in the world around us while, at the same time, there exists great power and value in the mind of the individual in reality.
+
 ## A Formula for Identity
 
 An identity is one of a kind. An identity belongs to itself. An identity is the testimony of the sense of self. *Who we are* are the things that we value in our lives and, most often, these things are the qualities, beliefs, and ideals that we model our selves after in our day to day interactions. As each life extends from the first days across the intervening years to the final moments, we are expressing our selves through our identities in the words we choose and the actions we decide to take. In this way, identity is the highest means of self-expression and self-expression is a reflection of our inner most self. 
@@ -303,7 +302,8 @@ No, and free will is that choice that is made to do it differently next time. To
 ## The Golden Ratio
 
 ### Who cares?
-I'll tell you because it concerns you, as well. It is a very special number for two reasons. First, it is a ratio that represents a specific proporition of one thing to another, related thing. Two quantities of something --anything-- like the number of petals on a flower or the distance between your hand and your arm are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. This number is extraordinarily useful in mathematics, architecture, art and more. It is a pattern that is often found in nature. The pattern of the seeds in a sunflower, the number of arms on a starfish, the shape of a hurricane and yes, even you in your body, represent the golden ratio in some manner. The measurement from the navel to the floor and the top of the head to the navel is the golden ratio.
+
+I'll tell _you_ because it concerns you, as well. It is a very special number for two reasons. First, it is a ratio that represents a specific proporition of one thing to another, related thing. Two quantities of something --anything-- like the number of petals on a flower or the distance between your hand and your arm are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. This number is extraordinarily useful in mathematics, architecture, art and more. It is a pattern that is often found in nature. The pattern of the seeds in a sunflower, the number of arms on a starfish, the shape of a hurricane and yes, even you in your body, represent the golden ratio in some manner. The measurement from the navel to the floor and the top of the head to the navel is the golden ratio.
 
 You should care about the golden ratio because it so common. Its natural. It is part of the fabric of our reality. Its this funky little number that guides natural processes and perfects the evolution of life. The nautilus' shell is beautiful and ideal for its survival in nature. This shell is ultimately the result of refined genetics from generations of cephalopods that have resisted the forces of nature through the long forgotten eons. Its natural, and often observable. Could it be that humanity, as the most advanced species on the planet, also have a 'shell'? 
 
@@ -360,9 +360,10 @@ Scientists believe that we perceive proportional bodies to be more healthy.
 ## The Property of Truth
 
 ### What is the value of truth?
+
 Solve for x:
 
-_The bodied (1) self (phi) is truth (x) embodied (1)._
+_The bodied (1) self (phi) is (=) truth (x) embodied (1)._
 
 The body is the real thing that tethers the self to reality. Self is express through the body, and truth is the ideal expression.
 
@@ -480,6 +481,7 @@ A variable answer that defines an identity is self-similar due to the fact that 
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
 
 ## The XOR operation //dev topic, intend to update all identity equations with XOR of result values
+
 _If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
 
 As shown in the section _Conclusions about Choice_, the self must respond at all times in order to live. As a result, this means that we must always choose how to respond at any given moment. If I must choose, what is the method for finding truth? Consider the following problem, which demonstrates the various properties of XOR operations as well as a common problem faced every day. How do I decide to act in the absence of other knowledge?
@@ -492,9 +494,8 @@ How do I know that I change? I can XOR my present self with my past selves to se
 
 ## Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
 
-//DEV -- convert to T() operations, result of one side of "x/y = a + b" to the other, result will indicate equality of one operation to another;
-
 ### Proposition: Golden Ratio & sense of self
+
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
 
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional values.
