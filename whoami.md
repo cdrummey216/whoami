@@ -113,7 +113,9 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 # Part 0: The Complexity of Now
 
-### What is the source of truth?
+## Complexity
+
+#### What is the source of truth?
 
 Self-discovery is the path to truth. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
 
@@ -121,7 +123,23 @@ Truth is the end and the beginning of all things. Truth is what is real and fact
 
 Follow the path seeking the end. Truth is the highest outcome. A good Samaritan with the honest truth sharing the path of life.
 
-The bodied self is truth embodied. The highest outcome of the living self is truth. Living is good. Living for truth is better. 
+The bodied self is truth embodied. The highest outcome of the living self is truth. Living is good. Living for truth is better.
+
+The self is the source of truth because ‘truth’ is a concept that is used to define a property of some _thing_, some _object in reality_.
+
+We are and I am. We define truths together and alone, to one another and ourselves.
+
+There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
+
+I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. 
+
+I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless.
+
+I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
+
+A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
+
+_Be the unsinkable ship._
 
 ## (#) Definitions
 
@@ -259,26 +277,6 @@ b: I do
 Until about 3 years ago, I was in a mental and behavioral battle with myself. I had to find a way to live in a world that had made me want to die.
 
 I had to find a reason to live and I had to act in accord with what I wanted that life to be like.
-
-## Complexity
-
-#### What is the source of truth?
-
-The self is the source of truth because ‘truth’ is a concept used to define a property of something.
-
-We are and I am. We define truths together and alone, to one another and ourselves.
-
-There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
-
-I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. 
-
-I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless.
-
-I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
-
-A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
-
-_Be the unsinkable ship._
 
 # Part 1: What is 'someone'?
 
