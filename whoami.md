@@ -516,10 +516,19 @@ How do I know that I change? I can XOR my present self with my past selves to se
 // If a = b & b = c, then a = c
 //∀a ∀b ∀c ((a = b) ∧ (b = c) ⊃ (a = c))
 
-| First Header  | Second Header |
+| First Header  | Second Header | 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+
+| Example  | Value | Description  |
+| ------------- | ------------- | ------------- |
+| a = I am a man.  | 1  | The mortal truth about self is that we are alive briefly. I am here now but my life will reach its fullness someday.  |
+| b = I am florist.  | 1/ϕ  | Before I come to fullness, I have chosen that identity of the florist, the gardener-warrior. The skillful bladesman and patient shepherd of the things that grow. If you encounter me, you will see that I am a human man. If you ask me who I am and we recognize each other’s forms, then I will give you my identity in the given context. In this case, we are beings that encountered each other and recognized the others form to be human. |
+| a+b = I am a man that is a florist.  | 1 + 1/ϕ  | Content Cell  |
+| a+b/a = ϕ | (1 + 1/ϕ)/1  | Content Cell |
+| a/b = ϕ | 1/(1/ϕ)  | Content Cell |
 
 ### Proposition: Golden Ratio & sense of self
 
