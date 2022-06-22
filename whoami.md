@@ -129,7 +129,9 @@ Can it be different?
 
 The complexity of each moment is found in the answers to questions like these. Asking _why_ is an interrogation of reason, of cause, and of source. The object of _why_ can be anything. Why am I here? Why are you? Why, why, why?
 
-Asking _why_ is like picking at the strings on a guitar.
+Asking _why_ is like picking at a string on a guitar. The interrogative resonates an answer. Listen to the sound and forget the question. Why am I me?
+
+Because someone has to be.
 
 #### What is the source of truth?
 
