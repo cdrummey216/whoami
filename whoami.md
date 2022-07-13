@@ -1,5 +1,4 @@
-# whoami
-# whoareyou 
+# whoami/whoareyou 
 
 **Introduction**
 
@@ -588,7 +587,6 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 Through the Grace of God, it starts as awareness. My eyes open and the scene before me steadies. The floor, the rug, the chair are within my grasp, but I see past the floor, the rug, the chair. Up, down, left, right, I am aware of the emptiness around an object in space, my body.
 
-
 I asked, 'Who am I?' into the abyss and I heard it echo. The sound that returned to me over and over was a spiral of numbers and letters.
 
 My answer is words and numbers.Its a reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
@@ -683,7 +681,11 @@ So, for identity[1]
 * **I am (the one who asked) = I am (alive)/1** //~I am = ~I am, both acknowledge that at minimum I am
 * The above shows that in identity[1] is the first time ϕ can be calculated based on available datapoints. it is the first time that "I" is percieved AND defined within ϕ.
 
-I exist. //1 = ϕ - 1/ϕ, also "I am"
+I exist. //I am present here and now. 1 = ϕ - 1/ϕ
+
+//I exist (1) = "I am **(ϕ)**" - ( ("now (real-time **(1)**)") / ("here (presence **(ϕ)**)") )
+
+//I am present, therefore I am.
 
 #### 1 = ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
