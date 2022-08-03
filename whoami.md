@@ -2,11 +2,11 @@
 
 **Introduction**
 
-The following, in six parts, is an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is: in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone', a body-- is necessary to be present before the self can respond with an answer to any question. By defining 'I', the self is grounded in reality by a definable value and, therefore, the self is equipped to answer 'Who am I?'
+The following, in six parts, is an attempt to answer the philosophically significant question 'Who am I?' by defining 'I' as a measurable unit in reality. The premise is: in order to answer anything from the philosophically perplexing to the physically insignificant, an 'I' -- that is, an individual, a 'someone', a body-- is necessary before the self can respond with an answer to any question. By defining 'I' as a definable value, the self is grounded in the fact of its own reality and, therefore, the self is equipped to answer 'Who am I?'
 
-What are the properties that define the _self_? What also can be known based on this definiton? How do I live according to this definition of self? To answer these questions, I present propositional mathematics, concentrated philosophy, _living_ as art, and framing. The intention behind this document is to _know more_. In other words, what else can be known based on this knowledge? By defining the self as a value, we are able to observe the self as an _object in reality_ while also understanding the self as an _object of our own perception_. In the following, a proposition is given that the value of the _sense of self_ is the same value that is seen repeatedly across the universe in everything from spiral of a nautilus shell to the shape of the Milky Way galaxy to the length of your arm. This value is called the divine proportion, phi, or 1.618...
+What are the properties that define the _self_? What also can be known based on this definiton? How do I live according to this definition of self? To answer these questions, I present propositional mathematics, concentrated philosophy, _living_ as art, and framing. The intention behind this document is to _know more_ and each of the following sections provide essential understanding. By defining the self as a value, we are able to observe the self as an _object in reality_ while also understanding the self as an _object of our own perception_. In the following, a proposition is given that the value of the _sense of self_ is the same value that is seen repeatedly across the universe in everything from spiral of a nautilus shell to the shape of the Milky Way galaxy to the length of your arm. This value is called the divine proportion, phi, or 1.618...
 
-So, now that I have a method to understand my self, what does it mean that I am here? In other words, I have foundational knowledge in the fact of my existence because I have the ability to define my self as a value and so, what does it tell me about my self at present? A desert island thought experiment is used to reach conclusions about life, mortality, choice, and time. 
+So, now that I have a method to understand my self, what does it mean that I am here? In other words, I have foundational knowledge in the fact of my existence because I have the ability to define my self as a value and so, what does it tell me about my self at present? In concentrated philosophy, a desert island thought experiment is used to reach conclusions about life, mortality, choice, and time.
 
 How can my sense of self find the golden ratio? Truth is necessary and honesty is an imperitive in the framework desribed in _living as art._ An approach to defining the ideal self through self expression is defined in _living as art_. Lastly, 'framing' is desribed as an approach that is aimed at deciphering and integrating the truth that is available in the present moment (i.e. Who am I? What am I? How did I get here? What am I doing?).
 
@@ -35,24 +35,19 @@ Emanation theory claims that memories are non-causal reflexive interactions of i
 **Perceiver Effect and the Perception Constant**
 
 The bodied self is a form functioning. Our bodies are the culmination of innumerable partial and distinct forms and functions. We can taste, smell, touch, see, and hear. Our eyes, each eye, is a beautiful refinement of evolution. The dexterity and precision of our hands and the keen ear or the discerning nose. It’s all connected by a system of constituent parts and those parts grow and change over time. These parts in you assemble to create your self. And you are more than just your body. You are the function within your form choosing your function. You are perception perceiving and defining itself in reality.
+
 The perceiver effect is the fact that the memory of an observable experience is disturbed by the act of perception at the time of the experience. The self is distinct from any experience, but it's perception of an experience is singular in memory. The perception constant is a way to define the self and account for perception in observation.
 
 Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives.
 But, observation is passive – how can I be an active participant in my reality? In other words, how do I respond to the present and change my experience? It all starts with observation.
 
-In physics, the observer effect is the disturbance of an observed system by the act of observation. An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment.
-
-What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time.
+In physics, the observer effect is the disturbance of an observed system by the act of observation. An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment. What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time.
 
 In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. What if perception (via observation) is the mechanism that changes the wave or particle in the double-slit experiment?
 
 What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
 
-How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the self is present in reality as a body.
-
-This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the self exists in reality. He says that the 'body is a container of self'.
-
-A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self.
+How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the self is present in reality as a body that can perceive another. This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the self exists in reality. He says that the 'body is a container of self'. A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self.
 
 In the following, self-expression is described as a means to externalize the sense of self. And self-expression has many forms. It is the will to know, do, act, believe. So, I say that the body is an instrument of self. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given present reality.
 
@@ -119,13 +114,7 @@ The self defines its ends in the ways that it responds to all things and, the en
 
 ## Complexity
 
-Why?
-
-Why is it like this?
-
-Why isn't that like this? 
-
-Can it be different? 
+Why? Why is it like that? Why isn't this like that? Can it be different? 
 
 The complexity of each moment is found in the answers to questions like these. Asking _why_ is an interrogation of reason, of cause, and of source. The object of _why_ can be anything. Why am I here? Why are you? Why, why, why?
 
@@ -133,7 +122,7 @@ Asking _why_ is like plucking at a string on a guitar. The interrogative resonat
 
 Why am I me?
 
-_Because someone has to be._
+_Because someone (you) has to be._
 
 #### What is the source of truth?
 
@@ -141,21 +130,23 @@ Self-discovery is the path to truth. It is the path to understand the self, comm
 
 Truth is the end and the beginning of all things. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
 
-Follow the path seeking the end. Truth is the highest outcome. A good Samaritan with the honest truth sharing the path of life.
+Follow the path seeking the end.
+* END: Truth is the highest outcome. 
+* PATH: A good Samaritan with the honest truth sharing the path of life.
 
-The bodied self is truth embodied. The highest outcome of the living self is truth. Living is good. Living for truth is better.
+The bodied self is truth embodied. 
+* TRUTH: The highest outcome of the living self is truth. 
+* SELF: Living is good. Living for truth is better.
 
 The self is the source of truth because ‘truth’ is a concept that is used to define a property of some _thing_, some _object in reality_.
 
-We are and I am. We define truths together and alone, to one another and ourselves.
-
-There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
-
 I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. 
 
-I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless.
+We are and I am. We define truths together and alone, to one another and ourselves.
 
-I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
+I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless. I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
+
+There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
 
 A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
 
@@ -195,11 +186,7 @@ The truth unites perception and reality. _What is real_ is the input into _what 
 
 An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
 
-### End of Definitions
-
-For now...
-
-## Five Facts about 'I' (self as subject) and 'Now'
+## Five Facts about 'I' and 'Now'
 
 1. I exist.
 2. I exist here.
@@ -229,7 +216,7 @@ If the wings don't move, it is a plane. You can now see the shadow of the single
 
 I observe the silhouettes of truth at the exterior to understand more complex truths at the interior. Or, I rely on the simple truths to know complex truths because truth is consistent with truth.
 
-The self makes truth real.
+The self makes truth real (actual).
 
 ## Capturing the Complexity of the Present ('Now')
 
