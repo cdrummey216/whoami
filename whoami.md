@@ -20,17 +20,9 @@ Lastly, a thought framework and personal credo is described in detail that align
 
 The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' (2) to a philosophical/metaphysical foundation for self and then (3) to a thought framework and method to reach the ideal, whatever that may be. The goal of this endeavor is to relate truth as I have come to understand it about the self, identity, and its place in reality. Each of us observes and perceives truth in reality and, therefore, it is critically important that the self also has a method to define and understand truth. The 'identity equations' give form to truth about the self.
 
-**Observer effect (physics)**
+<a href="https://dotnetfiddle.net/z4hFnr">Emanation Model (Self as infinite iterations of pattern in binary numbers (10001010111))</a>
 
-In physics, the observer effect is the disturbance of an observed system by the act of observation.
-
-**Emanation Theory** (by Asante James Knowles)
-
-Emergence is a hot new term in disciplines ranging from philosophy to neuroscience. Emergence asserts that whole entities are produced by the organization of their constituent parts but are not inherently the same as the parts. The concern with emergence is it does not explain how parts become a whole or become something greater than the whole. The way parts become a whole, or something greater than the whole is when the parts obtain a function. Before we go into the nature of functions there is further that needs to be noted about emergence. The other concern with emergence, is it does not consider the fact that parts are themselves whole(s), that also obtain their own respective function. Parts are wholes, and wholes are also parts of other wholes. Acceptance of this dynamic can lead to an infinite reduction of physicalism. The scales become broken when you fall into these reduction pits. The solution is not mere emergence because emergence does not account for or explain fundamentality nor functionality. The simple solution to solving the dynamics of parts, wholes, and things greater is considering that functions themselves are fundamental, and that they transverse scales and degrees. The reason we should consider functions as fundamental is because no matter if we observe physical, psychological, or informational objects there is no way to separate the identity of the object from the whole function that the identity is upholding. Just how you cannot separate the entire information of what said object is from what the object essentially is. Arguments can be made that an object’s form is the object's essential identity. However, form in itself, (synonymous with essentially) is a function of other parts. Function is irreducible and it traverses scales which makes it fundamental, dynamic, and whole. This entails that true functionalism is naturalism. Evidence of this is by natural functions exhibiting self-referential, self-organizing, and self-transfiguring processes.
-					
-Now onto functions. The most practical way to describe a function is a process or flow of information from its source (i.e., its initiation) to its form and then the information proceeds as interaction with its environment, itself, and its constituents; in either a causal or non-causal continuum. When the information flow is causal, the function produces a subsequent function (I.e., an effect). This is called Emergence. When the information flow is non-causal the function conditions itself as a subsequent function (I.e., self-referential process). This is called Emanation
-
-Emanation theory claims that memories are non-causal reflexive interactions of information flow. Experience is the first memory to emanate from existence. The condition of existence and experience entanglement is the initial condition of self-referential flow from any fundamental information system or source.
+<a href="https://dotnetfiddle.net/pihIJ5">Simple reason model for Love > Hate using Emanation</a>
 
 **Perceiver Effect and the Perception Constant**
 
@@ -181,10 +173,14 @@ The body will always have a sense of self because the physical form of a body ne
 
 The body is also the shell in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a shell, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
 
-### (4) Truth, a _noun_;
+### (6) Truth, a _noun_;
 The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
 
 An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
+
+### (6) Abyss, a _noun_;
+Anything profound, unfathomable, or infinite.
+*the abyss of time.*
 
 ## Five Facts about 'I' and 'Now'
 
@@ -242,38 +238,61 @@ I reject those things I did as answers to the question "Who am I?" I have accomp
 
 I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was that someone? And why did he believe 'Life is good'? And how do I know it's not me?
 
-## Rules // in dev
+## Rules & Judgements
 
 **Golden Rule:**
+
 Treat others the way you want to be treated.
 
 **Enduring Rule:**
+
 Treat yourself the way you want to be treated by others.
 
-Identity is real. It can be lost and it can be found. It can be restored.
+**Fact of Identity**
 
-**Story: **
-Sorrow into wisdom, follow the path of truth
+Identity is real because you are self. It can be lost and it can be found. It can be restored.
 
-By reflecting what is truthful, you follow the path of truth. the truth flows on until the end.
+**Truth is good.**
+* honesty is an imperative.
+* authenticity is essential.
+* simplicity is fundamental.
 
-truth is the highest outcome for the self.
+**Life is good.**
+* do no harm.
+* preserve/protect lesser forms.
+* promote growth.
+
+**Choice is good.**
+* receptivity increases longevity.
+* patience is a virtue.
+* inaction/non-interference is valid.
+
+**Allegiance is good.**
+* form bonds
+* build trust
+* defend position
+* attack position
+
+**States of Mind**
+
+The four states of acceptance are _Sorrow, Doubt, Understanding and Wisdom_.
+
+```mermaid
+flowchart LR;
+    Sorrow<-->Doubt;    
+    Doubt<-->Understanding;    
+    Understanding<-->Wisdom;
+```
+
+Sorrow promotes doubt, doubt promotes sorrow;
+
+Doubt promotes understanding and understanding promotes doubt;
+
+Understanding promotes wisdom, and wisdom always promotes understanding;
+
+It’s good to exist between Understanding and Wisdom, somewhere around point 1.618…
 
 Trust is influential. Belief is trust in something without full assurance. When you trust, you open your self up to influence from the object of trust. An object of trust can be someone you grant trust to or something believe is trustworthy. If you grant your trust to someone, it means that you value their perceptions. If trust in a belief, it means that you value the object of trust to such a degree, you allow it to influence you.
-
-Trust obscures truth. When you trust someone or some thing to the highest degree, the influence from the object of trust is mistaken for truth. The sense of self needs truth in order to be proportional (maintain the ideal).
-
-A child will trust a parent to the highest degree and believe their word to be truthful until that trust is broken. If the parent is flippant and contradictory, the sense of self of the child will become skewed because the child lacks fundamental truths to build their sense of self upon
-
-Joy in the deed of making and in the thing made is where I took consolation because I had made something new and entirely mine.
-
-i[1]
-a: I am what I am
-b: I do
-
-Until about 3 years ago, I was in a mental and behavioral battle with myself. I had to find a way to live in a world that had made me want to die.
-
-I had to find a reason to live and I had to act in accord with what I wanted that life to be like.
 
 # Part 1: What is 'someone'?
 
