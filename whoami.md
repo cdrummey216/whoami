@@ -180,6 +180,7 @@ An example of a universal truth about _the self_ is that they all share in hope.
 
 ### (6) Abyss, a _noun_;
 Anything profound, unfathomable, or infinite.
+
 *The abyss of time.*
 
 ## Five Facts about 'I' and 'Now'
