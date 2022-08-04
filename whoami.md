@@ -180,7 +180,7 @@ An example of a universal truth about _the self_ is that they all share in hope.
 
 ### (6) Abyss, a _noun_;
 Anything profound, unfathomable, or infinite.
-*the abyss of time.*
+*The abyss of time.*
 
 ## Five Facts about 'I' and 'Now'
 
@@ -294,7 +294,7 @@ It’s good to exist between Understanding and Wisdom, somewhere around point 1.
 
 Trust is influential. Belief is trust in something without full assurance. When you trust, you open your self up to influence from the object of trust. An object of trust can be someone you grant trust to or something believe is trustworthy. If you grant your trust to someone, it means that you value their perceptions. If trust in a belief, it means that you value the object of trust to such a degree, you allow it to influence you.
 
-# Part 1: What is 'someone'?
+# Part 1: What is 'I'?
 
 ## A Method for _Knowing_ and _Understanding_ the self
 
