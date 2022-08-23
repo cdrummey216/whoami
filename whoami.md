@@ -1207,7 +1207,16 @@ Surely, each being looks up in wonder at the night sky and gazes with curiousity
 I feel small under the night sky and I see my self, my actual self, in my reflection. I cannot change the stars, but I can change the time that I have left to me.
 
 38.76583518716511, -76.07276662530394
-The greater than mere - a reflection of myself in the stars.
+
+The _greater than mere_ - a reflection of myself in the stars.
+
+### 8/23/2022 16:44
+
+The sound of the screen door, the light through the trees, the sweat on my back, the bunny in the bush.
+
+"Now you see, brother."
+
+"Amen, brother."
 
 # Part 5: How to be intentional? (a: Framing, universal truth)
 
