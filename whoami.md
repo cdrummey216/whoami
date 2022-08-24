@@ -110,9 +110,9 @@ The complexity of each moment is found in the answers to questions like these. A
 
 Asking _why_ is like plucking at a string on a guitar. The interrogative resonates an answer. Listen to the sound and forget the question. 
 
-Why am I me?
+Why am I _me_?
 
-_Because someone (you) has to be._
+_Because someone must be._
 
 #### What is the source of truth?
 
