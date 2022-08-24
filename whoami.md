@@ -545,10 +545,14 @@ A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b
 
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional values.
 
-| First Header  | Second Header |
+| Properties of ϕ | For any value a,b |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Property #1 | a+b/a = ϕ  |
+| Property #2 | a/b = ϕ |
+| Property #3 | a > b > 0  |
+| Property #4 | a+b is to a as a is to b. |
+| Property #5 | ϕ = 1 + 1/ϕ |
+| Property #6 | ϕ = (ϕ + 1)/ϕ  |
 
 * a+b/a = ϕ AND a/b = ϕ //(1) property of ϕ
 * a > b > 0 //(2) property of ϕ, the scope of *a* is greater than the scope of *b* (*a > b > 0*)
