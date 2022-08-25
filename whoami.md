@@ -1049,7 +1049,7 @@ A year or two after graduating from college, I attended a party at a friend's 'r
 In the summer of 2018, I attempted suicide in my garage. I had been battling with my self for many years, and had found success in sobriety. The support of my wife and family made that possible and I struggle to show them what that means to me. I had been sober for about 9 months, but I drank a gallon of wine when I found out my wife was pregnant. How can I be a father? How can guide someone while I am still trying to guide my self through trials? I went into the garage and got an extension cord, secured it to the celing, and stood on a stool. With tears in my eyes, I tied a slipknot and put it around my neck and told myself that I just wanted to know how it feels. I took one foot off of the stool and felt the pressure on my neck. I asked God for the strength to carry on. I took the noose off and stepped off the stool. I wrapped the extension cord back up and put the stool back in its place. I went back inside. My wife cooked dinner and brought it to me as I sobered up on the couch.
 
 The desire to kill myself has departed from me entirely now. I want to live because I believe 'Life is good' and that the time left to me in this world has value.
--->
+
 ### Trust
 
 I am unable to think of anyone I trust completely and few I trust partially. I struggle with paranoia. I am unable to reveal my self to others for fear that they will use the information against me. I am suspicious of people and so I interpret simple statements and gestures from others as hidden and malicious. I am overly sensitive to perceived insults and criticism. I have very few friends and many relationships in my life are stunted due to my inability to trust.
@@ -1057,7 +1057,7 @@ I am unable to think of anyone I trust completely and few I trust partially. I s
 I have little to no interest in forming friendships or repairing damaged relationships. I struggle to see the purpose of social interaction because I believe it is rife with opportunity to be exploited or to be condemned.
 
 Trust has value in social interations. It is the currency by which we exchange ideas and acheive mutual growth. Consdier the old miser with his gold piled high, what is the value of gold when it is scurried away into a dark room?
-
+-->
 ### The Root of Trust
 
 Life is good. 
