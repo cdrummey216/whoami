@@ -237,7 +237,9 @@ I reject those things I did as answers to the question "Who am I?" I have accomp
 
 I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was that someone? And why did he believe 'Life is good'? And how do I know it's not me?
 
-## Rules & Judgements
+## Ethics
+
+### Rules
 
 **Golden Rule:**
 
@@ -249,32 +251,34 @@ Treat yourself the way you want to be treated by others.
 
 **Fact of Identity**
 
-Identity is real because you are self. It can be lost and it can be found. It can be restored.
+Identity is real because you are _your_ Self. It can be lost and it can be found. It can be restored.
+
+### Judgements
 
 **Truth is good.**
-* honesty is an imperative.
-* authenticity is essential.
-* simplicity is fundamental.
+* Honesty is an imperative.
+* Authenticity is essential.
+* Simplicity is fundamental.
 
 **Life is good.**
-* do no harm.
-* preserve/protect lesser forms.
-* promote growth.
+* Do no harm.
+* Preserve/protect lesser forms.
+* Promote growth.
 
 **Choice is good.**
-* receptivity increases longevity.
-* patience is a virtue.
-* inaction/non-interference is valid.
+* Receptivity increases longevity.
+* Patience is a virtue.
+* Inaction/non-interference is valid.
 
 **Allegiance is good.**
-* form bonds
-* build trust
-* defend position
-* attack position
+* Form bonds
+* Build trust
+* Defend position
+* Attack position
 
-**States of Mind**
+### _States_ of Mind
 
-The four states of acceptance are _Sorrow, Doubt, Understanding and Wisdom_.
+The four states of mind are _Sorrow, Doubt, Understanding and Wisdom_.
 
 ```mermaid
 flowchart LR;
@@ -285,11 +289,11 @@ flowchart LR;
 
 Sorrow promotes doubt, doubt promotes sorrow;
 
-Doubt promotes understanding and understanding promotes doubt;
+Doubt promotes understanding, understanding promotes doubt;
 
-Understanding promotes wisdom, and wisdom always promotes understanding;
+Understanding promotes wisdom, wisdom promotes understanding;
 
-It’s good to exist between Understanding and Wisdom, somewhere around point 1.618…
+It’s good to exist between Understanding and Wisdom;
 
 Trust is influential. Belief is trust in something without full assurance. When you trust, you open your self up to influence from the object of trust. An object of trust can be someone you grant trust to or something believe is trustworthy. If you grant your trust to someone, it means that you value their perceptions. If trust in a belief, it means that you value the object of trust to such a degree, you allow it to influence you.
 
