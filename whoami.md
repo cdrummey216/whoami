@@ -6,7 +6,7 @@ The following, in six parts, is an attempt to answer the philosophically signifi
 
 What are the properties that define the _Self_? What also can be known based on this definiton? How do I live according to this definition of _Self_? To answer these questions, I present Propositional Mathematics, Concentrated Philosophy, Living as Art, and Framing. The intention behind this document is to _know more_ and each of the following sections provides essential understanding of the _Self_. By assigning the _Self_ a value, we are able to observe the _Self_ as an _object in reality_ while also understanding the _Self_ as an _object of our own perception_. In the following, the proposition that the value of the _sense of self_ is the same value that is seen repeatedly across the universe in everything from spiral of a nautilus shell to the shape of the Milky Way galaxy to the length of your arm. This value is called the divine proportion, phi, or 1.618...
 
-I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is described as the quintessential element that tethers humanity to all things in reality. As a species, we are driven onwards by our perpetual quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. Truth is a foundational aspect of reality and perception, so defining the truth about _what the self is_ is critical to deeper understanding of the physical realm and abstract thought.
+I begin by defining some terms, asking some questions, and sharing a bit of my story. The subject of truth is described as the quintessential element that tethers humanity to all things in reality. As a species, we are driven onwards by our perpetual quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, truth is _real_. Truth is a foundational aspect of reality and perception, so defining the truth about _what the Self is_ is critical to deeper understanding of the physical realm and abstract thought.
 
 I use a unique philosophical proposition, based on objective facts, to assigns the value of the Golden Ratio (1.618..., or ϕ) to the sense of self. With this value, I make an additional proposition that 'identity' is a fractal set, specifically the Filled Julia Set (fc, c = 1 - ϕ). Using the Julia set function, _meaning_ can be derived from iterations of the function as it relates to the Self and existence, life and death, and identity as the expression of the Self.
 
@@ -16,7 +16,7 @@ An approach to defining the ideal Self via self-expression is described in _Livi
 
 Lastly, 'Framing' is described as an approach aimed at deciphering and integrating the truth that is available in the present moment (i.e. Who am I? What am I? How did I get here? What am I doing?).
 
-The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' (2) to a philosophical/metaphysical foundation for Self and then (3) to a thought framework and method to reach the ideal, whatever that may be. The goal of this endeavor is to relate truth as I have come to understand it about the Self, identity, and its place in reality. Each of us observes and perceives truth in reality and, therefore, it is critically important that the self also has a method to define and understand truth. The 'identity equations' give form to truth about the self.
+The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' (2) to a philosophical/metaphysical foundation for Self and then (3) to a thought framework and method to reach the ideal, whatever that may be. The goal of this endeavor is to relate truth as I have come to understand it about the Self, identity, and its place in reality. Each of us observes and perceives truth in reality and, therefore, it is critically important that the Self also has a method to define and understand truth. The 'identity equations' give form to truth about the Self.
 
 <a href="https://dotnetfiddle.net/z4hFnr">Emanation Model (Self as infinite iterations of pattern in binary numbers (10001010111))</a>
 
@@ -26,7 +26,7 @@ The contents of this document ideally will flow from a (1) description of some o
 
 The bodied self is a form functioning. Our bodies are the culmination of innumerable partial and distinct forms and functions. We can taste, smell, touch, see, and hear. Our eyes, each eye, is a beautiful refinement of evolution. The dexterity and precision of our hands and the keen ear or the discerning nose. It’s all connected by a system of constituent parts and those parts grow and change over time. These parts in you assemble to create your self. And you are more than just your body. You are the function within your form choosing your function. You are perception perceiving and defining itself in reality.
 
-The perceiver effect is the fact that the memory of an observable experience is disturbed by the act of perception at the time of the experience. The self is distinct from any experience, but it's perception of an experience is singular in memory. The perception constant is a way to define the self and account for perception in observation.
+The perceiver effect is the fact that the memory of an observable experience is disturbed by the act of perception at the time of the experience. The Self is distinct from any experience, but it's perception of an experience is singular in memory. The perception constant is a way to define the Self and account for perception in observation.
 
 Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives.
 But, observation is passive – how can I be an active participant in my reality? In other words, how do I respond to the present and change my experience? It all starts with observation.
@@ -37,11 +37,11 @@ In a world where observation (via the observing self) changes the observable, we
 
 What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
 
-How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the self is present in reality as a body that can perceive another. This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the self exists in reality. He says that the 'body is a container of self'. A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self.
+How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the Self is present in reality as a body that can perceive another. This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the Self exists in reality. He says that the 'body is a container of self'. A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self.
 
 In the following, self-expression is described as a means to externalize the sense of self. And self-expression has many forms. It is the will to know, do, act, believe. So, I say that the body is an instrument of self. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given present reality.
 
-The self defines its ends in the ways that it responds to all things and, the ends is defined by the means by which it was achieved. The self is to its ends as the end is to its means.
+The Self defines its ends in the ways that it responds to all things and, the ends is defined by the means by which it was achieved. The Self is to its ends as the end is to its means.
 
 ## INDEX
 
@@ -55,7 +55,7 @@ The self defines its ends in the ways that it responds to all things and, the en
 * 0g: Capturing Complexity
 
 **Part 1: What am 'I'?**
-* 1a: A Method for Knowing and Understanding the self
+* 1a: A Method for Knowing and Understanding the Self
 * 1b: The Duality of Self
 * 1c: A Formula for Identity
 * 1d: Exercising Free Will
@@ -116,7 +116,7 @@ _Because someone must be._
 
 #### What is the source of truth?
 
-Self-discovery is the path to truth. It is the path to understand the self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
+Self-discovery is the path to truth. It is the path to understand the Self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
 
 Truth is the end and the beginning of all things. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
 
@@ -128,7 +128,7 @@ The bodied self is truth embodied.
 * TRUTH: The highest outcome of the living self is truth. 
 * SELF: Living is good. Living for truth is better.
 
-The self is the source of truth because ‘truth’ is a concept that is used to define a property of some _thing_, some _object in reality_.
+The Self is the source of truth because ‘truth’ is a concept that is used to define a property of some _thing_, some _object in reality_.
 
 I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. 
 
@@ -136,7 +136,7 @@ We are and I am. We define truths together and alone, to one another and ourselv
 
 I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless. I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
 
-There is beauty in truth. For the self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
+There is beauty in truth. For the Self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
 
 A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
 
@@ -155,26 +155,26 @@ The complexity of now relies on someone being present to experience it. 'Someone
 
 ### (3) To exist, a _verb_; existence, a _noun_;
 
-I doubt, I think, therefore I am, because I exist. Existence is a fascinating topic. There are some that might ask, 'Why? Who cares? Its implied in all things, so why does it merit discussion in the first place?' I understand the skepticism, 'existence' has so much finality associated with it. But, it _is_. It is simple and unifying. Everything exists. This book. Your eyes, reading this. Its all real. So, _'this' around us_ is the sum total of what has existed, because everything that _will ever_ happen _will_ proceed from the past. We are like boats riding the opening salvo of _liquid time_, which burst forth like floodgates releasing a river that flows on forever. Existence is simply a foundational truth, so foundational that it is easily overlooked. It denotes a binary state. You either exist or you don't. Do you exist? I will always tell you that I exist. It is foundational element of who I am because _existing_ is a source of truth in my life. It has always been true that I exist, and I intend to exist for the rest of my life. The simplest truth that 'I exist' is the pillar upon which the sense of self is built.  _My 'I'_ and your 'I' and our neighbor's 'I'. Its the person in your shoes, and the pair of shoes next to you. But, what is a sense of self? Can it be observed and defined? The self is the internal perception of and relation to the present each and every one us possesses. Our 'I'. This 'thing' is capable of knowing and understanding and remembering and creating. And what are the limits of perception when its in unison with reality? Each 'self' determines the identity that it manifests in reality as self-expression. This truth that 'I exist' also serves as a benchmark for other, more complex truths. But, is the truth _real_? In other words, does it exist _like me_? Can I observe something real to confirm it? Truth is that which is true or in accordance with fact or reality. Truth can also be a belief that is accepted as true. So, when I _know_ that I _exist_, it means that I will also to confirm some aspect of truth about my reality. I can waive my arms in the air. I can skip that day at the gym because I forgot fresh socks. We make choices and do things. We are a unit in reality that is aware of itself. Great, so what? I know I exist and I also know that rent is due, whats the point? Well, its important because it means that _truth_ is both perceived and defined by the self. And, at minimum, I can define the truth about my self and my idenity. So, who am I (1,  a thing in reality)? What is 'I' (ϕ, this thing that perceives reality)? How does 'I' (1/ϕ, this thing that interacts with reality) manifest in reality? How does it perceive? What does it mean that I can perceive the reality that I exist in? How does this inform my approach to living in reality?
+I doubt, I think, therefore I am, because I exist. Existence is a fascinating topic. There are some that might ask, 'Why? Who cares? Its implied in all things, so why does it merit discussion in the first place?' I understand the skepticism, 'existence' has so much finality associated with it. But, it _is_. It is simple and unifying. Everything exists. This book. Your eyes, reading this. Its all real. So, _'this' around us_ is the sum total of what has existed, because everything that _will ever_ happen _will_ proceed from the past. We are like boats riding the opening salvo of _liquid time_, which burst forth like floodgates releasing a river that flows on forever. Existence is simply a foundational truth, so foundational that it is easily overlooked. It denotes a binary state. You either exist or you don't. Do you exist? I will always tell you that I exist. It is foundational element of who I am because _existing_ is a source of truth in my life. It has always been true that I exist, and I intend to exist for the rest of my life. The simplest truth that 'I exist' is the pillar upon which the sense of self is built.  _My 'I'_ and your 'I' and our neighbor's 'I'. Its the person in your shoes, and the pair of shoes next to you. But, what is a sense of self? Can it be observed and defined? The Self is the internal perception of and relation to the present each and every one us possesses. Our 'I'. This 'thing' is capable of knowing and understanding and remembering and creating. And what are the limits of perception when its in unison with reality? Each 'self' determines the identity that it manifests in reality as self-expression. This truth that 'I exist' also serves as a benchmark for other, more complex truths. But, is the truth _real_? In other words, does it exist _like me_? Can I observe something real to confirm it? Truth is that which is true or in accordance with fact or reality. Truth can also be a belief that is accepted as true. So, when I _know_ that I _exist_, it means that I will also to confirm some aspect of truth about my reality. I can waive my arms in the air. I can skip that day at the gym because I forgot fresh socks. We make choices and do things. We are a unit in reality that is aware of itself. Great, so what? I know I exist and I also know that rent is due, whats the point? Well, its important because it means that _truth_ is both perceived and defined by the Self. And, at minimum, I can define the truth about my self and my idenity. So, who am I (1,  a thing in reality)? What is 'I' (ϕ, this thing that perceives reality)? How does 'I' (1/ϕ, this thing that interacts with reality) manifest in reality? How does it perceive? What does it mean that I can perceive the reality that I exist in? How does this inform my approach to living in reality?
 
-In order to be aware of any truth in existence, the self ('I') must be able to perceive the reality that the self ('I') exists and is made real through self-expression. In this way, the self is the unification of perception and reality. So what? I know _the truth that I exist_, where does that get me? Well, you have a thing in reality that perceives its existence and knows/understands what truth is. The autonomy of self must decide what their relationship with truth is like. I believe truth to be the highest outcome in all things. Truth is ubiquitous and all encompassing. It is hidden and revealed and mined by perception to the depths of inquiry. Truth connects our minds with reality. It connects other things in reality. It can connect others as a network of truths. A truth is a truth, so who could compare them? Either possesses the property of truth and are in accord with reality. What is more real? Personal truth or observable truth? Both truths are real, aren't they? Yes, and its because the self, _this_ perceiver of the truth, exists.
+In order to be aware of any truth in existence, the Self ('I') must be able to perceive the reality that the Self ('I') exists and is made real through self-expression. In this way, the Self is the unification of perception and reality. So what? I know _the truth that I exist_, where does that get me? Well, you have a thing in reality that perceives its existence and knows/understands what truth is. The autonomy of self must decide what their relationship with truth is like. I believe truth to be the highest outcome in all things. Truth is ubiquitous and all encompassing. It is hidden and revealed and mined by perception to the depths of inquiry. Truth connects our minds with reality. It connects other things in reality. It can connect others as a network of truths. A truth is a truth, so who could compare them? Either possesses the property of truth and are in accord with reality. What is more real? Personal truth or observable truth? Both truths are real, aren't they? Yes, and its because the Self, _this_ perceiver of the truth, exists.
 
 ### (4) Living, a _noun_; to live, a _verb_;
-What is 'living'? How to live? Living is a persistent state of being, a state that requires a response to stimuli at all times. The manner in which the self responds to a stimulus at the present moment is ultimately an opportunity to meet the ideal self. But, what is 'ideal'? The _ideal_ is ultimately a choice that must be made by the self that attributes a value to a thought pattern or an action through time invested. Personally, I like woodworking. I like the precision, the tools, the practical and creative opportunities. Some people like family, cars, computers, board games, all sorts of things. The point is that its all about time, and a special type of time. This particular type of time is perception, which is summary of time between the entrance and the exit of existence. Time has value and we transfer that value to the things we care about through our individual thoughts and actions. At each opportunity to act, therefore, the self must choose _how_ to act. How to be good? How to be true? How to be The Good Samaritan with the honest truth? The ideals of good and truth in thoughts and actions is like using intention to change reality. Good, Truth. The various means by which the self is externalized (i.e. self expression) that occur over a lifetime represent the identity of the self.
+What is 'living'? How to live? Living is a persistent state of being, a state that requires a response to stimuli at all times. The manner in which the Self responds to a stimulus at the present moment is ultimately an opportunity to meet the ideal self. But, what is 'ideal'? The _ideal_ is ultimately a choice that must be made by the Self that attributes a value to a thought pattern or an action through time invested. Personally, I like woodworking. I like the precision, the tools, the practical and creative opportunities. Some people like family, cars, computers, board games, all sorts of things. The point is that its all about time, and a special type of time. This particular type of time is perception, which is summary of time between the entrance and the exit of existence. Time has value and we transfer that value to the things we care about through our individual thoughts and actions. At each opportunity to act, therefore, the Self must choose _how_ to act. How to be good? How to be true? How to be The Good Samaritan with the honest truth? The ideals of good and truth in thoughts and actions is like using intention to change reality. Good, Truth. The various means by which the Self is externalized (i.e. self expression) that occur over a lifetime represent the identity of the Self.
 
-Living with complexity means that, not only is the self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the self along the path to the ideal.
+Living with complexity means that, not only is the Self asking 'Is this the ideal?' at every opporunity, but also its will is threatened to be overcome by an irrational, persistent need. Addiction, trauma, and contradictory thought patterns will disrupt the Self's ability to respond adequately in real-time. In such circumstance, an individual is experiencing intrusive thoughts that deviate the Self along the path to the ideal.
 
 ### (5) Form, a _noun_;
-The self is the inside of the shell and the outside of the shell. Function due to form.
+The Self is the inside of the shell and the outside of the shell. Function due to form.
 
 The body will always have a sense of self because the physical form of a body necessitates the presence of a sense of self. A unique body will generate a distinct sense of self to fill the shell. The body is the shell from which each and every individual's sense of self is poured out into the world. So, 'how do you express your 'self' into the world?' becomes an important question.
 
 The body is also the shell in which the liquidity of 'self' is held. I know I am but, who am I? And, what is 'I'? How do I perceive and define my 'self'? The body as a shell, then, is rising to fullness with the liquidity of self. The individual identity is a product of the 'self' and persists through time as memory. 
 
 ### (6) Truth, a _noun_;
-The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the self defines 'truth'/'being truthful' to be the highest outcome for the self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
+The truth unites perception and reality. _What is real_ is the input into _what is perceived_. When perception reflects the truth in reality, the Self defines 'truth'/'being truthful' to be the highest outcome for the Self. Perception will harmonize with reality upon truth and, the simple and observable truths are often the most useful. These truths are repeatable thought patterns in the way we perceive and are demonstrated through reality. 
 
-An example of a universal truth about _the self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
+An example of a universal truth about _the Self_ is that they all share in hope. We hope alone and against all odds, or together as a tribe or a nation or a world. Each and every one of us lives with a hope, a core and internalized ideal. Hope will spurn the individual onwards through labor, toil, and strife. Hope is powerful. Hope will never let you sink when your expectation is to float down the river at the bidding of the current. We are floating on liquid time.
 
 ### (6) Abyss, a _noun_;
 Anything profound, unfathomable, or infinite.
@@ -211,7 +211,7 @@ If the wings don't move, it is a plane. You can now see the shadow of the single
 
 I observe the silhouettes of truth at the exterior to understand more complex truths at the interior. Or, I rely on the simple truths to know complex truths because truth is consistent with truth.
 
-The self makes truth real (actual).
+The Self makes truth real (actual).
 
 ## Capturing the Complexity of the Present ('Now')
 
@@ -299,15 +299,15 @@ Trust is influential. Belief is trust in something without full assurance. When 
 
 # Part 1: What is 'I'?
 
-## A Method for _Knowing_ and _Understanding_ the self
+## A Method for _Knowing_ and _Understanding_ the Self
 
-The _mind_, the thing behind between your eyes that can conceptualize itself and can respond to the world, is like an algorithm in that takes an input, any input from its surroundings, and releases an output. This 'thing', then, can be thought of as a computer program that receives and responds based upon stored data, like memories and experiences. As a computer program, this 'thing' must also perform a function, in other words, it must _do something_. So, our identity, the thing that makes this 'thing' unique is like a hashing function, in that, the inputs are distinct for each individual and finite for the self. For example, only _you_ experienced that difficult period in your life, and that experience will also affect how you live the rest of your life in your response to other, similar or paralell, circumstances.
+The _mind_, the thing behind between your eyes that can conceptualize itself and can respond to the world, is like an algorithm in that takes an input, any input from its surroundings, and releases an output. This 'thing', then, can be thought of as a computer program that receives and responds based upon stored data, like memories and experiences. As a computer program, this 'thing' must also perform a function, in other words, it must _do something_. So, our identity, the thing that makes this 'thing' unique is like a hashing function, in that, the inputs are distinct for each individual and finite for the Self. For example, only _you_ experienced that difficult period in your life, and that experience will also affect how you live the rest of your life in your response to other, similar or paralell, circumstances.
 
 For this analogy to work, the _mind_ must also have a value. The inputs into the _mind_ are ultimately memories of distinct experiences, like stored data in a database. Our memories are stream of experiences that compound one upon the other over the course of our lives. From the day we are born until the day we reach the fullness of our life, we are creating new memories on new experiences. What, then, is the value of 'self'? What is the value of 'self-expression'? 
 
 ## The Duality of Self
 
-The duality of self begins with the creation of an internal world (the self) amidst an external one (reality). We live our lives everyday balancing ourselves between what we _think_ is happening and what is, in fact, happening. We are ever present in our pursuit to reconcile our perception of reality with reality itself. Truth unites perception and reality and so, when the self idealizes truth, the self is ever present and in unison with reality.
+The duality of self begins with the creation of an internal world (the Self) amidst an external one (reality). We live our lives everyday balancing ourselves between what we _think_ is happening and what is, in fact, happening. We are ever present in our pursuit to reconcile our perception of reality with reality itself. Truth unites perception and reality and so, when the Self idealizes truth, the Self is ever present and in unison with reality.
 
 There is endless depth and beauty in the world around us while, at the same time, there exists great power and value in the mind of the individual in reality.
 
@@ -323,7 +323,7 @@ Everyone possesses an identity. Everyone has a distinct identity. In software de
 
 Does this mean that you will always respond the same way to similar situations? Does this mean that I will not grow and change and right the wrongs of my past?
 
-No, and free will is that choice that is made to do it differently next time. To change, to learn and grow from experience is an exercise in free will. The self acts willfully when it decides to modify its response based on past experiences. For example, an alcoholic's 'self' is impeded and disrupted by the desire for alcohol. A sober alcoholic has committed to themselves that they will no longer imbibe. A decision to live differently than how one has lived in the past and to ignore and control desire.
+No, and free will is that choice that is made to do it differently next time. To change, to learn and grow from experience is an exercise in free will. The Self acts willfully when it decides to modify its response based on past experiences. For example, an alcoholic's 'self' is impeded and disrupted by the desire for alcohol. A sober alcoholic has committed to themselves that they will no longer imbibe. A decision to live differently than how one has lived in the past and to ignore and control desire.
 
 ## The Golden Ratio
 
@@ -391,7 +391,7 @@ Solve for x:
 
 _The bodied (1) self (phi) is (=) truth (x) embodied (1)._
 
-The body is the real thing that tethers the self to reality. Self is express through the body, and truth is the ideal expression.
+The body is the real thing that tethers the Self to reality. Self is express through the body, and truth is the ideal expression.
 
 ### What is the ratio of truths?
 
@@ -419,7 +419,7 @@ Truth is dependent upon perception. A self is necessary to perceive and define t
 
 ### What is it?
 
-Truth is difficult to define. There is observable truth, personal truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Not all truths are observable, however, so what becomes of the truths that we are closest to our hearts and souls? Are they somehow 'less than' in relation to obserable truths? No, they are equal. Personal truth is externalized by the self. Observable truth is the self. Either way, they both appear in reality to a third party as observable events. Two truths will always be in balance in relation to their 'truthfulness'. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthfulness' is meaningless because the ratio between truths is 1:1.
+Truth is difficult to define. There is observable truth, personal truth, higher truth, shared truths. The most reliable and undeniable of truths are those that are observable. These truths are the things that happen in real-time. Not all truths are observable, however, so what becomes of the truths that we are closest to our hearts and souls? Are they somehow 'less than' in relation to obserable truths? No, they are equal. Personal truth is externalized by the Self. Observable truth is the Self. Either way, they both appear in reality to a third party as observable events. Two truths will always be in balance in relation to their 'truthfulness'. Truth is a property that is binary (true/not true) and has a universal scope. Something that is true cannot be more or less true than another thing that is true. To put it differently, comparing two truths in their 'truthfulness' is meaningless because the ratio between truths is 1:1.
 
 ### Why is the ratio of truths 1:1?
 
@@ -431,17 +431,17 @@ Truth in reality is the foundation of perception. 'This', around us, is reality.
 
 The assignment of 'truth' to an object relies on the fact that an observer exists to declare the truth. So truth, the great equalizer across time, is a human creation that flows out from our minds. We observe the property of truth in certain objects because they display a reflection of reality in either form or function. Things that have truth will remain truthful until such time that a new observation or discovery changes the understanding of truth.
 
-The observer of the property of truth, then, possesses the perception of the truth through their understanding of the truth that has been observed. As the observer, then, the self percieves the truth in the ways in which the self understands the truth. 
+The observer of the property of truth, then, possesses the perception of the truth through their understanding of the truth that has been observed. As the observer, then, the Self percieves the truth in the ways in which the Self understands the truth. 
 
 ### Identity from the Sense of Self
 
-In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, the fractal set, is a representation of the identity in real-time. The identity is something that is externalized by the sense of self at any given moment. The value of the sense of self is the proportion of any two statements, or variable answers, about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are true variable answers that describe an identity. Therefore, the proportion of true variable answers about an identity is ultimately the product of the choices _made by the self_ in how it identifies itself. The choice _in what manner_ to identify oneself belongs wholly to the self. Identity is the product of a free will.
+In order to be understood, identity and its components must be defined. The sense of self exists within an individual and is externalized as the identity. When a value is assigned to the sense of self, a fractal set can be can be calculated. The output, the fractal set, is a representation of the identity in real-time. The identity is something that is externalized by the sense of self at any given moment. The value of the sense of self is the proportion of any two statements, or variable answers, about the identity to which it is describing. For example, the identifications of "I am a friend" and "I am a musician" are true variable answers that describe an identity. Therefore, the proportion of true variable answers about an identity is ultimately the product of the choices _made by the Self_ in how it identifies itself. The choice _in what manner_ to identify oneself belongs wholly to the Self. Identity is the product of a free will.
 
 The sense of self is the distinct collection of characteristics and defining attributes that the Self has generated to identify itself. So, when the sense of self is conceptualized as the ratio of the values we assign to how we understand and communicate our selves, the golden ratio is the ideal result because it is an observable ideal in other life forms (flower petals, shells) as well as the inanimate things (hurricanes, galaxy spirals).
 
 ## (#) Definitions & Concepts
 
-The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the self_. What this means is that the cogito, as it is often referred, proves that the self ("I") is cognizant due to the fact that the self is able _to think_ and therefore, the self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinks. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the self of another in reality? How?
+The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the Self_. What this means is that the cogito, as it is often referred, proves that the Self ("I") is cognizant due to the fact that the Self is able _to think_ and therefore, the Self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinks. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the Self of another in reality? How?
 
 ### (1) Who am I?, a _question_
 
@@ -453,7 +453,7 @@ Other answers to this question could be responses like "I am a man" or "I am a f
 A man was once a child and a florist could sell their business. So, in this way, answers to the question "who am i?" are subject to change
 over time.
 
-The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the self_. What this means is that the cogito, as it is often referred, proves that the self ("I") is cognizant due to the fact that the self is able _to think_ and therefore, the self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinking. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the self of another in reality? How?
+The famous foundation of knowledge from Descartes, _cogito ergo sum_ or "I think, therefore I am", reveals that "I am" because "I" think, which is an _internal process_ carried out _by the Self_. What this means is that the cogito, as it is often referred, proves that the Self ("I") is cognizant due to the fact that the Self is able _to think_ and therefore, the Self must exist. However, it has no affirmations on the existence of another "I" apart from the one that is actively thinking, or whether reality exists prior to "I" thinking. So, what is _my_ self? How is it externalized in reality from _my_ self? Can I identify my self and the Self of another in reality? How?
 
 Identifying as ***the one who asked*** positions the "asker" as an active participant in the curation of their identity. From this perspective,
 the individual has the ability to accept or reject a given answer at any time. If a routine of asking and answering "Who am I?" is 
@@ -504,13 +504,13 @@ A variable answer that defines an identity is self-similar due to the fact that 
 
 ### (8) Identity as a fractal set, a _representation_
 
-Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the self.
+Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the Self.
 
 ## The XOR operation //dev topic, intend to update all identity equations with XOR of result values
 
 _If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
 
-As shown in the section _Conclusions about Choice_, the self must respond at all times in order to live. As a result, this means that we must always choose how to respond at any given moment. If I must choose, what is the method for finding truth? Consider the following problem, which demonstrates the various properties of XOR operations as well as a common problem faced every day. How do I decide to act in the absence of other knowledge?
+As shown in the section _Conclusions about Choice_, the Self must respond at all times in order to live. As a result, this means that we must always choose how to respond at any given moment. If I must choose, what is the method for finding truth? Consider the following problem, which demonstrates the various properties of XOR operations as well as a common problem faced every day. How do I decide to act in the absence of other knowledge?
 
 _You are given an array of n - 1 integers which are in the range between 1 and n. All numbers appear exactly once, except one number, which is missing. Find this missing number._
 
@@ -575,8 +575,8 @@ Self-concept is to self-perception as self-perception is to self-definition.
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
 * b = I am florist. (self-definition) //limited to context, must be true
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
-* a+b/a = ϕ AND a/b = ϕ //"ϕ" is understood as sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the self.
-* ~I am = Self-concept //an idea of the self
+* a+b/a = ϕ AND a/b = ϕ //"ϕ" is understood as sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the Self.
+* ~I am = Self-concept //an idea of the Self
 
 Self-concept (*a+b*) is to self-perception (*a*) as...
 * Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
@@ -666,10 +666,10 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 * ϕ = (a+b)/a //because each *a* provides contextual truth to each *b* for any single calculation of ϕ, a is equal to 1 (see value for truth, k = 1 in END iteration)
 * ϕ = (1 + b)/1 //substitute for *a*
 * ϕ = 1 + b //simplify
-* ϕ = 1 + 1/ϕ //*b* must equal 1/ϕ, the self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
+* ϕ = 1 + 1/ϕ //*b* must equal 1/ϕ, the Self is an arbiter to itself, or is able to define itself because it is the utlimate authority on itself (see above property of ϕ)
 * **a = 1** //value for answer to "Who am I?", self-perception
 * **b = 1/ϕ** //~0.6180, value for answer to "Who are you?", self-definition
-* When the self is understood as the product of an equation, the value of self-definition is distinct from the value of self-perception because it requires an external cause (to be asked "Who are you?" is an external cause). Subtracting the value of self-definition from the value of the self is an exercise in freeing one's self from external influence.
+* When the Self is understood as the product of an equation, the value of self-definition is distinct from the value of self-perception because it requires an external cause (to be asked "Who are you?" is an external cause). Subtracting the value of self-definition from the value of the Self is an exercise in freeing one's self from external influence.
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
@@ -703,10 +703,10 @@ I exist. //I am present here and now. 1 = ϕ - 1/ϕ
 #### 1 = ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
 * Combination of value of self (ϕ) and value of self-expression (-1/ϕ), or **ϕ + (-1/ϕ)** //also ϕ - 1/ϕ
-* When the value of self-expression (1/ϕ) is subtracted from the value of the self (ϕ), the value that remains is 1. //oneness, or 1 = ϕ - 1/ϕ
+* When the value of self-expression (1/ϕ) is subtracted from the value of the Self (ϕ), the value that remains is 1. //oneness, or 1 = ϕ - 1/ϕ
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either a or b in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
-* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives itself and how it actually expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is manifested. Oneness is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 as reality = ϕ as self - 1/ϕ (externalization)
-* Peace is found in the balance of reality and perception (of the self).
+* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the Self based upon how it conceives itself and how it actually expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the Self is manifested. Oneness is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 as reality = ϕ as self - 1/ϕ (externalization)
+* Peace is found in the balance of reality and perception (of the Self).
 * note: the irrational number ϕ can be used to calculate a real number, 1 
 
 ### The _external_ Foundation for Knowledge
@@ -724,12 +724,12 @@ The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 
 
 #### Why is it 1 − ϕ?
 
-The self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
+The Self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
 
 # Part 2: What constitutes 'I'? (a: identity isle, concentrated philosophy)
 
 ## Overview & Purpose
-The following are the conclusions and judgements that can be made based on the [identity equations](idenityequations.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence). 
+The following are the conclusions and judgements that can be made based on the [identity equations](idenityequations.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the Self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the Self through memory (stored memories in a sequence). 
 
 <!--
 ## A foundation for reason
@@ -742,11 +742,11 @@ The following are the conclusions and judgements that can be made based on the [
 
 * The question 'What am I?' naturally follows the answer to 'Who am I?'
 * An explanation is needed for *how* or *in what manner* an identity exists in reality (asking 'I am, but how is it that I _think_?')
-* For example, consider Descartes' _cogito ergo sum_ and 'the identity equations', the combination of which permits the self to simultaneaoulsy perceive 'who' (_I think, therefore I am_) and define 'what' for themselves (_I exist (1), therefore I am (ϕ)_).  The answer to the question 'What am I?' serves as the foundation for _understanding the self_ because this answer is the first that meaningfully connects an identity to the reality in which it exists. 
+* For example, consider Descartes' _cogito ergo sum_ and 'the identity equations', the combination of which permits the Self to simultaneaoulsy perceive 'who' (_I think, therefore I am_) and define 'what' for themselves (_I exist (1), therefore I am (ϕ)_).  The answer to the question 'What am I?' serves as the foundation for _understanding the Self_ because this answer is the first that meaningfully connects an identity to the reality in which it exists. 
 * So, when asked 'What am I?', the response 'I am a living being' is affirmed.
 * In order to be considered 'living', an identity (self) must be 'alive'. //I know I am alive because the BEGIN iteration demonstrates that self is alive utilizing the binary state of alive/not alive
 * Living (to be alive) is a binary state, so only one alternative exists. Any reasonable person would agree that being alive is better than being not alive. (good > not good (bad), alive > not alive)
-* Life is good. //existential calm, or I know who and what I am. I conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment made about what the binary state ('alive'/'not alive') *represents*, or 'Life'. The judgement that *Life is good* is universal because the only alternative ('I am not alive') represents death, which any reasonable person would perceive as 'not good'. Death is 'not good' from the perspective of the self because it reresents the end of self. Death is also good as a part of Life. See also END iteration, c = 0
+* Life is good. //existential calm, or I know who and what I am. I conceive my self and understand how my self exists in reality and therefore can begin to make sense of the world around me. 'good' is a judgment made about what the binary state ('alive'/'not alive') *represents*, or 'Life'. The judgement that *Life is good* is universal because the only alternative ('I am not alive') represents death, which any reasonable person would perceive as 'not good'. Death is 'not good' from the perspective of the Self because it reresents the end of self. Death is also good as a part of Life. See also END iteration, c = 0
 * A shared consciousness is created whenever there is shared knowledge (truth or belief) between two or more individuals. for example, two people have a shared consciousness when they have shared the same experience (ie truth, actual event) or when they believe the same thing (ie belief, government/religion/choice). So, a common good (*universally true AND good*) has the potential to be the foundation of a universally true shared consciouness (ie every individual agrees that 'Life is good').
 
 ## The Isle[0]
@@ -788,33 +788,33 @@ I must choose if I want to continue to live in real-time.
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now). time has value. therefore, time can be measured. therefore, the unit of time must be real (observable). //gravity as a unit and extra solar travel to measure in absence of gravity
 
 **Key Points**
-* Life (existence) has a beginning and an end, a duration that lies between those two points in time is perceived by the self. 
+* Life (existence) has a beginning and an end, a duration that lies between those two points in time is perceived by the Self. 
 * Time has value. 'Time' is a limited resource of life with scarcity for a given context.
-* Time is a product of perception. The self percieves time through memory. Memory is sequential. The perception of time (duration) grows over time (between BEGIN and END).
-* A constant value for Time can be calculated using the value for self because 1) time is perceived by the self and 2) the self exists for a duration.
+* Time is a product of perception. The Self percieves time through memory. Memory is sequential. The perception of time (duration) grows over time (between BEGIN and END).
+* A constant value for Time can be calculated using the value for self because 1) time is perceived by the Self and 2) the Self exists for a duration.
 * The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The product of these values is a representation of time amd  is ϕ or 1.618....
 * Every event in reality has the temporal dimensions of a beginning and an end, a start and a finish, an open and a close. //BEGN and END iterations
 
 
 **Calculation of Time Constant** //hypothetical
 * ϕ = (ϕ + 1)/ϕ means that ϕ (a) and 1 (b) are at the golden ratio  //also ϕ = ϕ/1 AND ϕ > 1 > 0, new method to calculate ϕ?
-* As a fractal set, identity at any time is the product of c = 1 - ϕ. The value of ϕ represents the self. The value '1' in the equation represents a life, which is meant as the self's existence (here & now). So, the value of self is ϕ and the value of the relative life is 1.
+* As a fractal set, identity at any time is the product of c = 1 - ϕ. The value of ϕ represents the Self. The value '1' in the equation represents a life, which is meant as the Self's existence (here & now). So, the value of self is ϕ and the value of the relative life is 1.
 * An equivalency shown in the identity equations is 1 = ϕ - 1/ϕ (see the 'I exist' equation, represents existence)
 * An equivalency shown in the identity equations is ϕ = 1 - 1/ϕ (see the value of variable answers, represents self)
 * growth (*a + b*) is to self (*a*) as self (*a*) is to existence (*b*) //because of property a > b > 0, 'existence' represents life (at minimum, lack of self) and *a* and (*a + b*) represent increments of growth (over time)
-* 'Life' is an event with a beginning and an end. The self perceives 'time' through its perception of 'life'. //BEGIN and END iterations
-* The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence, which is perceived by the self through memory (stored memories in a sequence).
+* 'Life' is an event with a beginning and an end. The Self perceives 'time' through its perception of 'life'. //BEGIN and END iterations
+* The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence, which is perceived by the Self through memory (stored memories in a sequence).
 * **ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self*** //important, ϕ = (ϕ + 1)/ϕ
-* The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The result (ϕ *as time*) is the output of the self (a) as it perceives existence (b). The self persists through time with the *perception of time*. Therefore, ϕ *as time* (1.618...) can be used as a constant for time.
-* The self as a denominator in ϕ = (ϕ + 1)/**ϕ** is the self's perception of itself (in existance).
+* The *perception of time* is the result of the golden ratio equation when the value for *a* is ϕ (self) and the value for *b* is 1 (existence). The result (ϕ *as time*) is the output of the Self (a) as it perceives existence (b). The Self persists through time with the *perception of time*. Therefore, ϕ *as time* (1.618...) can be used as a constant for time.
+* The Self as a denominator in ϕ = (ϕ + 1)/**ϕ** is the Self's perception of itself (in existance).
 
 ## A BRIDGE BETWEEN PERCEPTION AND REALITY
 
 **ϕ *as time* = ϕ *as self* + 1 (*existence*) / ϕ *as self***
 
 * "Who are you?" and "Who am I?" (contained in the equation for ϕ *as self*) are observable events. //I exist (external) equation
-* The perception of time is ultimately an internal process *for the self*. 
-* The *self* is ultimately the interaction of internal processes (*self*) and external processes (*reality*). //how the self reacts to external stimuli in real-time. A real-time process is one that happens in defined time steps of maximum duration and fast enough to affect the environment in which it occurs, such as inputs to a computing system.
+* The perception of time is ultimately an internal process *for the Self*. 
+* The *self* is ultimately the interaction of internal processes (*self*) and external processes (*reality*). //how the Self reacts to external stimuli in real-time. A real-time process is one that happens in defined time steps of maximum duration and fast enough to affect the environment in which it occurs, such as inputs to a computing system.
 * The *perception of time* does not equal *time as it exists in reality*.
 
 **How to quantify perception in reality?**
@@ -854,7 +854,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 
 **Key Topics**
 * Why? //cannot know life without first understanding death
-* when the self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
+* when the Self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
 * A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
 * A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
 * A 'no' signals fear of death //"are you ready?"
@@ -867,7 +867,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 **Are you willing?**
 * For most, the answer is 'no' //there are only a few things someone may be willing to die for
 * The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
-* This question highlights the value of ability and intent //the ability to end exists for the self, but the self must have intent in order to end.
+* This question highlights the value of ability and intent //the ability to end exists for the Self, but the Self must have intent in order to end.
 * Intent is a choice and ability is a means
 
 
@@ -877,9 +877,9 @@ The eternal present is eyes open, looking into liquid time as it washes over/pas
 
 **The Vision** //when perception and reality match (are equal). 1 = 1 or 1 = ϕ - 1/ϕ
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
-* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
-* Peace is found in the balance of reality and perception (of the self).
-* The 'I am' equation shows that oneness can be achieved for the self by harmonizing the self (perceived, abstract) and self-expression (actual, reality)
+* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the Self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the Self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
+* Peace is found in the balance of reality and perception (of the Self).
+* The 'I am' equation shows that oneness can be achieved for the Self by harmonizing the Self (perceived, abstract) and self-expression (actual, reality)
 
 ## a note on humanity
 
@@ -888,7 +888,7 @@ How did the mind evolve?
 
 # Part 3: Life is good.
 
-"_Me_ corresponds to the self as an object of experience (self as object), while _I_ reflects the self as a subject of experience (self as subject)."
+"_Me_ corresponds to the Self as an object of experience (self as object), while _I_ reflects the Self as a subject of experience (self as subject)."
 
 ## 0a: Five Facts about me
 1. This (body) is me.
@@ -916,7 +916,7 @@ In order to be intentional, someone must be present to respond in some manner (h
 # Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
 
 ## Overview & Purpose
-Self-expression is the means by which *the internal processes for perceiving and defining one's self* are externalized, or made real in the world. Living, or *to be alive*, is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the self**, *by the self*, <ins>for the self</ins>. Therefore, living is art, or an application of human creative skill and imagination. 
+Self-expression is the means by which *the internal processes for perceiving and defining one's self* are externalized, or made real in the world. Living, or *to be alive*, is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the Self**, *by the Self*, <ins>for the Self</ins>. Therefore, living is art, or an application of human creative skill and imagination. 
 
 a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to a means of self-expression that exhibits a value or combination of values. 
 
@@ -931,7 +931,7 @@ Other opuses: //an externalization that exhibits a value
 ## Existential Calm & the [Isle[0]](identityisle.md)
 
 **Key Topics**
-* As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the self //life always good because at minimum, its good to be alive.
+* As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the Self //life always good because at minimum, its good to be alive.
 * I know who and what I am. //I am a living being and life is a binary state (*incomplete* before *complete*), I have (possess) life
 * I am because I live.  //Life is good because i am alive (judgement) //if time has value AND life is measurable by time (duration), then life, at minimum, has one value as a measurement of 'time' as it relates to a life (ie time of BEGIN iteration).
 * This is enough information to start to understand the present, or to leave the Isle[0].
@@ -950,28 +950,28 @@ Other opuses: //an externalization that exhibits a value
 ## Self-Expression and Externalization //c = 1 - 1.618, so c = -0.618 (or c = -1/ϕ)
 
 **Main points**
-* Identity is incalcuable in the absence of the self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
-* In this way, identity becomes an expression of the self due to the fact that the self is necessary to produce an identity. //'identity' as a product of an equation for the self. 'identity' as a snapshot of the self. 
-* So self-expression is the manifestation of the self for an identity. the self can be expressed in words and actions (externalization).
+* Identity is incalcuable in the absence of the Self (ϕ). //see BEGIN iteration, self is undefined (c = 1 - *undefined*)
+* In this way, identity becomes an expression of the Self due to the fact that the Self is necessary to produce an identity. //'identity' as a product of an equation for the Self. 'identity' as a snapshot of the Self. 
+* So self-expression is the manifestation of the Self for an identity. The Self can be expressed in words and actions (externalization).
 
 **Key Topics**
 * The relationship between 'self' and 'identity'
-* The 'self' as an engine for identity //the self generates identity (snapshots of the self in time)
+* The 'self' as an engine for identity //the Self generates identity (snapshots of the Self in time)
 
 **What does it mean that c = -1/ϕ?**
-* At any point in time, identity is being expressed through externalizations of the self. this also means that each expression of the identity is limited by the means of externalization. 
-* In the Golden Ratio calculations, it is shown that variable answers to the question "Who are you?" (*self-definitions*) have the value of 1/ϕ and are contextual. it may be that the value of -1/ϕ is the contextual value of the self (*self-concept*).  identity (-1/ϕ), and by extension all self expression, is the contextual externalization of self-concept. //explanation for |-1/ϕ|, context reduces the value of self-percpetion due to limitations inherent to the means of externalization. //needs clarification
+* At any point in time, identity is being expressed through externalizations of the Self. this also means that each expression of the identity is limited by the means of externalization. 
+* In the Golden Ratio calculations, it is shown that variable answers to the question "Who are you?" (*self-definitions*) have the value of 1/ϕ and are contextual. it may be that the value of -1/ϕ is the contextual value of the Self (*self-concept*).  identity (-1/ϕ), and by extension all self expression, is the contextual externalization of self-concept. //explanation for |-1/ϕ|, context reduces the value of self-percpetion due to limitations inherent to the means of externalization. //needs clarification
 
 **Why is it negative?**
 * Self-perception is an internal process first. The value of variable answers *a, b* in the equation for the sense of self are shown to be positive values used to conceive one's self (internal process). identity is a negative value because it is the externalization of an internal process, or an inverse of the internal process of concept, which can be shown to be composed of positive value. //positive to negative, internal to external, self concept limited to context
-* What ever the means of externalization, the self that is being expressed is a *reflection* of the self, or how the self is conceived.
+* What ever the means of externalization, the Self that is being expressed is a *reflection* of the Self, or how the Self is conceived.
 
 ## Oneness
 
 **The Vision** //when perception and reality match (are equal). 1 = 1 or 1 = ϕ - 1/ϕ
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
-* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
-* Peace is found in the balance of reality and perception (of the self).
+* INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the Self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the Self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
+* Peace is found in the balance of reality and perception (of the Self).
 
 
 ## Questions for Self
@@ -997,7 +997,7 @@ Other opuses: //an externalization that exhibits a value
 * The distinct characteristics of self that vary from person to person. The values and abilities unique to a person.
 
 **The Value**
-* Most important (abstract) values of the self, which ultimately determine thoughts and actions. Truth is very important here.
+* Most important (abstract) values of the Self, which ultimately determine thoughts and actions. Truth is very important here.
 
 **The Momentum**
 * The intention behind a thought or action. Intention is the direction that actions and thoughts are externalized.
@@ -1125,9 +1125,9 @@ All listen to music.
 
 **one = ϕ + (-1/ϕ) OR one = ϕ - 1/ϕ**
 
-At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Isle[0]. The goal was to find a way to live **with the self**, *by the self*, <ins>for the self</ins>.
+At any moment within the given timeframe, I represented one of either of the follwoing dualities of identity. So for the 'r00k/root' duality, I was only expressing the 'r00k' identity while ignoring the 'root' identity (and vice versa) at any given time. The dualities and their timeframes represent a period in which I negotiated *with myself* on the Isle[0]. The goal was to find a way to live **with the Self**, *by the Self*, <ins>for the Self</ins>.
 
-//to live with self is to have existential calm. to live by the self is to live willfully. to live <ins>for the self</ins> is to grow/change/become.
+//to live with self is to have existential calm. to live by the Self is to live willfully. to live <ins>for the Self</ins> is to grow/change/become.
 
 ## r00k/root
 * May/June 2020
@@ -1173,7 +1173,7 @@ In the receding sunlight on a grassy opening, I was at the end of a particularly
 In pale moonlight on in the dunes on the Eastern Shore, I ended another particulary difficult stretching session. It was a clear night, so clear that one could navigate easily only in the light of the moon and stars. I had just spoke the words, "Always remember who and what you are." I was facing West and looked up. I saw the lights of three stars in a straight line and spoke their names fom top to bottom. "Pollux. Alhena. Betelgeuse."
 
 ### 04/16/2021 21:58
-During a studio session, I was brought to speech with the thought, "the highest outcome for the self is to communicate and to understand." In addition to the literal meaning, this statement also suggests that it is through communication with others that we are able to understand our selfs.
+During a studio session, I was brought to speech with the thought, "the highest outcome for the Self is to communicate and to understand." In addition to the literal meaning, this statement also suggests that it is through communication with others that we are able to understand our selfs.
 
 On the walk back from the garage to my office, I glimpsed a large cross on the neighbors porch. I looked at it for a moment and then I spoke the word "Hello" and smiled. I turned West and looked up. "Pollux. Alhena. Betelgeuse." About 20 feet away, I spotted a small brown rabbit on the edge of my driveway. I got down on my knees and lifted my arms to the sky because I knew it was an answer.
 
@@ -1232,7 +1232,7 @@ The sound of the screen door, the light through the trees, the sweat on my back,
 
 'Framing the world' refers to the mental labor undertaken by an individual that is aimed at deciphering and integrating the truth that is available in the present moment. Who am I? What am I? How did I get here? What am I doing? 
 
-'Framing the world' begins with the ultimate source of truth for an individual, which is their own identification. Truly, the ways in which someone identifies themselves flows naturally from their sense of self. Who can say whether individual's answer to 'Who am I?' and 'Who are you?' is untrue? If someone believes in the accuracy of their answer and it is also not contradicted by some other externalization of the self, then the answer is true.
+'Framing the world' begins with the ultimate source of truth for an individual, which is their own identification. Truly, the ways in which someone identifies themselves flows naturally from their sense of self. Who can say whether individual's answer to 'Who am I?' and 'Who are you?' is untrue? If someone believes in the accuracy of their answer and it is also not contradicted by some other externalization of the Self, then the answer is true.
 
 I am who I say I am.
 
@@ -1284,11 +1284,11 @@ When you envision your ideal self, who are you? What do you know and what do you
 
 *That* is where oneness can be *found*. Harmonize your actions and thoughts now with your ideal self in order to *get there*.
 
-The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide your responses in real-time. Follow the guide long enough, and you will reach your ideal self. 
+The ideal self is the vision of the Self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide your responses in real-time. Follow the guide long enough, and you will reach your ideal self. 
 
 Once the ideal self is envisioned, the only task that remains is to achieve it in the time alotted to you.
 
-* The ideal self is the vision of the self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide responses in real-time. Follow the guide long enough, and you will reach your ideal self.
+* The ideal self is the vision of the Self that each individual has for themselves. How do you want to be understood? How do you want to communicate your self? Where is that person when you envision them? That person and that place is a waypoint that will guide responses in real-time. Follow the guide long enough, and you will reach your ideal self.
 * Heaven is peace outside the boundaries of real-time. The ideal self is a guide to find peace here and now. It can be realized and sustained by harmonizing the present self with the ideal self.
 * The star is your ideal self and the sea is your present circumstance. If you know where you want to get to, you can make choices here and now that will get you there. I understand that there are those that don't know where they want to get to, but simple answers to simple questions is where anyone should start.
 * Who am I? 
@@ -1296,11 +1296,11 @@ Once the ideal self is envisioned, the only task that remains is to achieve it i
 
 Imagine yourself as a ship at sea, the sounds of the waves surround you and above in the clear sky, you can see the stars innumerable. With one hand on the helm, you keep your eye fixed on a single star. A straight line can be traced from the tip of your bow, off the horizon. and upwards, until it reaches your star. You are determined and calm because you have a destination and the passion to get there. All you have to do is keep your eye on that star. 
 
-A star can be something, anything, that acts as a waypoint for the self, or a guiding influence on the things we do, the things we think, and the things we say.
+A star can be something, anything, that acts as a waypoint for the Self, or a guiding influence on the things we do, the things we think, and the things we say.
 
 Do you perceive your sense of self? Are you *you*? To perceive our selves, we must perceive the world that we live in. To *perceive the world (real-time)* is to *frame the world around us*. *Framing* is to *understand* and *comprehend* the world in real-time. 
 
-* The equation for identity (fc, c = 1 − ϕ) encapsulates who you are and what you are in real-time. When you are aware of the variable answers used in the formula for the self (a, b), you also understand what you are because the variable answers are data points about your self as you persist through time. What you are is a reflection of how you live in real-time, the things you think, do, say, speak and act. 
+* The equation for identity (fc, c = 1 − ϕ) encapsulates who you are and what you are in real-time. When you are aware of the variable answers used in the formula for the Self (a, b), you also understand what you are because the variable answers are data points about your self as you persist through time. What you are is a reflection of how you live in real-time, the things you think, do, say, speak and act. 
 * The constant of proportionality for truth is important in variable answers, because untrue variable answers ultimately skew the concept of what you are.
 * Simultaneously accepting who you are and knowing what you are aligns the present with the past and the future. If you accept who you are here and now and comprehend that what you are proceeds from the past, then what lies before you is the future.
 * Together, they will dull the sharpness of the past (memory) and will cut a straight line to the future (anticipation).
@@ -1322,7 +1322,7 @@ Do you perceive your sense of self? Are you *you*? To perceive our selves, we mu
 Basically, if I can prove that I exist (with the identity equations) then I am because I must be.  
 The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 1/ϕ). So, when I can prove that _I exist_ using the 'I exist' equation, I know that _I am_ because I _must_ be. When I _also_ know who and what I am, I know existential calm and can externalize it. Oneness into being.
 
-The self (ϕ) must be externalized in to reality (1) in order for it to exist in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in the words spoken and the things done.
+The Self (ϕ) must be externalized in to reality (1) in order for it to exist in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in the words spoken and the things done.
 
 ### For All
 
@@ -1334,7 +1334,7 @@ Nothing will change the fact that I am here now *with you* and that you are here
 
 ## Propositional Mathematics
 
-The self is produced by the combination of how we understand our selves in the world and how we define our selves to others. To understand our selves,  Aby asking "Who am I?" Any answer to this question provides will not only provide some insight in to the repsonder's perception of the self, but it will also have some measure of value, or significance, to the responder. Likewise, we define our selves in the ways in which we communicate and interact with others in the world. When asked "Who are you?", the answer will define our selves in a way that is real because the question is external and our answer is a representation of our self.
+The Self is produced by the combination of how we understand our selves in the world and how we define our selves to others. To understand our selves,  Aby asking "Who am I?" Any answer to this question provides will not only provide some insight in to the repsonder's perception of the Self, but it will also have some measure of value, or significance, to the responder. Likewise, we define our selves in the ways in which we communicate and interact with others in the world. When asked "Who are you?", the answer will define our selves in a way that is real because the question is external and our answer is a representation of our self.
 
 ## Definitions
 
@@ -1356,7 +1356,7 @@ I am on the Isle[0] Isle and I am equipped with the knowledge that I will die so
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). Therefore, 'this' is not empty because I exist now.
 * It will be observable that life compounds over time, building upon itself. Each life (living being) is an event that has begun but not yet ended, or an incomplete event. The binary state of complete/incomplete describes a chronological state, whereby an incomplete state must precede the complete state. The incomplete state positions a living being at a point in time before its end (complete state) which the living being is progressing towards (in time). It is always true that each life will end. Therefore, Life is tributary to itself.
 
-//The following are the conclusions and judgements that can be made based on the identity equations while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the self through memory (stored memories in a sequence).
+//The following are the conclusions and judgements that can be made based on the identity equations while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the Self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the Self through memory (stored memories in a sequence).
 
 **Right now and anytime, I must choose and I must be.**
 
@@ -1376,7 +1376,7 @@ I am on the Isle[0] Isle and I am equipped with the knowledge that I will die so
 
 ‘Right now and anytime’ because we exist in real-time. The present exists, and everything else is either memory or anticipation. The present flows from the past and on into the future.
 
-Oneness is a way to understand the self at any moment. Peace is found in understanding and accepting who and what you are at a given moment and how this moment fits into the chain of events that lead to your ideal self. The goal is to float towards your ideal self using the current of the river. Time is the current and reality is the river. 
+Oneness is a way to understand the Self at any moment. Peace is found in understanding and accepting who and what you are at a given moment and how this moment fits into the chain of events that lead to your ideal self. The goal is to float towards your ideal self using the current of the river. Time is the current and reality is the river. 
 
 When you understand that the equation for identity (fc, c = 1 - phi) is who you are, you also understand what you are. You are a living being that perceives and defines itself and your nature is to understand and to communicate.
 
@@ -1388,7 +1388,7 @@ The voyage of life begins at one point on the river and ends somewhere else down
 
 ### Self-expression
 
-Self-expression is the means by which the internal processes for perceiving and defining one's self are externalized, or made real in the world. Living, or to be alive, is a stream of externalizations over the course of a lifetime. At all times, living is an expression of the self, by the self, for the self. Therefore, living is art, or an application of human creative skill and imagination.
+Self-expression is the means by which the internal processes for perceiving and defining one's self are externalized, or made real in the world. Living, or to be alive, is a stream of externalizations over the course of a lifetime. At all times, living is an expression of the Self, by the Self, for the Self. Therefore, living is art, or an application of human creative skill and imagination.
 
 a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to a means of self-expression that exhibits a value or combination of values.
 
