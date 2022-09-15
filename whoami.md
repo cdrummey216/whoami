@@ -108,6 +108,10 @@ The Self defines its ends in the ways that it responds to all things and, the en
 
 ## Complexity
 
+Complexity is the eternal present. Its the stream of liquid time that we are wading downstream in to eternity. The present (now) is a moment on the stream, and it's existence is as fleeting as the bubbling water of a quick brook around your ankles. That moment has passed you by, and it only exists now in your memory of that singular present. As they say, you can never step in the same river twice.
+
+#### Examining the Present
+
 Why? Why is it like that? Why isn't this like that? Can it be different? 
 
 The complexity of each moment is found in the answers to questions like these. Asking _why_ is an interrogation of reason, of cause, and of source. The object of _why_ can be anything. Why am I here? Why are you? Why, why, why?
