@@ -187,7 +187,7 @@ An example of a universal truth about _the Self_ is that they all share in hope.
 ### (6) Abyss, a _noun_;
 Anything profound, unfathomable, or infinite.
 
-*The abyss of time.*
+*The abyss of time. The ever-widening chasm of liquid presence.*
 
 ## Five Facts about 'I' and 'Now'
 
@@ -217,9 +217,9 @@ If the wings move, it is a bird. You can see the shadow of the bird moving grace
 
 If the wings don't move, it is a plane. You can now see the shadow of the single engine cruising across the open space as it passes by overhead. The same sunlight hits the top of the wings thats casts the shape of wings, wheels, propeller on the grass before you. As the sharp lines of the wings maintain their shape, the shadow _remains the same_.
 
-I observe the silhouettes of truth at the exterior to understand more complex truths at the interior. Or, I rely on the simple truths to know complex truths because truth is consistent with truth.
+Observe the silhouettes of truth at the exterior to understand more complex truths at the interior. Or, rely on the simple truths to know complex truths because truth is always consistent with truth.
 
-The Self makes truth real (actual).
+The Self makes truth real (actual) through either word or action.
 
 ## Capturing the Complexity of the Present ('Now')
 
@@ -301,7 +301,13 @@ Doubt promotes understanding, understanding promotes doubt;
 
 Understanding promotes wisdom, wisdom promotes understanding;
 
-It’s good to exist between Understanding and Wisdom;
+#### Why is it good to exist between Understanding and Wisdom?
+
+True wisdom is to understand that things in the present moment are simultaneously complete and incomplete. There are beginings in ends, so what can be truly said about the means that achieved the ends that sprouted beginings? Do you trust beginings for their promise or the ends for their actualness?
+
+Surely, there is a place where a part of the ends morphed, exited, errored, transformed, grew into a begining. What happened there? Can an agent act in the present to also create a new begining?
+
+Does it have the potential to be good? This much, at least, I believe to be true. 
 
 Trust is influential. Belief is trust in something without full assurance. When you trust, you open your self up to influence from the object of trust. An object of trust can be someone you grant trust to or something believe is trustworthy. If you grant your trust to someone, it means that you value their perceptions. If trust in a belief, it means that you value the object of trust to such a degree, you allow it to influence you.
 
