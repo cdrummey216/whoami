@@ -532,7 +532,7 @@ Think of your self. Who you were and how its changed over the course of your lif
 
 How do I know that I change? I can XOR my present self with my past selves to see my growth and change over time.
 
-## Propositions, _meaning_ from Fractal Set calculations, & "I" AS IT EXISTS IN REAL-TIME
+## Propositions
 
 ![](logical_identity.png)
 
@@ -557,7 +557,7 @@ How do I know that I change? I can XOR my present self with my past selves to se
 | a+b/a = ϕ | (1 + 1/ϕ)/1  | Content Cell |
 | a/b = ϕ | 1/(1/ϕ)  | Content Cell |
 
-### Proposition: Golden Ratio & sense of self
+### Proposition 1: Golden Ratio & Sense of self
 
 A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
 
@@ -582,8 +582,19 @@ The value of ϕ (1.618) is the result of an equation using two given values (a, 
 * a+b = A combination of a and b
 * a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0 (zero or nothing)
 
-#### Properties of ϕ: 3) a+b is to a as a is to b AND 1) a+b/a = ϕ AND a/b = ϕ
-Self-concept is to self-perception as self-perception is to self-definition.
+#### Property #3 of ϕ: a+b is to a as a is to b
+
+The following parallelism is an analogy for the sense of Self, which captures the ineffability of perception and its presence in reality. Self-concept is the fullest observational content from a singular reference point for the observing self (the self-perceving self). This self-perceving self makes itself real through the manner and means it proceeds through real-time.
+
+_Self-concept is to self-perception as self-perception is to self-definition._
+
+#### Self-concept (*a+b*) is to self-perception (*a*) as...
+
+Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
+
+#### ...as self-perception (*a*) is to self-definition (*b*).
+
+Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
 **Example**
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
@@ -591,12 +602,6 @@ Self-concept is to self-perception as self-perception is to self-definition.
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
 * a+b/a = ϕ AND a/b = ϕ //"ϕ" is understood as sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the Self.
 * ~I am = Self-concept //an idea of the Self
-
-Self-concept (*a+b*) is to self-perception (*a*) as...
-* Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
-
-...as self-perception (*a*) is to self-definition (*b*).
-* Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
 #### Identity as Julia Set, a representation of Human Identity
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
@@ -610,7 +615,40 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 ![](image.png)
 
-## A Conversation with Life
+### Proposition 2: The Proportional Relationship of True variable Answers
+
+#### A Universal Truth
+
+* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
+* //Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a or a/b
+* When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.** //see property #1 of golden ratio
+* So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
+* y = kx //equation for constant of proportionality
+* k = y/x //any proportional relationship
+* END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
+* due to the fact that death and/or end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable. 
+* the proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. as a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value.
+* 1 = truth, or the proportion of two universal, directly proportional, and true variable answers 
+
+I will end.
+
+#### The Value of Truth
+* y = kx //equation for constant of proportionality
+* x = y/k
+* y = a //Who am I?, variable answer that acknowledges "I"
+* x = b //Who are you?, variable answer that acknowledges "I"
+* y = kx OR y = k * (y/k) OR y = ky/2k --> **y = y/k** //substituted predefined values for y, simplified, see above
+* x = y/k OR x = kx/k OR **x = x** //substituted predefined values for x, simplified, see above
+
+So when k = 1, 
+* y = 1x --> y = x //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary. 
+* x = y/1 --> x = y //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary.
+
+Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
+
+## _Meaning_ from the *Begin* and *End* Iterations of the Fractal Set
+
+### A Conversation with Life
 
 Through the Grace of God, it starts as awareness. My eyes open and the scene before me steadies. The floor, the rug, the chair are within my grasp, but I see past the floor, the rug, the chair. Up, down, left, right, I am aware of the emptiness around an object in space, my body.
 
@@ -643,37 +681,6 @@ I am alive, who am I?
 
 I know who I am.
 
-### PROPORTIONAL REALTIONSHIP OF TRUE VARIABLE ANSWERS: A Proposition
-
-#### A Universal Truth
-
-* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
-* //Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a or a/b
-* When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.** //see property #1 of golden ratio
-* So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
-* y = kx //equation for constant of proportionality
-* k = y/x //any proportional relationship
-* END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
-* due to the fact that death and/or end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable. 
-* the proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. as a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value.
-* 1 = truth, or the proportion of two universal, directly proportional, and true variable answers 
-
-I will end.
-
-#### The Value of Truth
-* y = kx //equation for constant of proportionality
-* x = y/k
-* y = a //Who am I?, variable answer that acknowledges "I"
-* x = b //Who are you?, variable answer that acknowledges "I"
-* y = kx OR y = k * (y/k) OR y = ky/2k --> **y = y/k** //substituted predefined values for y, simplified, see above
-* x = y/k OR x = kx/k OR **x = x** //substituted predefined values for x, simplified, see above
-
-So when k = 1, 
-* y = 1x --> y = x //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary. 
-* x = y/1 --> x = y //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary.
-
-Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
-
 #### VALUE OF VARIABLES ANSWERS a, b IN THE GOLDEN RATIO EQUATION 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
@@ -687,7 +694,9 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
-#### THE "I EXIST" EQUATION: The Answer
+## "I" AS IT EXISTS IN REAL-TIME
+
+### THE "I EXIST" EQUATION: The Answer
 
 **EXAMPLE**
 * Let identity[x] represent an iteration of **fc, c = 1 − ϕ** 
@@ -714,7 +723,7 @@ I exist. //I am present here and now. 1 = ϕ - 1/ϕ
 
 //I am present, therefore I am.
 
-#### 1 = ϕ - 1/ϕ
+### 1 = ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
 * Combination of value of self (ϕ) and value of self-expression (-1/ϕ), or **ϕ + (-1/ϕ)** //also ϕ - 1/ϕ
 * When the value of self-expression (1/ϕ) is subtracted from the value of the Self (ϕ), the value that remains is 1. //oneness, or 1 = ϕ - 1/ϕ
