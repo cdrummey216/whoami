@@ -559,7 +559,7 @@ How do I know that I change? I can XOR my present self with my past selves to se
 
 ### Proposition 1: Golden Ratio & Sense of self
 
-A calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
+//Consider a calculation of the Golden Ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
 
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional values.
 
