@@ -933,6 +933,14 @@ How did the mind evolve?
 
 "_Me_ corresponds to the Self as an object of experience (self as object), while _I_ reflects the Self as a subject of experience (self as subject)."
 
+## Definitions
+
+(1) Life, a noun;
+(2) Good, an adjective;
+(3) Past, a noun;
+(4) Present, a noun;
+(5) Future, a noun;
+
 ## 0a: Five Facts about me
 1. This (body) is me.
 2. This (place) is around me.
