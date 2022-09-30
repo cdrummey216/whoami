@@ -669,6 +669,26 @@ In You I trust. Bless my work, and amend it.
 
 I am alive, who am I?
 
+## A Conversation with Death
+
+**Key Topics**
+* Why? //cannot know life without first understanding death
+* when the Self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
+* A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
+* A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
+* A 'no' signals fear of death //"are you ready?"
+
+**Are you ready?**
+
+* If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
+* If no, wait. //to wait is to dread
+
+**Are you willing?**
+* For most, the answer is 'no' //there are only a few things someone may be willing to die for
+* The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
+* This question highlights the value of ability and intent //the ability to end exists for the Self, but the Self must have intent in order to end.
+* Intent is a choice and ability is a means
+
 #### The *End* Iteration //last iteration of identity or identity[n-1]
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am not alive'
@@ -920,21 +940,30 @@ How did the mind evolve?
 4. The present is before me.
 5. The future is after me.
 
-Good intentions in both words and actions are an imperitive through good faith and good will.
-In order to be intentional, someone must be present to respond in some manner (how do you want to respond). In order to live in real-time, someone must respond. An imperitive arises to be present and to act.
+Good intentions in both words and actions are an imperitive through good faith and good will. In order to be intentional, someone must be present to respond in some manner (how do you want to respond). In order to live in real-time, someone must respond. An imperitive arises to be present and to act.
 
 * Authenticity without offensiveness
 * Sincerity without design
 * Simplicity without distortion
 * Fluidity without yeilding
 
-### outline
-* Health (post-alcohol/respect for body, future)
-* Family (Support, care)
-* Love (audrey,grant,ronan, simple joy of life)
-* Methods of Expression ('making', computers, tools, art)
-* Inequality is the source of imbalance. How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... (life is so rich and joy is bountiful. Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...)
+### How do I forgive yesterday's self?
+* How do I forgive yesterday's self?
+* Time separates today and yesterday. and I only travel in one direction. So I must move on, always.
 
+### How should today's self live?
+* How should today's self live? 
+* Know that it is good to be alive, always. Respond in real-time (self-expression) while being one with the present.
+
+### How do I plan for tomorrow's self?
+* How do I plan for tomorrow's self? 
+* You have agency now, so what can you do for tomorrow's self? Navigate to the ideal self over time.
+
+### The Ideal of Balance
+* Inequality is the source of imbalance. 
+* How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... 
+* Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...
+* Methods of Expression ('making', computers, tools, art as examples of human creativity)
 
 # Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
 
