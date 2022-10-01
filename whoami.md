@@ -245,9 +245,9 @@ I reject those things I did as answers to the question "Who am I?" I have accomp
 
 I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was that someone? And why did he believe 'Life is good'? And how do I know it's not me?
 
-## Ethics
+## 5 Rules, 5 Big Facts, & 5 Judgements //isle[555]
 
-### Rules
+### Rules //Ethics
 
 **Golden Rule:**
 
@@ -257,9 +257,31 @@ Treat others the way you want to be treated.
 
 Treat yourself the way you want to be treated by others.
 
-**Fact of Identity**
+**First Rule:**
+Do no harm.
 
+**Second Rule:**
+Honesty is an imperative.
+
+**Third Rule:**
+Receptivity is essential.
+
+### Big Facts
+
+**Fact of Facts**
+It is apparent. It is within your reach, go! Grasp, reality.
+
+**Fact of Suffering**
+Everyone, every person, feels pain.
+
+**Fact of Self**
+Everyone, every self, wants to feel good.
+
+**Fact of Identity**
 Identity is real because you are _your_ Self. It can be lost and it can be found. It can be restored.
+
+**Fact of Life**
+Wave away the darkness with the light in your hand. Or, move forward because you must and because you can. You are the triumph, the rising swell of the wave of humankind. Well met, kindred.
 
 ### Judgements
 
@@ -273,8 +295,13 @@ Identity is real because you are _your_ Self. It can be lost and it can be found
 * Preserve/protect lesser forms.
 * Promote growth.
 
+**Love is good.**
+* Patience is an imperative.
+* Receptivity is essential.
+* Simplicity is fundamental.
+
 **Choice is good.**
-* Receptivity increases longevity.
+* Consistency increases longevity.
 * Patience is a virtue.
 * Inaction/non-interference is valid.
 
