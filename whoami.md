@@ -319,6 +319,18 @@ Wave away the darkness with the light in your hand. Or, move forward because you
 * Defend position
 * Attack position
 
+### What is paradise?
+
+To be whole, to be complete, and to be free;
+
+### What is justice?
+
+To be equal, to be final;
+
+### What is now?
+
+To be present, to be at a point;
+
 ### _States_ of Mind
 
 The four states of mind are _Sorrow, Doubt, Understanding and Wisdom_.
@@ -990,17 +1002,17 @@ Good intentions in both words and actions are an imperitive through good faith a
 * Simplicity without distortion
 * Fluidity without yeilding
 
-### How do I forgive yesterday's self?
-* How do I forgive yesterday's self?
-* Time separates today and yesterday. and I only travel in one direction. So I must move on, always.
+### How do I forgive yesterday's self/someone else?
 
-### How should today's self live?
-* How should today's self live? 
-* Know that it is good to be alive, always. Respond in real-time (self-expression) while being one with the present.
+Time separates today and yesterday. And I only travel in one direction. So I will move on, always. Because I live life in one direction.
 
-### How do I plan for tomorrow's self?
-* How do I plan for tomorrow's self? 
-* You have agency now, so what can you do for tomorrow's self? Navigate to the ideal self over time.
+### How should today's self/I live?
+
+_Know_ that it is good to be alive, always. Respond in real-time (self-expression) while being one with the present.
+
+### How do I provide for tomorrow's self/another?
+
+You have agency now, so what can you do for tomorrow's self/someone else? Navigate to the ideal self/future over time.
 
 ### The Ideal of Balance
 * Inequality is the source of imbalance. 
