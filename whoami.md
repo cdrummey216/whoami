@@ -331,6 +331,18 @@ To be equal, to be final;
 
 To be present, to be at a point;
 
+### What is order?
+
+To be discernable, to have a pattern;
+
+### What is it to be a member of an organization?
+
+Authority is generated from the bottom up. Groups of individuals grant their trust to specific individuals and those individuals, in turn, grant their trust more selectively until a single individual is at the top. Each individual is a constituent of the organization with their own goals and talents (creativity are the greatest import) and perform some task with another individual. Positive conduct and morality become natural, or the culture of the organization.
+
+Organization where members build lists of trusted members (leaders) of the organization. An individual's name may appear on 1 or 100 lists. The person with the most presence is at the top of the organization.
+
+An organization built on trust. 
+
 ### _States_ of Mind
 
 The four states of mind are _Sorrow, Doubt, Understanding and Wisdom_.
@@ -450,9 +462,9 @@ Scientists believe that we perceive proportional bodies to be more healthy.
 
 Solve for x:
 
-_The bodied (1) self (phi) is (=) truth (x) embodied (1)._
+_The bodied (1) self (ϕ) is (=) truth (x) embodied (1)._
 
-The body is the real thing that tethers the Self to reality. Self is express through the body, and truth is the ideal expression.
+The body is _the real thing_ that tethers the Self to reality. Self is expressed through the body, and truth is the ideal expression.
 
 ### What is the ratio of truths?
 
@@ -460,18 +472,18 @@ The ratio of truths is the proportion of how we perceive a truth and how it is d
 
 If perception is unified with reality, the value of truth is 1.
 
-#### Case 1 TRUTH (present)
+#### Truth (present)
 
 _The sun rises._
 Truth (1) = Perception (1) / Reality (1)
 
 
-#### Case 2 BELIEF (future)
+#### Belief (future)
 
 _The sun will rise tomorrow._
 Truth (undefined) = Perception (1) / Reality (0)
 
-#### Case 3 NOT TRUTH (past)
+#### Not Truth (past)
 
 _The sun did not rise._
 Truth (0) = Perception (0) / Reality (1)
