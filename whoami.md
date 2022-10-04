@@ -458,6 +458,8 @@ Scientists believe that we perceive proportional bodies to be more healthy.
 
 ## The Property of Truth
 
+One should never be surprised by the **Truth**, because the **Truth** about one thing is always congruent in some manner to another thing. And, **Truth** is enmeshed in all things. It is the quintessential element that tethers humanity to all things in reality. As a species, we are driven onwards by our perpetual quest for truth. And truths can observed, or known, or understood, or believed. No matter what, though, **Truth** is real. It is a foundational aspect of reality and our perception (of everything, including our _Selfs_), so defining the truth about what the Self is is critical to deeper understanding of the physical realm and abstract thought. The **Truth** is the answer to any question that is congruent with what is already real and known. **Truths** are the milemarkers on the path to knowledge and wisodm.
+
 ### What is the value of truth?
 
 Solve for x:
