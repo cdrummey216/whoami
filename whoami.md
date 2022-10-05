@@ -319,9 +319,13 @@ Wave away the darkness with the light in your hand. Or, move forward because you
 * Defend position
 * Attack position
 
+## What is it to be alive?
+
+To be incomplete, to have more time.
+
 ### What is paradise?
 
-To be whole, to be complete, and to be free;
+To be whole, to be free;
 
 ### What is justice?
 
