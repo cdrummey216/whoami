@@ -245,7 +245,7 @@ I reject those things I did as answers to the question "Who am I?" I have accomp
 
 I say that someone else wrote the passage above for me because before I reread the passage, I didn't remember the event or writing the words. The story is true, because I can recall now the chair I built and the corner its in in my garage. The paint cans are still on the shelf, undisturbed. I remember feeling like I was paralyzed as I fell into the chair. I remember stretching and tracing my body because I had been doing it for years. But who was that someone? And why did he believe 'Life is good'? And how do I know it's not me?
 
-## Rules, Facts, & Judgements //Ethics
+## Rules, Facts, & Judgements
 
 ### Rules
 
@@ -273,7 +273,7 @@ Treat yourself the way you want to be treated by others.
 
 **(1) Fact of Facts**
 
-It is apparent. It is within your reach, go! Grasp, reality.
+It is apparent. It is within your reach, go! Grasp at reality.
 
 **(2) Fact of Suffering**
 
@@ -338,14 +338,6 @@ To be present, to be at a point;
 ### What is order?
 
 To be discernable, to have a pattern;
-
-### What is it to be a member of an organization?
-
-Authority is generated from the bottom up. Groups of individuals grant their trust to specific individuals and those individuals, in turn, grant their trust more selectively until a single individual is at the top. Each individual is a constituent of the organization with their own goals and talents (creativity are the greatest import) and perform some task with another individual. Positive conduct and morality become natural, or the culture of the organization.
-
-Organization where members build lists of trusted members (leaders) of the organization. An individual's name may appear on 1 or 100 lists. The person with the most presence is at the top of the organization.
-
-An organization built on trust. 
 
 ### _States_ of Mind
 
@@ -469,6 +461,9 @@ One should never be surprised by the **Truth**, because the **Truth** about one 
 Solve for x:
 
 _The bodied (1) self (ϕ) is (=) truth (x) embodied (1)._
+
+1 * ϕ = x * 1;
+ϕ = x;
 
 The body is _the real thing_ that tethers the Self to reality. Self is expressed through the body, and truth is the ideal expression.
 
@@ -628,7 +623,9 @@ How do I know that I change? I can XOR my present self with my past selves to se
 
 The value of ϕ (1.618) is the result of an equation using two given values (a, b) that have specific properties in relation to each other. When these properties are present, the values are in the golden ratio. As it relates to the calculation of identity as a fractal set, the value of ϕ (1.618) is the ideal ratio for any two values for a, b. The necessary inputs to calculate identity as a fractal set are two true variable answers for *a* and *b*. Analogous to the golden ratio is the constant for proportionality, which is the ratio between two directly proportional values.
 
-| Properties of ϕ | For any value a,b |
+The variable answer a is an answer to "Who am I?" and gives contextual truth as well as provides the limiting scope for b. The variable answer b is an answer to "Who are you?" In order to be at the golden ratio, the variable answers a,b must be true about "I".
+
+| Properties of ϕ | Equation |
 | ------------- | ------------- |
 | Property #1 | a+b/a = ϕ  |
 | Property #2 | a/b = ϕ |
@@ -636,16 +633,6 @@ The value of ϕ (1.618) is the result of an equation using two given values (a, 
 | Property #4 | a+b is to a as a is to b. |
 | Property #5 | ϕ = 1 + 1/ϕ |
 | Property #6 | ϕ = (ϕ + 1)/ϕ  |
-
-* a+b/a = ϕ AND a/b = ϕ //(1) property of ϕ
-* a > b > 0 //(2) property of ϕ, the scope of *a* is greater than the scope of *b* (*a > b > 0*)
-* a+b is to a as a is to b. //(3) property of ϕ
-* **ϕ = 1 + 1/ϕ** //(4) property of ϕ,  ϕ can be used to define itself (method #1).
-* **ϕ = (ϕ + 1)/ϕ** //(5) property of ϕ,  ϕ can be used to define itself (method #2).
-* a = A variable answer to "Who am I?", gives contextual truth for b, provides the limiting scope for b
-* b = A variable answer to "Who are you?"
-* a+b = A combination of a and b
-* a, b must be true in order to be proportional to each other //proportional as it relates to "I", the scope of a must be greater than b and b must be greater than 0 (zero or nothing)
 
 #### Property #3 of ϕ: a+b is to a as a is to b
 
