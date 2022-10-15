@@ -527,12 +527,20 @@ Your self-concept is how you perceive (or understand) yourself. Self-concept is 
 
 Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
-**Example**
+#### Example 12345
 * a = I am a man. (self-perception) //contextless so any response possible, must be true
 * b = I am florist. (self-definition) //limited to context, must be true
 * a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
 * a+b/a = ϕ AND a/b = ϕ //"ϕ" is understood as sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the Self.
 * ~I am = Self-concept //an idea of the Self
+
+| Interogative | Variable | Answer | Meaning | 
+| ------------- | ------------- | ------------- | ------------- |
+| Who am I? | a | I am a man.  | Self-perception |
+| Who are you?  | b  | I am a florist.  | Self-definition |
+| What are you?  | a + b  | I am a man that is a florist. | Self-concept |
+
+When in the golden ratio, a+b/a = ϕ and a/b = ϕ
 
 #### Identity as Julia Set, a representation of Human Identity
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
