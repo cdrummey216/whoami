@@ -108,7 +108,7 @@ The Self defines its ends in the ways that it responds to all things and, the en
 
 ## Complexity
 
-Complexity is the eternal present. Its the stream of liquid time that we are wading downstream in to eternity. The present (now) is a moment on the stream, and it's existence is as fleeting as the bubbling water of a quick brook around your ankles. That moment has passed you by, and it only exists now in your memory of that singular present. As they say, you can never step in the same river twice.
+Complexity is the eternal present. Its the stream of liquid time that we are wading downstream in to eternity. The present (now) is a moment on the stream, and it's existence is as fleeting as the bubbling water of a quick brook around your ankles. That moment has passed you by, and it only exists now in your memory of that singular present. Complexity is the eternal present, the condensation of this moment in your mind.
 
 #### Examining the Present
 
