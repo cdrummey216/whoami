@@ -540,7 +540,7 @@ Your self-perception is how you define (or communicate) yourself. Self-perceptio
 | Who are you?  | b  | I am a florist.  | Self-definition |
 | What are you?  | a + b  | I am a man that is a florist. | Self-concept |
 
-When in the golden ratio, a+b/a = ϕ and a/b = ϕ
+The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. 
 
 #### Identity as Julia Set, a representation of Human Identity
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
