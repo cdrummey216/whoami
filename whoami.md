@@ -534,17 +534,13 @@ Your self-concept is how you perceive (or understand) yourself. Self-concept is 
 Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
 #### Example 12345
-* a = I am a man. (self-perception) //contextless so any response possible, must be true
-* b = I am florist. (self-definition) //limited to context, must be true
-* a+b = I am a man that is a florist. //combination for self-concept, must be true as it relates to a and b
-* a+b/a = ϕ AND a/b = ϕ //"ϕ" is understood as sense of self, or the feeling of identity, uniqueness, and self-direction. both variable answers for a, b acknowledge that at minimum I am (~I am) and provide some datapoints to understand the Self.
-* ~I am = Self-concept //an idea of the Self
 
-| Interogative | Variable | Answer | Meaning | 
+| Interogative | Variable | Meaning | Answer | 
 | ------------- | ------------- | ------------- | ------------- |
-| Who am I? | a | I am a man.  | Self-perception |
-| Who are you?  | b  | I am a florist.  | Self-definition |
-| What am I?  | a + b  | I am a man that is a florist. | Self-concept |
+| Who am I? | a | Self-perception | I am a man. |
+| Who are you? | b | Self-definition | I am a florist. |
+| What am I? | a + b | Self-concept | I am a man that is a florist. |
+| I am. | ϕ | Self | Sense of self, or the feeling of identity, uniqueness, and self-direction. Both variable answers for a, b acknowledge that at minimum 'I am' and provide some datapoints to understand the Self. |
 
 The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. 
 
