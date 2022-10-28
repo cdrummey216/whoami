@@ -544,7 +544,7 @@ Your self-perception is how you define (or communicate) yourself. Self-perceptio
 | ------------- | ------------- | ------------- | ------------- |
 | Who am I? | a | I am a man.  | Self-perception |
 | Who are you?  | b  | I am a florist.  | Self-definition |
-| What are you?  | a + b  | I am a man that is a florist. | Self-concept |
+| What am I?  | a + b  | I am a man that is a florist. | Self-concept |
 
 The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. 
 
