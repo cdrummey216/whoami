@@ -540,7 +540,7 @@ Your self-perception is how you define (or communicate) yourself. Self-perceptio
 | Who am I? | a | Self-perception | I am a man. |
 | Who are you? | b | Self-definition | I am a florist. |
 | What am I? | a + b | Self-concept | I am a man that is a florist. |
-| I am. | ϕ | Self | Sense of self, or the feeling of identity, uniqueness, and self-direction. Both variable answers for a, b acknowledge that at minimum 'I am' and provide some datapoints to understand the Self. |
+| Am I?/I am. | ϕ | Self | Sense of self, or the feeling of identity, uniqueness, and self-direction. Both variable answers for a, b acknowledge that at minimum 'I am' and provide some datapoints to understand the Self. |
 
 The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. 
 
