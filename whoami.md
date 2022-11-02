@@ -865,10 +865,6 @@ The eternal present is eyes open, looking into liquid time as it washes over/pas
 * Peace is found in the balance of reality and perception (of the Self).
 * The 'I am' equation shows that oneness can be achieved for the Self by harmonizing the Self (perceived, abstract) and self-expression (actual, reality)
 
-## a note on humanity
-
-How did the mind evolve?
-* Looking up at the stars and down at their reflections (in water). A baby will fixate on a light source, moving their heads and eyes to follow it. As the human form evolved, the 'mind' also developed as a means to interact with the world. Naturally, each being would look up at the skies at night with curiousity or stare into a clear pool at the face appearing before them. Each example is an exercise in curiosity that the mind undertakes to percieve *the world* around them or *itself*.
 
 # Part 3: Life is good.
 
@@ -877,9 +873,13 @@ How did the mind evolve?
 ## Definitions
 
 (1) Life, a noun;
+
 (2) Good, an adjective;
+
 (3) Past, a noun;
+
 (4) Present, a noun;
+
 (5) Future, a noun;
 
 ## 0a: Five Facts about me
@@ -917,17 +917,12 @@ You have agency now, so what can you do for tomorrow's self/someone else? Naviga
 # Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
 
 ## Overview & Purpose
-Self-expression is the means by which *the internal processes for perceiving and defining one's self* are externalized, or made real in the world. Living, or *to be alive*, is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the Self**, *by the Self*, <ins>for the Self</ins>. Therefore, living is art, or an application of human creative skill and imagination. 
 
-a life lived is a magnum opus. //greatest work of art in a lifetime, most important of any work. 'work' refers to a means of self-expression that exhibits a value or combination of values. 
+Self-expression is the means by which *the internal processes for perceiving and defining one's self* are externalized, or made real in the world. Living, or *to be alive*, is a stream of externalizations over the course of a lifetime. At all times, living is an **expression of the Self**, *by the Self*, <ins>for the Self</ins>. Therefore, living is art, or an application of human creative skill and imagination. The mind is a tool refined by evolution that is infinitely creative in the ways in which it responds to the eternal present, but how did it come to be?
 
-Other opuses: //an externalization that exhibits a value
-* work of kindness
-* work of gratitude
-* work of love
-* work of skill
-* work of art
-* work of...
+Looking up at the stars and down at reflections in water. A baby will fixate on a light source, moving their heads and eyes to follow it. As the human form evolved, the 'mind' also developed as a means to interact with the world. Naturally, each being would look up at the skies at night with curiousity or stare into a clear pool at the face appearing before them. Each example is an exercise in curiosity that the mind undertakes to percieve *the world* around them or *itself*.
+
+So, what is the ideal application of the mind? How can it swell the very edges of perception and pulse in union with the eternal present we find ourselves? Consider your self a work of art and the memories of your life that exist within your mind and the mind of others as brushstrokes on a blank canvas. Your life is your very own magnum opus. It is up to you to decide what it looks like, and what you do with the time that is given to you.
 
 ## Existential Calm & the [Isle[0]](identityisle.md)
 
