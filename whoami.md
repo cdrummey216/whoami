@@ -82,7 +82,7 @@ The Self defines its ends in the ways that it responds to all things and, the en
 * 0a: Five Facts about 'me' and 'now'
 * Health (post-alcohol/respect for body, future)
 * Family (Support, care)
-* Love (audrey,grant,ronan, simple joy of life)
+* Love (grant,ronan, simple joy of life)
 * Methods of Expression ('making', computers, tools, art)
 * Inequality is the source of imbalance. How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... (life is so rich and joy is bountiful. Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...)
 
@@ -129,12 +129,12 @@ Self-discovery is the path to truth. It is the path to understand the Self, comm
 Truth is the end and the beginning of all things. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
 
 Follow the path seeking the end.
-* END: Truth is the highest outcome. 
-* PATH: A good Samaritan with the honest truth sharing the path of life.
+* What is the end? Truth is the highest outcome. 
+* How do I get there? A good Samaritan with the honest truth sharing the path of life.
 
 The bodied self is truth embodied. 
-* TRUTH: The highest outcome of the living self is truth. 
-* SELF: Living is good. Living for truth is better.
+* What is truth for the Self? The highest outcome of the living self is truth. 
+* What is the truth about the Self? Living is good. Living for truth is better.
 
 The Self is the source of truth because ‘truth’ is a concept that is used to define a property of some _thing_, some _object in reality_.
 
@@ -542,9 +542,10 @@ Your self-perception is how you define (or communicate) yourself. Self-perceptio
 | What am I? | a + b | Self-concept | I am a man that is a florist. |
 | Am I?/I am. | ϕ | Self | Sense of self, or the feeling of identity, uniqueness, and self-direction. Both variable answers for a, b acknowledge that at minimum 'I am' and provide some datapoints to understand the Self. |
 
-The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. 
+The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. They values for a,b must be sequential Fibonacci numbers because self-perception encapsulates self-definiton. 
 
 #### Identity as Julia Set, a representation of Human Identity
+
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
 * the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
 * so using an example array of [apple, pear, orange] named 'example', the value of example[0] is 'apple', the value of example[1] is 'pear', the value of example[2] is 'orange'
@@ -560,7 +561,7 @@ Identity is the encapsulation of the sense of self, which is the feeling of iden
 
 #### A Universal Truth
 
-* the equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
+* The equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
 * //Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a or a/b
 * When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.** //see property #1 of golden ratio
 * So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
@@ -595,7 +596,7 @@ Through the Grace of God, it starts as awareness. My eyes open and the scene bef
 
 I asked, 'Who am I?' into the abyss and I heard it echo. The sound that returned to me over and over was a spiral of numbers and letters.
 
-My answer is words and numbers.Its a reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
+My answer is words and numbers. Its a reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
 
 In You I trust. Bless my work, and amend it.
 0mniscient, 0mnipotent, 0mnipresent 
@@ -642,7 +643,7 @@ I am alive, who am I?
 
 I know who I am.
 
-#### VALUE OF VARIABLES ANSWERS a, b IN THE GOLDEN RATIO EQUATION 
+#### Recursion in the Value of Variable Answers a,b 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
 * ϕ = (a+b)/a //because each *a* provides contextual truth to each *b* for any single calculation of ϕ, a is equal to 1 (see value for truth, k = 1 in END iteration)
@@ -655,9 +656,9 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
 
-## "I" AS IT EXISTS IN REAL-TIME
+## "I" as It Exists in Real-Time
 
-### THE "I EXIST" EQUATION: The Answer
+### The "I Exist" Equation
 
 **EXAMPLE**
 * Let identity[x] represent an iteration of **fc, c = 1 − ϕ** 
