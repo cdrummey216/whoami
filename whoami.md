@@ -899,7 +899,7 @@ Good intentions in both words and actions are an imperitive through good faith a
 
 ### How do I forgive yesterday's self/someone else?
 
-Time separates today and yesterday. And I only travel in one direction. So I will move on, always. Because I live life in one direction.
+Time separates today and yesterday. And perception is sequential, it travels in one direction. So I will move on, always because we must live life in one direction.
 
 ### How should today's self/I live?
 
@@ -908,6 +908,26 @@ _Know_ that it is good to be alive, always. Respond in real-time (self-expressio
 ### How do I provide for tomorrow's self/another?
 
 You have agency now, so what can you do for tomorrow's self/someone else? Navigate to the ideal self/future over time.
+
+### Who am I?  
+
+Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
+
+### Why am I here? 
+
+That is a question that can only be answered by the asker. However, the question "What can I *do*?" is more relevant in any given situation. This question gives direction and purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction and purpose, any answer will not change the fact that you are here and you *need* to do something so "What *can* I *do*?" becomes more relevant.
+
+### What do I do with my life?  
+
+Start with: what does the end of my life look like? and work backwards. How do you get there and what can you do now to get there?
+
+### Who do I choose to spend time with? 
+
+'Shared consciousness' as a relationship shared between two or more persons, where is the greatest positive overlap?
+
+### What happens when I die?  
+
+The loop of 'a life' completes. A birth at the beginning and a death at the end. Birth and death are like two book ends and each life is composed of the stories in between.
 
 ### The Ideal of Balance
 * Inequality is the source of imbalance. 
@@ -969,16 +989,6 @@ So, what is the ideal application of the mind? How can it swell the very edges o
 * EXTERNAL: "I am" has the meaning that "I am a living being in reality" //"in reality" because reality is implied in the context of either *a* or *b* in the equation for ϕ and, therefore, the context of "I am" must be reality also. More specifically, "Who are you?" and "Who am I?" (contained in the equation for ϕ) are observable events.
 * INTERNAL: The combination of the value of self (ϕ) and the value of self-expression (-1/ϕ) represents the ideal vision for the Self based upon how it conceives and expresses itself in real-time (present-reality). The ideal vision is how each self wants to be and how the Self is expressed. *Oneness* is when the combination of sense of self (perceptions/definitions of self) and self-expression (externalization) are equal to reality. //1 *as reality* = ϕ *as self* - 1/ϕ (externalization) 
 * Peace is found in the balance of reality and perception (of the Self).
-
-
-## Questions for Self
-
-**Key Topics**
-* Who am I?  //Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
-* Why am I here? //that is a question that can only be answered by the asker. however, the question "What can I *do*?" is more relevant in any given situation. this question gives direction/purpose through ability ("What *can* I do?"). "Why am I here?" is seeking contextless direction/purpose, any answer will not change the fact that you are here and you *need* to do something so "What *can* I *do*?" becomes more relevant.
-* What do I do with my life?  //start with: what does the end of my life look like? and work backwards. How do you get there and what can you do now to get there? (direction)
-* Who do I choose to spend time with? //'shared consciousness' as a relationship between two or more persons, where is the greatest positive overlap?
-* What happens when I die?  //the loop of 'a life' completes. a birth at the beginning and a death at the end. birth and death are like two book ends and each life is composed of the stories in between.
 
 ## Living as Art
 
