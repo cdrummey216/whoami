@@ -80,10 +80,6 @@ The Self defines its ends in the ways that it responds to all things and, the en
 
 **Part 3: Life is good.**
 * 0a: Five Facts about 'me' and 'now'
-* Health (post-alcohol/respect for body, future)
-* Family (Support, care)
-* Love (grant,ronan, simple joy of life)
-* Methods of Expression ('making', computers, tools, art)
 * Inequality is the source of imbalance. How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... (life is so rich and joy is bountiful. Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...)
 
 **Part 4: How is identity defined?**
@@ -870,6 +866,14 @@ The eternal present is eyes open, looking into liquid time as it washes over/pas
 # Part 3: Life is good.
 
 "_Me_ corresponds to the Self as an object of experience (self as object), while _I_ reflects the Self as a subject of experience (self as subject)."
+
+ϕ^2 = ϕ + 1
+
+ϕ = (1 + √5)/2
+
+1/ϕ = (1 - √5)/2
+
+ϕ = ((5^0.5) * 0.5) + 0.5
 
 ## Definitions
 
