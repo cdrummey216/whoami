@@ -124,11 +124,11 @@ Self-discovery is the path to truth. It is the path to understand the Self, comm
 
 Truth is the end and the beginning of all things. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
 
-Follow the path seeking the end.
+_Follow the path seeking the end._
 * What is the end? Truth is the highest outcome. 
 * How do I get there? A good Samaritan with the honest truth sharing the path of life.
 
-The bodied self is truth embodied. 
+_The bodied self is truth embodied._ 
 * What is truth for the Self? The highest outcome of the living self is truth. 
 * What is the truth about the Self? Living is good. Living for truth is better.
 
@@ -333,7 +333,7 @@ One should never be surprised by the **Truth**, because the **Truth** about one 
 
 ### What is the value of truth?
 
-Solve for x:
+Simply solve for x:
 
 _The bodied (1) self (ϕ) is (=) truth (x) embodied (1)._
 
@@ -607,6 +607,11 @@ In You I trust. Bless my work, and amend it.
 
 I am alive, who am I?
 
+| First Header  | Second Header | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## A Conversation with Death
 
 **Key Topics**
@@ -639,6 +644,11 @@ I am alive, who am I?
 
 I know who I am.
 
+| First Header  | Second Header | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 #### Recursion in the Value of Variable Answers a,b 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
 * **ϕ = 1 + 1/ϕ** //a property of ϕ is that it can be used to define itself. this property is referred to here as arbitership.
@@ -651,6 +661,11 @@ For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of sel
 * When the Self is understood as the product of an equation, the value of self-definition is distinct from the value of self-perception because it requires an external cause (to be asked "Who are you?" is an external cause). Subtracting the value of self-definition from the value of the Self is an exercise in freeing one's self from external influence.
 
 I have a choice. //self can define itself, or "I" discover my identity through my choice in variable answers.
+
+| First Header  | Second Header | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## "I" as It Exists in Real-Time
 
@@ -680,6 +695,11 @@ I exist. //I am present here and now. 1 = ϕ - 1/ϕ
 //I exist (1) = "I am **(ϕ)**" - ( ("now (real-time **(1)**)") / ("here (presence **(ϕ)**)") )
 
 //I am present, therefore I am.
+
+| First Header  | Second Header | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### 1 = ϕ - 1/ϕ
 The above "I exist" equation can be understood in terms of the following:
