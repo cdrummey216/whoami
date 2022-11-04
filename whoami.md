@@ -301,9 +301,11 @@ The natural world is chaotic and unpredictable but, as a physical realm, it is o
 
 These things on display are complex, old, and natural. The golden ratio is a fundamental part of our physical realm and is a guiding influence on animate/inanimate objects in the world. My personal favorite display of the golden ratio in nature appears in disc phyllotaxis, which is the arrangement of leaves around the stem of a plant. In most cases, a regularity is observed in the divergence angle of subsequent leaves. The divergence angle refers to the angle at which the stems divide a whole circle into regular fractions. These fractions are, more often than not, rational fractions of two Fibonacci numbers converging towards the irrational limit of the golden section. Specifically, the golden section of a circle corresponds to the golden divergence angle of 137.5 degrees.
 
-Why? How did the golden ratio and Mr. Fibonacci insert themselves into the very fabric of life, governing the position of leaves on a stem? 
+Q: Why? How did the golden ratio and Mr. Fibonacci insert themselves into the fabric of life, governing the very position of leaves on a stem? 
 
-Evolutionary pressure weighs on all life, and it seems to be used by plants to optimize light capture on photosynthetic leaves. I mean, come on...
+A: Evolutionary pressure weighs on all life, and it is on display in plant life to optimize the capture of light on leaves for photosynthesis. 
+
+I mean, come on...
 
 ![](Golden_Angle.png)
 
