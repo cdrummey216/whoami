@@ -279,11 +279,11 @@ You should care about the golden ratio because it so common. Its natural. It is 
 
 ### What is it?
 
-The "golden ratio" refers to a mathematical relationship between two numbers that is observable when the ratio of the sum of the numbers (a+b) divided by the larger number (a) is equal to the ratio of the larger number divided by the smaller number (a/b).The golden ratio is approximately 1.618, and represented by the Greek letter phi, ϕ.
+The "golden ratio" refers to a mathematical relationship between two numbers that is observable when the ratio of the sum of the numbers (a + b) divided by the larger number (a) is equal (=) to the ratio of the larger number divided by the smaller number (a/b).The golden ratio is approximately 1.618, and represented by the Greek letter Phi, ϕ.
 
 The golden ratio can be approximated using the Fibonacci numbers, which are numbers in a sequential, never-ending pattern that begins with 0 and 1, and continues infinitely by adding the previous two numbers. For example, the sequence [0,1,1,2,3,5] represents the first six numbers in the sequence and the pattern is seen in the fact that the sum of the first two numbers (0,1) equal the third number (1). The pattern continues in that the sum of the second and third numbers (1, 1) equal the fourth number (2) and so on.
 
-As the the numbers in the Fibonacci sequence increase, the ratio of any two sequential numbers approach the golden ratio. To put it differently, the higher the Fibonacci numbers are in the sequence, the closer their ratio is to 1.618. As shown below, the quotient of 89 and 144 is much closer to the golden ratio that the quotient of 2 and 1, which are much lower in the Fibonacci sequence. 
+As the the numbers in the Fibonacci sequence increase, the ratio of any two sequential numbers approach the golden ratio. To put it differently, the higher the Fibonacci numbers are in the sequence, the closer their ratio is to Phi (ϕ). As shown below, the quotient of 89 and 144 is much closer to the golden ratio that the quotient of 2 and 1, which are much lower in the Fibonacci sequence. 
 
                     2/1 = 2
                     3/2 = 1.5
@@ -293,23 +293,21 @@ As the the numbers in the Fibonacci sequence increase, the ratio of any two sequ
                     ...
                     4181/2584 = 1.61803405573
 
-Also called the "divine proportion," the golden ratio is frequently displayed in the natural world. A common example is the golden spiral, which is a logarithmic spiral whose growth factor is ϕ and is a self-similar spiral curve the is observable in things like seashells, hurricanes, and spiral galaxies. Furthermore, the number of petals on a flower or the sides of an unpeeled banana will often be Fibonacci numbers and the pine cones twist in opposing spirals of Fibonacci numbers.
+Also called the "divine proportion," the golden ratio is frequently on display in the natural world. A common example is the golden spiral, which is a logarithmic spiral whose growth factor is ϕ and is a self-similar spiral curve the is observable in things like seashells, hurricanes, and spiral galaxies. Furthermore, the number of petals on a flower or the sides of an unpeeled banana will often be Fibonacci numbers and the pine cones twist in opposing spirals of Fibonacci numbers.
 
 ### Examples in Nature
 
 The natural world is chaotic and unpredictable but, as a physical realm, it is organized and bound by the laws of mathematics. A fundamental way in which mathematics manifests itself in physical phenomenon is through the golden ratio. Natural processes like the spiraling of a galaxy or the revolution of a hurricane exhibit the same logarithmic spirals found in the golden spiral. Numbers in the Fibonacci sequence and the golden spiral are also observabled in various life forms that have evolved on Earth such as the number of petals on flowers or in the length and number of the arms on a starfish.
 
-These things on display are complex, old, and natural. The golden ratio is a fundamental part of our physical realm and is a guiding influence on animate/inanimate objects in the world.
+These things on display are complex, old, and natural. The golden ratio is a fundamental part of our physical realm and is a guiding influence on animate/inanimate objects in the world. My personal favorite display of the golden ratio in nature appears in disc phyllotaxis, which is the arrangement of leaves around the stem of a plant. In most cases, a regularity is observed in the divergence angle of subsequent leaves. The divergence angle refers to the angle at which the stems divide a whole circle into regular fractions. These fractions are, more often than not, rational fractions of two Fibonacci numbers converging towards the irrational limit of the golden section. Specifically, the golden section of a circle corresponds to the golden divergence angle of 137.5 degrees.
 
-The golden ratio is exhibited in the forms of:
+Why? How did the golden ratio and Mr. Fibonacci insert themselves into the very fabric of life, governing the position of leaves on a stem? 
 
-* Flowers & trees
-* Hurricanes & Galaxies
-* Human body
+Evolutionary pressure weighs on all life, and it seems to be used by plants to optimize light capture on photosynthetic leaves. I mean, come on...
 
-### Examples in Humans
+![](Golden_Angle.png)
 
-The discovery of the golden ratio and examples in human endeavors. 
+### Examples in Humans 
 
 What is more complex than humans? Humans are a product of evolution in nature and are, therefore, natural beings with a chronology that is intertwined with the natural world. The human form exhibits the golden ratio in the face and in the  extremities. 
 
