@@ -43,17 +43,20 @@ In physics, the observer effect is the disturbance of an observed system by the 
 | Double-slit experiment |
 | ------------- |
 | ![](Double-slit.png) |
-| Photons or particles of matter (like an electron) &emsp;produce a wave pattern when two slits are used. The particle is creating the wave as it passes _through_ time. Liquid time. |
 
-In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. What if perception (via observation) is the mechanism that changes the wave or particle in the double-slit experiment?
+The double-slit experiment is a demonstration that light and matter can display characteristics of both classically defined waves and particles. Photons or particles of matter (like an electron) produce a wave pattern when two slits are used. The particle is creating the wave as it passes _through_ time. Liquid time.
 
-What is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, and understand it. Whatever it is. Someone must be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is the sense of self.
+In a world where observation changes the observable, we _must_ account for perception in measurement. What if perception (of time) is the mechanism that changes the wave or particle in the double-slit experiment?
 
-How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. a wave or a particle). And the Self is present in reality as a body that can perceive another. This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the Self exists in reality. He says that the 'body is a container of self'. A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self.
+And, what is the value of consciousness? It is essential to all things. Gravity, light, and even Planck. The unifying element is that there is someone present to experience it, observe it, define it, understand it, or communicate it. Whatever _it_ is. Someone _must_ be there to perceive it. And each of us, over the course of our entire lives, experience the constant and continuous stream that is our very own sense of self.
 
-In the following, self-expression is described as a means to externalize the sense of self. And self-expression has many forms. It is the will to know, do, act, believe. So, I say that the body is an instrument of self. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given present reality.
+How can you define anything in metaphysics (like whether what is being observed is a wave or a particle) without first quantifying the thing in reality that is perceiving another thing in reality (i.e. the self perceiving (observing) a wave or a particle). And, the Self is present in reality as a body that can perceive another, separate Self. 
 
-The Self defines its ends in the ways that it responds to all things and, the ends is defined by the means by which it was achieved. The Self is to its ends as the end is to its means.
+This reminds me of how biophysicist/psychologist Peter Levine describes the mind-body connection, which is a description of how the Self exists in reality. He says that the 'body is a container of self'. A wonderfully empowering statement. It's like, my body is the cup and it's filled to the brim with self. My cup runneth over, and so does yours.
+
+In the following, self-expression is described as a means to externalize the sense of self. And, self-expression has _many_ forms. It is the will to know, do, act, believe. So, I say that the 'body is an instrument of self'. The will that knows, does, acts, and believes. In this way, the body is like a pencil to paper or a chisel to wood. A tool to be used by the mind to respond to a given and present reality.
+
+The Self defines its ends in the ways that it responds to all things and, the ends are defined by the means by which they were achieved. The Self is to its ends as the ends are to its means. What are your ends? How will you achieve them?
 
 ## INDEX
 
