@@ -307,7 +307,7 @@ A: Evolutionary pressure weighs on all life, and it is on display in plant life 
 
 I mean, come on...
 
-![](Golden_Angle.png)
+![](Golden_Angle.png) ![](Goldener_Schnitt_Blattstand.png)
 
 ### Examples in Humans 
 
