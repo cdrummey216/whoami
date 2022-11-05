@@ -40,13 +40,10 @@ It all starts with observation.
 
 In physics, the observer effect is the disturbance of an observed system by the act of observation. An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment. What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time.
 
-| Double-slit experiment  | 
+| Double-slit experiment |
 | ------------- |
 | ![](Double-slit.png) |
-| Photons or particles of matter (like an electron) 
-produce a wave pattern when two slits are used. 
-The particle is creating the wave as it passes 
-_through_ time. Liquid time. |
+| <p style="width:375px;">Photons or particles of matter (like an electron) produce a wave pattern when two slits are used. The particle is creating the wave as it passes _through_ time. Liquid time. </p> |
 
 In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. What if perception (via observation) is the mechanism that changes the wave or particle in the double-slit experiment?
 
