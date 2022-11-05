@@ -1296,7 +1296,7 @@ I am who I say I am.
                       **Not Truth**
                       A(ϕ) = I am at my desk.
                       B(0) = I am not at my desk.
-                      T(0) = (ϕ + 0/ϕ) - 1/(ϕ + 0/ϕ)
+                      T(0) = ((ϕ + 0)/ϕ) - 1/((ϕ + 0)/ϕ)
                       T(0) = 1 - 1
                       
                       **Undefined**
