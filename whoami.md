@@ -273,7 +273,7 @@ No, and free will is that choice that is made to do it differently next time. To
 
 ### Who cares?
 
-I'll tell _you_ because it concerns you, as well. It is a very special number for two reasons. First, it is a ratio that represents a specific proporition of one thing to another, related thing. Two quantities of something --anything-- like the number of petals on a flower or the distance between your hand and your arm are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. This number is extraordinarily useful in mathematics, architecture, art and more. It is a pattern that is often found in nature. The pattern of the seeds in a sunflower, the number of arms on a starfish, the shape of a hurricane and yes, even you in your body, represent the golden ratio in some manner. The measurement from the navel to the floor and the top of the head to the navel is the golden ratio.
+I'll tell _you_ because it concerns you, as well. It is a very special number for two reasons. First, it is a ratio that represents a specific proporition of one thing to another, related thing. Two quantities of something --anything-- like the number of petals on a flower or the distance between your hand and your arm are in the golden ratio if their ratio is the same as the ratio of their sum to the larger of the two quantities. This number is extraordinarily useful in mathematics, architecture, art and more. It is a pattern that is often found in nature. The pattern of the seeds in a sunflower, the number of arms on a starfish, the shape of a hurricane and yes, even you in your body, represent the golden ratio in some manner.
 
 You should care about the golden ratio because it so common. Its natural. It is part of the fabric of our reality. Its this funky little number that guides natural processes and perfects the evolution of life. The nautilus' shell is beautiful and ideal for its survival in nature. This shell is ultimately the result of refined genetics from generations of cephalopods that have resisted the forces of nature through the long forgotten eons. Its natural, and often observable. Could it be that humanity, as the most advanced species on the planet, also have a 'shell'? 
 
@@ -301,33 +301,29 @@ The natural world is chaotic and unpredictable but, as a physical realm, it is o
 
 These things on display are complex, old, and natural. The golden ratio is a fundamental part of our physical realm and is a guiding influence on animate/inanimate objects in the world. My personal favorite display of the golden ratio in nature appears in disc phyllotaxis, which is the arrangement of leaves around the stem of a plant. In most cases, a regularity is observed in the divergence angle of subsequent leaves. The divergence angle refers to the angle at which the stems divide a whole circle into regular fractions. These fractions are, more often than not, rational fractions of two Fibonacci numbers converging towards the irrational limit of the golden section. Specifically, the golden section of a circle corresponds to the golden divergence angle of 137.5 degrees.
 
-Q: Why? How did the golden ratio and Mr. Fibonacci insert themselves into the fabric of life, governing the very position of leaves on a stem? 
+Q: How did the golden ratio and Mr. Fibonacci insert themselves into the shape of life, governing the very position of leaves on a stem? 
 
 A: Evolutionary pressure weighs on all life, and it is on display in plant life to optimize the capture of light on leaves for photosynthesis. 
-
-I mean, come on...
 
 | Golden Section  | Leaves around a Stem | 
 | ------------- | ------------- |
 | ![](Golden_Angle1.png)  | ![](Goldener_Schnitt_Blattstand.png)  |
 
+I mean, come on...
+
 ### Examples in Humans 
 
-What is more complex than humans? Humans are a product of evolution in nature and are, therefore, natural beings with a chronology that is intertwined with the natural world. The human form exhibits the golden ratio in the face and in the  extremities. 
+What is more complex than humans? Humans are a product of evolution in nature and are, therefore, natural beings with a chronology that is intertwined with the natural world. The human body exhibits the golden ratio in the face and in the extremities. For example, the measurement from the navel to the floor and the top of the head to the navel is the golden ratio.
 
-What is more complex than the human mind? 
+And so, what is more complex than the human mind? Could it also exhibit the divine proportion? If so, how?
 
-The human mind can comprehend, understand and communicate the furthest intricacies of the universe. Could it be that the complexity of the human mind can be decoded using the golden ratio? It stands to reason that the human mind would also follow the golden ratio.
-
-An economy is the output of the choices made by its constituents on buying and selling. Econmy is ultimately a human endeavor.
+The human mind is capable of understanding and communicating the furthest intricacies of the universe, from the macro- to micro-cosmic. Could it be that the complexity of the human mind can be decoded using the golden ratio? 
 
 The golden ratio and the Fibonacci sequence are popularly used to analyze the economic performance. Technical analyst in the financial industry will use four applications of the Fibonacci sequence to analyze the historical performance of one investment or another to predict buying and selling trends. The four applications are retracements, arcs, fans, and time zones and are commonly displayed as data charts. Each approach uses the Fibonacci sequence to analyze the performance of a certain investment and make predictions about the investment's future. 
 
-Technical analysts also use the golden ratio, most often as three percentages of key Fibonacci numbers: 38.2%, 50%, and 61.8%.
+And what is an economy besides a human endeavor? It, ultimately, is the output of the choices made by its constituents on buying and selling. 
 
-Even the human body is subject to the gold ratio, the proportions of the length of the nose, the position of the eyes and the length of the chin, are believed to conform to some aspect of the Golden Ratio. According to evolutionary research, physical attraction depends on ratio and, in particular, symmetry in facial structure. Our attraction to another person's body increases if that body is symmetrical and in proportion. Likewise, if a face is in proportion, we are more likely to notice it and find it beautiful.
-
-Scientists believe that we perceive proportional bodies to be more healthy.
+The human form is subject to the gold ratio, the proportions of the length of the nose, the position of the eyes and the length of the chin, are believed to conform to some aspect of the golden ratio. According to evolutionary research, physical attraction depends on ratio and, in particular, symmetry in facial structure. Our attraction to another person's body increases if that body is symmetrical and in proportion. Likewise, if a face is in proportion, we are more likely to notice it and find it beautiful. Scientists believe that we perceive proportional bodies to be more healthy.
 
 ## The Property of Truth
 
