@@ -145,15 +145,9 @@ _The bodied self is truth embodied._
 
 The Self is the source of truth because ‘truth’ is a concept that is used to define a property of some _thing_, some _object in reality_.
 
-I was lost amid my own mind for many years. I did not know who I was or how to be my self. How could I be ‘me’ if I did not know what ‘me’ is? I didn’t understand my self, so I relied on mimicry and reflection to define myself. In other words, I didn’t know how to be myself so I integrated or imitated the behaviors of others to my own purposes. 
-
-We are and I am. We define truths together and alone, to one another and ourselves.
-
-I did not know my self so I did not know truth. If you don’t know truth in your own self, you will be unable to know the truth that exists in others. If you don’t know truth in your self, you will be identityless. I was identityless so I quantified and defined my identity so that I could create one that is wholly my own. The key to creating your own identity is in the variable answers that you use to understand your self and communicate your self to others.
-
 There is beauty in truth. For the Self, it makes the ripples and waves of memories placid, so that the mind can perceive the subtle and beautiful.
 
-A boat can float and it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance.
+A boat can float _and_ it can sink. Whether it is the gentle wearing of time upon the boards or the trials of rough seas, a boat on the water will sink eventually. The boat’s resilience to the slow arts of time and its determination in the midst of heavy seas is how it remains afloat. The worth of a boat is measured by its ability to float in spite of circumstance. Truth restores the boards and fills the sails.
 
 _Be the unsinkable ship._
 
