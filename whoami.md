@@ -28,14 +28,22 @@ The contents of this document ideally will flow from a (1) description of some o
 
 **Perceiver Effect and the Perception Constant**
 
-The bodied self is a form functioning. Our bodies are the culmination of innumerable partial and distinct forms and functions. We can taste, smell, touch, see, and hear. Our eyes, each eye, is a beautiful refinement of evolution. The dexterity and precision of our hands and the keen ear or the discerning nose. It’s all connected by a system of constituent parts and those parts grow and change over time. These parts in you assemble to create your self. And you are more than just your body. You are the function within your form choosing your function. You are perception perceiving and defining itself in reality.
+The bodied self is a form functioning. Our bodies are the culmination of innumerable partial and distinct forms and functions. We can taste, smell, touch, see, and hear. Our eyes, each eye, is a beautiful refinement of evolution. The dexterity and precision of our hands and the keen ear or the discerning nose. It’s all connected by a system of constituent parts and those parts grow and change over time. These parts in you assemble to create _your_ self. And you are more than just your body. You are the function within your form choosing your function. You are perception perceiving and defining itself in reality. Big facts.
 
 The perceiver effect is the fact that the memory of an observable experience is disturbed by the act of perception at the time of the experience. The Self is distinct from any experience, but it's perception of an experience is singular in memory. The perception constant is a way to define the Self and account for perception in observation.
 
 Humans are the observers of that which is and that which is not, yet. No matter what, we are where we are and that is observable and self-evident. We observe time as it passes, and we catalog those experiences for ourselves over the course of our lives.
-But, observation is passive – how can I be an active participant in my reality? In other words, how do I respond to the present and change my experience? It all starts with observation.
+
+But, observation is passive – how can I be an _active_ participant in my reality? In other words, how do I respond to the present and change my experience? 
+
+It all starts with observation.
 
 In physics, the observer effect is the disturbance of an observed system by the act of observation. An especially unusual version of the observer effect occurs in quantum mechanics, as best demonstrated by the double-slit experiment. What is observed in the experiment is liquid time cloaking a particle, emanating a wave as the fluid washes around the particle. The wave and its wake is the particle's imprint of where its been and what it has altered in the flow of time.
+
+| Double-slit experiment  | 
+| ------------- |
+| ![](Double-slit.png) |
+| Photons or particles of matter (like an electron) produce a wave pattern when two slits are used. The particle is creating the wave as it passes _through_ time. Liquid time. |
 
 In a world where observation (via the observing self) changes the observable, we must account for perception in measurement. What if perception (via observation) is the mechanism that changes the wave or particle in the double-slit experiment?
 
