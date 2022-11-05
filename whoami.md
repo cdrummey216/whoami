@@ -307,7 +307,12 @@ A: Evolutionary pressure weighs on all life, and it is on display in plant life 
 
 I mean, come on...
 
-![](Golden_Angle.png) ![](Goldener_Schnitt_Blattstand.png)
+| Golden Section  | Leaves around a Stem | 
+| ------------- | ------------- |
+| ![](Golden_Angle1.png)  | ![](Goldener_Schnitt_Blattstand.png)  |
+|  | (top view)  |
+
+ ![](Goldener_Schnitt_Blattstand.png)
 
 ### Examples in Humans 
 
@@ -338,7 +343,8 @@ Simply solve for x:
 _The bodied (1) self (ϕ) is (=) truth (x) embodied (1)._
 
 1 * ϕ = x * 1;
-ϕ = x;
+
+x = ϕ;
 
 The body is _the real thing_ that tethers the Self to reality. Self is expressed through the body, and truth is the ideal expression.
 
