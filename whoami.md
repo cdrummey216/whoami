@@ -310,9 +310,6 @@ I mean, come on...
 | Golden Section  | Leaves around a Stem | 
 | ------------- | ------------- |
 | ![](Golden_Angle1.png)  | ![](Goldener_Schnitt_Blattstand.png)  |
-|  | (top view)  |
-
- ![](Goldener_Schnitt_Blattstand.png)
 
 ### Examples in Humans 
 
