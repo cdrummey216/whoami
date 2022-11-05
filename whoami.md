@@ -1478,4 +1478,102 @@ Other opuses: //an externalization that exhibits a value
 	}
 
 # Appendix B
-
+	
+	public static void Main()
+		{
+			toLive();
+		}
+	public static void toLive()
+	{
+		Console.WriteLine("Initiate life");
+  		Console.WriteLine(" ");
+     	decimal i = 1.618033988749894M; //self
+     	decimal truth = 1; //who are you?
+  		decimal reflection = 1;
+  		int counter = 0;
+     	while(i == 1.618033988749894M && truth == 1 && counter < 5) {
+   			Console.WriteLine("###################################################");
+   			Console.WriteLine(" Begin Phi() Iteration #" + counter + " ");
+   			Console.WriteLine("###################################################");
+   			Console.WriteLine(" ");
+   			
+			//if conditions are met, an infinite loop expressing Phi as self through body
+         	reflection = Phi(i, truth);
+   			Emanate(reflection);
+   			//Console.WriteLine("Phi(" + i.ToString() + ", " + truth.ToString() + ")");
+   			Console.WriteLine(" ");
+   			Console.WriteLine("###################################################");
+   			Console.WriteLine(" End Phi() Iteration #" + counter + " ");
+   			counter++;
+		}
+    	}
+	public static void Emanate(decimal reflection) {
+		Console.WriteLine("Emanating " + reflection + "");
+	}
+	public static decimal reflect(decimal input) {
+		//Console.WriteLine("reflect(" + input.ToString() + ")");
+		return input;
+	}
+	public static decimal evaluate(decimal a, decimal b) {
+		//different methods to calculate phi based on conditions to calculate phi? ex (a+b)/a
+		//return a / b;
+		decimal response = 0;
+		//decimal phi = 1.618033988749894M;
+		//variable framing
+		//   a / b  ///          Is it True or False?
+		//   (a + b) / a  ///    How do I improve upon my present based upon the truth?
+		//   1 + (1/phi) ///     How do I reflect truth and my ideal?
+		//   (phi + 1) / phi /// What is present and ideal?
+		int frameMethod = RandomNumber(1, 4);
+		/// need to use larger numbers for switch and greater than/less than conditions
+		
+		
+		Console.WriteLine("Frame Method " + frameMethod);
+		switch (frameMethod) 
+		{
+		  case 1:
+			response = a / b;
+			Console.WriteLine("a / b");
+			break;
+		  case 2:
+			response = (a + b) / a;
+			Console.WriteLine("(a + b) / a");
+			break;
+		  case 3:
+			response = b + (b/a);
+			Console.WriteLine("b + (b/a)");
+			break;
+		  case 4:
+			response = (b + a) / a;
+			Console.WriteLine("(b + a) / a");
+			break;
+		}
+		
+		return response;
+		
+	}
+	public static Random rnd = new Random();
+	public static int RandomNumber(int min, int max)  
+	{		
+		int num = rnd.Next(min, max);
+		return num;
+	}
+	
+	public static decimal self(decimal input) {
+		//internal, a function
+		return reflect(input);
+	}
+	public static decimal body(decimal a, decimal b) {
+		//external, a form
+		decimal input = evaluate(a, b);
+		decimal thisSelf = self(input);
+		//Console.WriteLine("self(" + input.ToString() + ")");
+		return reflect(thisSelf); //take real values and return value of self
+	}
+ 
+	public static decimal Phi(decimal a, decimal b) {
+		//Phi is a form and a function
+		decimal phi = body(a, b);
+		//Console.WriteLine("body(" + a.ToString() + ", " + b.ToString() + ")");
+		return phi;
+	}
