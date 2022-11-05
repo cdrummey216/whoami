@@ -20,9 +20,10 @@ Lastly, 'Framing' is described as an approach aimed at deciphering and integrati
 
 The contents of this document ideally will flow from a (1) description of some of my life events, which prompt the question 'Who am I?' and 'What next?' (2) to a philosophical/metaphysical foundation for Self and then (3) to a thought framework and method to reach the ideal, whatever that may be. The goal of this endeavor is to relate truth as I have come to understand it about the Self, identity, and its place in reality. Each of us observes and perceives truth in reality and, therefore, it is critically important that the Self also has a method to define and understand truth. The 'identity equations' give form to truth about the Self.
 
-<a href="https://dotnetfiddle.net/z4hFnr">Emanation Model (Self as infinite iterations of pattern in binary numbers (10001010111))</a>
 
-<a href="https://dotnetfiddle.net/pihIJ5">Simple reason model for Love > Hate using Emanation</a>
+<a href="https://github.com/cdrummey216/whoami/blob/main/whoami.md#appendix-b">Emanation Model</a>
+
+<a href="https://github.com/cdrummey216/whoami/blob/main/whoami.md#appendix-a">Simple reason model for Love > Hate using Emanation</a>
 
 **Perceiver Effect and the Perception Constant**
 
