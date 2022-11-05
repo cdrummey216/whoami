@@ -1436,3 +1436,52 @@ Other opuses: //an externalization that exhibits a value
 * work of art
 * work of...
 
+# Appendix A
+
+using System;
+					
+public class Program
+{
+	
+	public static void Main()
+	{
+		Console.WriteLine("Hello World");
+		life(true, "love");
+	}
+
+	public static void life(bool alive, string message)
+	{
+		string emanation = "";
+		string hate = "hate";
+		Essence body = new Essence(message.Length, hate.Length);
+		while (true)
+		{
+			emanation = body.respond(body);
+			Console.WriteLine(emanation);
+			emanation = "";
+		}
+	}
+}
+class Essence
+{            
+	public int a { set; get; }
+	public int b { set; get; }
+	public Essence(int a, int b)
+	{
+		this.a = a;
+		this.b = b;
+	}
+
+	public string respond(Essence self) {
+		Essence whoiam = new Essence(self.a, self.b);
+		if (whoiam.a < whoiam.b) {
+			return "Cold. Life is unfair and meaningless.";
+		}
+		else {
+			return "Warmth! Reach out and grasp the uncertainty of life! The present is a gift!";
+		}
+	}
+}
+
+# Appendix B
+
