@@ -119,19 +119,19 @@ Complexity is the eternal present. Its the stream of liquid time that we are wad
 
 #### Examining the Present
 
-Why? Why is it like that? Why isn't this like that? Can it be different? 
+An asker may do as an asker would, and say 'Why? Why _is_ this like that? Why _isn't_ that like this? Can it be different? How?' 
 
 The complexity of each moment is found in the answers to questions like these. Asking _why_ is an interrogation of reason, of cause, and of source. The object of _why_ can be anything. Why am I here? Why are you? Why, why, why?
 
-Asking _why_ is like plucking at a string on a guitar. The interrogative resonates an answer. Listen to the sound and forget the question. 
+Asking _why_ is like plucking at a string on a guitar. The interrogative resonates an answer. And, if you listen closely, you might be able to discern an answer. 
 
-Why am I _me_?
+But, why am I _me_?
 
 _Because someone must be._
 
 #### What is the source of truth?
 
-Self-discovery is the path to truth. It is the path to understand the Self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery.
+Self-discovery is the path to truth. It is the path to understand the Self, communicate truth, know nature, and feel the divine. Self-knowledge comes from self-discovery because the _truth_ about a self is only knowable _to_ the Self. And, you know yourself better than anyone else could. You and _only_ you know the true, blue you. Through and through and through.
 
 Truth is the end and the beginning of all things. Truth is what is real and factual and congruent with reality. It is indeliable and permanent and resists the trammels of time. It is reliable and understandable and observable. It aligns all the metaphysical puzzle peices that comprise our ability to perceive. Truth is valuable because it is a light in the dark.
 
