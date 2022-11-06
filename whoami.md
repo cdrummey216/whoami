@@ -356,17 +356,20 @@ If perception is unified with reality, the value of truth is 1.
 #### Truth (present)
 
 _The sun rises._
+
 Truth (1) = Perception (1) / Reality (1)
 
 
 #### Belief (future)
 
 _The sun will rise tomorrow._
+
 Truth (undefined) = Perception (1) / Reality (0)
 
 #### Not Truth (past)
 
 _The sun did not rise._
+
 Truth (0) = Perception (0) / Reality (1)
 
 Truth is dependent upon perception. A self is necessary to perceive and define truth in reality.
