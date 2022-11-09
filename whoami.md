@@ -493,6 +493,7 @@ The following parallelism is an analogy for the sense of Self, which captures th
 
 _Self-concept is to self-perception as self-perception is to self-definition._
 
+| _Self-concept is to self-perception as self-perception is to self-definition._ |
 | Variable | Relation to the Self | Meaning |
 | ------------- | ------------- | ------------- |
 | a + b | Self-Concept | Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception. |
