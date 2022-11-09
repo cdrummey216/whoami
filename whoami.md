@@ -1263,6 +1263,18 @@ The sound of the screen door, the light through the trees, the sweat on my back,
 
 I am who I say I am.
 
+## The XOR operation 
+
+_If we have a sequence of XOR operations a ^ b ^ c ^ ..., then we can remove all pairs of duplicated values without affecting the result._
+
+As shown in the section _Conclusions about Choice_, the Self must respond at all times in order to live. As a result, this means that we must always choose how to respond at any given moment. If I must choose, what is the method for finding truth? Consider the following problem, which demonstrates the various properties of XOR operations as well as a common problem faced every day. How do I decide to act in the absence of other knowledge?
+
+_You are given an array of n - 1 integers which are in the range between 1 and n. All numbers appear exactly once, except one number, which is missing. Find this missing number._
+
+Think of your self. Who you were and how its changed over the course of your life. Imagine that you are given an array of n - 1, where the items in the array are snapshots of your identity at any point in time leading up to the present. The present identity, the snapshot on the top of the pile, is always undefined because it can always be redefined.
+
+How do I know that I change? I can XOR my present self with my past selves to see my growth and change over time.
+
 ## Truth, not truth, and the undefined
 
 
