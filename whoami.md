@@ -489,11 +489,10 @@ The variable answer a is an answer to "Who am I?" and gives contextual truth as 
 
 ### Parallelism
 
+#### _Self-concept is to self-perception as self-perception is to self-definition._
+
 The following parallelism is an analogy for the sense of Self, which captures the ineffability of perception and its presence in reality. The parallelism is a means to apply property #3 of ϕ to the _Self_ and understand the relationship between the variable answers a,b. Self-concept is the fullest observational content from a singular reference point for the observing self (the self-perceving self). This self-perceving self makes itself real through the manner and means it proceeds through real-time.
 
-_Self-concept is to self-perception as self-perception is to self-definition._
-
-| _Self-concept is to self-perception as self-perception is to self-definition._ |
 | Variable | Relation to the Self | Meaning |
 | ------------- | ------------- | ------------- |
 | a + b | Self-Concept | Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception. |
