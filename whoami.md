@@ -501,11 +501,11 @@ The following parallelism is an analogy for the sense of Self, which captures th
 
 #### Self-concept (*a+b*) is to self-perception (*a*) as...
 
-Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
+	Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
 
 #### ...as self-perception (*a*) is to self-definition (*b*).
 
-Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
+	Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
 #### Example
 
@@ -518,16 +518,17 @@ Your self-perception is how you define (or communicate) yourself. Self-perceptio
 
 The values of a and b are any two sequential Fibonacci numbers. The larger number of the two numbers is the value of variable answer a and the smaller is variable answer b. They values for a,b must be sequential Fibonacci numbers because self-perception encapsulates self-definiton. 
 
-#### Identity as Julia Set, a representation of Human Identity
+#### Identity as an array of the Julia Set, a representation of Human Identity
 
 Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
-* the suffix ...[] is used to denote a sequential array. an array is a contiguous collection that can be accessed by the means of their index value
-* so using an example array of [apple, pear, orange] named 'example', the value of example[0] is 'apple', the value of example[1] is 'pear', the value of example[2] is 'orange'
-* identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the formula a+b/a //TODO how to denote formula vs value of ϕ?
-* identity[0] is the BEGIN iteration.
-* identity[n-1] is the END iteration where n is the total number of iterations
-* identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
-* ϕ in the above equation is understood to be the sense of self //sense of self is the engine for identity because it can be used to define itself (recursion, property #4 of the golden ratio, or **ϕ = 1 + 1/ϕ**)
+
+The suffix ...[] is used to denote a sequential array. An array is a contiguous collection that can be accessed by the means of their index value. So, using an example array of ['apple', 'pear', 'orange'] named 'example', the value of example[0] is 'apple', and the value of example[1] is 'pear', and the value of example[2] is 'orange'.
+
+Identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the ratio of calculation of the golden ratio using variable answers a,b.
+
+Identity[0] is called the BEGIN iteration. Identity[n-1] is the END iteration where n is the total number of iterations.
+
+Identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 
 ![](image.png)
 
