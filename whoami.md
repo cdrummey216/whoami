@@ -465,11 +465,6 @@ Each identity can be regarded as a fractal set, or a never ending pattern of var
 
 ## Propositions
 
-| First Header  | Second Header | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ### Proposition 1: Golden Ratio & Sense of self
 
 Consider a calculation of the golden ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
@@ -499,11 +494,11 @@ The following parallelism is an analogy for the sense of Self, which captures th
 | a | Self-perception | Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition. |
 | b | Self-definition | Self-definition is how you exist in real-time. Self-definition is form. |
 
-	**Self-concept (*a+b*) is to self-perception (*a*) as...**
+	Self-concept (*a+b*) is to self-perception (*a*) as...
 
 Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
 
-	**...as self-perception (*a*) is to self-definition (*b*).**
+	...as self-perception (*a*) is to self-definition (*b*).
 
 Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
@@ -540,8 +535,15 @@ A fractal is a curve or geometric figure, each part of which has the same statis
 
 #### A Universal Truth
 
-* The equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
-* //Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END) //TODO 'ideal value' is ϕ (1.618), understood as the product of the equation a+b/a or a/b
+The equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
+
+| First Header  | Second Header | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END)
+
 * When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.** //see property #1 of golden ratio
 * So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
 * y = kx //equation for constant of proportionality
