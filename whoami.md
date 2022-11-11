@@ -495,17 +495,17 @@ The following parallelism is an analogy for the sense of Self, which captures th
 
 | Variable | Relation to the Self | Meaning |
 | ------------- | ------------- | ------------- |
-| a + b | Self-Concept | Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception. |
+| a + b | Self-concept | Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception. |
 | a | Self-perception | Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition. |
 | b | Self-definition | Self-definition is how you exist in real-time. Self-definition is form. |
 
-#### Self-concept (*a+b*) is to self-perception (*a*) as...
+	**Self-concept (*a+b*) is to self-perception (*a*) as...**
 
-	Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
+Your self-concept is how you perceive (or understand) yourself. Self-concept is formed by self-perception.
 
-#### ...as self-perception (*a*) is to self-definition (*b*).
+	**...as self-perception (*a*) is to self-definition (*b*).**
 
-	Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
+Your self-perception is how you define (or communicate) yourself. Self-perception is formed by self-definition.
 
 #### Example
 
@@ -520,17 +520,15 @@ The values of a and b are any two sequential Fibonacci numbers. The larger numbe
 
 #### Identity as an array of the Julia Set, a representation of Human Identity
 
-Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction.
+Identity is the encapsulation of the sense of self, which is the feeling of identity, uniqueness, and self-direction. In the following, the suffix ...[] is used to denote a sequential array. An array is a contiguous collection that can be accessed by the means of their index value. So, using an example array of ['apple', 'pear', 'orange'] named 'example', the value of example[0] is 'apple', and the value of example[1] is 'pear', and the value of example[2] is 'orange'.
 
-The suffix ...[] is used to denote a sequential array. An array is a contiguous collection that can be accessed by the means of their index value. So, using an example array of ['apple', 'pear', 'orange'] named 'example', the value of example[0] is 'apple', and the value of example[1] is 'pear', and the value of example[2] is 'orange'.
-
-Identity[] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the ratio of calculation of the golden ratio using variable answers a,b.
-
-Identity[0] is called the BEGIN iteration. Identity[n-1] is the END iteration where n is the total number of iterations.
+Identity[...] is a sequential array of results from the equation of the Filled Julia Set for **fc, c = 1 − ϕ** where ϕ represents the ratio of calculation of the golden ratio using variable answers a,b. Identity[0] is called the **BEGIN iteration**. Identity[n-1] is the **END iteration**, where n is the total number of iterations.
 
 Identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 
-![](image.png)
+| Filled Julia Set for **fc, c = 1 − ϕ**  | Recursion in calculation of the golden ratio | 
+| ------------- | ------------- |
+| ![](Julia-Menge.png)  | ![](image.png) |
 
 ### Proposition 2: The Proportional Relationship of True variable Answers
 
