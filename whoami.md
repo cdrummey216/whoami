@@ -526,9 +526,13 @@ Identity[...] is a sequential array of results from the equation of the Filled J
 
 Identity[x] is any iteration of the Filled Julia Set for **fc, c = 1 − ϕ**
 
-| Filled Julia Set for **fc, c = 1 − ϕ**  | Recursion in calculation of the golden ratio | 
-| ------------- | ------------- |
-| ![](Julia-Menge.png)  | ![](image.png) |
+| Filled Julia Set for **fc, c = 1 − ϕ** |
+| ------------- |
+| ![](Julia-Menge.png) |
+
+| Recursion in calculation of the golden ratio | 
+| ------------- |
+| ![](image.png)  |
 
 ### Proposition 2: The Proportional Relationship of True variable Answers
 
