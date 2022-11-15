@@ -349,26 +349,26 @@ The body is _the real thing_ that tethers the Self to reality. Self is expressed
 
 ### What is the ratio of truths?
 
-The ratio of truths is the proportion of how we perceive a truth and how it is defined in reality. For example, perception gives an individual the ability to be conscious of the simple truth that the sun rises in the morning. Everday this truth is redfined and, fortunately for us, the sun continues to rise and set. If, however, one day the sun did not rise while the perception that it would rise remained, the value of the perceived truth would be 0 because the reality of the event is 0. Alternatively, if the perception of the truth is that the sun will not rise and the sun does, in fact, rise, the value of truth will also be 0. 
+The ratio of truths is the proportion of how we perceive a truth and how it is defined in reality. For example, perception gives an individual the ability to be conscious of the simple truth that the sun sets in the evening. Everday this truth is redfined and, fortunately for us, the sun continues to rise and set. If, however, one day the sun did not rise while the perception that it would rise remained, the value of the perceived truth would be 0 because the reality of the event is 0. Alternatively, if the perception of the truth is that the sun will not rise and the sun does, in fact, rise, the value of truth will also be 0. 
 
 If perception is unified with reality, the value of truth is 1.
 
 #### Truth (present)
 
-_The sun rises._
+_The sun sets._
 
 Truth (1) = Perception (1) / Reality (1)
 
 
 #### Belief (future)
 
-_The sun will rise tomorrow._
+_The sun will set tomorrow._
 
 Truth (undefined) = Perception (1) / Reality (0)
 
 #### Not Truth (past)
 
-_The sun did not rise._
+_The sun did not set._
 
 Truth (0) = Perception (0) / Reality (1)
 
@@ -1171,7 +1171,7 @@ How do I know that I change? I can XOR my present self with my past selves to se
 
 
 ## A Method to Find Truth
-Simple statements represent, at minimum, a single dimension of a topic. Statements like 'the sun will rise tomorrow' and 'the tide will ebb and flow' are simple characterizations of complex and aged processes in our world and their value lies in their truth about our world. Both statements will always be true, until such conditions appear that would disrupt them. The *value* of these statements resides in that they are always true. For example, the sun rose this morning and water flowed as the tide steadily washed out to sea. So, whether the sun rises over the sea or suddenly over mountaintops in to a deep valley, statements that desrcibe the manner in which the sun proceeds in the world around us will desrcibe an aspect of the truth that the sun rises and the tide flows. Statements that describe 'Where/When/How?' the sun rises are the 'scope' that is can be placed on universal truths because anwsers to questions like *How does it rise?* or *Where does it rise?* or *When does it rise?* about the sun or tide will yeild a statement about the manner in which the sun or tide proceeds in real-time.
+Simple statements represent, at minimum, a single dimension of a topic. Statements like 'the sun will rise tomorrow' and 'the tide will ebb and flow' are simple characterizations of complex and aged processes in our world and their value lies in their truth about our world. Both statements will always be true, until such conditions appear that would disrupt them. The *value* of these statements resides in that they are always true. For example, the sun rose this morning and water flowed as the tide steadily washed out to sea. So, whether the sun sets over the sea or suddenly over mountaintops in to a deep valley, statements that desrcibe the manner in which the sun proceeds in the world around us will desrcibe an aspect of the truth that the sun sets and the tide flows. Statements that describe 'Where/When/How?' the sun sets are the 'scope' that is can be placed on universal truths because anwsers to questions like *How does it rise?* or *Where does it rise?* or *When does it rise?* about the sun or tide will yeild a statement about the manner in which the sun or tide proceeds in real-time.
 
 Simple truths intersect with other truths to form complex relationships of true data points. The identity, who each person wants to be in the world, is composed of simple truths about ourselves. So, what do you want to be true about your self?
 
