@@ -884,6 +884,10 @@ The eternal present is eyes open, looking into liquid time as it washes over/pas
 
 (1) Life, a noun;
 
+Bring yourself into the present. Where are your hands? Are your heels there? Where is that tailbone? Find your center. Meet life. Its this in front of you, behind you, above and below you. Where ever you find yourself, some sequence of events brought those eyes to these words. You can't change how you arrived, but you can control where you go, and how fast. Take a breathe, and then reach out and grasp at yourself. I imagine it somewhere between the eyebrows. Be true to youself and follow your brow.
+
+Life is the essence of the universe, the condensation of time upon the rocks and the seas here on Earth. It has been perfecting itself for hundreds of millions of years, and you are the pinnacle of the path lives have taken to arrive at this statement: Be alive, live!
+
 (2) Good, an adjective;
 
 (3) Past, a noun;
