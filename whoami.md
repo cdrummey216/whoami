@@ -892,11 +892,19 @@ Life is the essence of the universe, it is the condensation of liquid time upon 
 
 Good is shared and beneficial. It is the inherent viture of _things_ in reality that are acceptable, suitable, positive, and just fine. Good is when you pick up a hitch hiker just because you're going the same direction. _When_ you unlock your door, because you trust that they are fellow travelers, just like you. It is good when they open the door and step in, _because_ they're trusting you too.
 
-(3) Past, a noun;
+And here's something else: everyone wants to feel good. Big facts. You, me, and our neighbor all want to be affirmed in our perception of reality. And that's where goodness resides, in the share acceptance of the present.
 
-(4) Present, a noun;
+### (3) Past, a noun;
 
-(5) Future, a noun;
+It's where we are all coming from in to the very present. It's all the things that make you _you_. Your discernable experience that gave you the chip on your shoulder or the chip in your tooth. Our bodies have carried us here, where will the mind take you?
+
+### (4) Present, a noun;
+
+_This_ place, because it must be. Its the tingling at the tips of your fingers or the ice in your glass. The present is fleeting and eternal.
+
+### (5) Future, a noun;
+
+The future is what's next. Its just beyond the bend ahead of you on the path of life. How will it end? Will it ever? The future is a glimpse of what could be, or what should be, or what would have been. You're body will deliver you there, but your mind must get you there. How?
 
 ## 0a: Five Facts about me
 1. This (body) is me.
@@ -945,7 +953,9 @@ Start with: what does the end of my life look like? and work backwards. How do y
 The loop of 'a life' completes. A birth at the beginning and a death at the end. Birth and death are like two book ends and each life is composed of the stories in between.
 
 ### The Ideal of Balance
-* Inequality is the source of imbalance. 
+
+Balance is an ideal because anything else would be untenable, unmanageable, or unproportional. Inequality is the source of imbalance.
+
 * How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... 
 * Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...
 * Methods of Expression ('making', computers, tools, art as examples of human creativity)
