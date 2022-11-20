@@ -972,13 +972,12 @@ So, what is the ideal application of the mind? How can it swell the very edges o
 
 ## Existential Calm & the [Isle[0]](identityisle.md)
 
-**Key Topics**
-* As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the Self //life always good because at minimum, its good to be alive.
+As a state of 'readiness', existential calm parries for the mind and for the body. The combination of the knowledge that 1) 'I am alive' and 2) 'I will end' equips an identity to understand the 'here' and 'now' as it relates to the Self. Life is always good because, at minimum, it is _good_ to be alive.
 * I know who and what I am. //I am a living being and life is a binary state (*incomplete* before *complete*), I have (possess) life
 * I am because I live.  //Life is good because i am alive (judgement) //if time has value AND life is measurable by time (duration), then life, at minimum, has one value as a measurement of 'time' as it relates to a life (ie time of BEGIN iteration).
 * This is enough information to start to understand the present, or to leave the Isle[0].
 
-**Why am I here (on the Isle[0])?**
+**Why am I here?**
 
 * I am equipped with the judgement that 'Life is good', the knowledge that I will die, and the observation that I am alive. 
 * While the *judgement* that 'Life is good' does not provide full assurance, the fact remains that I *will* continue to live on with or without assurance.
