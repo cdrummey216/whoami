@@ -894,15 +894,27 @@ Good is shared and beneficial. It is the inherent viture of _things_ in reality 
 
 And here's something else: everyone wants to feel good. Big facts. You, me, and our neighbor all want to be affirmed in our perception of reality. And that's where goodness resides, in the share acceptance of the present.
 
-### (3) Past, a noun;
+### (3) Trust, a noun
+
+Trust has value in social interations. It is the currency by which we exchange ideas and acheive mutual growth. Consdier the old miser with his gold piled high, what is the value of gold when it is scurried away into a dark room?
+
+Life is good. 
+
+If you are alive, then that is good.
+
+If you believe that *to be alive* is good, then you are ready (to live).
+
+I *hope to trust* and *trust in hope*. I beleive that it is good to be alive.
+
+### (4) Past, a noun;
 
 It's where we are all coming from in to the very present. It's all the things that make you _you_. Your discernable experience that gave you the chip on your shoulder or the chip in your tooth. Our bodies have carried us here, where will the mind take you?
 
-### (4) Present, a noun;
+### (5) Present, a noun;
 
 _This_ place, because it must be. Its the tingling at the tips of your fingers or the ice in your glass. The present is fleeting and eternal.
 
-### (5) Future, a noun;
+### (6) Future, a noun;
 
 The future is what's next. Its just beyond the bend ahead of you on the path of life. How will it end? Will it ever? The future is a glimpse of what could be, or what should be, or what would have been. You're body will deliver you there, but your mind must get you there. How?
 
@@ -1066,38 +1078,6 @@ As a state of 'readiness', existential calm parries for the mind and for the bod
  * thoughts, words, or actions taken in order to *further* or *diminish* the echo. //changing the course of a river (patience), to plow and to sow (trust), shadowboxing + chessboxing (freedom)
  
 **Notes on [values](values.md)**
-
-<!--## Narrative
-
-### A long conversation with Death
-
-For the greater part of my life, I had no respect for my self mentally or physically. I was a untethered alcoholic and a wayward mind lost amid the numbness of intoxication and apathy and hatred. 
-
-The first time I harmed myself was when I was in middle school. I locked the bathroom door and heated up an old coin I had saved from a trip to Ireland with my family sometime around 2000 and 2001. I used a lighter to heat the coin up as hot as I could, and then i pressed the coin deep into my forearm. I repeated on the other arm so that they were symetrical. I don't remember now why I did this, but this behavior was a harbinger of things to come. It was a manifestation of my self-loathing and disregard for my body. Once alcohol was introduced into my life a few years later, I had found a more concealed and tolerated form of self-destruction.
-
-A year or two after graduating from college, I attended a party at a friend's 'river house'. I attended but was unwelcome, as I had spent the previous decade externalizing my malcontent by drinking to excess and treating others as colateral, simply as conduits for my own self-satisfaction. I was unwelcome but I needed an excuse to drink, so I found myself at the party. I realized that night that I was an alcoholic and that i was on a path that would lead to the early end of a squandered life. I left the party and walked over to the bank of the river and looked down. I was trying to figure out the ideal position to land on the rocks and stumps and debris below in order to break my neck and end my life. A simple explanation for the death, an alcoholic fell off of a ledge and died as a result of injuries sustained. I walked away and back to the ledge a few times. I closed my eyes and stood with my toes over the edge and my eyes closed, feeling the cool, damp air on my face. I stepped back and went back into the party and drank.
-
-In the summer of 2018, I attempted suicide in my garage. I had been battling with my self for many years, and had found success in sobriety. The support of my wife and family made that possible and I struggle to show them what that means to me. I had been sober for about 9 months, but I drank a gallon of wine when I found out my wife was pregnant. How can I be a father? How can guide someone while I am still trying to guide my self through trials? I went into the garage and got an extension cord, secured it to the celing, and stood on a stool. With tears in my eyes, I tied a slipknot and put it around my neck and told myself that I just wanted to know how it feels. I took one foot off of the stool and felt the pressure on my neck. I asked God for the strength to carry on. I took the noose off and stepped off the stool. I wrapped the extension cord back up and put the stool back in its place. I went back inside. My wife cooked dinner and brought it to me as I sobered up on the couch.
-
-The desire to kill myself has departed from me entirely now. I want to live because I believe 'Life is good' and that the time left to me in this world has value.
-
-### Trust
-
-I am unable to think of anyone I trust completely and few I trust partially. I struggle with paranoia. I am unable to reveal my self to others for fear that they will use the information against me. I am suspicious of people and so I interpret simple statements and gestures from others as hidden and malicious. I am overly sensitive to perceived insults and criticism. I have very few friends and many relationships in my life are stunted due to my inability to trust.
-
-I have little to no interest in forming friendships or repairing damaged relationships. I struggle to see the purpose of social interaction because I believe it is rife with opportunity to be exploited or to be condemned.
-
-Trust has value in social interations. It is the currency by which we exchange ideas and acheive mutual growth. Consdier the old miser with his gold piled high, what is the value of gold when it is scurried away into a dark room?
--->
-### The Root of Trust
-
-Life is good. 
-
-If you are alive, then that is good.
-
-If you believe that *to be alive* is good, then you are ready (to live).
-
-I *hope to trust* and *trust in hope*. I beleive that it is good to be alive.
 
 ### Water as a *Star* for Oneness //star as guide
 
