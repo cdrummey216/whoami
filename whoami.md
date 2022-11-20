@@ -890,7 +890,7 @@ Life is the essence of the universe, it is the condensation of liquid time upon 
 
 ### (2) Good, an adjective;
 
-Good is shared and beneficial. It is the inherent viture of _things_ in reality that are acceptable, suitable, positive, and just fine. Good is when you pick up a hitch hiker just because you're going the same direction. _When_ you unlock your door, because you trust that they are fellow travelers, just like you. It is good when they open the door and step in, _because_ they're trusting you too.
+Good is shared and beneficial. It is the inherent viture of _things_ in reality that are acceptable, suitable, positive, and just plain, old, and fine. Good is when you pick up a hitch hiker just because you're going the same direction. It's _when_ you unlock your door, because you trust that they are simply fellow travelers, just like you. It is good when they open the door and step in, _because_ they're trusting you too.
 
 And here's something else: everyone wants to feel good. Big facts. You, me, and our neighbor all want to be affirmed in our perception of reality. And that's where goodness resides, in the share acceptance of the present.
 
@@ -906,19 +906,23 @@ _This_ place, because it must be. Its the tingling at the tips of your fingers o
 
 The future is what's next. Its just beyond the bend ahead of you on the path of life. How will it end? Will it ever? The future is a glimpse of what could be, or what should be, or what would have been. You're body will deliver you there, but your mind must get you there. How?
 
-## 0a: Five Facts about me
+## 0a: Five Facts about me (you)
 1. This (body) is me.
 2. This (place) is around me.
 3. The past is behind me.
 4. The present is before me.
 5. The future is after me.
 
+### The Imperatives of Presence and Action
+
 Good intentions in both words and actions are an imperitive through good faith and good will. In order to be intentional, someone must be present to respond in some manner (how do you want to respond). In order to live in real-time, someone must respond. An imperitive arises to be present and to act.
+
+Take this with you:
 
 * Authenticity without offensiveness
 * Sincerity without design
 * Simplicity without distortion
-* Fluidity without yeilding
+* Fluidity without yielding
 
 ### How do I forgive yesterday's self/someone else?
 
@@ -934,7 +938,7 @@ You have agency now, so what can you do for tomorrow's self/someone else? Naviga
 
 ### Who am I?  
 
-Who you are is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place.
+_Who you are_ is based on how you perceive yourself and define your self to others. Consider the core values and traits that are necessary to those identifications and why you chose those identifications in the first place. Consider the defining moments of your life, and how you responded.
 
 ### Why am I here? 
 
@@ -954,13 +958,9 @@ The loop of 'a life' completes. A birth at the beginning and a death at the end.
 
 ### The Ideal of Balance
 
-Balance is an ideal because anything else would be untenable, unmanageable, or unproportional. Inequality is the source of imbalance.
+Balance is an ideal because anything else would be untenable, unmanageable, or unproportional in time. Inequality is the source of imbalance. This _is not_ that.
 
-* How do I neutralize extremes, find balance in life and improve my position? Seek 1.618.... 
-* Consider two courses of action that are achieveable, definable, and respectful. Using the properties of the golden ratio, assign the larger/greater/self-interested/positive option as _a_ and the other option as _b_. Choose _a_ and orient yourself towards 1.618...
-* Methods of Expression ('making', computers, tools, art as examples of human creativity)
-
-# Part 4: How to be present and to act? (a: Self-expression. Living as art. Here is my self.)
+# Part 4: How to be present and to act?
 
 ## Overview & Purpose
 
