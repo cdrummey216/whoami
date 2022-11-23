@@ -533,21 +533,21 @@ A fractal is a curve or geometric figure, each part of which has the same statis
 
 ### Proposition 2: The Proportional Relationship of True variable Answers
 
+#### The Constant of Proporotionality
+
+The constant of proportionality is the ratio that relates two given values in what is known as a proportional relationship or ratio.The equation for the golden ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x** in that when **k = ϕ**, **y = a** and **x = b**.
+
 #### A Universal Truth
 
-The equation for the Golden Ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x**
-
-| First Header  | Second Header | 
+| Equation  | Description | 
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| y = kx  | equation for the constant of proportionality |
+| k = y/x | Equation for any proportional relationship |
+| ϕ = a/b | Equation for the golden ratio |
 
 Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END)
 
-* When at the Golden Ratio, ϕ = a+b/a AND **ϕ = a/b.** //see property #1 of golden ratio
 * So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
-* y = kx //equation for constant of proportionality
-* k = y/x //any proportional relationship
 * END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
 * due to the fact that death and/or end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable. 
 * the proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. as a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value.
