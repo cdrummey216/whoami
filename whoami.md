@@ -537,15 +537,14 @@ A fractal is a curve or geometric figure, each part of which has the same statis
 
 The constant of proportionality is the ratio that relates two given values in what is known as a proportional relationship or ratio.The equation for the golden ratio is analogous to the equation for the constant of proportionality in that **ϕ = a/b** and **k = y/x** in that when **k = ϕ**, **y = a** and **x = b**.
 
-#### A Universal Truth
-
 | Equation  | Description | 
 | ------------- | ------------- |
-| y = kx  | equation for the constant of proportionality |
-| k = y/x | Equation for any proportional relationship |
-| ϕ = a/b | Equation for the golden ratio |
+| k = y/x | Equation for any proportional relationship, where **k** is the ratio of **y** and **x**|
+| ϕ = a/b | Equation for the golden ratio, where **a** and **b** are two numbers that meet the criteria to be at the golden ratio |
 
-Golden ratio as a formula, 1.618 is the ideal result for fc, c = 1 -  ϕ (when ϕ is used as an equation). equation will give other values when a, b not in proportion/true (see END)
+#### A Universal Truth
+
+For each person that has ever been, the following is a true statement: I will end. There's a lot of weight in those three words, but it remains true always, nonetheless. In a way, though, it is the least common denominator among all people. Its a starting point, it's: "You're mortal, and so am I."
 
 * So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
 * END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
