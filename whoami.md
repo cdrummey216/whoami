@@ -486,7 +486,7 @@ The variable answer a is an answer to "Who am I?" and gives contextual truth as 
 
 #### _Self-concept is to self-perception as self-perception is to self-definition._
 
-The following parallelism is an analogy for the sense of Self, which captures the ineffability of perception and its presence in reality. The parallelism is a means to apply property #3 of ϕ to the _Self_ and understand the relationship between the variable answers a,b. Self-concept is the fullest observational content from a singular reference point for the observing self (the self-perceving self). This self-perceving self makes itself real through the manner and means it proceeds through real-time.
+The following parallelism is an analogy for the sense of Self, which captures the ineffability of perception and its presence in reality. The parallelism is a means to apply property #4 of ϕ to the _Self_ and understand the relationship between the variable answers a,b using property #3. Self-concept is the fullest observational content from a singular reference point for the observing self (the self-perceving self). This self-perceving self makes itself real through the manner and means it proceeds through real-time.
 
 | Variable | Relation to the Self | Meaning |
 | ------------- | ------------- | ------------- |
@@ -544,9 +544,20 @@ The constant of proportionality is the ratio that relates two given values in wh
 
 #### A Universal Truth
 
-For each person that has ever been, the following is a true statement: I will end. There's a lot of weight in those three words, but it remains true always, nonetheless. In a way, though, it is the least common denominator among all people. Its a starting point, it's: "You're mortal, and so am I."
+For each person that has ever been, the following is a true statement: I will end. There's a lot of weight in those three words, but it remains true always, nonetheless. In a way, though, it is the least common denominator among all people. Its a starting point, it's: "You're mortal, and so am I." Its a universal truth.
 
-* So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
+#### The *End* Iteration //last iteration of identity or identity[n-1]
+* For **fc, c = 1 − ϕ**
+* Binary state of identitification of 'I am not alive'
+* The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
+* a = I am not alive //no "I" exists so not alive, the question "Who am I?" would not be asked 
+* b = I am not alive //no "I" exists so not alive, no "I" (*you*) exists to ask "Who are you?" about
+* a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
+* a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
+* When ratio equals 1, c equals 0 (fc, c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
+
+
+So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
 * END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
 * due to the fact that death and/or end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable. 
 * the proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. as a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value.
