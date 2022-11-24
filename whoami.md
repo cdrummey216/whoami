@@ -542,16 +542,22 @@ The constant of proportionality is the ratio that relates two given values in wh
 | k = y/x | Equation for any proportional relationship, where **k** is the ratio of **y** and **x**|
 | ϕ = a/b | Equation for the golden ratio, where **a** and **b** are two numbers that meet the criteria to be at the golden ratio |
 
+#### The *End* Iteration
+
+The End iteration is the final iteration of the fractal set of an identity, where **n** is the last iteration and **n - 1** is the total number of iterations. Using the Filled Julia Set function **fc, c = 1 − ϕ** and the binary states of alive/not alive, meaning can be derived from the **End iteration**. The values for **a, b** are notional and assume that either 'Who am I?' or 'Who are you?' could be asked to an identity. The values for a, b are what can be inferred in the given context. The values for **a** and **b** in this case would both be 'I am not alive.'
+
+| Example  | Value | Description | 
+| ------------- | ------------- |
+| y = a | y = ϕ | No "I" exists, therefore the question "Who am I?" would not be asked. However, a notional, true variable answer would be 'I am not alive.'  |
+| x = b | x = ϕ | No "I" (*you*) exists to ask "Who are you?" about. However, a notional, true variable answer would be 'I am not alive.' |
+| k = a/b | k = 1 | Two notional, true variable answers are directly proportional to each other. |
+
 #### A Universal Truth
 
 For each person that has ever been, the following is a true statement: I will end. There's a lot of weight in those three words, but it remains true always, nonetheless. In a way, though, it is the least common denominator among all people. Its a starting point, it's: "You're mortal, and so am I." Its a universal truth.
 
 #### The *End* Iteration //last iteration of identity or identity[n-1]
-* For **fc, c = 1 − ϕ**
-* Binary state of identitification of 'I am not alive'
-* The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
-* a = I am not alive //no "I" exists so not alive, the question "Who am I?" would not be asked 
-* b = I am not alive //no "I" exists so not alive, no "I" (*you*) exists to ask "Who are you?" about
+
 * a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
 * a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
 * When ratio equals 1, c equals 0 (fc, c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
