@@ -550,26 +550,30 @@ The End iteration is the final iteration of the fractal set of an identity, wher
 | ------------- | ------------- |
 | y = a | y = ϕ | No "I" exists, therefore the question "Who am I?" would not be asked. However, a notional, true variable answer would be 'I am not alive.'  |
 | x = b | x = ϕ | No "I" (*you*) exists to ask "Who are you?" about. However, a notional, true variable answer would be 'I am not alive.' |
-| k = a/b | k = 1 | Two notional, true variable answers are directly proportional to each other. |
+| k = a/b | k = 1* | Two notional, true variable answers are directly proportional to each other. |
+
+*K is equal to 1 in the End Iteration, as shown below. But first, what is truth? Is there such a thing as a universal truth?
 
 #### A Universal Truth
 
-For each person that has ever been, the following is a true statement: I will end. There's a lot of weight in those three words, but it remains true always, nonetheless. In a way, though, it is the least common denominator among all people. Its a starting point, it's: "You're mortal, and so am I." Its a universal truth.
+For each person that has ever been, the following is a true statement: I will end. There's a lot of weight in those three words, but it remains true always, and nonetheless. In a way, though, it is the least common denominator among all people. Its a starting point, it's: "You're mortal, and so am I." Its a universal truth.
+
+With the knowledge of one's insurmountable demise, how do I go on? What's next?
 
 #### The *End* Iteration //last iteration of identity or identity[n-1]
 
-* a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
-* a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
-* When ratio equals 1, c equals 0 (fc, c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
+| Variable  | Question | Answer | Justification |
+| ------------- | ------------- | ------------- | ------------- |
+| a | Who am I? | I am not alive. | Identity[n-1] is the final in a sequence of the Self, and it is the point at which we each affirm the universal truth in our end.|
+| b | Who are you? | I am not alive. | Due to the fact that death and the end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable.|
 
+a/b = 
 
-So values of a, b from the Golden Ratio equation can be substituted for the values of y, x in the equation for the constant of proportionality //arithmetic
-* END iteration gives a value for a/b = 1 (I am not alive/I am not alive = 1, also y/x = 1)
-* due to the fact that death and/or end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable. 
-* the proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. as a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value.
-* 1 = truth, or the proportion of two universal, directly proportional, and true variable answers 
+| Equation  | Variables | Result | 
+| ------------- | ------------- | ------------- |
+| a/b | I am not alive/I am not alive | 1 |
 
-I will end.
+The proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. As a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value. When the ratio of these two true variable answers equals 1, **c** equals **0** (fc, c = 1 - 1) and identity ends at identity[n-1]. This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints).
 
 #### The Value of Truth
 * y = kx //equation for constant of proportionality
