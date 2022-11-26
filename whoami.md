@@ -560,47 +560,44 @@ For each person that has ever been, the following is a true statement: I will en
 
 With the knowledge of one's insurmountable demise, how do I go on? What's next?
 
-#### The *End* Iteration //last iteration of identity or identity[n-1]
+#### The *End* Iteration
 
 | Variable  | Question | Answer | Justification |
 | ------------- | ------------- | ------------- | ------------- |
 | a | Who am I? | I am not alive. | Identity[n-1] is the final in a sequence of the Self, and it is the point at which we each affirm the universal truth in our end.|
 | b | Who are you? | I am not alive. | Due to the fact that death and the end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable.|
 
-a/b = 
+The proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. As a ratio of two proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value. When the ratio of these two true variable answers equals 1, **c** equals **0** (fc, c = 1 - 1) and identity ends at identity[n-1]. This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints).
 
 | Equation  | Variables | Result | 
 | ------------- | ------------- | ------------- |
 | a/b | I am not alive/I am not alive | 1 |
 
-The proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b. As a ratio of two directly proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value. When the ratio of these two true variable answers equals 1, **c** equals **0** (fc, c = 1 - 1) and identity ends at identity[n-1]. This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints).
-
 #### The Value of Truth
-* y = kx //equation for constant of proportionality
-* x = y/k
-* y = a //Who am I?, variable answer that acknowledges "I"
-* x = b //Who are you?, variable answer that acknowledges "I"
-* y = kx OR y = k * (y/k) OR y = ky/2k --> **y = y/k** //substituted predefined values for y, simplified, see above
-* x = y/k OR x = kx/k OR **x = x** //substituted predefined values for x, simplified, see above
 
-So when k = 1, 
-* y = 1x --> y = x //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary. 
-* x = y/1 --> x = y //x,y are truths. values are either 0 (not truth) or 1 (truth) because 'truthfulness' is binary.
+| Equation  | Description |
+| ------------- | ------------- |
+| y = kx | constant of proportionality |
+| x = y/k | constant of proportionality |
+| y = k * (y/k) --> y = ky/2k | Substitute value of **x** to reduce **y = kx** to two variables.|
+| y = ky/2k --> kx = 2kx/2k --> x = kx/k | Substitute value of **y** to reduce **y = kx** to two variables.|
 
-Truth is truth. //a truth and a truth are proportionless in relation to their manifestation of truth.
+So when k = 1, x,y are equal to each other. Truth unites the variables x,y by defining them as a one-to-one proportional relationship.
+
+Truth is truth. A truth and a truth are proportionless in relation to their manifestation of the property of truth.
 
 ## _Meaning_ from the *Begin* and *End* Iterations of the Fractal Set
 
 ### A Conversation with Life
 
-Through the Grace of God, it starts as awareness. My eyes open and the scene before me steadies. The floor, the rug, the chair are within my grasp, but I see past the floor, the rug, the chair. Up, down, left, right, I am aware of the emptiness around an object in space, my body.
+#### Who am I?
 
 I asked, 'Who am I?' into the abyss and I heard it echo. The sound that returned to me over and over was a spiral of numbers and letters.
 
 My answer is words and numbers. Its a reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
 
-In You I trust. Bless my work, and amend it.
-0mniscient, 0mnipotent, 0mnipresent 
+#### What's next?
+
 
 #### The *Begin* Iteration //first iteration of identity or identity[0]
 * For **fc, c = 1 − ϕ**
