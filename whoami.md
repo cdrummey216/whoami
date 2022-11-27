@@ -547,12 +547,12 @@ The constant of proportionality is the ratio that relates two given values in wh
 The End iteration is the final iteration of the fractal set of an identity, where **n** is the last iteration and **n - 1** is the total number of iterations. Using the Filled Julia Set function **fc, c = 1 − ϕ** and the binary states of alive/not alive, meaning can be derived from the **End iteration**. The values for **a, b** are notional and assume that either 'Who am I?' or 'Who are you?' could be asked to an identity. The values for a, b are what can be inferred in the given context. The values for **a** and **b** in this case would both be 'I am not alive.'
 
 | Example  | Value | Description | 
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 | y = a | y = ϕ | No "I" exists, therefore the question "Who am I?" would not be asked. However, a notional, true variable answer would be 'I am not alive.'  |
 | x = b | x = ϕ | No "I" (*you*) exists to ask "Who are you?" about. However, a notional, true variable answer would be 'I am not alive.' |
 | k = a/b | k = 1* | Two notional, true variable answers are directly proportional to each other. |
 
-*K is equal to 1 in the End Iteration, as shown below. But first, what is truth? Is there such a thing as a universal truth?
+*k is equal to 1 in the End Iteration, as shown below. But first, what is truth? Is there such a thing as a universal truth?
 
 #### A Universal Truth
 
