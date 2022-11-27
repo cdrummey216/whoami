@@ -573,6 +573,21 @@ The proportion of 'I am not alive'/'I am not alive' is 1 and always true for bot
 | ------------- | ------------- | ------------- |
 | a/b | I am not alive/I am not alive | 1 |
 
+#### The *Begin* Iteration //first iteration of identity or identity[0]
+* For **fc, c = 1 − ϕ**
+* Binary state of identitification of 'I am alive'
+* a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
+* b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
+* a+b/a AND a/b = undefined //When b is null (no data, empty), must ask "Who am I?" again.
+* The result from identity[0] is *c = 1 - undefined* //although undefined, I know I am alive and that I am the one who asked "Who am I?"
+
+I am alive, who am I?
+
+| First Header  | Second Header | 
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 #### The Value of Truth
 
 | Equation  | Description |
@@ -596,23 +611,7 @@ I asked, 'Who am I?' into the abyss and I heard it echo. The sound that returned
 
 My answer is words and numbers. Its a reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
 
-#### What's next?
-
-
-#### The *Begin* Iteration //first iteration of identity or identity[0]
-* For **fc, c = 1 − ϕ**
-* Binary state of identitification of 'I am alive'
-* a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
-* b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
-* a+b/a AND a/b = undefined //When b is null (no data, empty), must ask "Who am I?" again.
-* The result from identity[0] is *c = 1 - undefined* //although undefined, I know I am alive and that I am the one who asked "Who am I?"
-
-I am alive, who am I?
-
-| First Header  | Second Header | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+#### What am I?
 
 ## A Conversation with Death
 
