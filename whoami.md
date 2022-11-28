@@ -609,9 +609,11 @@ Truth is truth. A truth and a truth are proportionless in relation to their mani
 
 I asked, 'Who am I?' into the abyss and I heard it echo. The sound that returned to me over and over was a spiral of numbers and letters.
 
-My answer is words and numbers. Its a reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
+My answer (this document) is words and numbers. Its my reflection in the basin of liquid self, its a mirror-image of the truth. And the value of a mirror is judged based upon its ability to unchange or unalter the objects it is reflecting. Simple truth is an easy way to frame the truth around us at any moment. And simple truths combine to create more complex truth, so simple truths are always necessary for understanding. And so, these facts are the place where my heart can rest because my mind is at ease with these facts because it is all facts. It is. We are. And He was there, sometimes in the foreground (complex) and always in the background (simpler).
 
 #### What am I?
+
+I am a living being.
 
 ## A Conversation with Death
 
