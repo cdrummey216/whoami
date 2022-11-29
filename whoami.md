@@ -463,7 +463,7 @@ A variable answer that defines an identity is self-similar due to the fact that 
 
 Each identity can be regarded as a fractal set, or a never ending pattern of variable answers in response to the question "Who are you?" or "Who am I?" This pattern is a _stream of answers_ over time concentrated on a singlular topic, or the Self.
 
-## Propositions
+## Propositional Mathematics
 
 ### Proposition 1: Golden Ratio & Sense of self
 
@@ -730,7 +730,7 @@ The identity equations showed, ultimately, that 'I exist' via oneness (1 = ϕ - 
 
 The Self (ϕ) must be externalized in to reality (1) in order for it to _exist_ in reality. The sense of self is the feeling of identity, uniqueness, and self-direction. It is an internal process, happening exclusively within each mind. Each mind, in turn, has the ability to externalize itself in _the words spoken_ and _the things done_.
 
-# Part 2: What constitutes 'I'? (a: identity isle, concentrated philosophy)
+# Part 2: What constitutes 'I'?
 
 ## Overview & Purpose
 The following are the conclusions and judgements that can be made based on the [identity equations](idenityequations.md) while in the absence of other knowledge. The inferences inherent in the BEGIN and END iterations provide a foundation for understanding the Self and its place in the world. The BEGIN and END iteraions are limits ('floor', 'ceiling') on each life, such that there is a finite amount of time between either iteration. The time between the iterations is the duration of existence (life), which is perceived by the Self through memory (stored memories in a sequence). 
@@ -760,7 +760,7 @@ Why is it called isle[0]? //isle index of zero
 * Zero-based indexing is a very common way to number items in a sequence in software development
 * The Isle[0] is a thought experiment based on the identity equations and with particular attention given to the BEGIN (identity[0]) iteration.
 
-**Key Topics**
+## Concentrated Philosophy
 
 * Imagine yourself, alone on a desert island, seeking the unknown. 
 * Ultimately, what is knowable is what is observable on the island. //no other person on island, alone with self and knowledge of identity equations. the BEGIN iteration shows that 'I am alive'. knowable = observable
@@ -768,7 +768,7 @@ Why is it called isle[0]? //isle index of zero
 * with the judgement that 'Life is good', existential angst converts to existential calm. //I am because I live. The END iteration shows that an end for self is inevitable, so it is good to be alive when it is always true that 'I will end'. 
 * I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
-## Conclusions about Life
+### Conclusions about Life
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now).
 
@@ -776,7 +776,7 @@ Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will
 * I know I exist (I am) because I can observe that I am alive. it is observable that 'this' is not empty, because I exist (now). *Therefore, 'this' is not empty because I exist now.*
 * It will be observable that life compounds over time, building upon itself. Each life (living being) is an event that has begun but not yet ended, or an incomplete event. The binary state of complete/incomplete describes a chronological state, whereby an *incomplete* state must precede the *complete* state. The *incomplete* state positions a living being at a point in time before its end (*complete* state) which the living being is progressing towards (in time). It is always true that each life will end. *Therefore, Life is tributary to itself.*
 
-## Conclusions about Choice
+### Conclusions about Choice
 
 I must choose if I want to continue to live in real-time. 
 
@@ -787,7 +787,7 @@ I must choose if I want to continue to live in real-time.
 * Foregoing the choice to die in any case is tantamount to choosing to live, because life and death are binary/exclusive. By choosing to not die, we are choosing to live.
 * If we must choose how to respond to real-time, we should choose a response that reflects our ideal self.
 
-## Conclusions about Time //hypothetical
+### Conclusions about Time //hypothetical
 
 Given: I am on the Isle[0] Isle and I am equipped with the knowledge that I will die someday (future) and the observation that I am alive (now). time has value. therefore, time can be measured. therefore, the unit of time must be real (observable). //gravity as a unit and extra solar travel to measure in absence of gravity
 
