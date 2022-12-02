@@ -565,15 +565,21 @@ With the knowledge of one's insurmountable demise, how do I go on? What's next?
 | Variable  | Question | Answer | Justification |
 | ------------- | ------------- | ------------- | ------------- |
 | a | Who am I? | I am not alive. | Identity[n-1] is the final in a sequence of the Self, and it is the point at which we each affirm the universal truth in our end.|
-| b | Who are you? | I am not a living being. | Due to the fact that death and the end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable.|
+| b | Who are you? | I am not alive. | Due to the fact that death and the end of identity is inevitable, the value 'I am not alive' *will* be true for anyone at some point in their life because an end is inevitable.|
 
-The proportion of 'I am not alive'/'I am not a living' is 1 and always true for both a, b in the context of the END iteration. As a ratio of two proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value. When the ratio of these two true variable answers equals 1, **c** equals **0** (fc, c = 1 - 1) and identity ends at identity[n-1]. This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints).
+The proportion of 'I am not alive'/'I am not alive' is 1 and always true for both a, b in the context of the END iteration. As a ratio of two proportional variable answers, the value of 1 *when taken as the result of the golden ratio equation in the END iteration* represents a universal and always true value. When the ratio of these two true variable answers equals 1, **c** equals **0** (fc, c = 1 - 1) and identity ends at identity[n-1]. This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints).
 
 | Equation  | Variables | Result | 
 | ------------- | ------------- | ------------- |
-| a/b | I am not alive/I am not a living being | 1 |
+| a/b | I am not alive/I am not alive | 1 |
 
-#### The *Begin* Iteration //first iteration of identity or identity[0]
+#### The *Begin* Iteration
+
+| Variable  | Question | Answer | Justification |
+| ------------- | ------------- | ------------- | ------------- |
+| a | Who am I? | I am alive. | I.|
+| b | Who are you? | I am alive. | D.|
+
 * For **fc, c = 1 − ϕ**
 * Binary state of identitification of 'I am alive'
 * a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
