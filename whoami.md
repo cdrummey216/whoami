@@ -577,22 +577,18 @@ The proportion of 'I am not alive'/'I am not alive' is 1 and always true for bot
 
 | Variable  | Question | Answer | Justification |
 | ------------- | ------------- | ------------- | ------------- |
-| a | Who am I? | I am alive. | I.|
-| b | Who are you? | I am alive. | D.|
+| a | Who am I? | I am alive. | exist, greatest possible context for self, encapsulates the entirety of the identity.|
+| b | Who are you? | I am undefined. | No other knowledge, cannot be equal to 'I am alive' because b must be of a lesser scope than a (*a > b > 0*).|
 
-* For **fc, c = 1 − ϕ**
-* Binary state of identitification of 'I am alive'
-* a = I am alive //exist, greatest possible context for self, encapsulates the entirety of the identity
-* b != I am alive //cannot be equal to I am alive because b must be of a lesser scope than a (*a > b > 0*)
+
 * a+b/a AND a/b = undefined //When b is null (no data, empty), must ask "Who am I?" again.
-* The result from identity[0] is *c = 1 - undefined* //although undefined, I know I am alive and that I am the one who asked "Who am I?"
+* The result from identity[0] is *c = 1 - undefined* //"
+
+| Equation  | Variables | Result | 
+| ------------- | ------------- | ------------- |
+| a/b | I am alive/I am undefined | undefined, When b is null (no data, empty), must ask "Who am I?" again. Although undefined, I know I am alive and that I am the one who asked "Who am I? |
 
 I am alive, who am I?
-
-| First Header  | Second Header | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 #### The Value of Truth
 
