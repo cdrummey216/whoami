@@ -577,12 +577,11 @@ The proportion of 'I am not alive'/'I am not alive' is 1 and always true for bot
 
 | Variable  | Question | Answer | Justification |
 | ------------- | ------------- | ------------- | ------------- |
-| a | Who am I? | I am alive. | exist, greatest possible context for self, encapsulates the entirety of the identity.|
-| b | Who are you? | I am undefined. | No other knowledge, cannot be equal to 'I am alive' because b must be of a lesser scope than a (*a > b > 0*).|
+| a | Who am I? | I am alive. | Identity[0] is the first in a sequence of the Self, and it is the point at which we each affirm the apparent truth of our existence.|
+| b | Who are you? | I am undefined. | No other knowledge available apart from the fact of existence, so cannot be equal to 'I am alive' because b must be of a lesser scope than a (*a > b > 0*).|
 
 
-* a+b/a AND a/b = undefined //When b is null (no data, empty), must ask "Who am I?" again.
-* The result from identity[0] is *c = 1 - undefined* //"
+When b is null (no data, empty), the Self must ask "Who am I?" again. The result from identity[0] is *c = 1 - undefined*.
 
 | Equation  | Variables | Result | 
 | ------------- | ------------- | ------------- |
