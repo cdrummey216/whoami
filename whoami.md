@@ -580,14 +580,15 @@ The proportion of 'I am not alive'/'I am not alive' is 1 and always true for bot
 | a | Who am I? | I am alive. | Identity[0] is the first in a sequence of the Self, and it is the point at which we each affirm the apparent truth of our existence.|
 | b | Who are you? | I am undefined. | No other knowledge available apart from the fact of existence, so cannot be equal to 'I am alive' because b must be of a lesser scope than a (*a > b > 0*).|
 
-
-When b is null (no data, empty), the Self must ask "Who am I?" again. The result from identity[0] is *c = 1 - undefined*.
+When b is null (no data, empty), the identity must ask "Who am I?" again, initiating Identity[1]. Although Identity[0] is undefined, I know I am alive and that I am the one who asked "Who am I?
 
 | Equation  | Variables | Result | 
 | ------------- | ------------- | ------------- |
-| a/b | I am alive/I am undefined | undefined, When b is null (no data, empty), must ask "Who am I?" again. Although undefined, I know I am alive and that I am the one who asked "Who am I? |
+| a/b | I am alive/I am undefined | Undefined |
 
-I am alive, who am I?
+Consider the following representation of Identity[0]:
+
+_I am alive, who am I?_
 
 #### The Value of Truth
 
