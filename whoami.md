@@ -617,11 +617,9 @@ My answer (this document) is words and numbers. Its my reflection in the basin o
 
 I am a living being.
 
-## A Conversation with Death
+### A Conversation with Death
 
-**Key Topics**
-* Why? //cannot know life without first understanding death
-* when the Self encounters death, death asks two questions in sequence. "are you ready?" and "are you willing?" 
+I asked, 'Why?' because I cannot know life without first understanding death. Asking 'Why?' is the hardest interrogative, it is a verbal inquisition into circumstance and the present. When the Self encounters death, death asks two questions in sequence. "Are you ready?" and "Are you willing?" 
 * A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
 * A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
 * A 'no' signals fear of death //"are you ready?"
