@@ -603,7 +603,7 @@ So when k = 1, x,y are equal to each other. Truth unites the variables x,y by de
 
 Truth is truth. A truth and a truth are proportionless in relation to their manifestation of the property of truth.
 
-## _Meaning_ from the *Begin* and *End* Iterations of the Fractal Set
+## Concentrated Philosophy
 
 ### A Conversation with Life
 
