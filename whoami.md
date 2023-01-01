@@ -486,7 +486,7 @@ The variable answer a is an answer to "Who am I?" and gives contextual truth as 
 
 #### _Self-concept is to self-perception as self-perception is to self-definition._
 
-The following parallelism is an analogy for the sense of Self, which captures the ineffability of perception and its presence in reality. The parallelism is a means to apply property #4 of ϕ to the _Self_ and understand the relationship between the variable answers a,b using property #3. Self-concept is the fullest observational content from a singular reference point for the observing self (the self-perceving self). This self-perceving self makes itself real through the manner and means it proceeds through real-time.
+This parallelism is an analogy for the sense of Self, which captures the ineffability of perception and its presence in reality. The parallelism is a means to apply property #4 of ϕ to the _Self_ and understand the relationship between the variable answers a,b using property #3. Self-concept is the fullest observational content from a singular reference point for the observing self (the self-perceving self). This self-perceving self makes itself real through the manner and means it proceeds through real-time.
 
 | Variable | Relation to the Self | Meaning |
 | ------------- | ------------- | ------------- |
@@ -594,14 +594,14 @@ _I am alive, who am I?_
 
 | Equation  | Description |
 | ------------- | ------------- |
-| y = kx | constant of proportionality |
-| x = y/k | constant of proportionality |
+| y = kx | Alternate for Constant of proportionality |
+| x = y/k | Alternate for Constant of proportionality |
 | y = k * (y/k) --> y = ky/2k | Substitute value of **x** to reduce **y = kx** to two variables.|
 | y = ky/2k --> kx = 2kx/2k --> x = kx/k | Substitute value of **y** to reduce **y = kx** to two variables.|
 
 So when k = 1, x,y are equal to each other. Truth unites the variables x,y by defining them as a one-to-one proportional relationship.
 
-Truth is truth. A truth and a truth are proportionless in relation to their manifestation of the property of truth.
+A truth and a truth are proportionless in relation to their manifestation of the property of truth. Truth is truth.
 
 ## Concentrated Philosophy
 
@@ -620,9 +620,12 @@ I am a living being.
 ### A Conversation with Death
 
 I asked, 'Why?' because I cannot know life without first understanding death. Asking 'Why?' is the hardest interrogative, it is a verbal inquisition into circumstance and the present. When the Self encounters death, death asks two questions in sequence. "Are you ready?" and "Are you willing?" 
-* A 'yes' and a 'yes' signals the end of the identity //a master of fate, by fate mastered
-* A 'yes' and a 'no' signals the embrace of life //no fear of death and the choice to live
-* A 'no' signals fear of death //"are you ready?"
+
+A 'yes' and a 'yes' signals the end of the identity.
+
+A 'yes' and a 'no' signals the embrace of life.
+
+A 'no' signals the fear of death.
 
 **Are you ready?**
 
@@ -634,23 +637,6 @@ I asked, 'Why?' because I cannot know life without first understanding death. As
 * The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
 * This question highlights the value of ability and intent //the ability to end exists for the Self, but the Self must have intent in order to end.
 * Intent is a choice and ability is a means
-
-#### The *End* Iteration //last iteration of identity or identity[n-1]
-* For **fc, c = 1 − ϕ**
-* Binary state of identitification of 'I am not alive'
-* The values for a, b are notional and assume that either question could be asked to an identity. The values for a, b are what can be inferred.
-* a = I am not alive //no "I" exists so not alive, the question "Who am I?" would not be asked 
-* b = I am not alive //no "I" exists so not alive, no "I" (*you*) exists to ask "Who are you?" about
-* a+b/a = ϕ AND a/b = ϕ //proptery of ϕ, ideally the formula a/b equals ϕ
-* a/b = I am not alive/I am not alive = 1 //not equal to ϕ, but the proportion of a to b is 1
-* When ratio equals 1, c equals 0 (fc, c = 1 - 1) and identity ends at identity[n-1]. //This is only time you can truly and fully know "I" because "I" has ended (ie no additional iterations to generate datapoints)
-
-I know who I am.
-
-| First Header  | Second Header | 
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 #### Recursion in the Value of Variable Answers a,b 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
