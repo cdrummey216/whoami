@@ -465,6 +465,20 @@ Each identity can be regarded as a fractal set, or a never ending pattern of var
 
 ## Propositional Mathematics
 
+![1_v5k3V_tzT3b3jXfuKe2ceA](https://user-images.githubusercontent.com/46973458/212573582-180bb6b8-e34e-43a1-9805-dc7660af1dc7.png)
+
+**∀x (x = x)** //reflexive
+
+For every x (or for every thing), x must equal x (or everything must be identical to itself). That is, everything has the (quasi)-relation of self-identity..
+
+**∀x ∀y ((x = y) ⊃ (y = x))** //symmetrical
+
+For every x, and for every y, if x equals — or is identical to — y, then it must also be the case that y is identical to x.
+
+**∀x ∀y ∀z ((x = y) ∧ (y = z) ⊃ (x = z))** //transitive
+
+For every x, for every y, and for every z, if x is identical to y, and y is identical to z, then x must also be identical to z.
+
 ### Proposition 1: Golden Ratio & Sense of self
 
 Consider a calculation of the golden ratio (ϕ) using variable answers, or values for a,b from "Who am I?" and "Who are you?". 
