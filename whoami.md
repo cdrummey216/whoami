@@ -207,7 +207,7 @@ I am here at this point in my life, which is observable. You experienced birth a
 
 ## Where are you going? To what end?
 
-__Veritatis, iterum.__
+__Veritatem, iterum.__
 
 _For truth, once again._ is a good reason to do anything. Follow truth wherever it takes you and you will not be surprised where you end up. Truth in a sequence always makes sense.
 
