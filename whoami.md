@@ -632,12 +632,13 @@ A 'yes' and a 'no' signals the embrace of life.
 
 A 'no' signals the fear of death.
 
-**Am I ready?**
+#### Am you ready?
 
 * If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
 * If no, wait. //to wait is to dread
 
-**Are I willing?**
+#### Are you willing?
+
 * For most, the answer is 'no' //there are only a few things someone may be willing to die for
 * The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
 * This question highlights the value of ability and intent //the ability to end exists for the Self, but the Self must have intent in order to end.
