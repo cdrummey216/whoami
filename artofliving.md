@@ -271,5 +271,9 @@ Primer, good stain, and finishing paste. The finished state found him slumped in
 
 This was the culmination of months of stretching and tracing, and happened only after he had discovered the truth. Life is good.
 
+## 05/12/2024 18:54
 
+Sitting, I look up and out the window. There is a rabbit. How did he come to my line of sight? How did He know to be there, for me, at this moment? Do my eyes deceive me or is my very perception of the present out-of-calibration.
+
+He stood there, taller and brighter than any other of the like. He moves into the low ivy, only ear in the leaves. I look away and He is gone, but will never be lost.
 
