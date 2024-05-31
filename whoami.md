@@ -607,7 +607,7 @@ Its my reflection in the basin of liquid self, its a mirror-image of the truth. 
 
 #### What am I?
 
-I am a living being.
+I am a living being. I am the hands before my eyes, the steps before my feet, the voice in my throat. I am this much, at least.
 
 #### Where am I?
 
@@ -624,7 +624,7 @@ These words are the input to your present.
 ### A Conversation with Death
 
 #### Why are you here?
-I asked, 'Why?' because I cannot know life without first understanding death. Asking 'Why?' is the hardest interrogative, it is a verbal inquisition into circumstance and the present. When the Self encounters death, death asks two questions in sequence. "Are you ready?" and "Are you willing?" 
+You cannot know life without first understanding death. And asking 'Why?' in the face of death is the hardest interrogative, it is a verbal inquisition into circumstance and the present. When the Self encounters death, death asks two questions in sequence. "Are you ready?" and "Are you willing?" 
 
 A 'yes' and a 'yes' signals the end of the identity.
 
@@ -632,7 +632,7 @@ A 'yes' and a 'no' signals the embrace of life.
 
 A 'no' signals the fear of death.
 
-#### Am you ready?
+#### Are you ready?
 
 * If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
 * If no, wait. //to wait is to dread
