@@ -638,8 +638,9 @@ A 'no' signals the fear of death.
 
 #### Are you ready?
 
-* If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
-* If no, wait. //to wait is to dread
+If yes, you are aware of your mortality and ready to face finality. It is a somber feeling, but it is a state of mind, like existential calm. Rest assured that Life is good. Death is a part of each life; therefore, death must also be good *in some manner*. You are completing a cycle, aren't you excited about what's next?
+
+If no, you remain in waiting, a state of existential dread. Fear will consume your subconscious. Turn and face all aspects of Life, for it is good.
 
 #### Are you willing?
 
