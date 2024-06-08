@@ -644,7 +644,7 @@ A 'no' signals the fear of death.
 #### Are you willing?
 
 * For most, the answer is 'no' //there are only a few things someone may be willing to die for
-* The fact remains that the answer 'yes' is utlimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
+* The fact remains that the answer 'yes' is ultimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
 * This question highlights the value of ability and intent //the ability to end exists for the Self, but the Self must have intent in order to end.
 * Intent is a choice and ability is a means
 
