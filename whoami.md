@@ -632,6 +632,10 @@ A 'yes' and a 'no' signals the embrace of life.
 
 A 'no' signals the fear of death.
 
+| Decision tree, Life or Death | 
+| ------------- |
+| ![](decisiontree.png)  |
+
 #### Are you ready?
 
 * If yes, proceed. //'ready' is a state of mind, existential calm. life is good and death is a part of each life, death must also be good *in some manner*.
