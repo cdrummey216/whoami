@@ -644,10 +644,10 @@ If no, you remain in waiting, a state of existential dread. Fear will consume yo
 
 #### Are you willing?
 
-* For most, the answer is 'no' //there are only a few things someone may be willing to die for
-* The fact remains that the answer 'yes' is ultimately a choice a self is *able* to make. //cases where willingness to die exists: suicide, honor (war), love (romeo and juliet), conviction (personal truth, a cause)
-* This question highlights the value of ability and intent //the ability to end exists for the Self, but the Self must have intent in order to end.
-* Intent is a choice and ability is a means
+For most, the answer is 'no', there are only a few things someone may be willing to die for. These cases where willingness to die exists: suicide, honor (war), love, conviction (personal truth/cause/principle). 
+The fact remains that the answer 'yes' is ultimately a choice a self is *able* to make. This question highlights the value of ability and intent. The ability to end exists for the Self, but the Self must have intent in order to end.
+
+Intent is a choice and ability is a means. You've got choices and means.
 
 #### Recursion in the Value of Variable Answers a,b 
 For each instance of ϕ in fc, c = 1 - ϕ where ϕ is understood as sense of self
